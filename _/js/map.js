@@ -1,3 +1,4 @@
+// Need to create a Module Pattern called; GMAPS and only init it on pages that have map
 $(document).ready(function() {
 	function buildMap() {
 		var lat = 42.315718;
