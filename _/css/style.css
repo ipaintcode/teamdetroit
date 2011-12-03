@@ -147,6 +147,73 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 
 
 
+/* @font-face styles!
+-------------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: 'ProximaNovaBold';
+	src: url('../fonts/bold/ProximaNova-Bold-webfont.eot');
+	src: local('☺'), url('../fonts/bold/ProximaNova-Bold-webfont.woff') format('woff'), url('../fonts/bold/ProximaNova-Bold-webfont.ttf') format('truetype'), url('../fonts/bold/ProximaNova-Bold-webfont.svg#webfontPkpOAKCy') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaRegular';
+	src: url('../fonts/regular/ProximaNova-Reg-webfont.eot');
+	src: local('☺'), url('../fonts/regular/ProximaNova-Reg-webfont.woff') format('woff'), url('../fonts/regular/ProximaNova-Reg-webfont.ttf') format('truetype'), url('../fonts/regular/ProximaNova-Reg-webfont.svg#webfontKqnc2168') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaSemibold';
+	src: url('../fonts/semibold/ProximaNova-Sbold-webfont.eot');
+	src: local('☺'), url('../fonts/semibold/ProximaNova-Sbold-webfont.woff') format('woff'), url('../fonts/semibold/ProximaNova-Sbold-webfont.ttf') format('truetype'), url('../fonts/semibold/ProximaNova-Sbold-webfont.svg#webfontILGjOKPE') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaLight';
+	src: url('../fonts/light/ProximaNova-Light-webfont.eot');
+	src: local('☺'), url('../fonts/light/ProximaNova-Light-webfont.woff') format('woff'), url('../fonts/light/ProximaNova-Light-webfont.ttf') format('truetype'), url('../fonts/light/ProximaNova-Light-webfont.svg#webfontILGjOKPE') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+/* Global modules
+-------------------------------------------------------------------------------*/
+
+.min-max {
+	min-width: 960px;	/* sets a min width */
+	max-width: 1440px;	/* sets a max width */
+	width: 960px;		/* sets a default width */
+}
+
+.center {
+	margin: 0 auto;
+}
+
+.single {
+	width: 33.333%;
+}
+
+.double  {
+	width: 66.666%;
+}
+
+.full {
+	width: 100%;
+}
+
+
+
+/* Navigation + Header (w/WDET)
+-----------------------------*/
+
 
 
 /* Print styles!
