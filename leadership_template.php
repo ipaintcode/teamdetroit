@@ -67,20 +67,25 @@
 
 	<?php include 'header.php'; ?>
 
-	<section>
-		<div>
-			<img src="_/img/leadership/brad.jpg" alt="">
-		</div>
-	</section>
-
-	<div class="headline-wrapper">
-		<h2 class="center min-max" style="font-size:16px;">name<span class="headline-leader-title">title</span></h2>
+	<div class="billboard-wrapper billboard-ext-leaders">
+		<ul>
+			<li><img src="_/img/leadership/brad.jpg" alt=""></li>
+			<li><img src="_/img/leadership/brad.jpg" alt=""></li>
+			<li><img src="_/img/leadership/brad.jpg" alt=""></li>
+		</ul>
+	</div>
+		
 	</div>
 
-	<section>
-		<div>
+	<div class="segment-headline-wrapper clear">
+		<h2 class="center min-max">Toby Barlow<span class="segment-leader-title">(ECD)</span></h2>
+	</div>
 
-			<article>
+	<div class="content-wrapper">
+
+		<div class="content-inner center min-max">
+
+			<section class="content double">
 
 				<p>One of the first things you hear when entering the advertising industry to make a living is that you better have a thick skin and be willing to fight for what you believe in. Brad Audet was obviously taking notes on the first day. His competitive nature, stemming from a background in collegiate athletics, has helped him take on any new challenge, turn it into a winner and come back looking for more. That’s part of why he is the Group Managing Director of Team Detroit.</p>
 
@@ -88,17 +93,18 @@
 
 				<p>He didn’t just walk into this role. Brad used to run the Mullen Detroit office servicing several General Motors businesses. He also helped open Frankel’s Detroit office to provide brand activation support for General Motors. But it all started at Ross Roy, where he worked on Kmart, Builders Square, OfficeMax and AT&amp;T.</p>
 
-			</article>
+			</section>
 
-			<aside>
+			<aside class="single">
 
 				<p>"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
 				<p>&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
 
 			</aside>
-
+		
 		</div>
-	</section>
+		
+	</div>
 
 	<?php include 'footer.php'; ?>
 
