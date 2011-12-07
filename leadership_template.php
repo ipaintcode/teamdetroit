@@ -54,10 +54,10 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style.css">
+	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 
 </head>
 
@@ -65,27 +65,22 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
-	<?php include 'header.php'; ?>
+	<?php include '../header.php'; ?>
 
-	<div class="billboard-wrapper billboard-ext-leaders">
-		<ul>
-			<li><img src="_/img/leadership/brad.jpg" alt=""></li>
-			<li><img src="_/img/leadership/brad.jpg" alt=""></li>
-			<li><img src="_/img/leadership/brad.jpg" alt=""></li>
-		</ul>
-	</div>
-		
-	</div>
+	<section>
+		<div>
+			<img src="../_/img/leadership/brad.jpg" alt="">
+		</div>
+	</section>
 
-	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max">Toby Barlow<span class="segment-leader-title">(ECD)</span></h2>
+	<div class="headline-wrapper">
+		<h2 class="center min-max" style="font-size:16px;">name<span class="headline-leader-title">title</span></h2>
 	</div>
 
-	<div class="content-wrapper">
+	<section>
+		<div>
 
-		<div class="content-inner center min-max">
-
-			<section class="content double">
+			<article>
 
 				<p>One of the first things you hear when entering the advertising industry to make a living is that you better have a thick skin and be willing to fight for what you believe in. Brad Audet was obviously taking notes on the first day. His competitive nature, stemming from a background in collegiate athletics, has helped him take on any new challenge, turn it into a winner and come back looking for more. That’s part of why he is the Group Managing Director of Team Detroit.</p>
 
@@ -93,20 +88,19 @@
 
 				<p>He didn’t just walk into this role. Brad used to run the Mullen Detroit office servicing several General Motors businesses. He also helped open Frankel’s Detroit office to provide brand activation support for General Motors. But it all started at Ross Roy, where he worked on Kmart, Builders Square, OfficeMax and AT&amp;T.</p>
 
-			</section>
+			</article>
 
-			<aside class="single">
+			<aside>
 
 				<p>"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
 				<p>&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
 
 			</aside>
-		
-		</div>
-		
-	</div>
 
-	<?php include 'footer.php'; ?>
+		</div>
+	</section>
+
+	<?php include '../footer.php'; ?>
 
 </div>
 
@@ -115,12 +109,12 @@
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='../_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
-<script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="../_/js/jquery.shadow-animation.min.js"></script>
+<script src="../_/js/jquery.easing.1.3.js"></script>
+<script src="../_/js/functions.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.
