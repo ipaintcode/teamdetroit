@@ -118,35 +118,6 @@ button {width: auto; overflow: visible;}
 .clearfix:after { clear: both; }  
 .clearfix { zoom: 1; }  
 
-
-
-/* Ok, this is where the fun starts.
--------------------------------------------------------------------------------*/
-
-/* new Linux- and Windows-friendly sans-serif font stack: http://mky.be/fontstack */
-body {font: 13px Helmet, Freesans, sans-serif;}
-
-/* using local fonts? make sure to read up on Paul Irish's 
-	Bulletproof @font-face syntax: http://mky.be/font-face/bulletproof/ */
-
-/* we like off-black for text */
-body, select, input, textarea {color: #333;}
-
-a {color: #03f;}
-a:hover {color: #69f;}
-
-/* Custom text-selection colors (remove any text shadows: twitter.com/miketaylr/status/12228805301) */
-::-moz-selection{background: #fcd700; color: #fff; text-shadow: none;}
-::selection {background: #fcd700; color: #fff; text-shadow: none;} 
-
-/*	j.mp/webkit-tap-highlight-color */
-a:link {-webkit-tap-highlight-color: #fcd700;} 
-
-ins {background-color: #fcd700; color: #000; text-decoration: none;}
-mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: bold;}
-
-
-
 /* @font-face styles!
 -------------------------------------------------------------------------------*/
 
@@ -184,13 +155,53 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 
 
 
+/* Ok, this is where the fun starts.
+-------------------------------------------------------------------------------*/
+
+/* new Linux- and Windows-friendly sans-serif font stack: http://mky.be/fontstack */
+body {font: 13px Helmet, Freesans, sans-serif;}
+
+/* using local fonts? make sure to read up on Paul Irish's 
+	Bulletproof @font-face syntax: http://mky.be/font-face/bulletproof/ */
+
+/* we like off-black for text */
+body, select, input, textarea {color: #333;}
+
+/*a {color: #03f;}*/
+/*a:hover {color: #69f;}*/
+
+/* Custom text-selection colors (remove any text shadows: twitter.com/miketaylr/status/12228805301) */
+::-moz-selection{background: #fcd700; color: #fff; text-shadow: none;}
+::selection {background: #fcd700; color: #fff; text-shadow: none;} 
+
+/*	j.mp/webkit-tap-highlight-color */
+a:link {-webkit-tap-highlight-color: #fcd700;} 
+
+ins {background-color: #fcd700; color: #000; text-decoration: none;}
+mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: bold;}
+
+
+
+/* Global tools
+-------------------------------------------------------------------------------*/
+
+
+
+
 /* Global modules
 -------------------------------------------------------------------------------*/
+
+body {
+	color: #484848;
+}
+
+.wrapper {
+}
 
 .min-max {
 	min-width: 960px;	/* sets a min width */
 	max-width: 1440px;	/* sets a max width */
-	width: 960px;		/* sets a default width */
+	/*width: 960px;		/* sets a default width */*/
 }
 
 .center {
@@ -198,16 +209,127 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 }
 
 .single {
-	width: 33.333%;
+	width: 33.33%;
 }
 
 .double  {
-	width: 66.666%;
+	width: 66.66%;
 }
 
 .full {
 	width: 100%;
 }
+
+.clear {
+	clear: both;
+}
+
+/* segment headlines
+-------------------------------------------------------------------------------*/
+
+.segment-headline-wrapper {
+	border-top: 1px dashed #cecece;
+	border-bottom: 1px dashed #cecece;
+	clear: both;
+}
+
+.segment-headline-wrapper h2 {
+	padding: 18px 0;
+	font-size: 24px;
+	font-weight: 800;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+/* extentions */
+
+.segment-leader-title {
+	color: #656565;
+	font-size: 18px;
+	font-weight: normal;
+	padding-left: 5px;
+}
+
+/* Billboards
+-------------------------------------------------------------------------------*/
+
+.billboard-wrapper {
+	overflow: hidden;
+	position: relative;
+}
+
+/* extentions */
+
+.billboard-ext-leaders {
+	height: 420px;
+}
+
+.billboard-ext-leaders ul {
+	position: absolute;
+	width: 4440px;
+	margin: 0 auto;
+	left: 50%;
+	margin-left: -2220px;
+	background: black;
+}
+
+.billboard-ext-leaders li {
+	float: left;
+}
+
+.billboard-ext-leaders li:first-child {
+	opacity: .2;
+}
+
+.billboard-ext-leaders li:last-child {
+	opacity: .2;
+}
+
+.billboard-ext-leaders li img {
+	display: block;
+}
+
+
+/* Content modules
+-------------------------------------------------------------------------------*/
+
+.content-inner {
+	background: grey;
+}
+
+.content-inner .content {
+	float: left;
+}
+
+.content-inner aside {
+	float: right;
+}
+
+/*div.headline-wrapper > h2 > span {*/
+/*	padding-left: 18px;*/
+/*}*/
+/**/
+/*.headline-wrapper .hgroup-wrapper hgroup h2.single {*/
+/*	padding-left: 0;*/
+/*}*/
+
+/* unique-3-col-headlines -------------------------------------------------------------------------------*/
+
+/*.hgroup-wrapper h2.single {*/
+/*	float: left;*/
+/*	padding: 18px 0;*/
+/*}*/
+/**/
+/*.space-h2-fix {*/
+/*	width: 25px;*/
+/*	height: 18px;*/
+/*	height: auto;*/
+/*	display: inline-block;*/
+/*	background: black;*/
+/*}*/
+
+/* need sorting
+-------------------------------------------------------------------------------*/
 
 
 
@@ -241,4 +363,3 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 @media all and (orientation: landscape) {
 	
 }
-
