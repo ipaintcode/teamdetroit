@@ -69,11 +69,7 @@
 
 	<section>
 		<div>
-<<<<<<< HEAD
 			<img src="../_/img/leadership/brad.jpg" alt="">
-=======
-			<img src="_/img/leadership/brad.jpg" alt="">
->>>>>>> parent of 6ccf186... updated play button functionality
 		</div>
 	</section>
 
