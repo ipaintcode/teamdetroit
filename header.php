@@ -13,28 +13,10 @@ $html = file_get_html('http://wdetfm.org/listenlive/');
 			<p class="add-stream">Start Listening</p>
 			<div class="on-now">
 				<p class="on-now-show">
-				<?php
-
-				// Print it!
-				$items = $html->find('span');
 				
-				foreach($items as $post) {
-					echo $post->innertext;
-				}
-
-				?>
 				</p>
 				<p class="on-now-title">
-					<?php
-
-					// Print it!
-					$items = $html->find('p');
 					
-					foreach($items as $post) {
-						echo $post->innertext;
-					}
-
-					?>
 				</p>
 			</div>
 
