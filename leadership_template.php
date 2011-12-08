@@ -54,10 +54,10 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style.css">
+	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 
 </head>
 
@@ -65,11 +65,11 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
-	<?php include 'header.php'; ?>
+	<?php include '../header.php'; ?>
 
 	<section>
 		<div>
-			<img src="_/img/leadership/brad.jpg" alt="">
+			<img src="../_/img/leadership/brad.jpg" alt="">
 		</div>
 	</section>
 
@@ -100,7 +100,7 @@
 		</div>
 	</section>
 
-	<?php include 'footer.php'; ?>
+	<?php include '../footer.php'; ?>
 
 </div>
 
@@ -109,12 +109,12 @@
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='../_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
-<script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="../_/js/jquery.shadow-animation.min.js"></script>
+<script src="../_/js/jquery.easing.1.3.js"></script>
+<script src="../_/js/functions.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.
