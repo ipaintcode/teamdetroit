@@ -72,7 +72,7 @@
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
 			<li><img src="_/img/leadership/bob_mcclowry.jpg" alt=""></li>
-			<li><img src="_/img/leadership/mike_treppa.jpg" alt=""></li>
+			<li><img src="_/img/leadership/michelle_silvestri.jpg" alt=""></li>
 			<li><img src="_/img/leadership/satish_korde.jpg" alt=""></li>
 		</ul>
 	</div>
