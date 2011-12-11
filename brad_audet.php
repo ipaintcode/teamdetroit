@@ -54,7 +54,7 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style_.css">
+	<link rel="stylesheet" href="_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
@@ -66,50 +66,65 @@
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
 	<?php include 'header.php'; ?>
-
-	<section class="billboard">
-		<div class="center min-max">
-			<div class="inter-holder">
-				<ul>
-					<li><img src="img/leadership/brad.jpg" alt="Billboard 1"></li>
-				</ul>
-			</div>
-
-		</div>
-	</section>
-
-	</div>
-	<div class="headline-wrapper">
-		<h2 class="center min-max" style="font-size:16px;"><span>Brad Audet<span class="headline-leader-ext">(Managing Director, Business Development)
-</span></span></h2>
+	
+	<div id="billboard-spacer"></div>
+	
+	<div class="billboard-wrapper billboard-ext-leaders">
+		<ul>
+			<li><img src="_/img/leadership/mike_bentley.jpg" alt=""></li>
+			<li><img src="_/img/leadership/brad_audet.jpg" alt=""></li>
+			<li><img src="_/img/leadership/scott_lange.jpg" alt=""></li>
+		</ul>
 	</div>
 
-	<section class="content">
-		<div class="center min-max">
+	<div class="segment-headline-wrapper clear">
+		<h2 class="center min-max"><span class="segment-header-spacer">Brad Audet</span><span class="segment-leader-title">(Managing Director, Business Development)</span></h2>
+	</div>
 
-			<article class="double project">
+	<div class="content-wrapper">
 
-				<p>One of the first things you hear when entering the advertising industry to make a living is that you better have a thick skin and be willing to fight for what you believe in. Brad Audet was obviously taking notes on the first day. His competitive nature, stemming from a background in collegiate athletics, has helped him take on any new challenge, turn it into a winner and come back looking for more. That’s part of why he is the Group Managing Director of Team Detroit.</p>
+		<div class="content center min-max">
 
-				<p>In that role, Brad leads new-business development and is the brand steward for Team Detroit. He oversees a number of accounts including Shell, Scotts Miracle Gro, Bosch, Compuware, Johnson Controls and Warrior Sports. Prior to his current responsibilities, he led the successful launch of the Ford “Drive One” campaign and seven nameplate launches.</p>
+			<section class="content-info-wrapper double">
 
-				<p>He didn’t just walk into this role. Brad used to run the Mullen Detroit office servicing several General Motors businesses. He also helped open Frankel’s Detroit office to provide brand activation support for General Motors. But it all started at Ross Roy, where he worked on Kmart, Builders Square, OfficeMax and AT&amp;T.</p>
+				<div class="content-info">
 
-			</article>
+					<p>One of the first things you hear when entering the advertising industry to make a living is that you better have a thick skin and be willing to fight for what you believe in. Brad Audet was obviously taking notes on the first day. His competitive nature, stemming from a background in collegiate athletics, has helped him take on any new challenge, turn it into a winner and come back looking for more. That’s part of why he is the Group Managing Director of Team Detroit.</p>
 
-			<aside class="aside-project">
+					<p>In that role, Brad leads new-business development and is the brand steward for Team Detroit. He oversees a number of accounts including Shell, Scotts Miracle Gro, Bosch, Compuware, Johnson Controls and Warrior Sports. Prior to his current responsibilities, he led the successful launch of the Ford “Drive One” campaign and seven nameplate launches.</p>
 
-				<p class="verbage">"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
-				<p class="leader-name">&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
+					<p>He didn’t just walk into this role. Brad used to run the Mullen Detroit office servicing several General Motors businesses. He also helped open Frankel’s Detroit office to provide brand activation support for General Motors. But it all started at Ross Roy, where he worked on Kmart, Builders Square, OfficeMax and AT&amp;T.</p>
+				
+					<ul class="content-info-social">
+						<li>Network &rarr;</li>
+						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
+					</ul>
+
+				</div>
+				
+			</section>
+
+			<aside class="content-quote-wrapper single">
+
+				<div class="content-quote">
+
+					 <blockquote>
+					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote>
+				
+				</div>
 
 			</aside>
-
+			
+			<ul class="secondary-nav">
+				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
+				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+			</ul>
+		
 		</div>
-	</section>
-
-	<!-- <div class="headline-wrapper">
-		<h2 class="center min-max"><span>Contact</span></h2>
-	</div> -->
+		
+	</div>
 
 	<?php include 'footer.php'; ?>
 
@@ -118,12 +133,12 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.animate-textshadow.min.js"></script>
+<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions.js"></script>
 

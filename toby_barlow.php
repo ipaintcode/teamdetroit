@@ -54,7 +54,7 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style_.css">
+	<link rel="stylesheet" href="_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
@@ -66,54 +66,69 @@
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
 	<?php include 'header.php'; ?>
-
-	<section class="billboard">
-		<div class="center min-max">
-			<div class="inter-holder">
-				<ul>
-					<li><img src="img/leadership/brad.jpg" alt="Billboard 1"></li>
-				</ul>
-			</div>
-
-		</div>
-	</section>
-
-	</div>
-	<div class="headline-wrapper">
-)
-</span></span></h2>
+	
+	<div id="billboard-spacer"></div>
+	
+	<div class="billboard-wrapper billboard-ext-leaders">
+		<ul>
+			<li><img src="_/img/leadership/satish_korde.jpg" alt=""></li>
+			<li><img src="_/img/leadership/toby_barlow.jpg" alt=""></li>
+			<li><img src="_/img/leadership/paul_venn.jpg" alt=""></li>
+		</ul>
 	</div>
 
-	<section class="content">
-		<div class="center min-max">
+	<div class="segment-headline-wrapper clear">
+		<h2 class="center min-max"><span class="segment-header-spacer">Toby Barlow</span><span class="segment-leader-title">(Chief Creative Officer)</span></h2>
+	</div>
 
-			<article class="double project">
+	<div class="content-wrapper">
 
-				<p>Toby began his career at Hal Riney &amp; Partners in San Francisco working on the Saturn car account. Over nine years, he produced more than 56 commercials for the little car from Spring Hill. He also worked on Stroh’s beer, Mirage Resorts, and created one of the first commercial websites for a little brewery in Montana called Black Star.</p>
+		<div class="content center min-max">
 
-				<p>After that, Toby moved to New York where he served as Creative Director at TBWA/Chiat Day working on Barnes &amp; Noble, ABC, Absolut Vodka, New York Life and Seagram’s Brands.</p>
+			<section class="content-info-wrapper double">
 
-				<p>Toby joined JWT New York in early 2003 overseeing work on accounts as varied as HSBC, De Beers, Kimberly Clark and the Sundance Channel.</p>
+				<div class="content-info">
 
-				<p>In 2006, Toby co-created and creative-directed the Bold Moves documentary, which captured Ford beginning its transition at a critical time. Intrigued by what he saw as a culture of change, Toby agreed to move to Detroit and become a part of Ford’s turnaround.</p>
+					<p>Toby began his career at Hal Riney &amp; Partners in San Francisco working on the Saturn car account. Over nine years, he produced more than 56 commercials for the little car from Spring Hill. He also worked on Stroh’s beer, Mirage Resorts, and created one of the first commercial websites for a little brewery in Montana called Black Star.</p>
 
-				<p>In the past two years, Toby has been nominated for a Webby, been included in Communication Arts’ interactive annual, their design annual and their advertising annual. He has also won three One Show Pencils and a Cannes Lion. His favorite piece of advertising was the one that got him written up in the National Enquirer. But that’s a long story.</p>
+					<p>After that, Toby moved to New York where he served as Creative Director at TBWA/Chiat Day working on Barnes &amp; Noble, ABC, Absolut Vodka, New York Life and Seagram’s Brands.</p>
 
-			</article>
+					<p>Toby joined JWT New York in early 2003 overseeing work on accounts as varied as HSBC, De Beers, Kimberly Clark and the Sundance Channel.</p>
 
-			<aside class="aside-project">
+					<p>In 2006, Toby co-created and creative-directed the Bold Moves documentary, which captured Ford beginning its transition at a critical time. Intrigued by what he saw as a culture of change, Toby agreed to move to Detroit and become a part of Ford’s turnaround.</p>
 
-				<p class="verbage">"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
-				<p class="leader-name">&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
+					<p>In the past two years, Toby has been nominated for a Webby, been included in Communication Arts’ interactive annual, their design annual and their advertising annual. He has also won three One Show Pencils and a Cannes Lion. His favorite piece of advertising was the one that got him written up in the National Enquirer. But that’s a long story.</p>
+				
+					<ul class="content-info-social">
+						<li>Network &rarr;</li>
+						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
+					</ul>
+
+				</div>
+				
+			</section>
+
+			<aside class="content-quote-wrapper single">
+
+				<div class="content-quote">
+
+					 <blockquote>
+					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote>
+				
+				</div>
 
 			</aside>
-
+			
+			<ul class="secondary-nav">
+				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
+				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+			</ul>
+		
 		</div>
-	</section>
-
-	<!-- <div class="headline-wrapper">
-		<h2 class="center min-max"><span>Contact</span></h2>
-	</div> -->
+		
+	</div>
 
 	<?php include 'footer.php'; ?>
 
@@ -122,12 +137,12 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.animate-textshadow.min.js"></script>
+<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions.js"></script>
 

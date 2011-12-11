@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Mike Treppa</title>
+	<title>Linda Taylor</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -71,14 +71,14 @@
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="_/img/leadership/bob_mcclowry.jpg" alt=""></li>
-			<li><img src="_/img/leadership/mike_treppa.jpg" alt=""></li>
 			<li><img src="_/img/leadership/satish_korde.jpg" alt=""></li>
+			<li><img src="_/img/leadership/linda_taylor.jpg" alt=""></li>
+			<li><img src="_/img/leadership/paul_venn.jpg" alt=""></li>
 		</ul>
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Mike Treppa</span><span class="segment-leader-title">(EVP, Managing Director)</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Linda Taylor</span><span class="segment-leader-title">(Chief Talent Officer)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,15 +89,13 @@
 
 				<div class="content-info">
 
-					<p>Mike is responsible for the overall management and direction of The Park, Team Detroit’s on-site design and production studio.</p>
+					<p>What do you say about the head of a Human Resources department that looks out for more than 1,000 people? Whatever it is, you better be on your best behavior. This is HR, after all.</p>
 
-					<p>Mike has 22 years of experience in the design/advertising biz, with a Bachelor of Fine Arts degree from Michigan State University. During those 22 years, Mike has worked with clients like DuPont, Chrysler, Jeep and Ford Motor Company while enjoying some diverse work on smaller accounts like the Royal Oak Children’s Choir, Don Thomas Sporthaus and Astrion Partners.</p>
+					<p>But Linda Taylor has made a career out of not making a visit to HR feel like a visit to the principle’s office. With over a decade in the business at agencies as varied as Cambell-Ewald, JWT and Leo Burnett, Linda has attracted and retained some of the leading talent all over the world, from working on the development and staffing of JWT Digital in the late ’90s to media, traditional and everything else in between.</p>
 
-					<p>In 2001 he joined JWT to transform The Park into a full-service, design and production studio. Mission: accomplished. And then some. With the inception of Team Detroit, The Park has more than doubled in size and Mike continues to add relevant capabilities that make his team indispensable.</p>
+					<p>More than bringing new employees in to satisfy a job opening, Linda has found a way to keep those people here by training them and nurturing their specific skills. It’s not an easy job. So it’s impressive that through it all, Linda has found a way to remain kind, diplomatic and focused on keeping the employees of Team Detroit happy.</p>
 
-					<p>Currently on the Executive Board of AIGA Detroit, the professional association for Design, Mike works on building and nurturing a community of creative talent within the greater metro-Detroit area.</p>
-					
-					<p>Mike shares his love of the outdoors, hockey, music, food and design with his wife and two children. Rumor has it that his kids still have a hard time believing that their Dad actually works in a place called The Park.</p>
+					<p>Married, with two children, Linda loves boating, traveling and theater.</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>

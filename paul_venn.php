@@ -54,7 +54,7 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style_.css">
+	<link rel="stylesheet" href="_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
@@ -66,48 +66,67 @@
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
 	<?php include 'header.php'; ?>
-
-	<section class="billboard">
-		<div class="center min-max">
-			<div class="inter-holder">
-				<ul>
-					<li><img src="img/leadership/brad.jpg" alt="Billboard 1"></li>
-				</ul>
-			</div>
-
-		</div>
-	</section>
-
-	</div>
-	<div class="headline-wrapper">
-		<h2 class="center min-max" style="font-size:16px;"><span>Paul Venn<span class="headline-leader-ext">(President, Client Services, Global Team Ford)
-</span></span></h2>
+	
+	<div id="billboard-spacer"></div>
+	
+	<div class="billboard-wrapper billboard-ext-leaders">
+		<ul>
+			<li><img src="_/img/leadership/bob_mcclowry.jpg" alt=""></li>
+			<li><img src="_/img/leadership/mike_treppa.jpg" alt=""></li>
+			<li><img src="_/img/leadership/satish_korde.jpg" alt=""></li>
+		</ul>
 	</div>
 
-	<section class="content">
-		<div class="center min-max">
+	<div class="segment-headline-wrapper clear">
+		<h2 class="center min-max"><span class="segment-header-spacer">Paul Venn</span><span class="segment-leader-title">(President, Client Services, Global Team Ford)</span></h2>
+	</div>
 
-			<article class="double project">
+	<div class="content-wrapper">
 
-				<p>Born in Liverpool, Paul spent his formative years in West Africa, where his experience of coups and civil wars was to prove useful training for his career in advertising.</p>
+		<div class="content center min-max">
 
-				<p>Today, Paul serves as President, Client Services, Global Team Ford. In that position, he is responsible for leading and coordination the marketing communications for Ford on a global scale. Before his current position, Paul was the President of Team Detroit-Y&amp;R, developing marketing communications for Lincoln, Mercury, Ford Motor Credit and Lincoln Mercury Dealers’ Association.</p>
+			<section class="content-info-wrapper double">
 
-				<p>Prior to his role with Y&R Team Detroit, Paul was WPP’s Director of Strategy on the Ford Motor Company account. Before that, Paul spent many years working for Y&amp;R in London, where he was the Managing Partner in charge of Ford of Britain and Land Rover.</p>
+				<div class="content-info">
 
-				<p>Paul is a graduate of the University of Sussex and currently lives in Bloomfield Hills, Michigan with the four women in his life: wife Vickie, daughters Charlotte and Isabel: and dog Millie.</p>
+					<p>Born in Liverpool, Paul spent his formative years in West Africa, where his experience of coups and civil wars was to prove useful training for his career in advertising.</p>
 
-			</article>
+					<p>Today, Paul serves as President, Client Services, Global Team Ford. In that position, he is responsible for leading and coordination the marketing communications for Ford on a global scale. Before his current position, Paul was the President of Team Detroit-Y&amp;R, developing marketing communications for Lincoln, Mercury, Ford Motor Credit and Lincoln Mercury Dealers’ Association.</p>
 
-			<aside class="aside-project">
+					<p>Prior to his role with Y&R Team Detroit, Paul was WPP’s Director of Strategy on the Ford Motor Company account. Before that, Paul spent many years working for Y&amp;R in London, where he was the Managing Partner in charge of Ford of Britain and Land Rover.</p>
 
-				<p class="verbage">"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
-				<p class="leader-name">&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
+					<p>Paul is a graduate of the University of Sussex and currently lives in Bloomfield Hills, Michigan with the four women in his life: wife Vickie, daughters Charlotte and Isabel: and dog Millie.</p>
+				
+					<ul class="content-info-social">
+						<li>Network &rarr;</li>
+						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
+					</ul>
+
+				</div>
+				
+			</section>
+
+			<aside class="content-quote-wrapper single">
+
+				<div class="content-quote">
+
+					 <blockquote>
+					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote>
+				
+				</div>
 
 			</aside>
-
+			
+			<ul class="secondary-nav">
+				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
+				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+			</ul>
+		
 		</div>
-	</section>
+		
+	</div>
 
 	<?php include 'footer.php'; ?>
 
@@ -116,12 +135,12 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.animate-textshadow.min.js"></script>
+<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions.js"></script>
 

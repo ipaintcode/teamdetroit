@@ -54,7 +54,7 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style_.css">
+	<link rel="stylesheet" href="_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
@@ -66,54 +66,69 @@
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
 	<?php include 'header.php'; ?>
-
-	<section class="billboard">
-		<div class="center min-max">
-			<div class="inter-holder">
-				<ul>
-					<li><img src="img/leadership/brad.jpg" alt="Billboard 1"></li>
-				</ul>
-			</div>
-
-		</div>
-	</section>
-
-	</div>
-	<div class="headline-wrapper">
-		<h2 class="center min-max" style="font-size:16px;"><span>Andrew J. Weil<span class="headline-leader-ext">(Chief Financial Officer)
-</span></span></h2>
+	
+	<div id="billboard-spacer"></div>
+	
+	<div class="billboard-wrapper billboard-ext-leaders">
+		<ul>
+			<li><img src="_/img/leadership/michelle_silvestri.jpg" alt=""></li>
+			<li><img src="_/img/leadership/andrew_weil.jpg" alt=""></li>
+			<li><img src="_/img/leadership/bob_mcclowry.jpg" alt=""></li>
+		</ul>
 	</div>
 
-	<section class="content">
-		<div class="center min-max">
+	<div class="segment-headline-wrapper clear">
+		<h2 class="center min-max"><span class="segment-header-spacer">Andrew J. Weil</span><span class="segment-leader-title">(Chief Financial Officer)</span></h2>
+	</div>
 
-			<article class="double project">
+	<div class="content-wrapper">
 
-				<p>Andy is the numbers guy. The kind of person who scoffs at the TurboTax programs of the world. The kind of person who was always on the edge of his seat during Economics classes. The kind of person most people envied and admired in school. Which is exactly the type of person you want running the financial department of such a large and diverse organization like Team Detroit.</p>
+		<div class="content center min-max">
 
-				<p>Andy is responsible for the financial management of Team Detroit and was instrumental in the establishment of Team Detroit as a single business unit. In addition to Finance, Andy is responsible for the IT, Facilities and Quality Functions.</p>
+			<section class="content-info-wrapper double">
 
-				<p>Prior to joining the ad agency world, Andy was the Accounting Director, Marketing and Sales at Ford. He also worked in various consulting roles at Coopers and Lybrand, and began his career at Ernst &amp; Young.</p>
+				<div class="content-info">
 
-				<p>Andy holds an MBA in Finance and Management from Columbia Business School and an undergraduate degree from the State University of New York at Buffalo. He is a Certified Public Accountant (aka The anti-TurboTax).</p>
+					<p>Andy is the numbers guy. The kind of person who scoffs at the TurboTax programs of the world. The kind of person who was always on the edge of his seat during Economics classes. The kind of person most people envied and admired in school. Which is exactly the type of person you want running the financial department of such a large and diverse organization like Team Detroit.</p>
 
-				<p>Aside from spending time with his wife and four kids, Andy serves on several nonprofit boards – focused on education and overall community welfare – throughout the community.</p>
+					<p>Andy is responsible for the financial management of Team Detroit and was instrumental in the establishment of Team Detroit as a single business unit. In addition to Finance, Andy is responsible for the IT, Facilities and Quality Functions.</p>
 
-			</article>
+					<p>Prior to joining the ad agency world, Andy was the Accounting Director, Marketing and Sales at Ford. He also worked in various consulting roles at Coopers and Lybrand, and began his career at Ernst &amp; Young.</p>
 
-			<aside class="aside-project">
+					<p>Andy holds an MBA in Finance and Management from Columbia Business School and an undergraduate degree from the State University of New York at Buffalo. He is a Certified Public Accountant (aka The anti-TurboTax).</p>
 
-				<p class="verbage">"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
-				<p class="leader-name">&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
+					<p>Aside from spending time with his wife and four kids, Andy serves on several nonprofit boards – focused on education and overall community welfare – throughout the community.</p>
+				
+					<ul class="content-info-social">
+						<li>Network &rarr;</li>
+						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
+					</ul>
+
+				</div>
+				
+			</section>
+
+			<aside class="content-quote-wrapper single">
+
+				<div class="content-quote">
+
+					 <blockquote>
+					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote>
+				
+				</div>
 
 			</aside>
-
+			
+			<ul class="secondary-nav">
+				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
+				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+			</ul>
+		
 		</div>
-	</section>
-
-	<!--<div class="headline-wrapper">
-		<h2 class="center min-max"><span>Contact</span></h2>
-	</div>-->
+		
+	</div>
 
 	<?php include 'footer.php'; ?>
 
@@ -122,12 +137,12 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.animate-textshadow.min.js"></script>
+<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions.js"></script>
 

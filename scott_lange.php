@@ -54,7 +54,7 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style_.css">
+	<link rel="stylesheet" href="_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
@@ -66,51 +66,67 @@
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
 	<?php include 'header.php'; ?>
-
-	<section class="billboard">
-		<div class="center min-max">
-			<div class="inter-holder">
-				<ul>
-					<li><img src="img/leadership/brad.jpg" alt="Billboard 1"></li>
-				</ul>
-			</div>
-
-		</div>
-	</section>
-
-	</div>
-	<div class="headline-wrapper">
-		<h2 class="center min-max" style="font-size:16px;"><span>Scott Lange<span class="headline-leader-ext">(Executive Creative Director, Digital)</span></span></h2>
+	
+	<div id="billboard-spacer"></div>
+	
+	<div class="billboard-wrapper billboard-ext-leaders">
+		<ul>
+			<li><img src="_/img/leadership/bob_mcclowry.jpg" alt=""></li>
+			<li><img src="_/img/leadership/scott_lange.jpg" alt=""></li>
+			<li><img src="_/img/leadership/toby_barlow.jpg" alt=""></li>
+		</ul>
 	</div>
 
-	<section class="content">
-		<div class="center min-max">
+	<div class="segment-headline-wrapper clear">
+		<h2 class="center min-max"><span class="segment-header-spacer">Scott Lange</span><span class="segment-leader-title">(Executive Creative Director, Digital)</span></h2>
+	</div>
 
-			<article class="double project">
+	<div class="content-wrapper">
 
-				<p>In the digital world, you quickly learn two things: have a thick skin and learn how to defend your work. So who better to do that than someone who spent time in the United States Army Reserve on a Howitzer heavy artillery gun crew? In short, that&lsquo;s Scott Lange, our Executive Creative Director of Digital.</p>
+		<div class="content center min-max">
 
-				<p>Before taking up arms for our country, Scott graduated with a BFA in Graphic Design from the College for Creative Studies in Detroit, MI. Since then, he has migrated through the Detroit advertising community working on accounts that include Ford, Lincoln, Mercury, Jeep, Chrysler, Dodge, The Coleman Company, Warner Brothers Pictures, Comedy Central Brands, Chevrolet, the US Navy, Consumers Energy and more.</p>
+			<section class="content-info-wrapper double">
 
-				<p>Scott’s specialty is leading cross-discipline creative groups in idea generation around a solid strategy. He is an integrator, matching the strengths of diverse groups in order to produce unexpected solutions to common problems, and insightful digital experiences.</p>
+				<div class="content-info">
 
-				<p>Scott has been recognized by the Cannes International Advertising Festival, the International Automotive Advertising Awards, New York Festivals, The One Show, and the Favourite Website Awards to name a few. He lives in Birmingham, Michigan with his wife, Nancy, and his two children.</p>
+					<p>In the digital world, you quickly learn two things: have a thick skin and learn how to defend your work. So who better to do that than someone who spent time in the United States Army Reserve on a Howitzer heavy artillery gun crew? In short, that&lsquo;s Scott Lange, our Executive Creative Director of Digital.</p>
 
-			</article>
+					<p>Before taking up arms for our country, Scott graduated with a BFA in Graphic Design from the College for Creative Studies in Detroit, MI. Since then, he has migrated through the Detroit advertising community working on accounts that include Ford, Lincoln, Mercury, Jeep, Chrysler, Dodge, The Coleman Company, Warner Brothers Pictures, Comedy Central Brands, Chevrolet, the US Navy, Consumers Energy and more.</p>
 
-			<aside class="aside-project">
+					<p>Scott’s specialty is leading cross-discipline creative groups in idea generation around a solid strategy. He is an integrator, matching the strengths of diverse groups in order to produce unexpected solutions to common problems, and insightful digital experiences.</p>
 
-				<p class="verbage">"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
-				<p class="leader-name">&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
+					<p>Scott has been recognized by the Cannes International Advertising Festival, the International Automotive Advertising Awards, New York Festivals, The One Show, and the Favourite Website Awards to name a few. He lives in Birmingham, Michigan with his wife, Nancy, and his two children.</p>
+				
+					<ul class="content-info-social">
+						<li>Network &rarr;</li>
+						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
+					</ul>
+
+				</div>
+				
+			</section>
+
+			<aside class="content-quote-wrapper single">
+
+				<div class="content-quote">
+
+					 <blockquote>
+					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote>
+				
+				</div>
 
 			</aside>
-
+			
+			<ul class="secondary-nav">
+				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
+				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+			</ul>
+		
 		</div>
-	</section>
-
-	<!-- <div class="headline-wrapper">
-		<h2 class="center min-max"><span>Contact</span></h2>
-	</div> -->
+		
+	</div>
 
 	<?php include 'footer.php'; ?>
 
@@ -119,12 +135,12 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.animate-textshadow.min.js"></script>
+<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions.js"></script>
 

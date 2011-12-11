@@ -54,7 +54,7 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style_.css">
+	<link rel="stylesheet" href="_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
@@ -66,50 +66,69 @@
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
 	<?php include 'header.php'; ?>
-
-	<section class="billboard">
-		<div class="center min-max">
-			<div class="inter-holder">
-				<ul>
-					<li><img src="img/leadership/brad.jpg" alt="Billboard 1"></li>
-				</ul>
-			</div>
-
-		</div>
-	</section>
-
-	</div>
-	<div class="headline-wrapper">
-		<h2 class="center min-max" style="font-size:16px;"><span>Sharon Wacker<span class="headline-leader-ext">(Managing Director, Ford U.S. Business)
-</span></span></h2>
+	
+	<div id="billboard-spacer"></div>
+	
+	<div class="billboard-wrapper billboard-ext-leaders">
+		<ul>
+			<li><img src="_/img/leadership/bob_mcclowry.jpg" alt=""></li>
+			<li><img src="_/img/leadership/sharon_wacker.jpg" alt=""></li>
+			<li><img src="_/img/leadership/toby_barlow.jpg" alt=""></li>
+		</ul>
 	</div>
 
-	<section class="content">
-		<div class="center min-max">
+	<div class="segment-headline-wrapper clear">
+		<h2 class="center min-max"><span class="segment-header-spacer">Sharon Wacker</span><span class="segment-leader-title">(Managing Director, Ford U.S. Business)</span></h2>
+	</div>
 
-			<article class="double project">
+	<div class="content-wrapper">
+
+		<div class="content center min-max">
+
+			<section class="content-info-wrapper double">
+
+				<div class="content-info">
+
+					<p>They say there are two things you can’t pick: your family and your neighbors – much less your family’s neighbors. As it turns out, Sharon Wacker was lucky on all fronts.</p>
+
+					<p>Sharon grew up in Grosse Pointe, MI, the city the Ford family has called home for generations. While her father initially wanted her to be in banking, she was lucky enough that a few of her neighbors worked for Ford. It was their love of cars that helped guide her path. So when Sharon looks back on those early years, it seems like it was a forgone conclusion that somehow her career would be aligned with Ford. Not that it started out that way.</p>
+
+					<p>To the contrary, her career began in politics. Sharon worked on the advance team for the Secretary of the Treasury and lived in Washington, D.C. She travelled the world for the Secretary gaining invaluable experiences. But four years of politics was enough for her (as it is for many of the Presidents our country has elected) and upon her return to Michigan, one of her goals was to find a way to help Detroit regain its grandeur. That, and she’d had enough of politics, at least the Washington, D.C. kind. Who could blame her?</p>
+
+					<p>Since her return Sharon has blazed a trail to the top. Prior to her current position at Team Detroit, she worked in Strategic Planning and on the Events and Alliances Team before moving over to Account management. It was there that she lead the Ford Truck business to new heights, made notable by the fact that this was accomplished during one of the lowest points in automotive sales history. Her current role sees her helping to lead Ford to a greater foothold in the American marketplace.</p>
+
+					<p>Sharon lives in Grosse Pointe (as if there was any doubt) with her 16-year-old daughter and 9-year-old son. When not working, she can be often be found recruiting one of her neighbors’ kids to get into the auto business.</p>
 				
-				<p>They say there are two things you can’t pick: your family and your neighbors – much less your family’s neighbors. As it turns out, Sharon Wacker was lucky on all fronts.</p>
+					<ul class="content-info-social">
+						<li>Network &rarr;</li>
+						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
+					</ul>
 
-				<p>Sharon grew up in Grosse Pointe, MI, the city the Ford family has called home for generations. While her father initially wanted her to be in banking, she was lucky enough that a few of her neighbors worked for Ford. It was their love of cars that helped guide her path. So when Sharon looks back on those early years, it seems like it was a forgone conclusion that somehow her career would be aligned with Ford. Not that it started out that way.</p>
+				</div>
+				
+			</section>
 
-				<p>To the contrary, her career began in politics. Sharon worked on the advance team for the Secretary of the Treasury and lived in Washington, D.C. She travelled the world for the Secretary gaining invaluable experiences. But four years of politics was enough for her (as it is for many of the Presidents our country has elected) and upon her return to Michigan, one of her goals was to find a way to help Detroit regain its grandeur. That, and she’d had enough of politics, at least the Washington, D.C. kind. Who could blame her?</p>
+			<aside class="content-quote-wrapper single">
 
-				<p>Since her return Sharon has blazed a trail to the top. Prior to her current position at Team Detroit, she worked in Strategic Planning and on the Events and Alliances Team before moving over to Account management. It was there that she lead the Ford Truck business to new heights, made notable by the fact that this was accomplished during one of the lowest points in automotive sales history. Her current role sees her helping to lead Ford to a greater foothold in the American marketplace.</p>
+				<div class="content-quote">
 
-				<p>Sharon lives in Grosse Pointe (as if there was any doubt) with her 16-year-old daughter and 9-year-old son. When not working, she can be often be found recruiting one of her neighbors’ kids to get into the auto business.</p>
-
-			</article>
-
-			<aside class="aside-project">
-
-				<p class="verbage">"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
-				<p class="leader-name">&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
+					 <blockquote>
+					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote>
+				
+				</div>
 
 			</aside>
-
+			
+			<ul class="secondary-nav">
+				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
+				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+			</ul>
+		
 		</div>
-	</section>
+		
+	</div>
 
 	<?php include 'footer.php'; ?>
 
@@ -118,12 +137,12 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.animate-textshadow.min.js"></script>
+<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions.js"></script>
 

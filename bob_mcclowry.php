@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Leadership Template</title>
+	<title>Bob McClowry</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -71,9 +71,9 @@
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="_/img/leadership/andy_weil.jpg" alt=""></li>
+			<li><img src="_/img/leadership/andrew_weil.jpg" alt=""></li>
 			<li><img src="_/img/leadership/bob_mclowery.jpg" alt=""></li>
-			<li><img src="_/img/leadership/mike_treppa.jpg" alt=""></li>
+			<li><img src="_/img/leadership/bob_mclowery.jpg" alt=""></li>
 		</ul>
 	</div>
 

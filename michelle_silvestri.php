@@ -54,7 +54,7 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style_.css">
+	<link rel="stylesheet" href="_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
@@ -66,90 +66,69 @@
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
 	<?php include 'header.php'; ?>
-
-	<section class="billboard">
-		<div class="center min-max">
-			<div class="inter-holder">
-				<ul>
-					<li><img src="img/leadership/brad.jpg" alt="Billboard 1"></li>
-				</ul>
-			</div>
-
-		</div>
-	</section>
-
-	</div>
-	<div class="headline-wrapper">
-		<h2 class="center min-max" style="font-size:16px;"><span>Michelle Silvestri<span class="headline-leader-ext">(VP, Creative Director The Park)
-</span></span></h2>
+	
+	<div id="billboard-spacer"></div>
+	
+	<div class="billboard-wrapper billboard-ext-leaders">
+		<ul>
+			<li><img src="_/img/leadership/andy_prakken.jpg" alt=""></li>
+			<li><img src="_/img/leadership/michelle_silvestri.jpg" alt=""></li>
+			<li><img src="_/img/leadership/andrew_weil.jpg" alt=""></li>
+		</ul>
 	</div>
 
-	<section class="content">
-		<div class="center min-max">
+	<div class="segment-headline-wrapper clear">
+		<h2 class="center min-max"><span class="segment-header-spacer">Michele Silvestri</span><span class="segment-leader-title">(SVP, Global Director of Design)</span></h2>
+	</div>
 
-			<article class="double project">
+	<div class="content-wrapper">
 
-				<p>One of the first things you hear when entering the advertising industry to make a living is that you better have a thick skin and be willing to fight for what you believe in. Brad Audet was obviously taking notes on the first day. His competitive nature, stemming from a background in collegiate athletics, has helped him take on any new challenge, turn it into a winner and come back looking for more. That’s part of why he is the Group Managing Director of Team Detroit.</p>
+		<div class="content center min-max">
 
-				<p>In that role, Brad leads new-business development and is the brand steward for Team Detroit. He oversees a number of accounts including Shell, Scotts Miracle Gro, Bosch, Compuware, Johnson Controls and Warrior Sports. Prior to his current responsibilities, he led the successful launch of the Ford “Drive One” campaign and seven nameplate launches.</p>
+			<section class="content-info-wrapper double">
 
-				<p>He didn’t just walk into this role. Brad used to run the Mullen Detroit office servicing several General Motors businesses. He also helped open Frankel’s Detroit office to provide brand activation support for General Motors. But it all started at Ross Roy, where he worked on Kmart, Builders Square, OfficeMax and AT&amp;T.</p>
+				<div class="content-info">
 
-			</article>
+					<p>As our Design evangelist, Michele oversees the role strategic design plays in the creation of beautiful, engaging and effective work for all of our Clients’ brands. For our largest client, Ford, Michele’s duties take on a global scale, working in collaboration with our partner offices in London, Shanghai, Buenos Aires, Sao Paulo and Toronto to ensure that each idea is brought to life, both conceptually and aesthetically, in a way that makes an emotional connection with a consumer.</p>
 
-			<aside class="aside-project">
+					<p>Creative leadership and problem solving skills aside, it’s her endless enthusiasm, positive outlook and passion for design that continually motivate those around her. A rare-breed creative, her keen intuition  and both left and right brain sensibilities set her apart as a  trusted advisor.</p>
 
-				<p class="verbage">"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
-				<p class="leader-name">&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
+					<p>Prior to directing Design at Team Detroit, Michele has worked in a design capacity at JWT, FCB, Bozell, and Perich & Partners on a variety of both Automotive and Non-Automotive Brands. A graduate with honors from the University of Michigan School of Art + Design, Michele not only bleeds Maize and Blue but a true passion for all things creative.</p>
+
+					<p>She served consecutive terms on the Executive Board of AIGA Detroit, the Professional Association for Design and remains active in the local design community. Throughout her career Michele has been honored with numerous and varied awards, including EFFIEs, CADDYs, D-Show, AIGA, as well as being published in Communication Arts and most recently the Annual of the Type Directors Club, Typography 32.</p>
+
+					<p>On a personal note, Michele loves eating, drinking great wine,  earned a Black Belt (which reserves her the right to claim to ninja when necessary) and that her serious shoe obsession is genetic. Her proudest accomplishment? Motherhood to the coolest little boy on the planet.</p>
+				
+					<ul class="content-info-social">
+						<li>Network &rarr;</li>
+						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
+					</ul>
+
+				</div>
+				
+			</section>
+
+			<aside class="content-quote-wrapper single">
+
+				<div class="content-quote">
+
+					 <blockquote>
+					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote>
+				
+				</div>
 
 			</aside>
-
+			
+			<ul class="secondary-nav">
+				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
+				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+			</ul>
+		
 		</div>
-	</section>
-
-	<!-- <section class="misc-need-to-update-name">
-		<div class="center min-max">
-
-			<div class="sub-section related-projects">
-				<h3>Relasted Projects</h3>
-				<ul>
-					<li>
-						<img src="" alt="">
-						<p>Ford Explorer "GO DO"</p>
-					</li>
-					<li>
-						<img src="" alt="">
-						<p>Drive One for your School</p>
-					</li>
-					<li>
-						<img src="" alt="">
-						<p>Feista Movement</p>
-					</li>
-				</ul>
-			</div>
-			<div class="sub-section services-delivered">
-				<h3>Services Delivered</h3>
-				<ul>
-					<li>Design</li>
-					<li>Strategy</li>
-					<li>Analytics</li>
-				</ul>
-			</div>
-			<div class="sub-section social-networks">
-
-				<ul>
-					<li>Twitter</li>
-					<li>Facebook</li>
-					<li>Google+</li>
-				</ul>
-			</div>
-
-		</div>
-	</section> -->
-
-	<!-- <div class="headline-wrapper">
-		<h2 class="center min-max"><span>Contact</span></h2>
-	</div> -->
+		
+	</div>
 
 	<?php include 'footer.php'; ?>
 
@@ -158,12 +137,12 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.animate-textshadow.min.js"></script>
+<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions.js"></script>
 

@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Mike Bently</title>
+	<title>Mike Bentley</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -54,7 +54,7 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style_.css">
+	<link rel="stylesheet" href="_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
@@ -66,92 +66,66 @@
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
 	<?php include 'header.php'; ?>
-
-	<section class="billboard">
-		<div class="center min-max">
-			<div class="inter-holder">
-				<ul>
-					<li><img src="img/leadership/brad.jpg" alt="Billboard 1"></li>
-				</ul>
-			</div>
-
-		</div>
-	</section>
-	<div style="clear: both;">
-
-	</div>
-	<div class="headline-wrapper">
-		<h2 class="center min-max" style="font-size:16px;"><span>Mike Bentley<span class="headline-leader-ext">(Chief Strategy Officer)
-</span></span></h2>
+	
+	<div id="billboard-spacer"></div>
+	
+	<div class="billboard-wrapper billboard-ext-leaders">
+		<ul>
+			<li><img src="_/img/leadership/toby_barlow.jpg" alt=""></li>
+			<li><img src="_/img/leadership/mike_bentley.jpg" alt=""></li>
+			<li><img src="_/img/leadership/brad_audet.jpg" alt=""></li>
+		</ul>
 	</div>
 
-	<section class="content">
-		<div class="center min-max">
+	<div class="segment-headline-wrapper clear">
+		<h2 class="center min-max"><span class="segment-header-spacer">Mike Bentley</span><span class="segment-leader-title">(Chief Strategy Officer)</span></h2>
+	</div>
 
-			<article class="double project">
+	<div class="content-wrapper">
 
-				<p>In a sense, Mike is the most senior trainee at Team Detroit. Technically, we don’t hand out an office, a nice parking spot and those types of perks to traditional trainees, but Mike says that because he learns something new everyday, he still qualifies as one. It’s that curious nature which has helped him rise to become Team Detroit’s Chief Strategy Officer.</p>
+		<div class="content center min-max">
 
-				<p>It’s a career he fell into – quite literally. After starting his professional life as a rock climber, Mike broke his back during a fall and had to turn to his fall-back career: thinking about thinking.</p>
+			<section class="content-info-wrapper double">
 
-				<p>Once in the strategy field, Mike has worked on brands including Sega, BT, Orange, Carling Black Label, Kronenbourg1664, The Scottish Office, Quaker Oats, Sugar Puffs, The Labour Party, Cadbury’s and a number of car brands, including Cadillac. It was there that he helped re-launch the brand with its successful “Break Through” campaign. If you’re noticing a heavy foreign emphasis in his work, it’s because Mike hails from the other side of the pond. That’s also why he still maintains his allegiance to the Liverpool Football Club – even after being in the States since 2001. After nearly a decade, he still refuses to call the sport “soccer:.</p>
+				<div class="content-info">
 
-				<p>Mike is married with one daughter. He won’t say if they call it “soccer” or “football”.</p>
+					<p>In a sense, Mike is the most senior trainee at Team Detroit. Technically, we don’t hand out an office, a nice parking spot and those types of perks to traditional trainees, but Mike says that because he learns something new everyday, he still qualifies as one. It’s that curious nature which has helped him rise to become Team Detroit’s Chief Strategy Officer.</p>
 
-			</article>
+					<p>It’s a career he fell into – quite literally. After starting his professional life as a rock climber, Mike broke his back during a fall and had to turn to his fall-back career: thinking about thinking.</p>
 
-			<aside class="aside-project">
+					<p>Once in the strategy field, Mike has worked on brands including Sega, BT, Orange, Carling Black Label, Kronenbourg1664, The Scottish Office, Quaker Oats, Sugar Puffs, The Labour Party, Cadbury’s and a number of car brands, including Cadillac. It was there that he helped re-launch the brand with its successful “Break Through” campaign. If you’re noticing a heavy foreign emphasis in his work, it’s because Mike hails from the other side of the pond. That’s also why he still maintains his allegiance to the Liverpool Football Club – even after being in the States since 2001. After nearly a decade, he still refuses to call the sport “soccer:.</p>
 
-				<p class="verbage">"When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad."</p>
-				<p class="leader-name">&ndash;Matt Van Dyke<span>Ford U.S. Marketing Director</span></p>
+					<p>Mike is married with one daughter. He won’t say if they call it “soccer” or “football”.</p>
+				
+					<ul class="content-info-social">
+						<li>Network &rarr;</li>
+						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
+					</ul>
+
+				</div>
+				
+			</section>
+
+			<aside class="content-quote-wrapper single">
+
+				<div class="content-quote">
+
+					 <blockquote>
+					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote>
+				
+				</div>
 
 			</aside>
-
+			
+			<ul class="secondary-nav">
+				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
+				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+			</ul>
+		
 		</div>
-	</section>
-
-	<!-- <section class="misc-need-to-update-name">
-		<div class="center min-max">
-
-			<div class="sub-section related-projects">
-				<h3>Relasted Projects</h3>
-				<ul>
-					<li>
-						<img src="" alt="">
-						<p>Ford Explorer "GO DO"</p>
-					</li>
-					<li>
-						<img src="" alt="">
-						<p>Drive One for your School</p>
-					</li>
-					<li>
-						<img src="" alt="">
-						<p>Feista Movement</p>
-					</li>
-				</ul>
-			</div>
-			<div class="sub-section services-delivered">
-				<h3>Services Delivered</h3>
-				<ul>
-					<li>Design</li>
-					<li>Strategy</li>
-					<li>Analytics</li>
-				</ul>
-			</div>
-			<div class="sub-section social-networks">
-
-				<ul>
-					<li>Twitter</li>
-					<li>Facebook</li>
-					<li>Google+</li>
-				</ul>
-			</div>
-
-		</div>
-	</section> -->
-
-	<div class="headline-wrapper">
-		<h2 class="center min-max"><span>Contact</span></h2>
+		
 	</div>
 
 	<?php include 'footer.php'; ?>
@@ -161,12 +135,12 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.animate-textshadow.min.js"></script>
+<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions.js"></script>
 
