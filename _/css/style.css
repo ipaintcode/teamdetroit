@@ -171,8 +171,8 @@ body, select, input, textarea {color: #333;}
 /*a:hover {color: #69f;}*/
 
 /* Custom text-selection colors (remove any text shadows: twitter.com/miketaylr/status/12228805301) */
-::-moz-selection{background: #fcd700; color: #fff; text-shadow: none;}
-::selection {background: #fcd700; color: #fff; text-shadow: none;} 
+::-moz-selection{background: #939598; color: #fff; text-shadow: none;}
+::selection {background: #939598; color: #fff; text-shadow: none;} 
 
 /*	j.mp/webkit-tap-highlight-color */
 a:link {-webkit-tap-highlight-color: #fcd700;} 
@@ -201,7 +201,7 @@ body {
 .min-max {
 	min-width: 960px;	/* sets a min width */
 	max-width: 1480px;	/* sets a max width */
-	/*width: 960px;		/* sets a default width */
+	width: 960px;		/* sets a default width */
 }
 
 .center {
@@ -250,8 +250,64 @@ body {
 	padding-left: 5px;
 }
 
+.segment-header-spacer {
+	margin-left: 30px;
+}
+
+/* Header
+-------------------------------------------------------------------------------*/
+
+header {
+	position: fixed;
+	overflow: hidden;
+	background: white;
+	background: rgba(255, 255, 255, .97);
+	z-index: 50000;
+	width: 100%;
+	top: -98px;
+	border-bottom: 1px dashed #cecece;
+
+}
+
+.teamdetroit a {
+	margin-top: 40px;
+	margin-bottom: 9px;
+	float: left;
+	display: block;
+	height: 44px;
+	width: 148px;
+	text-indent: -9999px;
+	background: url('../img/teamdetroit.png') no-repeat top left;
+}
+
+.main-nav ul {
+	float: right;
+	margin-right: 18px;
+}
+
+.main-nav li {
+	padding-top: 71px;
+	float: left;
+}
+
+.main-nav li a {
+	margin-left: 50px;
+	color: #939598;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+}
+
+.main-nav li a:hover {
+	color: black;
+}
+
 /* Billboards
 -------------------------------------------------------------------------------*/
+
+#billboard-spacer {
+	margin-top: 99px;
+}
 
 .billboard-wrapper {
 	overflow: hidden;
@@ -268,10 +324,10 @@ body {
 
 .billboard-ext-leaders ul {
 	position: absolute;
-	width: 4440px;
+	width: 2880px;
 	margin: 0 auto;
 	left: 50%;
-	margin-left: -2220px;
+	margin-left: -1440px;
 	background: black;
 }
 
@@ -292,20 +348,135 @@ body {
 }
 
 
-/* Content modules
+/* Content (Projects, Leaders, Culture pages)
 -------------------------------------------------------------------------------*/
 
-.content-inner {
-	background: grey;
+.content-info-wrapper {
+	float: left;
+	margin-top: 36px;
+	width: 60%;
 }
 
-.content-inner .content {
+.content-info {
+	padding: 0 30px;
+	line-height: 26px;
+	font-size: 16px;
+	font-family:"ProximaNovaRegular", "san-serif";
+}
+
+.content-info p {
+	margin-bottom: 30px;
+}
+
+.content-info-social {
+	margin: 60px 0 60px 0;
+}
+
+.content-info-social li {
+	height: 60px;
+	display: table-cell;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.content-info-social li:first-child {
+	vertical-align : middle; 
+	padding-right: 25px;
+}
+
+.content-info-social .linkedin a {
+	display: inline-block;
+	text-indent: -9999px;
+	background: url('../img/social/linkedin.png') no-repeat top left;
+	width: 60px; height: 60px;
+}
+
+.content-quote-wrapper {
+	float: right;
+	margin-top: 36px;
+	width: 40%;
+}
+
+.content-quote {
+	position: relative;
+	padding: 0 30px 0 18px;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.content-quote blockquote:before {
+	content:"\201C";
+	position: absolute;
+	font-size: 60px;
+	top: 10px; left: 20px;
+}
+
+.content-quote blockquote {
+	padding: 25px 0 0 35px;
+	line-height: 44px;
+	font-size: 32px;
+}
+
+.content-quote-author {
+	margin-top: 15px;
+	line-height: 14px;
+	font-size: 14px;
+}
+
+.content-quote-author span {
+	font-size: 10px;
+}
+
+/* Secondary Nav
+--------------*/
+
+.secondary-nav {
+	clear: both;
+	overflow: hidden;
+	margin-bottom: 60px;
+	padding: 0 26px;
+}
+
+.secondary-nav a {
+	display: block;
+	width: 152px;
+	height: 152px;
+	text-indent: -9999px;
+}
+
+.secondary-nav .secondary-nav-prev {
 	float: left;
 }
 
-.content-inner aside {
+.secondary-nav .secondary-nav-prev a {
+	background: url('../img/leadership/prev-leader.png') no-repeat top left;
+}
+
+.secondary-nav .secondary-nav-next {
 	float: right;
 }
+
+.secondary-nav .secondary-nav-next a {
+	background: url('../img/leadership/next-leader.png') no-repeat top left;
+}
+
+/* Leadership
+-------------------------------------------------------------------------------*/
+
+
+
+/* Footer
+-------------------------------------------------------------------------------*/
+
+footer {
+	background: #383838;
+}
+
+footer a {
+	color: #999999;
+}
+
 
 /*div.headline-wrapper > h2 > span {*/
 /*	padding-left: 18px;*/
