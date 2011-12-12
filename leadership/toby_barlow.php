@@ -41,23 +41,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	-->
 
-	<link rel="shortcut icon" href="_/img/favicon.ico">
+	<link rel="shortcut icon" href="../_/img/favicon.ico">
 	<!-- This is the traditional favicon.
 		 - size: 16x16 or 32x32
 		 - transparency is OK
 		 - see wikipedia for info on browser support: http://mky.be/favicon/ -->
 
-	<link rel="apple-touch-icon" href="_/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="../_/img/apple-touch-icon.png">
 	<!-- The is the icon for iOS's Web Clip.
 		 - size: 57x57 for older iPhones, 72x72 for iPads, 114x114 for iPhone4's retina display (IMHO, just go ahead and use the biggest one)
 		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style.css">
+	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 
 </head>
 
@@ -65,15 +65,15 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
-	<?php include 'header.php'; ?>
+	<?php include '../header.php'; ?>
 	
 	<div id="billboard-spacer"></div>
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="_/img/leadership/satish_korde.jpg" alt=""></li>
-			<li><img src="_/img/leadership/toby_barlow.jpg" alt=""></li>
-			<li><img src="_/img/leadership/paul_venn.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/satish_korde.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/toby_barlow.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/paul_venn.jpg" alt=""></li>
 		</ul>
 	</div>
 
@@ -130,7 +130,7 @@
 		
 	</div>
 
-	<?php include 'footer.php'; ?>
+	<?php include '../footer.php'; ?>
 
 </div>
 
@@ -142,9 +142,9 @@
 <script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
-<script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="../_/js/jquery.shadow-animation.min.js"></script>
+<script src="../_/js/jquery.easing.1.3.js"></script>
+<script src="../_/js/functions.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.

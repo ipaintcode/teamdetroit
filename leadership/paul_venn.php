@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Sharon Wacker</title>
+	<title>Paul Venn</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -41,23 +41,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	-->
 
-	<link rel="shortcut icon" href="_/img/favicon.ico">
+	<link rel="shortcut icon" href="../_/img/favicon.ico">
 	<!-- This is the traditional favicon.
 		 - size: 16x16 or 32x32
 		 - transparency is OK
 		 - see wikipedia for info on browser support: http://mky.be/favicon/ -->
 
-	<link rel="apple-touch-icon" href="_/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="../_/img/apple-touch-icon.png">
 	<!-- The is the icon for iOS's Web Clip.
 		 - size: 57x57 for older iPhones, 72x72 for iPads, 114x114 for iPhone4's retina display (IMHO, just go ahead and use the biggest one)
 		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style.css">
+	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 
 </head>
 
@@ -65,20 +65,20 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
-	<?php include 'header.php'; ?>
+	<?php include '../header.php'; ?>
 	
 	<div id="billboard-spacer"></div>
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="_/img/leadership/bob_mcclowry.jpg" alt=""></li>
-			<li><img src="_/img/leadership/sharon_wacker.jpg" alt=""></li>
-			<li><img src="_/img/leadership/toby_barlow.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/bob_mcclowry.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/paul_venn.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/satish_korde.jpg" alt=""></li>
 		</ul>
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Sharon Wacker</span><span class="segment-leader-title">(Managing Director, Ford U.S. Business)</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Paul Venn</span><span class="segment-leader-title">(President, Client Services, Global Team Ford)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,15 +89,13 @@
 
 				<div class="content-info">
 
-					<p>They say there are two things you can’t pick: your family and your neighbors – much less your family’s neighbors. As it turns out, Sharon Wacker was lucky on all fronts.</p>
+					<p>Born in Liverpool, Paul spent his formative years in West Africa, where his experience of coups and civil wars was to prove useful training for his career in advertising.</p>
 
-					<p>Sharon grew up in Grosse Pointe, MI, the city the Ford family has called home for generations. While her father initially wanted her to be in banking, she was lucky enough that a few of her neighbors worked for Ford. It was their love of cars that helped guide her path. So when Sharon looks back on those early years, it seems like it was a forgone conclusion that somehow her career would be aligned with Ford. Not that it started out that way.</p>
+					<p>Today, Paul serves as President, Client Services, Global Team Ford. In that position, he is responsible for leading and coordination the marketing communications for Ford on a global scale. Before his current position, Paul was the President of Team Detroit-Y&amp;R, developing marketing communications for Lincoln, Mercury, Ford Motor Credit and Lincoln Mercury Dealers’ Association.</p>
 
-					<p>To the contrary, her career began in politics. Sharon worked on the advance team for the Secretary of the Treasury and lived in Washington, D.C. She travelled the world for the Secretary gaining invaluable experiences. But four years of politics was enough for her (as it is for many of the Presidents our country has elected) and upon her return to Michigan, one of her goals was to find a way to help Detroit regain its grandeur. That, and she’d had enough of politics, at least the Washington, D.C. kind. Who could blame her?</p>
+					<p>Prior to his role with Y&R Team Detroit, Paul was WPP’s Director of Strategy on the Ford Motor Company account. Before that, Paul spent many years working for Y&amp;R in London, where he was the Managing Partner in charge of Ford of Britain and Land Rover.</p>
 
-					<p>Since her return Sharon has blazed a trail to the top. Prior to her current position at Team Detroit, she worked in Strategic Planning and on the Events and Alliances Team before moving over to Account management. It was there that she lead the Ford Truck business to new heights, made notable by the fact that this was accomplished during one of the lowest points in automotive sales history. Her current role sees her helping to lead Ford to a greater foothold in the American marketplace.</p>
-
-					<p>Sharon lives in Grosse Pointe (as if there was any doubt) with her 16-year-old daughter and 9-year-old son. When not working, she can be often be found recruiting one of her neighbors’ kids to get into the auto business.</p>
+					<p>Paul is a graduate of the University of Sussex and currently lives in Bloomfield Hills, Michigan with the four women in his life: wife Vickie, daughters Charlotte and Isabel: and dog Millie.</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>
@@ -130,7 +128,7 @@
 		
 	</div>
 
-	<?php include 'footer.php'; ?>
+	<?php include '../footer.php'; ?>
 
 </div>
 
@@ -142,9 +140,9 @@
 <script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
-<script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="../_/js/jquery.shadow-animation.min.js"></script>
+<script src="../_/js/jquery.easing.1.3.js"></script>
+<script src="../_/js/functions.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.

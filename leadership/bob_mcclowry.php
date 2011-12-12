@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Mike Bentley</title>
+	<title>Bob McClowry</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -41,23 +41,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	-->
 
-	<link rel="shortcut icon" href="_/img/favicon.ico">
+	<link rel="shortcut icon" href="../_/img/favicon.ico">
 	<!-- This is the traditional favicon.
 		 - size: 16x16 or 32x32
 		 - transparency is OK
 		 - see wikipedia for info on browser support: http://mky.be/favicon/ -->
 
-	<link rel="apple-touch-icon" href="_/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="../_/img/apple-touch-icon.png">
 	<!-- The is the icon for iOS's Web Clip.
 		 - size: 57x57 for older iPhones, 72x72 for iPads, 114x114 for iPhone4's retina display (IMHO, just go ahead and use the biggest one)
 		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style.css">
+	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 
 </head>
 
@@ -65,20 +65,20 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
-	<?php include 'header.php'; ?>
+	<?php include '../header.php'; ?>
 	
 	<div id="billboard-spacer"></div>
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="_/img/leadership/toby_barlow.jpg" alt=""></li>
-			<li><img src="_/img/leadership/mike_bentley.jpg" alt=""></li>
-			<li><img src="_/img/leadership/brad_audet.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/andrew_weil.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/bob_mclowery.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/bob_mclowery.jpg" alt=""></li>
 		</ul>
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Mike Bentley</span><span class="segment-leader-title">(Chief Strategy Officer)</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Bob McClowry</span><span class="segment-leader-title">(Managing Director, Retail First)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,13 +89,13 @@
 
 				<div class="content-info">
 
-					<p>In a sense, Mike is the most senior trainee at Team Detroit. Technically, we don’t hand out an office, a nice parking spot and those types of perks to traditional trainees, but Mike says that because he learns something new everyday, he still qualifies as one. It’s that curious nature which has helped him rise to become Team Detroit’s Chief Strategy Officer.</p>
+					<p>If your goal is to take over the country, Bob is your guy. He’s been there and done that. And then some. He’s the guy on the front lines working face-to-face with Ford dealers on a regular basis. Whether that means opening the Salt Lake City office for Ford dealers in Utah, Idaho, Nevada, Oregon and Wyoming or heading up the dealer group in Detroit, Bob knows how to forge relationships all over the country.</p>
 
-					<p>It’s a career he fell into – quite literally. After starting his professional life as a rock climber, Mike broke his back during a fall and had to turn to his fall-back career: thinking about thinking.</p>
+					<p>That’s because Bob doesn’t treat this as just a job. This is genuinely his career. He’s been working with Ford and Lincoln Mercury dealers his entire professional life so he’s able to bring a level of dedication and experience that few can. That, combined with everything else, makes Bob among the most valued members of Team Detroit.</p>
 
-					<p>Once in the strategy field, Mike has worked on brands including Sega, BT, Orange, Carling Black Label, Kronenbourg1664, The Scottish Office, Quaker Oats, Sugar Puffs, The Labour Party, Cadbury’s and a number of car brands, including Cadillac. It was there that he helped re-launch the brand with its successful “Break Through” campaign. If you’re noticing a heavy foreign emphasis in his work, it’s because Mike hails from the other side of the pond. That’s also why he still maintains his allegiance to the Liverpool Football Club – even after being in the States since 2001. After nearly a decade, he still refuses to call the sport “soccer:.</p>
+					<p>One of the advantages to seeing the country on Ford’s dime is that Bob has been able to indulge his love of golf by playing some of the country’s finest courses. He maintains that every round was strictly for business purposes.</p>
 
-					<p>Mike is married with one daughter. He won’t say if they call it “soccer” or “football”.</p>
+					<p>At home, Bob is the proud father of two grown children &mdash; one a special education teacher and the other a pre-med student.</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>
@@ -128,7 +128,7 @@
 		
 	</div>
 
-	<?php include 'footer.php'; ?>
+	<?php include '../footer.php'; ?>
 
 </div>
 
@@ -140,9 +140,9 @@
 <script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
-<script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="../_/js/jquery.shadow-animation.min.js"></script>
+<script src="../_/js/jquery.easing.1.3.js"></script>
+<script src="../_/js/functions.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.

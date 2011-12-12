@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Andy Prakken</title>
+	<title>Andrew J. Weil</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -41,23 +41,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	-->
 
-	<link rel="shortcut icon" href="_/img/favicon.ico">
+	<link rel="shortcut icon" href="../_/img/favicon.ico">
 	<!-- This is the traditional favicon.
 		 - size: 16x16 or 32x32
 		 - transparency is OK
 		 - see wikipedia for info on browser support: http://mky.be/favicon/ -->
 
-	<link rel="apple-touch-icon" href="_/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="../_/img/apple-touch-icon.png">
 	<!-- The is the icon for iOS's Web Clip.
 		 - size: 57x57 for older iPhones, 72x72 for iPads, 114x114 for iPhone4's retina display (IMHO, just go ahead and use the biggest one)
 		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style.css">
+	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 
 </head>
 
@@ -65,20 +65,20 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
-	<?php include 'header.php'; ?>
+	<?php include '../header.php'; ?>
 	
 	<div id="billboard-spacer"></div>
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="_/img/leadership/greg_braun.jpg" alt=""></li>
-			<li><img src="_/img/leadership/andy_prakken.jpg" alt=""></li>
-			<li><img src="_/img/leadership/michelle_silvestri.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/michelle_silvestri.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/andrew_weil.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/bob_mcclowry.jpg" alt=""></li>
 		</ul>
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Andy Prakken</span><span class="segment-leader-title">(Chief Media Officer)</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Andrew J. Weil</span><span class="segment-leader-title">(Chief Financial Officer)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,13 +89,15 @@
 
 				<div class="content-info">
 
-					<p>By combining his talents and work ethic, Andy Prakken has done what so few have. Namely, notching up an Emmy nomination as a guitar player and composer while rising to the top of the media game here in Detroit.</p>
+					<p>Andy is the numbers guy. The kind of person who scoffs at the TurboTax programs of the world. The kind of person who was always on the edge of his seat during Economics classes. The kind of person most people envied and admired in school. Which is exactly the type of person you want running the financial department of such a large and diverse organization like Team Detroit.</p>
 
-					<p>Some of his colleagues like to joke that Andy has been with the organization for so long that he used to kick it with ol’ Mr. Thompson (of J. Walter Thompson fame). The gentle ribbing only masks one salient point: in the transient nature of advertising, Andy has become a rock. He is one of the foundations of Team Detroit. Which is why it’s so fitting that he heads up the media team with his good nature and innovative thinking.</p>
+					<p>Andy is responsible for the financial management of Team Detroit and was instrumental in the establishment of Team Detroit as a single business unit. In addition to Finance, Andy is responsible for the IT, Facilities and Quality Functions.</p>
 
-					<p>Prior to his current role, Andy was EVP, Executive Director of Communication Services for JWT. In addition to experience that spans 20 diverse industries, Andy also led the Media/Communications discipline for JWT N.A., contributing to work on Ford, Kellogg’s, Merrill Lynch, US Marines, Kraft and Sprint as well high-profile new business wins, such as HSBC.</p>
+					<p>Prior to joining the ad agency world, Andy was the Accounting Director, Marketing and Sales at Ford. He also worked in various consulting roles at Coopers and Lybrand, and began his career at Ernst &amp; Young.</p>
 
-					<p>Even with all these responsibilities, he still finds time to spend with his wife and three kids and of course, plug into his amp to rip some solos. Except nowadays, when he plays his six-string, all Team Detroiters who watch him perform enjoy the guilty pleasure of saying, “We’re with the band.” After all, who hasn’t wanted to say that?</p>
+					<p>Andy holds an MBA in Finance and Management from Columbia Business School and an undergraduate degree from the State University of New York at Buffalo. He is a Certified Public Accountant (aka The anti-TurboTax).</p>
+
+					<p>Aside from spending time with his wife and four kids, Andy serves on several nonprofit boards – focused on education and overall community welfare – throughout the community.</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>
@@ -128,7 +130,7 @@
 		
 	</div>
 
-	<?php include 'footer.php'; ?>
+	<?php include '../footer.php'; ?>
 
 </div>
 
@@ -140,9 +142,9 @@
 <script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
-<script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="../_/js/jquery.shadow-animation.min.js"></script>
+<script src="../_/js/jquery.easing.1.3.js"></script>
+<script src="../_/js/functions.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.

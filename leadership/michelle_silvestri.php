@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Linda Taylor</title>
+	<title>Michelle Silvestri</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -41,23 +41,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	-->
 
-	<link rel="shortcut icon" href="_/img/favicon.ico">
+	<link rel="shortcut icon" href="../_/img/favicon.ico">
 	<!-- This is the traditional favicon.
 		 - size: 16x16 or 32x32
 		 - transparency is OK
 		 - see wikipedia for info on browser support: http://mky.be/favicon/ -->
 
-	<link rel="apple-touch-icon" href="_/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="../_/img/apple-touch-icon.png">
 	<!-- The is the icon for iOS's Web Clip.
 		 - size: 57x57 for older iPhones, 72x72 for iPads, 114x114 for iPhone4's retina display (IMHO, just go ahead and use the biggest one)
 		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style.css">
+	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 
 </head>
 
@@ -65,20 +65,20 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
-	<?php include 'header.php'; ?>
+	<?php include '../header.php'; ?>
 	
 	<div id="billboard-spacer"></div>
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="_/img/leadership/satish_korde.jpg" alt=""></li>
-			<li><img src="_/img/leadership/linda_taylor.jpg" alt=""></li>
-			<li><img src="_/img/leadership/paul_venn.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/andy_prakken.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/michelle_silvestri.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/andrew_weil.jpg" alt=""></li>
 		</ul>
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Linda Taylor</span><span class="segment-leader-title">(Chief Talent Officer)</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Michele Silvestri</span><span class="segment-leader-title">(SVP, Global Director of Design)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,13 +89,15 @@
 
 				<div class="content-info">
 
-					<p>What do you say about the head of a Human Resources department that looks out for more than 1,000 people? Whatever it is, you better be on your best behavior. This is HR, after all.</p>
+					<p>As our Design evangelist, Michele oversees the role strategic design plays in the creation of beautiful, engaging and effective work for all of our Clients’ brands. For our largest client, Ford, Michele’s duties take on a global scale, working in collaboration with our partner offices in London, Shanghai, Buenos Aires, Sao Paulo and Toronto to ensure that each idea is brought to life, both conceptually and aesthetically, in a way that makes an emotional connection with a consumer.</p>
 
-					<p>But Linda Taylor has made a career out of not making a visit to HR feel like a visit to the principle’s office. With over a decade in the business at agencies as varied as Cambell-Ewald, JWT and Leo Burnett, Linda has attracted and retained some of the leading talent all over the world, from working on the development and staffing of JWT Digital in the late ’90s to media, traditional and everything else in between.</p>
+					<p>Creative leadership and problem solving skills aside, it’s her endless enthusiasm, positive outlook and passion for design that continually motivate those around her. A rare-breed creative, her keen intuition  and both left and right brain sensibilities set her apart as a  trusted advisor.</p>
 
-					<p>More than bringing new employees in to satisfy a job opening, Linda has found a way to keep those people here by training them and nurturing their specific skills. It’s not an easy job. So it’s impressive that through it all, Linda has found a way to remain kind, diplomatic and focused on keeping the employees of Team Detroit happy.</p>
+					<p>Prior to directing Design at Team Detroit, Michele has worked in a design capacity at JWT, FCB, Bozell, and Perich & Partners on a variety of both Automotive and Non-Automotive Brands. A graduate with honors from the University of Michigan School of Art + Design, Michele not only bleeds Maize and Blue but a true passion for all things creative.</p>
 
-					<p>Married, with two children, Linda loves boating, traveling and theater.</p>
+					<p>She served consecutive terms on the Executive Board of AIGA Detroit, the Professional Association for Design and remains active in the local design community. Throughout her career Michele has been honored with numerous and varied awards, including EFFIEs, CADDYs, D-Show, AIGA, as well as being published in Communication Arts and most recently the Annual of the Type Directors Club, Typography 32.</p>
+
+					<p>On a personal note, Michele loves eating, drinking great wine,  earned a Black Belt (which reserves her the right to claim to ninja when necessary) and that her serious shoe obsession is genetic. Her proudest accomplishment? Motherhood to the coolest little boy on the planet.</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>
@@ -128,7 +130,7 @@
 		
 	</div>
 
-	<?php include 'footer.php'; ?>
+	<?php include '../footer.php'; ?>
 
 </div>
 
@@ -140,9 +142,9 @@
 <script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
-<script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="../_/js/jquery.shadow-animation.min.js"></script>
+<script src="../_/js/jquery.easing.1.3.js"></script>
+<script src="../_/js/functions.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.

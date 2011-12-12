@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Scott Lange</title>
+	<title>Mike Bentley</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -41,23 +41,23 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	-->
 
-	<link rel="shortcut icon" href="_/img/favicon.ico">
+	<link rel="shortcut icon" href="../_/img/favicon.ico">
 	<!-- This is the traditional favicon.
 		 - size: 16x16 or 32x32
 		 - transparency is OK
 		 - see wikipedia for info on browser support: http://mky.be/favicon/ -->
 
-	<link rel="apple-touch-icon" href="_/img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" href="../_/img/apple-touch-icon.png">
 	<!-- The is the icon for iOS's Web Clip.
 		 - size: 57x57 for older iPhones, 72x72 for iPads, 114x114 for iPhone4's retina display (IMHO, just go ahead and use the biggest one)
 		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
-	<link rel="stylesheet" href="_/css/style.css">
+	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 
 </head>
 
@@ -65,20 +65,20 @@
 
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
-	<?php include 'header.php'; ?>
+	<?php include '../header.php'; ?>
 	
 	<div id="billboard-spacer"></div>
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="_/img/leadership/bob_mcclowry.jpg" alt=""></li>
-			<li><img src="_/img/leadership/scott_lange.jpg" alt=""></li>
-			<li><img src="_/img/leadership/toby_barlow.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/toby_barlow.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/mike_bentley.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/brad_audet.jpg" alt=""></li>
 		</ul>
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Scott Lange</span><span class="segment-leader-title">(Executive Creative Director, Digital)</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Mike Bentley</span><span class="segment-leader-title">(Chief Strategy Officer)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,13 +89,13 @@
 
 				<div class="content-info">
 
-					<p>In the digital world, you quickly learn two things: have a thick skin and learn how to defend your work. So who better to do that than someone who spent time in the United States Army Reserve on a Howitzer heavy artillery gun crew? In short, that&lsquo;s Scott Lange, our Executive Creative Director of Digital.</p>
+					<p>In a sense, Mike is the most senior trainee at Team Detroit. Technically, we don’t hand out an office, a nice parking spot and those types of perks to traditional trainees, but Mike says that because he learns something new everyday, he still qualifies as one. It’s that curious nature which has helped him rise to become Team Detroit’s Chief Strategy Officer.</p>
 
-					<p>Before taking up arms for our country, Scott graduated with a BFA in Graphic Design from the College for Creative Studies in Detroit, MI. Since then, he has migrated through the Detroit advertising community working on accounts that include Ford, Lincoln, Mercury, Jeep, Chrysler, Dodge, The Coleman Company, Warner Brothers Pictures, Comedy Central Brands, Chevrolet, the US Navy, Consumers Energy and more.</p>
+					<p>It’s a career he fell into – quite literally. After starting his professional life as a rock climber, Mike broke his back during a fall and had to turn to his fall-back career: thinking about thinking.</p>
 
-					<p>Scott’s specialty is leading cross-discipline creative groups in idea generation around a solid strategy. He is an integrator, matching the strengths of diverse groups in order to produce unexpected solutions to common problems, and insightful digital experiences.</p>
+					<p>Once in the strategy field, Mike has worked on brands including Sega, BT, Orange, Carling Black Label, Kronenbourg1664, The Scottish Office, Quaker Oats, Sugar Puffs, The Labour Party, Cadbury’s and a number of car brands, including Cadillac. It was there that he helped re-launch the brand with its successful “Break Through” campaign. If you’re noticing a heavy foreign emphasis in his work, it’s because Mike hails from the other side of the pond. That’s also why he still maintains his allegiance to the Liverpool Football Club – even after being in the States since 2001. After nearly a decade, he still refuses to call the sport “soccer:.</p>
 
-					<p>Scott has been recognized by the Cannes International Advertising Festival, the International Automotive Advertising Awards, New York Festivals, The One Show, and the Favourite Website Awards to name a few. He lives in Birmingham, Michigan with his wife, Nancy, and his two children.</p>
+					<p>Mike is married with one daughter. He won’t say if they call it “soccer” or “football”.</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>
@@ -128,7 +128,7 @@
 		
 	</div>
 
-	<?php include 'footer.php'; ?>
+	<?php include '../footer.php'; ?>
 
 </div>
 
@@ -140,9 +140,9 @@
 <script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
-<script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="../_/js/jquery.shadow-animation.min.js"></script>
+<script src="../_/js/jquery.easing.1.3.js"></script>
+<script src="../_/js/functions.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.
