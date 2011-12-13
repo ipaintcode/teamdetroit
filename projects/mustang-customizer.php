@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Bosch</title>
+	<title>Mustang Customizer</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,7 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Bosch</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Mustang Customizer</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -88,12 +88,16 @@
 			<section class="content-info-wrapper double">
 
 				<article class="content-info">
-
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
-
-					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
 					
-					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
+					<h3>Putting Mustang Design in the Hands of Enthusiasts</h3>
+					
+					<p>We could have created a forum for people to talk about that Mustang they’ve always dreamed about, but instead we created the ultimate tool for them to build it.</p>
+					
+					<p>The new Ford Mustang Customizer presented users with a base design for the V6, GT, Boss 302 or Shelby GT 500 and let them run wild with it. From color to hood design to stripes and decals, we gave enthusiasts more ways than ever to make it their own.</p>
+					
+					<p>And because it’s not the type of car you hide, we made it easy for fans to connect through Facebook to share and store all of their customized Mustangs and encourage others to join in the fun. We also created a battle mode so they could compete against friends for bragging rights and opened it up to voting to let the people decide on the ultimate customized Mustang.</p>
+					
+					<p>Customizer apps for iPhone and Android allowed fans to build a dream Mustang on the go and ensured that no matter where you were at, you’d never have to back down from a battle.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -112,18 +116,18 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Customers love to make Mustang their own, one that suits their taste; this is the perfect way to let them test out their design and imagine what's possible.</p>
+					 	<p class="content-quote-author">&ndash; Jim Owens <span>(Mustang marketing manager)</span></p>
 					 </blockquote>
 				
 				</div>
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		

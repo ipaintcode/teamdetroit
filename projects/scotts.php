@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Bosch</title>
+	<title>Scotts</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,7 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Bosch</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Scotts Independent Retailer Print</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,11 +89,11 @@
 
 				<article class="content-info">
 
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
-
-					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
+					<p>Scotts has had a long relationship with Independent Retailers throughout its history. It was the Independents that helped make Scotts what it is today. So in order to show those retailers how important they are to the company, Scotts released a line of products exclusively for Independent Retailers. Products that will never make it to the shelves of Big Box stores.</p>
 					
-					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
+					<p>This campaign is meant to raise awareness in the Independent garden centers and hardware stores and show them that Scotts is offering products to help their business succeed. That because of these exclusive products, customers will be going to them instead of the bigger, chain stores.</p>
+					
+					<p>This campaign increased confidence in Independent Retailers and strengthened their relationship with Scotts.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -112,18 +112,18 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Pickup truck owners have liked V6 engines about as much as they like man purses.</p>
+					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
 				</div>
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		

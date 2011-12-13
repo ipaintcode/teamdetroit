@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Bosch</title>
+	<title>Mustang</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,7 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Bosch</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Mustang</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -88,12 +88,12 @@
 			<section class="content-info-wrapper double">
 
 				<article class="content-info">
-
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
-
-					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
 					
-					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
+					<h3>How the new Mustang campaign came to be</h3>
+
+					<p>When Ford redesigned the Mustang, they didn’t completely change it. Sure, the new model got much better gas mileage than before, and was filled with more smart technology. But at the center of it all was the same adrenaline-inducing car that America fell in love with in 1964.</p>
+					
+					<p>The goal here was to show Mustang enthusiasts that making a car more fuel-efficient doesn’t mean you have to slow it down any.  And what better way to illustrate that than showing the Mustang do all the things that made it legendary? The work put a spotlight on the car’s performance, both on the track and at the pump.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -112,18 +112,18 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>The campaign sent Mustang enthusiasts’ hearts racing. And won over many new enthusiasts in the process.</p>
+					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
 				</div>
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		

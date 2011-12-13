@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Bosch</title>
+	<title>Warrior</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,7 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Bosch</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Warrior</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,11 +89,17 @@
 
 				<article class="content-info">
 
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
-
-					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
+					<h3>Warrior “Manchine” Print<span>There’s nothing more manly than asserting your manliness in the most manly way possible.</span></h3>
 					
-					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
+					<p>Since the beginning of the Manchine campaign, Warrior has been taking over the covers of Lacrosse publications and catalogs. Each cover wrap is a representation of what makes a Manchine.</p>
+
+					<p>From the laboratory to the field and, in this case, into the woods, Manchine’s alpha male attitude continues to resonate with Warrior Lacrosse players.</p>
+					
+					<h3>Warrior “Manchine” TV :30<span>With the right gear, you become more than a man.</span></h3>
+					
+					<p>Warrior represents and equips the leaders of lacrosse and hockey. For TV, we combined the intensity of the game with Warrior’s alpha male attitude to create the Manchine campaign.</p>
+
+					<p>&ldquo;Manchine&rdquo; became part of the player&rsquo;s vernacular, and Warrior Lacrosee became a brand worth talking about.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -112,18 +118,18 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>We built a program with richer, more complex, more intense uses of social media than had ever been used in a launch.</p>
+					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
 				</div>
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		

@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Bosch</title>
+	<title>Explorer Live</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,7 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Bosch</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Explorer Live</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,11 +89,17 @@
 
 				<article class="content-info">
 
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
-
-					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
+					<p>Ford was completely reinventing the SUV to be greener and smarter, with a stunning suite of technology, spectacular fuel economy and a sleek, &ldquo;ripped&rdquo; physique. So we needed to reinvent the SUV launch.</p>
 					
-					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
+					<p>Our first step? Dial up the social media. We built a program with richer, more complex, more intense uses of social media than had ever been used in a launch.</p>
+					
+					<p>It all began six months prior to the launch, when we started our Explorer Facebook fan page: a go-to, insider-info hub called “Explorer Live.” People could ask Explorer questions and get lightning-fast Explorer answers, straight from the experts at Ford. The page gave people a place to compliment. Criticize. React.</p>
+					
+					<p>Explorer Live gave us a 24/7 line of communication, allowing us to build excitement around the first public reveal of Explorer. It was the first live-on-Facebook introduction of an SUV.</p>
+					
+					<p>Once we revealed the sheet metal, we knew the questions would ramp up. So Explorer Live got amped with a Rapid-Response “answer man” brought in to continue the conversation. Imagine: a giant automaker answering individual fans’ questions with text, photos even videos, sometimes within 48 hours of the question being asked.</p>
+					
+					<p>To generate even more buzz, we enlisted TV stars, musicians, and other celebrities to help us answer the barrage of questions. This drove almost a million people to watch the Explorer live content online, and each time they watched, they learned something new.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -112,18 +118,18 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>We built a program with richer, more complex, more intense uses of social media than had ever been used in a launch.</p>
+					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
 				</div>
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		

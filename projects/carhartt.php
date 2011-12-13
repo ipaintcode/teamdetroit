@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Bosch</title>
+	<title>Carhartt</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,7 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Bosch</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Carhartt &ldquo;Wolves&quot; and &ldquo;Hands&rdquo; TV.</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -88,12 +88,12 @@
 			<section class="content-info-wrapper double">
 
 				<article class="content-info">
-
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
-
-					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
 					
-					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
+					<h3>An American icon re-introduces itself to America.</h3>
+
+					<p>When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you by the collar. And the &ldquo;Wolves&rdquo; TV spot for Carhartt certainly did that &mdash; although, in the commercial, the wolf actually grabs the Carhartt wearer by the sleeve. Everyone knew Carhartt was tough enough to protect you from everyday on-the-job nicks and scraps, but who knew Carhartt could also protect you from a ravenous wolf? The &ldquo;Wolves&rdquo; commercial certainly got noticed by America. As it turns out, it also got noticed by the judges of the world&rsquo;s most prestigious advertising awards show. In 2010, they named &ldquo;Wolves&rdquo; to the Cannes Lions&rsquo; short list of the best apparel commercials in the world.</p>
+					
+					<p>So how do you follow up a success like &ldquo;Wolves?&rdquo; It not easy, but it appears this year&rsquo;s &ldquo;Hands&rdquo; TV spot is well on the way. It&rsquo;s an ode to workingmen and women and to the values and traditions they embody. Since Carhartt is a Michigan company, &ldquo;Hands&rdquo; is also a tip of the hat to the state known for its hard-working men and women. The music for &ldquo;Hands&rdquo; was composed by a professor at the University of Michigan. The voice on the commercial is  Mickey Redmond,  the &ldquo;Voice of the Red Wings.&rdquo; It was our way of giving back to the state and to the values that have given us so much.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -120,10 +120,10 @@
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		

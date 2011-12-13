@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Bosch</title>
+	<title>CCS</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,7 +78,8 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Bosch</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Today’s teenagers are the most connected</span></h2>
+		<!-- <h2 class="center min-max"><span class="segment-header-spacer">Today’s teenagers are the most connected, plugged in generation ever. But our work for Detroit’s College for Creative Studies proves you could still reach them using low-tech communication.</span></h2> -->
 	</div>
 
 	<div class="content-wrapper">
@@ -88,13 +89,14 @@
 			<section class="content-info-wrapper double">
 
 				<article class="content-info">
-
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
-
-					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
 					
-					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
+					<h3>Why we used posters to talk to tech-savvy teenagers</h3>
+
+					<p>Every year, colleges and universities compete against each other to bring the brightest students to their campus.  As eighteen-year-olds have gotten more and more technologically advanced, so have the messages that schools use to reach them. These days, colleges spend thousands of dollars per prospective student to reach their target audience.</p>
+					
+					<p>When Detroit&rsquo;s iconic art and design school, the College for Creative Studies, asked us to create a campaign for them, we knew outspending the competition wasn&rsquo;t an option. So, we decided to outthink them instead.  Our key insight came when we saw a group of our interns huddled next to our bulletin board looking at flyers. After realizing they all were CCS students, we put two and two together and realized it was possible to reach our tech-savvy target with one of the world&rsquo;s oldest forms of communication &mdash; posters.</p>
 				
+					<p>After we created this series of low-tech posters, something amazing happened. They went viral. People started sharing them though blogs, Facebook and Twitter.  People chuckled, then passed them along to their friends. Who knew you could blow up the Internet with a campaign full of print material?</p>
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>
@@ -120,10 +122,10 @@
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		

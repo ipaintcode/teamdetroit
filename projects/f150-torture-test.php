@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Bosch</title>
+	<title>F-150 Torture Test</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,7 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Bosch</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">F-150 Torture Test</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -89,11 +89,15 @@
 
 				<article class="content-info">
 
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
-
-					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
+					<p>Pickup truck owners have liked V6 engines about as much as they like man purses. But then Ford introduced a radical new V6 that could tow more, haul more and get better fuel economy than any V8.  All we had to do was convince truck guys that this V6 was tough enough for them. Convince skeptical truck guys who told us they need to &ldquo;see it before they&rsquo;ll believe it.&rdquo;</p>
 					
-					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
+					<p>So how did we prove EcoBoost was Built Ford tough? We tortured the living daylights out of it.</p>
+					
+					<p>We dreamed up six sick and twisted episodic videos created exclusively for the web. Collectively, they document the journey of one randomly selected EcoBoost engine as it endures over 160,000 miles of torture:</p>
+					
+					<p>Like 150,000 punishing miles on the dyno. 55 tons of timber hauled up a steep mountain grade. 11,300 pounds towed for 24 hours at full throttle. 1000 miles across the Baja desert. And a full-on throw-down against larger V8s in a grueling uphill race.</p>
+					
+					<p>In the end, Engine 448AA absorbed 165,000 miles of abuse, yet held to cross nearly every state line. We fried it, we froze it, we gave it hell. We beat ourselves to a pulp trying to kill it, but it just laughed in our face.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -112,18 +116,18 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Pickup truck owners have liked V6 engines about as much as they like man purses.</p>
+					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
 				</div>
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		

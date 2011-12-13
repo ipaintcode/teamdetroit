@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Bosch</title>
+	<title>Focus Doug</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,7 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Bosch</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Focus Doug</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -88,12 +88,61 @@
 			<section class="content-info-wrapper double">
 
 				<article class="content-info">
-
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
-
-					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
 					
-					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
+					<h3>When people shopped for small cars, they didn’t shop for the Focus.</h3>
+					
+					<p>
+					Most, especially the young, socially-connected types we wanted to talk to, thought of the Focus as a tin can or, worse, didn’t think about it at all. 
+					</p>
+
+					<p>
+					The only ones who were talking about it were the haters.
+					</p>
+
+					<p>
+					So how do we start a conversation with them about the all-new 2012 Focus? Who could convince them this small car from Ford was worth a look?
+					</p>
+
+					<p>
+					We knew this audience wouldn’t listen to your typical corporate spokesperson. So we collaborated with writers and directors from shows like The Office and The Simpsons to create funny, entertaining content that would get people talking about the Focus.
+					</p>
+
+					<p>
+					To keep people engaged we released new videos each week for 28 weeks straight.
+					</p>
+
+					<p>
+					And helped drive traffic to the videos through relevant online placements and partnerships. 
+					</p>
+
+					<p>
+					We dedicated a team of writers to Doug and John’s Facebook and Twitter pages and because fans became so hooked, they had to respond in character almost 24/7.
+					</p>
+
+					<p>
+					Media coverage of Doug also helped to generate buzz throughout the campaign.
+					</p>
+
+					<p>
+					And as his reach expanded, we noticed people were confiding in Doug more and more and started to ask him more questions about the Focus.
+					</p>
+
+					<p>
+					We continued to respond by creating videos that incorporated more of the car and its high tech features. 
+					</p>
+
+					<p>
+					In the midst of all the entertaining, we put a spotlight on our 2012 Focus and the Ford brand in a fresh, innovative way.
+					</p>
+
+					<p>
+					Causing fans not only to become advocates for Doug, but also to become advocates for the Focus. Some even going as far as saying they bought a Focus because of him.
+					</p>
+
+					<p>
+					All proof that you should never, ever underestimate a puppet. 
+					</p>
+					
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -120,10 +169,10 @@
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		
