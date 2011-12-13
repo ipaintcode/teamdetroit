@@ -117,10 +117,10 @@
 
 			</aside>
 			
-			<ul class="secondary-nav">
+			<!-- <ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul>
+			</ul> -->
 		
 		</div>
 		
