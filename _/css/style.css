@@ -351,6 +351,10 @@ header {
 /* Content (Projects, Leaders, Culture pages)
 -------------------------------------------------------------------------------*/
 
+.content-wrapper {
+	overflow: hidden;
+}
+
 .content-info-wrapper {
 	float: left;
 	margin-top: 36px;
