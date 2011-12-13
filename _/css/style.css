@@ -368,6 +368,26 @@ header {
 	margin-bottom: 30px;
 }
 
+.content-info a {
+	text-decoration: none;
+	color: #ED1B2E;
+}
+
+.content-info .content-italic {
+	font-style: italic;
+}
+
+.content-info .content-list {
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.content-info .content-list li:first-child {
+	margin-bottom: 10px;
+	font-size: 18px;
+}
+
 .content-info-social {
 	margin: 60px 0 60px 0;
 }
