@@ -286,7 +286,7 @@
 					<a href="leadership/mike-treppa.php">
 						<h3>Mike Treppa</h3>
 						<div class="color-swatch-leader color-swatch"></div>
-						<img src="_/img/leadership/michelle_silvestri_thumb.jpg" alt="">
+						<img src="_/img/leadership/mike_treppa_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
