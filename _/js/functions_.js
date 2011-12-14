@@ -116,7 +116,7 @@ $(document).ready(function() {
 			});
 
 			$('.friends-list').css('opacity', 0);
-			$('.friends-list').html('<img src="img/aboutus/friends-list.png" alt="Friends List">');
+			$('.friends-list').html('<img src="_/img/aboutus/friends-list.png" alt="Friends List">');
 			$('.friends-list').animate({
 				opacity: 1
 			}, 600, function() {
