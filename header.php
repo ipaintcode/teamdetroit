@@ -57,12 +57,12 @@ $html = file_get_html('http://wdetfm.org/listenlive/');
 		<nav>
 
 			<ul>
-				<li><a href="work.php">Work</a></li>
-				<li><a href="aboutus.php">About Us</a></li>
-				<li><a href="culture.php">Culture</a></li>
-				<li><a href="careers.php">Careers</a></li>
+				<li><a href="/work.php">Work</a></li>
+				<li><a href="/aboutus.php">About Us</a></li>
+				<li><a href="/culture.php">Culture</a></li>
+				<li><a href="/careers.php">Careers</a></li>
 				<!-- <li><a href="voicebox.php">Voicebox</a></li> -->
-				<li><a href="contact.php">Contact</a></li>
+				<li><a href="/contact.php">Contact</a></li>
 			</ul>
 
 		</nav>

@@ -1,0 +1,1057 @@
+/*
+	HTML5 Reset :: style.css
+	----------------------------------------------------------
+	We have learned much from/been inspired by/taken code where offered from:
+	
+	Eric Meyer               					:: http://ericmeyer.com
+	HTML5 Doctor             				:: http://html5doctor.com
+	and the HTML5 Boilerplate	:: http://html5boilerplate.com
+	
+-------------------------------------------------------------------------------*/
+
+/* Let's default this puppy out
+-------------------------------------------------------------------------------*/
+
+html, body, body div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, hgroup, menu, nav, section, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}		
+
+.colors {
+	background: #c80535;
+}							
+
+article, aside, figure, footer, header, hgroup, nav, section {display: block;}
+
+/* Responsive images and other embedded objects
+   Note: keeping IMG here will cause problems if you're using foreground images as sprites.
+   If this default setting for images is causing issues, you might want to replace it with a .responsive class instead. */
+img,
+object,
+embed {max-width: 100%;}
+
+/* force a vertical scrollbar to prevent a jumpy page */
+html {overflow-y: scroll;}
+
+/* we use a lot of ULs that aren't bulleted. 
+	don't forget to restore the bullets within content. */
+ul, ol {list-style: none;}
+
+blockquote, q {quotes: none;}
+
+blockquote:before, 
+blockquote:after, 
+q:before, 
+q:after {content: ''; content: none;}
+
+a {margin: 0; padding: 0; font-size: 100%; vertical-align: baseline; background: transparent;}
+
+del {text-decoration: line-through;}
+
+abbr[title], dfn[title] {border-bottom: 1px dotted #000; cursor: help;}
+
+/* tables still need cellspacing="0" in the markup */
+table {border-collapse: collapse; border-spacing: 0;}
+th {font-weight: bold; vertical-align: bottom;}
+td {font-weight: normal; vertical-align: top;}
+
+hr {display: block; height: 1px; border: 0; border-top: 1px solid #ccc; margin: 1em 0; padding: 0;}
+
+input, select {vertical-align: middle;}
+
+pre {
+	white-space: pre; /* CSS2 */
+	white-space: pre-wrap; /* CSS 2.1 */
+	white-space: pre-line; /* CSS 3 (and 2.1 as well, actually) */
+	word-wrap: break-word; /* IE */
+}
+
+input[type="radio"] {vertical-align: text-bottom;}
+input[type="checkbox"] {vertical-align: bottom; *vertical-align: baseline;}
+.ie6 input {vertical-align: text-bottom;}
+
+select, input, textarea {font: 99% sans-serif;}
+
+table {font-size: inherit; font: 100%;}
+ 
+/* Accessible focus treatment
+	people.opera.com/patrickl/experiments/keyboard/test */
+a:hover, a:active {outline: none;}
+
+small {font-size: 85%;}
+
+strong, th {font-weight: bold;}
+
+td, td img {vertical-align: top;} 
+
+/* Make sure sup and sub don't screw with your line-heights
+	gist.github.com/413930 */
+sub, sup {font-size: 75%; line-height: 0; position: relative;}
+sup {top: -0.5em;}
+sub {bottom: -0.25em;}
+
+/* standardize any monospaced elements */
+pre, code, kbd, samp {font-family: monospace, sans-serif;}
+
+/* hand cursor on clickable elements */
+.clickable,
+label, 
+input[type=button], 
+input[type=submit], 
+button {cursor: pointer;}
+
+/* Webkit browsers add a 2px margin outside the chrome of form elements */
+button, input, select, textarea {margin: 0;}
+
+/* make buttons play nice in IE */
+button {width: auto; overflow: visible;}
+ 
+/* scale images in IE7 more attractively */
+.ie7 img {-ms-interpolation-mode: bicubic;}
+
+/* prevent BG image flicker upon hover */
+.ie6 html {filter: expression(document.execCommand("BackgroundImageCache", false, true));}
+
+/* let's clear some floats */
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }  
+.clearfix:after { clear: both; }  
+.clearfix { zoom: 1; }  
+
+
+
+/* Ok, this is where the fun starts.
+-------------------------------------------------------------------------------*/
+
+/* new Linux- and Windows-friendly sans-serif font stack: http://mky.be/fontstack */
+body {font: 13px Helmet, Freesans, sans-serif;}
+
+/* using local fonts? make sure to read up on Paul Irish's 
+	Bulletproof @font-face syntax: http://mky.be/font-face/bulletproof/ */
+
+/* we like off-black for text */
+body, select, input, textarea {color: #333;}
+
+a {color: #03f;}
+a:hover {color: #69f;}
+
+/* Custom text-selection colors (remove any text shadows: twitter.com/miketaylr/status/12228805301) */
+::-moz-selection{background: black; color: #fff; text-shadow: none;}
+::selection {background: black; color: #fff; text-shadow: none;} 
+
+/*	j.mp/webkit-tap-highlight-color */
+a:link {-webkit-tap-highlight-color: #fcd700;} 
+
+ins {background-color: #fcd700; color: #000; text-decoration: none;}
+mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: bold;}
+
+/* @font-face styles!
+-------------------------------------------------------------------------------*/
+
+@font-face {
+	font-family: 'ProximaNovaBold';
+	src: url('../fonts/bold/ProximaNova-Bold-webfont.eot');
+	src: local('☺'), url('../fonts/bold/ProximaNova-Bold-webfont.woff') format('woff'), url('../fonts/bold/ProximaNova-Bold-webfont.ttf') format('truetype'), url('../fonts/bold/ProximaNova-Bold-webfont.svg#webfontPkpOAKCy') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaRegular';
+	src: url('../fonts/regular/ProximaNova-Reg-webfont.eot');
+	src: local('☺'), url('../fonts/regular/ProximaNova-Reg-webfont.woff') format('woff'), url('../fonts/regular/ProximaNova-Reg-webfont.ttf') format('truetype'), url('../fonts/regular/ProximaNova-Reg-webfont.svg#webfontKqnc2168') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaSemibold';
+	src: url('../fonts/semibold/ProximaNova-Sbold-webfont.eot');
+	src: local('☺'), url('../fonts/semibold/ProximaNova-Sbold-webfont.woff') format('woff'), url('../fonts/semibold/ProximaNova-Sbold-webfont.ttf') format('truetype'), url('../fonts/semibold/ProximaNova-Sbold-webfont.svg#webfontILGjOKPE') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'ProximaNovaLight';
+	src: url('../fonts/light/ProximaNova-Light-webfont.eot');
+	src: local('☺'), url('../fonts/light/ProximaNova-Light-webfont.woff') format('woff'), url('../fonts/light/ProximaNova-Light-webfont.ttf') format('truetype'), url('../fonts/light/ProximaNova-Light-webfont.svg#webfontILGjOKPE') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* HERE HERE */
+
+.headline-leader-ext {
+	font-size: 12px;
+	font-weight: normal;
+	margin-left: 10px;
+}
+
+.project-nav {
+	position: absolute;
+	left: 35.2%;
+	bottom: 0;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.project-nav li {
+	float: left;
+	height: 40px;
+}
+
+.project-nav a {
+	height: 40px;
+	display:table-cell;
+	text-decoration: none;
+	text-align: center;
+	vertical-align: middle;
+	color: #383838;
+	font-size: 14px;
+	padding: 0 15px;
+	background: white;
+}
+
+.project-nav .prev {
+	border: 1px dashed #ccc;
+	border-bottom: none;
+	border-right: none;
+	overflow: hidden;
+	opacity: 0;
+	background: white;
+}
+
+.project-nav .next {
+	border: 1px dashed #ccc;
+	border-left: none;
+	border-bottom: none;
+	overflow: hidden;
+	opacity: 0;
+	background: white;
+}
+
+.project-nav .pagenate {
+	border: 1px dashed #ccc;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+	letter-spacing: -1px;
+	color: white;
+	background: white url('../../img/pagenate.png') no-repeat  top center;
+}
+
+.project-nav .pagenate span {
+	opacity: .5;
+}
+
+.project-nav .pagenate a {
+	opacity: 0;
+}
+
+/* Global styles!
+-------------------------------------------------------------------------------*/
+
+.wrapper {
+	opacity: 0;
+}
+
+.min-max {
+	min-width: 960px;
+	max-width: 1440px;
+	width: 960px;
+}
+
+.center {
+	margin: 0 auto;
+	position: relative;
+}
+
+.single {
+	width: 33.33%;
+}
+
+.double {
+	width: 66.66%;
+}
+
+.triple {
+	width: 100%;
+}
+
+/* global navigation
+-------------------------------------------------------------------------------*/
+
+.stream {
+	z-index: 10000;
+}
+header {
+	position: fixed;
+	overflow: hidden;
+	background: white;
+	background: rgba(255, 255, 255, .97);
+	z-index: 50000;
+	width: 100%;
+	top: 0;
+	border-bottom: 1px dashed #cecece;
+}
+
+.teamdetroit a {
+	margin-top: 40px;
+	margin-bottom: 9px;
+	margin-left: -15px;
+	float: left;
+	display: block;
+	height: 44px;
+	width: 148px;
+	text-indent: -9999px;
+	background: url('../../img/teamdetroit.png') no-repeat top left;
+}
+
+.main-nav ul {
+	float: right;
+	margin-right: 18px;
+}
+
+.main-nav li {
+	padding-top: 71px;
+	float: left;
+}
+
+.color-swatch-leader {
+	background: #d31e4e;
+	box-shadow: inset 0 0 0 rgb(144,20,53);
+}
+
+.grid-ext-leader .color-swatch-leader:nth-child(even) {
+	background: #b0002f;
+	box-shadow: inset 0 0 0 rgb(50,1	0,23);
+}
+
+ol.grid-ext-leader li h3 {
+	line-height: 18px;
+	width: 80px;
+	opacity: 0;
+	font-size: 16px;
+	text-align: center;
+	left: -5px;
+	text-shadow: rgba(0, 0, 0, .1) 3px 3px 0;
+}
+
+.main-nav li a {
+	margin-left: 50px;
+	color: #939598;
+	text-decoration: none;
+	font-size: 14px;
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+}
+
+.main-nav li a:hover {
+	color: black;
+}
+
+/* billboard
+-------------------------------------------------------------------------------*/
+
+.billboard {
+	margin-top: 98px;
+	background: white;
+} 
+
+.billboard img {
+	display: block;
+}
+
+.billboard-alt {
+	margin-top: 98px;
+}
+
+.billboard > div > ul a {
+	display: block;
+	width: 45px; height: 39px;
+	text-indent: -9999px;
+	position: absolute;
+	left: 49%;
+	bottom: 0;
+	background: url('../../img/down-arrow.png') no-repeat top left;
+}
+
+/* grid module
+-------------------------------------------------------------------------------*/
+
+.grid {
+	display: block;
+	overflow: hidden;
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+}
+
+.grid a {
+	text-decoration: none;
+}
+
+.grid li {
+	float: left;
+	position: relative;
+	overflow: hidden;
+}
+
+.grid img {
+	display: block;
+	height: auto;
+}
+
+.grid h3 {
+	top: 0; left: 0;
+	margin-left: 3%;
+	vertical-align: center;
+	position: absolute;
+	line-height: 30px;
+	font-size: 35px;
+	margin-top: 40%;
+	margin-left: 25px;
+	z-index: 20000;
+	/*opacity: 0;*/
+	/*font-family: Georgia, "Times New Roman", Times, serif;*/
+}
+
+.addShadow {
+	/*text-shadow: 2px 4px 0 rgba(0,0,0,.15);*/
+}
+
+.grid-ext-leader {
+	width: 50%;
+	background: #be0738;
+	float: left;
+}
+
+.grid-ext-leader li {
+	width: 25%;
+	font-size: 12px;
+}
+
+.grid-ext-leader li h3 {
+	color: white;
+	font-size: 12px;
+}
+
+.grid li a {
+	color: #ffffff;
+}
+
+.view-project {
+	position: absolute;
+	bottom: 10px; right: -100px;
+	width: 80px; height: 50px;
+	background-size: 50px 50px;
+	font-style: italic;
+	line-height: 50px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	overflow: hidden;
+	z-index: 1000;
+}
+
+.color-swatch {
+	width: 100%;
+	height: 0;
+	position: absolute;
+	top: 0; left: 0;
+	opacity: 0;
+	box-shadow: inset 0 0 0 #000;
+}
+
+.home-work .copy {
+	position: absolute;
+	left: 25px;
+	opacity: 0;
+	font-style: italic;
+	width: 60%;
+	line-height: 18px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	z-index: 1000;
+	margin-top: 80%;
+}
+
+.arrow {
+	position: absolute;
+	background: url('../../img/circle-arrow.png') no-repeat bottom right;
+	bottom: 15px; right: 15px;
+	width: 50px; height: 50px;
+	background-size: 50px;
+	text-indent: -9999px;
+	z-index: 20000;
+}
+
+.home-work .grid a {
+	background: red;
+}
+
+/* section headlines
+-------------------------------------------------------------------------------*/
+
+.headline-wrapper {
+	border-top: 1px dashed #cecece;
+	border-bottom: 1px dashed #cecece;
+	overflow: hidden;
+	clear: both;
+	position: relative;
+}
+
+.headline-wrapper h2 {
+	padding: 18px 0;
+	color: #484848;
+	font-size: 24px;
+	font-weight: 800;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+div.headline-wrapper > h2 > span {
+	padding-left: 18px;
+}
+
+.headline-wrapper .hgroup-wrapper hgroup h2.single {
+	padding-left: 0;
+}
+
+/* unique-3-col-headlines -------------------------------------------------------------------------------*/
+
+.hgroup-wrapper h2.single {
+	float: left;
+	padding: 18px 0;
+}
+
+.space-h2-fix {
+	width: 25px;
+	height: 18px;
+	height: auto;
+	display: inline-block;
+	background: black;
+}
+
+/* need sorting
+-------------------------------------------------------------------------------*/
+
+.departments {
+	font-family: "ProximaNovaSemibold", Arial, sans-serif;
+}
+
+.departments .photo-list li {
+	border-bottom: 1px dashed #cecece;
+	
+}
+
+.departments .photo-list h5 {
+	text-align: center;
+	width: 50%;
+	margin-top: 24%;
+	line-height: 0;
+	float: left;
+	font-size: 16px;
+}
+
+.departments .photo-list img {
+	width: 50%;
+	height: auto;
+	float: right;
+}
+
+.vdash-fix img {
+	background: url('../../img/border-vert.png') repeat-y top left;
+}
+
+.vdash-fix {
+	background: url('../../img/border-vert.png') repeat-y top left;
+}
+
+.home-work {
+	overflow: hidden;
+}
+
+.leadership {
+	background: #901435;
+		overflow: hidden;
+}
+
+.leadership aside {
+	width: 50%;
+	float: right;
+	color: white;
+}
+
+.leader-overview {
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+}
+
+.leader-overview p {
+/*
+	padding: 20px 18% 0 18%;
+*/
+	font-size: 20px;
+}
+
+.leader-overview .leader-text-title {
+	margin-top: 10%;
+	font-size: 32px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.leader-overview .leader-text-sub-title {
+	line-height: 34px;
+	font-size: 28px;
+	font-style: italic;
+	font-weight: 100;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.leader-overview .leader-text-body {
+	line-height: 27px;
+	font-size: 16px;
+	font-family: "ProximaNovaRegular", Arial, sans-serif;
+}
+
+.leader-overview .leader-text-footer {
+	line-height: 27px;
+	font-size: 16px;
+	font-family: "ProximaNovaSemibold", Arial, sans-serif;
+}
+
+.leadership .grid li:nth-child(even) {
+	background: #b11a3b;
+}
+
+.full-list {
+	color: white;
+	clear: both;
+	background: #383838;
+	font-size: 20px;
+	overflow: hidden;
+	width: 100%;
+}
+
+.full-list ul {
+	float: left;
+	width: 33%;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.full-list li {
+	line-height: 30px;
+	font-family: "ProximaNovaSemibold", Arial, sans-serif;
+	padding-left: 33%;
+}
+
+.full-list p {
+	text-align: center;
+	font-style: italic;#112a0a
+	clear: both;
+	line-height: 30px;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.full-list a {
+	margin: 15px auto 23px auto;
+	display: block;
+	height: 186px;
+	width: 186px;
+	text-align: center;
+	text-indent: -9999px;
+	background: url('../../img/aboutus/friends.png');
+}
+
+.wdet {
+	background: #383838;
+	color: white;
+	font-size: 20px;
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+	overflow: hidden;
+}
+
+.wdet-inner {
+	height: 0;
+	margin-bottom: 4px;
+	background: url('../../img/wdet-player.png') no-repeat top left;
+	width: 960px;
+	position: relative;
+}
+
+.wdet-inner .add-stream {
+	position: absolute;
+	right: 21px;
+	top: 55px;
+}
+
+.wdet .player-holder {
+	position: absolute;
+	top: -10000px; left: -100000px;
+}
+
+.wdet-icon div {
+	background: blue;
+	position: relative;
+}
+
+.wdet-icon img {
+	position: absolute;
+	right: 0;
+}
+
+.on-now {
+	color: white;
+	position: absolute;
+	top: 43px; left: 533px;
+	width: 240px; height: 80px;
+}
+
+.on-now-show {
+	line-height: 18px;
+	font-size: 20px;
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+}
+
+.on-now-title {
+	margin-top: 5px;
+	font-size: 11px;
+	font-weight: bold;
+	font-family: Helvetica, Arial, "MS Trebuchet", sans-serif;
+}
+
+.flist {
+	color: white;
+	background: #383838;
+}
+
+footer, footer a {
+	color: #999;
+	text-decoration: none;
+	background: #383838;
+}
+
+.client-list li {
+	width: 25%;
+}
+
+.gmap {
+	height: 400px;
+}
+
+.gmap-ext {
+	height: 660px;
+}
+
+/* POLICY -------------------------------------------------------------------------------*/
+
+.policy img {
+	display: block;
+	height: auto;
+	width: 60%;
+	float: left;
+}
+
+.policy .policy-verbage {
+	width: 40%;
+	float: right;
+	margin-top: 3%;
+}
+
+.policy .policy-title {
+	color: #383838;
+	font-size: 16px;
+	font-family: "ProximaNovaSemibold", Arial, sans-serif;
+}
+
+.policy .policy-body {
+	color: #383838;
+	font-size: 15px;
+	width: 320px;
+	line-height: 20px;
+	font-weight: 400;
+	margin-top: 8px;
+	font-family: "ProximaNovaRegular", Arial, sans-serif;
+}
+
+.policy .policy-arrow {
+	color: #9e0120;
+	font-size: 20px;
+	font-family: Arial, sans-serif;
+	margin: 5px 100px;
+}
+
+.policy a {
+	color: #9e0120;
+	text-decoration: none;
+	font-family: "ProximaNovaSemibold", Arial, sans-serif;
+}
+
+.policy a:hover {
+	color: black;
+}
+
+.twentyfive {
+	width: 25%;
+
+}
+
+.footer {
+	color: white;
+}
+
+.footer a {
+	color: white;
+	font-size: 10px;
+}
+
+.footer a:hover {
+	color: black;
+}
+
+.footer > div {
+	overflow: hidden;
+}
+
+.footer aside {
+	float: left;
+}
+
+.footer .footer-nav {
+	float: left;
+	margin-bottom: 200px;
+	font-size: 12px;
+	margin-top: 25px;
+}
+
+.footer .footer-nav h5 {
+	font-size: 16px;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.footer .footer-nav > li {
+	float: left;
+}
+
+.twentyfive ul {
+	margin-top: 20px;
+	margin-right: 15px;
+	border-top: 1px dashed #999;
+	padding-top: 10px;
+}
+
+.twentyfive ul li:first-child {
+
+}
+
+.twentyfive ul li {
+	margin-top: 15px;
+}
+
+.rows-jobs li {
+	font-size: 16px;
+	font-family: "ProximaNovaSemibold", Arial, sans-serif;
+	padding: 30px 0;
+	height: 40px;
+	color: #383838;
+	overflow: hidden;
+}
+
+.rows-jobs li:nth-child(odd) {
+	background: #E9E9E9;
+}
+
+.rows-jobs h5 {
+	float: left;
+	margin-left: 18px;
+}
+
+.rows-jobs h5 span {
+	display: block;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.rows-jobs h6 {
+	float: right;
+	margin-right: 18px;
+}
+
+.rows-jobs h6 a {
+	color: #A40021;
+	text-decoration: none;
+	display: block;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	text-align: right;
+}
+
+/*.rows-jobs h6 a:hover {*/
+/*	color: black;*/
+/*}*/
+
+.job-content {
+	padding-top: 80px;
+	padding-left: 18px;
+	padding-right: 18px;
+}
+
+.content {
+	overflow: hidden;
+}
+
+.rows-jobs p {
+	margin-bottom: 20px;
+	font-family: "ProximaNovaRegular", Arial, sans-serif;
+}
+
+.project {
+	float: left;
+	padding: 50px;
+	padding-right: 0;
+}
+
+.project h1 {
+	font-size: 16px;
+	font-family: "ProximaNovaSemibold", Arial, sans-serif;	
+}
+
+.project p {
+	line-height: 23px;
+	font-size: 14px;
+	margin-top: 25px;
+	font-family: "ProximaNovaRegular", Arial, sans-serif;
+	width: 80%;
+}
+
+.aside-project {
+	margin-top: 45px;
+	width: 28%;
+	font-size: 30px;
+	float: right;
+	line-height: 40px;
+	color: #555555;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.leader-name {
+	font-size: 15px;
+	font-weight: bold;
+	color: #383838;
+	margin-top: 10px;
+}
+
+.leader-name span {
+	font-size: 12px;
+	font-weight: normal;
+	color: #383838;
+	display: block;
+	margin-top: -15px;
+}
+
+.home-social li {
+	color: #383838;
+	height: 250px;
+}
+
+
+.home-social li p {
+	padding: 84px 0 15px 44px;
+	color: #383838;
+	font-style: italic;
+	font-size: 18px;
+	width: 70%;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.home-social li img {
+	padding-left: 44px;
+	background: none;
+}
+
+/* HOMEPAGE BILLBOARD!
+-------------------------------------------------------------------------------*/
+
+.homepage-billboard ul {
+	overflow: hidden;
+	height: 400px;
+	width: 960px;
+	position: relative;
+}
+
+.homepage-billboard li {
+	width: 100%;
+}
+
+.homepage-billboard a {
+	text-decoration: none;
+	font-size: 100px;
+	line-height: -100px;
+	color: #bdbcbc;
+	letter-spacing: -10px;
+}
+
+.active {
+	z-index: 10000;
+}
+
+.billboard ul.interactive {
+	position: relative;
+	overflow: hidden;
+}
+
+.happenings-headline {
+	background: #1d1d1d;
+	border-bottom: 1px dashed #555555;
+}
+
+.happenings-headline h4 {
+	padding-top: 40px;
+	padding-bottom: 20px;
+	color: #dece3e;
+	text-align: center;
+	font-size: 74px;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;	
+}
+
+.happenings-headline p {
+	padding-bottom: 50px;
+	color: white;
+	text-align: center;
+	font-weight: normal;
+	font-size: 16px;
+	font-family: "ProximaNovaLight", Arial, sans-serif;
+}
+
+/* Print styles!
+-------------------------------------------------------------------------------*/
+@media print {
+	
+}
+
+
+/* Media queries!
+-------------------------------------------------------------------------------*/
+
+/* Consider this: www.cloudfour.com/css-media-query-for-mobile-is-fools-gold/ */
+@media screen and (max-device-width: 480px) {
+	
+		
+}
+
+@media all and (orientation: portrait) {
+	
+}
+
+@media all and (orientation: landscape) {
+	
+}
