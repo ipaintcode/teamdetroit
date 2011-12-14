@@ -449,7 +449,8 @@ $(document).ready(function() {
 	
 	function checkHomePageBillboard() {
 		if ($('.homepage-billboard ul li img').height() === 0 || $('.homepage-billboard ul li img').height() === "undefined") {
-			checkHomePageBillboard();
+			setTimeout(checkHomePageBillboard, 100);
+			console.log($('.homepage-billboard ul li img').height());
 		} else {
 			$('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());		
 		}
