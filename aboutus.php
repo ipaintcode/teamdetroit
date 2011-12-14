@@ -83,8 +83,53 @@
 
 		</div>
 	</section>
-
+	
 	<div class="headline-wrapper">
+	    <h2 class="center min-max"><span>About Us</span></h2>
+	</div>
+	
+	<section class="home-culture home-work">
+
+		<div class="center min-max">
+			
+			<ul class="grid">
+				<li class="single">
+					<a href="culture/people_mover.php">
+						<h3 class="culture-title">Who We Are</h3>
+						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #78B9BA;"></div>
+						<img src="_/img/aboutus/who_we_are.jpg" alt="Bus">
+					</a>
+				</li>
+				<li class="single">
+					<a href="culture/love_detroit.php">
+						<h3 class="culture-title">What We Do</h3>
+						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #D57F57;"></div>
+						<img src="_/img/culture/love_detroit/what_we_do.jpg" alt="">
+					</a>
+				</li>
+				<li class="single">
+					<a href="culture/greening_of_detroit.php">
+						<h3 class="culture-title">What Else<br />We Do</h3>
+						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #2D6F2F;"></div>
+						<img src="_/img/culture/greening_of_detroit/what_else_we_do.jpg" alt="">
+					</a>
+				</li>
+			</ul>
+
+		</div>
+
+	</section>
+
+	<!-- <div class="headline-wrapper">
 
 		<hgroup class="hgroup-wrapper center min-max">
 			<h2 class="single"><span class="space-h2-fix"></span>Who We Are</h2>
@@ -92,12 +137,11 @@
 			<h2 class="single vdash-fix"><span class="space-h2-fix"></span>How We Do It</h2>
 		</hgroup>
 
-	</div>
+	</div> -->
 
-	<section class="">
+	<!-- <section class="">
 		<div class="center min-max">
 
-			<!-- video holder may be youtube embeds -->
 			<ul class="grid">
 				<li class="single vdash-fix">
 					<img src="_/img/aboutus/1.jpg" alt="">
@@ -111,10 +155,10 @@
 			</ul>
 
 		</div>
-	</section>
+	</section> -->
 
 	<div class="headline-wrapper">
-	    <h2 class="center min-max"><span>Departments/Capabilties</span></h2>
+	    <h2 class="center min-max"><span>Departments + Capabilties</span></h2>
 	</div>
 
 	<section class="departments">
