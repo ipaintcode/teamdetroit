@@ -62,7 +62,7 @@ $html = file_get_html('http://wdetfm.org/listenlive/');
 				<li><a href="/teamdetroit/culture.php">Culture</a></li>
 				<li><a href="/teamdetroit/careers.php">Careers</a></li>
 				<!-- <li><a href="voicebox.php">Voicebox</a></li> -->
-				<li><a href="/contact.php">Contact</a></li>
+				<li><a href="/teamdetroit/contact.php">Contact</a></li>
 			</ul>
 
 		</nav>
