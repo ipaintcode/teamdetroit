@@ -995,6 +995,10 @@ footer, footer a {
 	width: 100%;
 }
 
+.homepage-billboard li img {
+	display: block;
+}
+
 .homepage-billboard a {
 	text-decoration: none;
 	font-size: 100px;
