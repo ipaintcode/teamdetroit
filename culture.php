@@ -168,7 +168,7 @@
 		<div class="hero">
 			<div class="hero-carousel">
 				<article class="first">
-					<img src="img/project/billboard-1.jpg" alt="slide 1" width="960" height="550" />
+					<img src="_/img/culture/carousel/Dressy_Bessy_11.1.11.jpg" alt="slide 1" width="960" height="550" />
 					<!-- <div class="contents">
 											<h1>Hero Carousel...</h1>
 											<p>Sed pharetra, nulla ac blandit hendrerit, justo lacus tempus leo, non fermentum elit tellus at enim.</p>
@@ -182,7 +182,7 @@
 										</div> -->
 				</article>
 				<article>
-					<img src="_/img/culture/carousel/The Juliets_10.31.11.jpg" alt="slide 3" width="960" height="550" />
+					<img src="_/img/culture/carousel/Los_Lonely_Boys_11.1.11.jpg" alt="slide 3" width="960" height="550" />
 					<!-- <iframe width="960" height="420" src="https://www.youtube-nocookie.com/embed/3JR5jAiOvmk?wmode=transparent" frameborder="0" allowfullscreen></iframe> -->
 					<!-- <div class="contents">
 											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
@@ -190,14 +190,21 @@
 										</div> -->
 				</article>
 				<article>
-					<img src="_/img/culture/carousel/Los_Lonely_Boys_11.1.11.jpg" alt="slide 3" width="960" height="550" />
+					<img src="_/img/culture/carousel/Minus_The_Bear_11.1.11.jpg" alt="slide 3" width="960" height="550" />
 					<!-- <div class="contents">
 											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
 											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
 										</div> -->
 				</article>
 				<article>
-					<img src="_/img/culture/carousel/Minus_The_Bear_11.1.11.jpg" alt="slide 3" width="960" height="550" />
+					<img src="_/img/culture/carousel/Super_Grass_11.1.11.jpg" alt="slide 3" width="960" height="550" />
+					<!-- <div class="contents">
+											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
+											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
+										</div> -->
+				</article>
+				<article>
+					<img src="_/img/culture/carousel/The Juliets_10.31.11.jpg" alt="slide 3" width="960" height="550" />
 					<!-- <div class="contents">
 											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
 											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
