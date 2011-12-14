@@ -454,7 +454,7 @@ $(document).ready(function() {
 	
 	function autoMeatballs() {
 		meatballID+=1;
-		setTimeout(delay);
+		setTimeout(delay, 0);
 		if(meatballID === 4) {
 			meatballID = 0;
 		}
