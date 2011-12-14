@@ -164,7 +164,7 @@
 	</section>
 
 	<section class="billboard-alt" style="margin-top: 0;">
-		
+
 		<div class="hero">
 			<div class="hero-carousel">
 				<article class="first">
@@ -175,36 +175,36 @@
 										</div> -->
 				</article>
 				<article>
-					<img src="img/culture/bus-large.jpg" alt="slide 2" width="960" height="550" />
+					<img src="_/img/culture/carousel/Frontier_Ruckus_12.6.11.jpg" alt="slide 2" width="960" height="550" />
 					<!-- <div class="contents">
 											<h1>...a jQuery carousel plugin...</h1>
 											<p>Quisque cursus consequat risus vel sollicitudin. Nam ut mauris at dui bibendum pretium facilisis nec enim.</p>
 										</div> -->
 				</article>
 				<article>
-					<!-- <img src="img/project/billboard-1.jpg" alt="slide 3" width="960" height="550" /> -->
-					<iframe width="960" height="420" src="https://www.youtube-nocookie.com/embed/3JR5jAiOvmk?wmode=transparent" frameborder="0" allowfullscreen></iframe>
+					<img src="_/img/culture/carousel/The Juliets_10.31.11.jpg" alt="slide 3" width="960" height="550" />
+					<!-- <iframe width="960" height="420" src="https://www.youtube-nocookie.com/embed/3JR5jAiOvmk?wmode=transparent" frameborder="0" allowfullscreen></iframe> -->
 					<!-- <div class="contents">
 											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
 											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
 										</div> -->
 				</article>
 				<article>
-					<img src="img/culture/bus-large.jpg" alt="slide 3" width="960" height="550" />
+					<img src="_/img/culture/carousel/Los_Lonely_Boys_11.1.11.jpg" alt="slide 3" width="960" height="550" />
 					<!-- <div class="contents">
 											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
 											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
 										</div> -->
 				</article>
 				<article>
-					<img src="img/project/billboard-1.jpg" alt="slide 3" width="960" height="550" />
+					<img src="_/img/culture/carousel/Minus_The_Bear_11.1.11.jpg" alt="slide 3" width="960" height="550" />
 					<!-- <div class="contents">
 											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
 											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
 										</div> -->
 				</article>
 				<article>
-					<img src="img/culture/bus-large.jpg" alt="slide 3" width="960" height="550" />
+					<img src="_/img/culture/carousel/VV_Brown_10.31.11.jpg" alt="slide 3" width="960" height="550" />
 					<!-- <div class="contents">
 											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
 											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
