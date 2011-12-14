@@ -315,7 +315,7 @@ $(document).ready(function() {
 		$('.wdet').stop().animate({
 			height: 138
 		}, 300);
-		$('.billboard, .billboard-alt').stop().animate({
+		$('.billboard').stop().animate({
 			marginTop: 232
 		}, 300);
 		$('.wdet-icon img').stop().animate({
@@ -334,7 +334,7 @@ $(document).ready(function() {
 			height: 4
 		}, 300);
 		$('.add-stream').css('display', 'none');
-		$('.billboard, .billboard-alt').stop().animate({
+		$('.billboard').stop().animate({
 			marginTop: 98
 		}, 300);
 		$('.wdet-inner').stop().animate({

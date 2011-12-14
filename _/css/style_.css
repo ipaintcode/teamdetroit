@@ -665,6 +665,10 @@ div.headline-wrapper > h2 > span {
 	background: url('../../_/img/aboutus/friends.png');
 }
 
+#billboard-spacer {
+	margin-top: 99px;
+}
+
 .wdet {
 	background: #383838;
 	color: white;

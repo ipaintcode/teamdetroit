@@ -67,7 +67,9 @@
 <div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
 
 	<?php include 'header.php'; ?>
-
+	
+	<div id="billboard-spacer"></div>
+		
 	<section class="billboard">
 		<div class="center min-max">
 
