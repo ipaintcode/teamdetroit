@@ -99,7 +99,7 @@
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #78B9BA;"></div>
+						<div class="color-swatch" style="background: #A17E7D;"></div>
 						<img src="_/img/aboutus/who_we_are.jpg" alt="Bus">
 					</a>
 				</li>
@@ -109,8 +109,8 @@
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #D57F57;"></div>
-						<img src="_/img/culture/love_detroit/what_we_do.jpg" alt="">
+						<div class="color-swatch" style="background: #AE914B;"></div>
+						<img src="_/img/aboutus/what_we_do.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
@@ -119,8 +119,8 @@
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #2D6F2F;"></div>
-						<img src="_/img/culture/greening_of_detroit/what_else_we_do.jpg" alt="">
+						<div class="color-swatch" style="background: #4576C7;"></div>
+						<img src="_/img/aboutus/what_else_we_do.jpg" alt="">
 					</a>
 				</li>
 			</ul>
