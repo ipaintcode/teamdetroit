@@ -241,7 +241,7 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 	border-right: none;
 	letter-spacing: -1px;
 	color: white;
-	background: white url('../../img/pagenate.png') no-repeat  top center;
+	background: white url('../../_/img/pagenate.png') no-repeat  top center;
 }
 
 .project-nav .pagenate span {
@@ -308,7 +308,7 @@ header {
 	height: 44px;
 	width: 148px;
 	text-indent: -9999px;
-	background: url('../../img/teamdetroit.png') no-repeat top left;
+	background: url('../../_/img/teamdetroit.png') no-repeat top left;
 }
 
 .main-nav ul {
@@ -376,7 +376,7 @@ ol.grid-ext-leader li h3 {
 	position: absolute;
 	left: 49%;
 	bottom: 0;
-	background: url('../../img/down-arrow.png') no-repeat top left;
+	background: url('../../_/img/down-arrow.png') no-repeat top left;
 }
 
 /* grid module
@@ -476,7 +476,7 @@ ol.grid-ext-leader li h3 {
 
 .arrow {
 	position: absolute;
-	background: url('../../img/circle-arrow.png') no-repeat bottom right;
+	background: url('../../_/img/circle-arrow.png') no-repeat bottom right;
 	bottom: 15px; right: 15px;
 	width: 50px; height: 50px;
 	background-size: 50px;
@@ -559,11 +559,11 @@ div.headline-wrapper > h2 > span {
 }
 
 .vdash-fix img {
-	background: url('../../img/border-vert.png') repeat-y top left;
+	background: url('../../_/img/border-vert.png') repeat-y top left;
 }
 
 .vdash-fix {
-	background: url('../../img/border-vert.png') repeat-y top left;
+	background: url('../../_/img/border-vert.png') repeat-y top left;
 }
 
 .home-work {
@@ -662,7 +662,7 @@ div.headline-wrapper > h2 > span {
 	width: 186px;
 	text-align: center;
 	text-indent: -9999px;
-	background: url('../../img/aboutus/friends.png');
+	background: url('../../_/img/aboutus/friends.png');
 }
 
 .wdet {
@@ -676,7 +676,7 @@ div.headline-wrapper > h2 > span {
 .wdet-inner {
 	height: 0;
 	margin-bottom: 4px;
-	background: url('../../img/wdet-player.png') no-repeat top left;
+	background: url('../../_/img/wdet-player.png') no-repeat top left;
 	width: 960px;
 	position: relative;
 }

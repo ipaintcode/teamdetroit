@@ -217,19 +217,19 @@
 				<li class="single">
 					<a href="#">
 						<p>Selling Ford Around The World, From Detroit.</p>
-						<img src="img/headlines/nytimes.png" alt="Nytimes">
+						<img src="_/img/headlines/nytimes.png" alt="Nytimes">
 					</a>
 				</li>
 				<li class="single vdash-fix">
 					<a href="#">
 						<p>&ldquo;One of Detroit’s 2010 Top 10 Best Places to Work.&rdquo;</p>
-						<img src="img/headlines/detfreepress.png" alt="Detfreepress">
+						<img src="_/img/headlines/detfreepress.png" alt="Detfreepress">
 					</a>
 				</li>
 				<li class="single vdash-fix">
 					<a href="#">
 						<p>&ldquo;Team Detroit is No. 10 on the Ad Agency A-List.&rdquo;</p>
-						<img src="img/headlines/adage.png" alt="Adage">
+						<img src="_/img/headlines/adage.png" alt="Adage">
 					</a>
 				</li>
 			</ul>
@@ -242,7 +242,7 @@
 	    <h2 class="min-max center"><span>Culture</span></h2>
 	</div>
 
-	<section class="home-culture">
+	<section class="home-culture home-work">
 
 		<div class="center min-max">
 			
@@ -250,20 +250,20 @@
 				<li class="single">
 					<a href="culture/people_mover.php">
 						<h3 class="culture-title">People Mover Project.</h3>
-						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
+						<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #95AF3C;"></div>
+						<div class="color-swatch" style="background: #E62B7F;"></div>
 						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
 					</a>
 				</li>
 				<li class="single">
 					<a href="culture/love_detroit.php">
 						<h3 class="culture-title">Love,<br />Detroit</h3>
-						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
+						<p class="copy">Celebrate the season with free, streamed Holiday tunes from independent Detroit artists.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #797A65;"></div>
+						<div class="color-swatch" style="background: #BB4422;"></div>
 						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
 					</a>
 				</li>
@@ -280,30 +280,30 @@
 				<li class="single">
 					<a href="culture/movember.php">
 						<h3 class="culture-title">Movember</h3>
-						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
+						<p class="copy">United for the cause of men’s health, the men of Team Detroit sported a little upper crust during the month of November.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #AC183C;"></div>
+						<div class="color-swatch" style="background: #843853;"></div>
 						<img src="_/img/culture/movember/button-Movember.jpg" alt="Bassplayer">						
 					</a>
 				</li>
 				<li class="single">
 					<a href="culture/motorcity_pride.php">
 						<h3 class="culture-title">Motorcity<br />Pride</h3>
-						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
+						<p class="copy">Detroit is a city that truly appreciates your contributions and having you here.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #ED71A7;"></div>
+						<div class="color-swatch" style="background: #3F74D2;"></div>
 						<img src="_/img/culture/motorcity_pride/button-Pride.jpg" alt="Pink">
 					</a>
 				</li>
 				<li class="single">
 					<a href="culture/signal_return.php">
 						<h3 class="culture-title">Signal<br />Return</h3>
-						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
+						<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #ED71A7;"></div>
+						<div class="color-swatch" style="background: #5C5B53;"></div>
 						<img src="_/img/culture/signal_return/button-SignalReturn.jpg" alt="Pink">
 					</a>
 				</li>

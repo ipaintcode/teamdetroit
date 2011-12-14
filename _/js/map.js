@@ -28,7 +28,7 @@ $(document).ready(function() {
 			map: map,
 			title: 'Team Detroit',
 			clickable: true,
-			icon: 'img/tdi-map-icon.png'
+			icon: '_/img/tdi-map-icon.png'
 		});
 
 		$(window).resize(function(event) {

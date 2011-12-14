@@ -73,7 +73,7 @@
 
 			<ul>
 				<a href="#work">See Down Below!</a>
-				<li><img src="img/culture/billboard.png" alt=""></li>
+				<li><img src="_/img/culture/billboard.png" alt=""></li>
 			</ul>
 
 		</div>
@@ -83,99 +83,75 @@
 	    <h2 class="center min-max"><span>Happenings</span></h2>
 	</div>
 
-	<section class="work home-work">
+	<section class="home-culture home-work">
+
 		<div class="center min-max">
-			<!-- h3>Totally Unexpected<br />Press Conference</h3>
-					<p class="copy">Testimonials were never this enlightening. Amazing what people will say when they’re suddenly confronted by two dozen “journalists.”</p>
-					<p class="view-project">View&nbsp;Project</p>
-					<span class="arrow">&rarr;</span>
-					<div class="color-swatch" style="background: #4927e3;"></div>
-					<img src="img/home/work/1.jpg" alt=""> -->
-			<ol class="grid">
+			
+			<ul class="grid">
 				<li class="single">
-					<a href="culture-landing.php">
-						<h3>Culture Info</h3>
+					<a href="culture/people_mover.php">
+						<h3 class="culture-title">People Mover Project.</h3>
+						<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/culture/pink.jpg" alt="Pink">
+						<div class="color-swatch" style="background: #E62B7F;"></div>
+						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture-landing.php">
-						<h3>Culture Info</h3>
+					<a href="culture/love_detroit.php">
+						<h3 class="culture-title">Love,<br />Detroit</h3>
+						<p class="copy">Celebrate the season with free, streamed Holiday tunes from independent Detroit artists.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/culture/bus.jpg" alt="Bus">
+						<div class="color-swatch" style="background: #BB4422;"></div>
+						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture-landing.php">
-						<h3>Culture Info</h3>
+					<a href="culture/greening_of_detroit.php">
+						<h3 class="culture-title">Greening of<br />Detroit</h3>
+						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/culture/boots.jpg" alt="Boots">
+						<div class="color-swatch" style="background: #2D6F2F;"></div>
+						<img src="_/img/culture/greening_of_detroit/button-greening.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture-landing.php">
-						<h3>Culture Info</h3>
+					<a href="culture/movember.php">
+						<h3 class="culture-title">Movember</h3>
+						<p class="copy">United for the cause of men’s health, the men of Team Detroit sported a little upper crust during the month of November.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/culture/idol.jpg" alt="Idol">
+						<div class="color-swatch" style="background: #843853;"></div>
+						<img src="_/img/culture/movember/button-Movember.jpg" alt="Bassplayer">						
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture-landing.php">
-						<h3>Culture Info</h3>
+					<a href="culture/motorcity_pride.php">
+						<h3 class="culture-title">Motorcity<br />Pride</h3>
+						<p class="copy">Detroit is a city that truly appreciates your contributions and having you here.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/culture/3d.jpg" alt="3d">
+						<div class="color-swatch" style="background: #3F74D2;"></div>
+						<img src="_/img/culture/motorcity_pride/button-Pride.jpg" alt="Pink">
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture-landing.php">
-						<h3>Culture Info</h3>
+					<a href="culture/signal_return.php">
+						<h3 class="culture-title">Signal<br />Return</h3>
+						<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/culture/party.jpg" alt="Party">
+						<div class="color-swatch" style="background: #5C5B53;"></div>
+						<img src="_/img/culture/signal_return/button-SignalReturn.jpg" alt="Pink">
 					</a>
 				</li>
-				<li class="single">
-					<a href="culture-landing.php">
-						<h3>Culture Info</h3>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/culture/stache.jpg" alt="Stache">
-					</a>
-				</li>
-				<li class="single">
-					<a href="culture-landing.php">
-						<h3>Culture Info</h3>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/culture/art.jpg" alt="Art">
-					</a>
-				</li>
-				<li class="single">
-					<a href="culture-landing.php">
-						<h3>Culture Info</h3>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/culture/celebrate.jpg" alt="Celebrate">
-					</a>
-				</li>
-			</ol>
+			</ul>
 
 		</div>
+
 	</section>
 
 	<div class="headline-wrapper">
