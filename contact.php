@@ -71,7 +71,7 @@
 		<div class="center min-max">
 			<div class="inter-holder">
 				<ul>
-					<li><img src="img/contact/reach.png" alt="Billboard 1"></li>
+					<li><img src="_/img/contact/reach.png" alt="Billboard 1"></li>
 				</ul>
 			</div>
 
@@ -100,7 +100,7 @@
 	
 	<div class="google-overlay">
 		<div class="social-map center min-max">
-			<img class="" src="img/contact/social_panel.png" alt="Social Panel">
+			<img class="" src="_/img/contact/social_panel.png" alt="Social Panel">
 		</div>
 	</div>
 	<section id="map" class="gmap-ext"></section>
