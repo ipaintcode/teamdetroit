@@ -129,7 +129,7 @@
 			<!-- <a class="view-all-work" href="work.html">View all work &rarr;</a> -->
 			<ol class="grid">
 				<li class="double">
-					<a href="project.php">
+					<a href="projects/project.php">
 						<h3>Totally Unexpected<br />Press Conference</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when they’re suddenly confronted by two dozen “journalists.”</p>
 						<p class="view-project">View&nbsp;Project</p>
@@ -139,7 +139,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="project.php">
+					<a href="projects/focus-doug.php">
 						<h3>Doug The<br />Puppet</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when.</p>
 						<p class="view-project">View&nbsp;Project</p>
@@ -149,7 +149,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="project.php">
+					<a href="projects/lincoln-innovators.php">
 						<h3>Lincoln<br />Innovators</h3>
 						<p class="copy">Testimonials were never this enlightening.</p>
 						<p class="view-project">View&nbsp;Project</p>
@@ -159,7 +159,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="project.php">
+					<a href="projects/focus-rally.php">
 						<h3>Focus Rally<br />America</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people.</p>
 						<p class="view-project">View&nbsp;Project</p>
@@ -169,7 +169,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="project.php">
+					<a href="projects/warrior.php">
 						<h3>Be a<br />Machine</h3>
 						<p class="copy">Testimonials were never this enlightening.</p>
 						<p class="view-project">View&nbsp;Project</p>
@@ -179,7 +179,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="project.php">
+					<a href="projects/we-own-work.php">
 						<h3>We Own Work</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when.</p>
 						<p class="view-project">View&nbsp;Project</p>
@@ -189,7 +189,7 @@
 					</a>
 				</li>
 				<li class="double">
-					<a href="project.php">
+					<a href="projects/sports-authority.php">
 						<h3>These shoes<br />are Magic.</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when they’re suddenly confronted by two dozen “journalists.”</p>
 						<p class="view-project">View&nbsp;Project</p>
