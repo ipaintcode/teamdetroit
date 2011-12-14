@@ -421,10 +421,14 @@ $(document).ready(function() {
 
 	$('.homepage-billboard div a').click(function(e) {
 		e.preventDefault();
-		changeMeatBall(e, $(this));
+		changeMeatBall($(this));
 	});
 	
-	function changeMeatBall(e, ele) {
+	var meatballs = $('.homepage-billboard div a');
+	
+	console.log(meatballs);
+	
+	function changeMeatBall(ele) {
 	
 		var id;
 		$('.homepage-billboard div a').each(function(index) {
