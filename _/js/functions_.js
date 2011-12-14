@@ -421,6 +421,7 @@ $(document).ready(function() {
 
 	$('.homepage-billboard div a').click(function(e) {
 		e.preventDefault();
+		clearTimeout(timerCaller);
 		changeMeatBall($(this));
 	});
 	
@@ -444,12 +445,13 @@ $(document).ready(function() {
 		$(idalt).stop().delay(200).animate({opacity: 1}, 500);
 	}
 	
-	var msg = "Hello World";
+	var timerCaller;
 	
 	var delay = function() { 
 		changeMeatBall(meatballs[meatballID]); 
-		setTimeout(autoMeatballs, 10000);	
+		timerCaller = setTimeout(autoMeatballs, 10000);	
 	};
+	
 	setTimeout(autoMeatballs, 0);
 	
 	function autoMeatballs() {
