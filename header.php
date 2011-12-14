@@ -52,7 +52,7 @@ $html = file_get_html('http://wdetfm.org/listenlive/');
 	</div>
 
 	<div class="main-nav min-max center">
-		<h1 class="teamdetroit"><a href="/tdi">Team Detroit</a></h1>
+		<h1 class="teamdetroit"><a href="/teamdetroit">Team Detroit</a></h1>
 
 		<nav>
 
