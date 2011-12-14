@@ -135,58 +135,57 @@
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #4927e3;"></div>
-						<img src="img/home/work/1.jpg" alt="">
+						<img src="_/img/projects/totally_unexpected_press_conference/thumb_large.jpg" alt="">
 					</a>
 				</li>
-
 				<li class="single">
 					<a href="project.php">
-						<h3>GO.<br />DO.</h3>
+						<h3>Doug The<br />Puppet</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						 <div class="color-swatch" style="background: #0ca787;"></div>
-						<img src="img/home/work/2.jpg" alt="">
+						 <div class="color-swatch" style="background: #BF441B;"></div>
+						<img src="_/img/projects/focus_doug/thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
 					<a href="project.php">
-						<h3>Drive One For<br />Your School.</h3>
+						<h3>Lincoln<br />Innovators</h3>
 						<p class="copy">Testimonials were never this enlightening.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #c6041f;"></div>
-						<img src="img/home/work/3.jpg" alt="">
+						<div class="color-swatch" style="background: #8F6B39;"></div>
+						<img src="_/img/projects/lincoln_inovators/thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
 					<a href="project.php">
-						<h3>Relax,It’s<br />Tough.</h3>
+						<h3>Focus Rally<br />America</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #479947;"></div>
-						<img src="img/home/work/4.jpg" alt="">
+						<div class="color-swatch" style="background: #BD0912;"></div>
+						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
 					<a href="project.php">
-						<h3>Right college for<br />the right brain.</h3>
+						<h3>Be a<br />Machine</h3>
 						<p class="copy">Testimonials were never this enlightening.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #5080e6;"></div>
-						<img src="img/home/work/5.jpg" alt="">
+						<div class="color-swatch" style="background: #6D6588;"></div>
+						<img src="_/img/projects/warrior/thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
 					<a href="project.php">
-						<h3>Warrior<br />Lacrosse.</h3>
+						<h3>We Own Work</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #2539cf;"></div>
-						<img src="img/home/work/6.jpg" alt="">
+						<div class="color-swatch" style="background: #4C4E4A;"></div>
+						<img src="_/img/projects/we_own_work/thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="double">
@@ -195,8 +194,8 @@
 						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when they’re suddenly confronted by two dozen “journalists.”</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #5d7407;"></div>
-						<img src="img/home/work/7.jpg" alt="">
+						<div class="color-swatch" style="background: #257698;"></div>
+						<img src="_/img/projects/sports_authority/thumb_large.jpg" alt="">
 					</a>
 				</li>
 			</ol>
@@ -248,36 +247,6 @@
 			
 			<ul class="grid">
 				<li class="single">
-					<a href="culture/people_mover.php">
-						<h3 class="culture-title">People Mover Project.</h3>
-						<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #E62B7F;"></div>
-						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
-					</a>
-				</li>
-				<li class="single">
-					<a href="culture/love_detroit.php">
-						<h3 class="culture-title">Love,<br />Detroit</h3>
-						<p class="copy">Celebrate the season with free, streamed Holiday tunes from independent Detroit artists.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #BB4422;"></div>
-						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
-					</a>
-				</li>
-				<li class="single">
-					<a href="culture/greening_of_detroit.php">
-						<h3 class="culture-title">Greening of<br />Detroit</h3>
-						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #2D6F2F;"></div>
-						<img src="_/img/culture/greening_of_detroit/button-greening.jpg" alt="">
-					</a>
-				</li>
-				<li class="single">
 					<a href="culture/movember.php">
 						<h3 class="culture-title">Movember</h3>
 						<p class="copy">United for the cause of men’s health, the men of Team Detroit sported a little upper crust during the month of November.</p>
@@ -297,6 +266,36 @@
 						<img src="_/img/culture/signal_return/Button5_large.jpg" alt="Pink">
 					</a>
 				</li>
+				<li class="single">
+					<a href="culture/love_detroit.php">
+						<h3 class="culture-title">Love,<br />Detroit</h3>
+						<p class="copy">Celebrate the season with free, streamed Holiday tunes from independent Detroit artists.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #BB4422;"></div>
+						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
+					</a>
+				</li>
+				<li class="single">
+					<a href="culture/people_mover.php">
+						<h3 class="culture-title">People Mover Project.</h3>
+						<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #E62B7F;"></div>
+						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
+					</a>
+				</li>
+				<li class="single">
+					<a href="culture/greening_of_detroit.php">
+						<h3 class="culture-title">Greening of<br />Detroit</h3>
+						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #2D6F2F;"></div>
+						<img src="_/img/culture/greening_of_detroit/button-greening.jpg" alt="">
+					</a>
+				</li>			
 			</ul>
 
 		</div>
