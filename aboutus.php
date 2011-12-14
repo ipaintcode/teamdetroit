@@ -78,7 +78,7 @@
 
 			<ul>
 				<a href="#work">See Down Below!</a>
-				<li><img src="img/aboutus/billboard.png" alt=""></li>
+				<li><img src="_/img/aboutus/billboard.png" alt=""></li>
 			</ul>
 
 		</div>
@@ -100,13 +100,13 @@
 			<!-- video holder may be youtube embeds -->
 			<ul class="grid">
 				<li class="single vdash-fix">
-					<img src="img/aboutus/1.jpg" alt="">
+					<img src="_/img/aboutus/1.jpg" alt="">
 				</li>
 				<li class="single vdash-fix">
-					<img src="img/aboutus/2.jpg" alt="">
+					<img src="_/img/aboutus/2.jpg" alt="">
 				</li>
 				<li class="single vdash-fix">
-					<img src="img/aboutus/3.jpg" alt="">
+					<img src="_/img/aboutus/3.jpg" alt="">
 				</li>
 			</ul>
 
@@ -123,39 +123,39 @@
 			<ul class="grid photo-list">
 				<li class="single vdash-fix">
 					<h5>Visual Design</h5>
-					<img src="img/aboutus/capabilities/visual-design.jpg" alt="visual-design">
+					<img src="_/img/aboutus/capabilities/visual-design.jpg" alt="visual-design">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Copywriting</h5>
-					<img src="img/aboutus/capabilities/copywriting.jpg" alt="copywriting">
+					<img src="_/img/aboutus/capabilities/copywriting.jpg" alt="copywriting">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Media &amp; Connections</h5>
-					<img src="img/aboutus/capabilities/media-connections.jpg" alt="media-connections">
+					<img src="_/img/aboutus/capabilities/media-connections.jpg" alt="media-connections">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Digital Studio</h5>
-					<img src="img/aboutus/capabilities/digital-studio.jpg" alt="digital-studio">
+					<img src="_/img/aboutus/capabilities/digital-studio.jpg" alt="digital-studio">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Production</h5>
-					<img src="img/aboutus/capabilities/production.jpg" alt="production">
+					<img src="_/img/aboutus/capabilities/production.jpg" alt="production">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Analytics</h5>
-					<img src="img/aboutus/capabilities/analytics.jpg" alt="analytics">
+					<img src="_/img/aboutus/capabilities/analytics.jpg" alt="analytics">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Interaction Design</h5>
-					<img src="img/aboutus/capabilities/interactive-design.jpg" alt="interactive-design">
+					<img src="_/img/aboutus/capabilities/interactive-design.jpg" alt="interactive-design">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Mobile Design</h5>
-					<img src="img/aboutus/capabilities/mobile-design.jpg" alt="mobile-design">
+					<img src="_/img/aboutus/capabilities/mobile-design.jpg" alt="mobile-design">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Social Strategy</h5>
-					<img src="img/aboutus/capabilities/social-strategy.jpg" alt="social-strategy">
+					<img src="_/img/aboutus/capabilities/social-strategy.jpg" alt="social-strategy">
 				</li>
 			</ul>
 
@@ -329,7 +329,7 @@
 	<section class="policy" style="background: white; overflow:hidden; padding-bottom: 15px;">
 		<div class="center min-max">
 
-			<img src="img/aboutus/policy.png" alt="policy">
+			<img src="_/img/aboutus/policy.png" alt="policy">
 			<div class="policy-verbage">
 				<p class="policy-title">Team Detroit Privacy Policy</p>
 				<p class="policy-body">Gone are the days of group heads who are passive figureheads. Or group heads who only do one thing well. Team Detroit honchos are multi-tool players.</p>
