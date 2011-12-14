@@ -54,6 +54,7 @@
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
+	<link rel="stylesheet" href="../_/css/style_.css">
 	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
@@ -140,7 +141,7 @@
 <!-- this is where we put our custom functions -->
 <script src="../_/js/jquery.shadow-animation.min.js"></script>
 <script src="../_/js/jquery.easing.1.3.js"></script>
-<script src="../_/js/functions.js"></script>
+<script src="../_/js/functions_.js"></script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.
