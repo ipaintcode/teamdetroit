@@ -287,24 +287,14 @@
 						<img src="_/img/culture/movember/button-Movember.jpg" alt="Bassplayer">						
 					</a>
 				</li>
-				<li class="single">
-					<a href="culture/motorcity_pride.php">
-						<h3 class="culture-title">Motorcity<br />Pride</h3>
-						<p class="copy">Detroit is a city that truly appreciates your contributions and having you here.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #3F74D2;"></div>
-						<img src="_/img/culture/motorcity_pride/button-Pride.jpg" alt="Pink">
-					</a>
-				</li>
-				<li class="single">
+				<li class="double">
 					<a href="culture/signal_return.php">
 						<h3 class="culture-title">Signal<br />Return</h3>
 						<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #5C5B53;"></div>
-						<img src="_/img/culture/signal_return/button-SignalReturn.jpg" alt="Pink">
+						<img src="_/img/culture/signal_return/Button5_large.jpg" alt="Pink">
 					</a>
 				</li>
 			</ul>
