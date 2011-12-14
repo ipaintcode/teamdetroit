@@ -424,20 +424,18 @@ $(document).ready(function() {
 		changeMeatBall($(this));
 	});
 	
+	var meatballID = 0;
 	var meatballs = $('.homepage-billboard div a');
-	
-	console.log(meatballs);
 	
 	function changeMeatBall(ele) {
 	
-		var id;
+		console.log($(ele).attr('href').split('_')[1]);
 		$('.homepage-billboard div a').each(function(index) {
 			if($(this).attr('class')==="active") {
 				$($(this).attr('href')).animate({opacity: 0}, 200);
 			}
 		});
-		// console.log(id);
-		// $(id).stop().animate({opacity: 0}, 500);
+
 		$('.homepage-billboard div a').attr('class', 'off').stop().
 		animate({color: "#bdbcbc"}, 300);
 		$(ele).attr('class', 'active');
