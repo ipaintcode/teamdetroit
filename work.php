@@ -220,18 +220,18 @@
 		<div class="center min-max">
 			
 			<ul class="grid client-list">
-				<li class="vdash-fix"><img src="img/clients/ford.jpg" alt="ford"></li>
-				<li class="vdash-fix"><img src="img/clients/sports.jpg" alt="sports"></li>
-				<li class="vdash-fix"><img src="img/clients/shell.jpg" alt="shell"></li>
-				<li class=""><img src="img/clients/warrior.jpg" alt="wilson"></li>
-				<li class="vdash-fix"><img src="img/clients/lincoln.jpg" alt="lincoln"></li>
-				<li class="vdash-fix"><img src="img/clients/compuware.jpg" alt="compuware"></li>
-				<li class="vdash-fix"><img src="img/clients/scotts.jpg" alt="scotts"></li>
-				<li class=""><img src="img/clients/bosch.jpg" alt="bosch"></li>
-				<li class="vdash-fix"><img src="img/clients/oakwood.jpg" alt="oakwood"></li>
-				<li class="vdash-fix"><img src="img/clients/dso.jpg" alt="dso"></li>
-				<li class="vdash-fix"><img src="img/clients/carhartt.jpg" alt="carhartt"></li>
-				<li class=""><img src="img/clients/unitedway.jpg" alt="unitedway"></li>
+				<li class="vdash-fix"><img src="_/img/clients/ford.jpg" alt="ford"></li>
+				<li class="vdash-fix"><img src="_/img/clients/sports.jpg" alt="sports"></li>
+				<li class="vdash-fix"><img src="_/img/clients/shell.jpg" alt="shell"></li>
+				<li class=""><img src="_/img/clients/warrior.jpg" alt="wilson"></li>
+				<li class="vdash-fix"><img src="_/img/clients/lincoln.jpg" alt="lincoln"></li>
+				<li class="vdash-fix"><img src="_/img/clients/compuware.jpg" alt="compuware"></li>
+				<li class="vdash-fix"><img src="_/img/clients/scotts.jpg" alt="scotts"></li>
+				<li class=""><img src="_/img/clients/bosch.jpg" alt="bosch"></li>
+				<li class="vdash-fix"><img src="_/img/clients/oakwood.jpg" alt="oakwood"></li>
+				<li class="vdash-fix"><img src="_/img/clients/dso.jpg" alt="dso"></li>
+				<li class="vdash-fix"><img src="_/img/clients/carhartt.jpg" alt="carhartt"></li>
+				<li class=""><img src="_/img/clients/unitedway.jpg" alt="unitedway"></li>
 			</ul>
 			
 		</div>
