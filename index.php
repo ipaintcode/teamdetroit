@@ -270,7 +270,7 @@
 						<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #E62B7F;"></div>
+						<div class="color-swatch" style="background: #78b9ba;"></div>
 						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
 					</a>
 				</li>
