@@ -593,11 +593,12 @@ div.headline-wrapper > h2 > span {
 }
 
 .leader-overview .leader-text-title {
-	margin-top: 10%;
+	margin-top: 7%;
 	font-size: 32px;
 	font-style: italic;
 	font-weight: bold;
 	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-left: 40px;
 }
 
 .leader-overview .leader-text-sub-title {
@@ -606,18 +607,21 @@ div.headline-wrapper > h2 > span {
 	font-style: italic;
 	font-weight: 100;
 	font-family: Georgia, "Times New Roman", Times, serif;
+		margin-left: 40px;
 }
 
 .leader-overview .leader-text-body {
 	line-height: 27px;
 	font-size: 16px;
 	font-family: "ProximaNovaRegular", Arial, sans-serif;
+		margin-left: 40px;
 }
 
 .leader-overview .leader-text-footer {
 	line-height: 27px;
 	font-size: 16px;
 	font-family: "ProximaNovaSemibold", Arial, sans-serif;
+		margin-left: 40px;
 }
 
 .leadership .grid li:nth-child(even) {
