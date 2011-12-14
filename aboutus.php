@@ -98,7 +98,7 @@
 						<h3 class="culture-title">Who We Are</h3>
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 						<p class="view-project">View&nbsp;Project</p>
-						<!-- <span class="arrow">&rarr;</span> -->
+						<span class="arrow" style="opacity: 0">&rarr;</span>
 						<div class="color-swatch" style="background: #A17E7D;"></div>
 						<img src="_/img/aboutus/who_we_are.jpg" alt="Bus">
 					</a>
@@ -108,7 +108,7 @@
 						<h3 class="culture-title">What We Do</h3>
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 						<p class="view-project">View&nbsp;Project</p>
-						<!-- <span class="arrow">&rarr;</span> -->
+						<span class="arrow" style="opacity: 0">&rarr;</span>
 						<div class="color-swatch" style="background: #AE914B;"></div>
 						<img src="_/img/aboutus/what_we_do.jpg" alt="">
 					</a>
@@ -118,7 +118,7 @@
 						<h3 class="culture-title">What Else<br />We Do</h3>
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 						<p class="view-project">View&nbsp;Project</p>
-						<!-- <span class="arrow">&rarr;</span> -->
+						<span class="arrow" style="opacity: 0">&rarr;</span>
 						<div class="color-swatch" style="background: #4576C7;"></div>
 						<img src="_/img/aboutus/what_else_we_do.jpg" alt="">
 					</a>
