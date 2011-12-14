@@ -447,14 +447,14 @@ $(document).ready(function() {
 	var msg = "Hello World";
 	
 	var delay = function() { 
-		changeMeatBall(meatballID); 
-		setTimeout(delay, 10000);	
+		changeMeatBall(meatballs[meatballID]); 
+		setTimeout(autoMeatballs, 10000);	
 	};
-	setTimeout(autoMeatballs, 10000);
+	setTimeout(autoMeatballs, 0);
 	
 	function autoMeatballs() {
 		meatballID+=1;
-		setTimeout(delay, 0);
+		setTimeout(delay, 10000);
 		if(meatballID === 4) {
 			meatballID = 0;
 		}
