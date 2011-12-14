@@ -122,7 +122,7 @@
 						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when they’re suddenly confronted by two dozen “journalists.”</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #6894E0;"></div>
+						<div class="color-swatch" style="background: #31599C;"></div>
 						<img src="_/img/projects/totally_unexpected_press_conference/thumb_large.jpg" alt="">
 					</a>
 				</li>

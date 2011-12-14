@@ -94,33 +94,33 @@
 			
 			<ul class="grid">
 				<li class="single">
-					<a href="culture/people_mover.php">
-						<h3 class="culture-title">Who We Are</h3>
+					<a href="aboutus/who-we-are.php">
+						<h3 class="culture-title">Who<br />We Are</h3>
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-						<p class="view-project">View&nbsp;Project</p>
+						<p class="view-project">Watch&nbsp;Video</p>
 						<span class="arrow" style="opacity: 0">&rarr;</span>
 						<div class="color-swatch" style="background: #A17E7D;"></div>
-						<img src="_/img/aboutus/who_we_are.jpg" alt="Bus">
+						<img src="_/img/aboutus/who_we_are_thumb.jpg" alt="Bus">
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture/love_detroit.php">
-						<h3 class="culture-title">What We Do</h3>
+					<a href="aboutus/what-we-do.php">
+						<h3 class="culture-title">What<br />We Do</h3>
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-						<p class="view-project">View&nbsp;Project</p>
+						<p class="view-project">Watch&nbsp;Video</p>
 						<span class="arrow" style="opacity: 0">&rarr;</span>
 						<div class="color-swatch" style="background: #AE914B;"></div>
-						<img src="_/img/aboutus/what_we_do.jpg" alt="">
+						<img src="_/img/aboutus/what_we_do_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture/greening_of_detroit.php">
+					<a href="aboutus/what-else-we-do.php">
 						<h3 class="culture-title">What Else<br />We Do</h3>
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-						<p class="view-project">View&nbsp;Project</p>
+						<p class="view-project">Watch&nbsp;Video</p>
 						<span class="arrow" style="opacity: 0">&rarr;</span>
 						<div class="color-swatch" style="background: #4576C7;"></div>
-						<img src="_/img/aboutus/what_else_we_do.jpg" alt="">
+						<img src="_/img/aboutus/what_else_we_do_thumb.jpg" alt="">
 					</a>
 				</li>
 			</ul>
