@@ -47,7 +47,7 @@ jQuery.cookie = function(key, value, options) {
 $(document).ready(function() {
 
 	function checkImgSize() {
-		console.log($('.interactive img').height() === 0);
+
 		if ($('.interactive img').height() === 0 || $('.interactive img').height() === "0") {
 			setTimeout(checkImgSize, 1);
 			return undefined;
