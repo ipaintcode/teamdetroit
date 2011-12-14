@@ -603,8 +603,8 @@ div.headline-wrapper > h2 > span {
 }
 
 .leader-overview .leader-text-sub-title {
-	line-height: 26px;
-	font-size: 18px;
+	line-height: 21px;
+	font-size: 20px;
 	font-style: italic;
 	font-weight: 100;
 	font-family: Georgia, "Times New Roman", Times, serif;
@@ -613,17 +613,17 @@ div.headline-wrapper > h2 > span {
 }
 
 .leader-overview .leader-text-body {
-	line-height: 20px;
+	line-height: 16px;
 	font-size: 14px;
 	font-family: "ProximaNovaRegular", Arial, sans-serif;
-		margin-left: 40px;
+	margin-left: 40px;
 }
 
 .leader-overview .leader-text-footer {
-	line-height: 20px;
+	line-height: 16px;
 	font-size: 14px;
 	font-family: "ProximaNovaSemibold", Arial, sans-serif;
-		margin-left: 40px;
+	margin-left: 40px;
 }
 
 .leadership .grid li:nth-child(even) {
