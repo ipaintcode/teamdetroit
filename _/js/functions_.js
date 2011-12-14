@@ -429,7 +429,7 @@ $(document).ready(function() {
 	
 	function changeMeatBall(ele) {
 	
-		meatballID = ($(ele).attr('href').split('_')[1])-1;
+		meatballID = parseInt($(ele).attr('href').split('_')[1], 10)-1;
 		$('.homepage-billboard div a').each(function(index) {
 			if($(this).attr('class')==="active") {
 				$($(this).attr('href')).animate({opacity: 0}, 200);
@@ -454,7 +454,7 @@ $(document).ready(function() {
 	
 	function autoMeatballs() {
 		meatballID+=1;
-		setTimeout(delay)
+		setTimeout(delay);
 		if(meatballID === 4) {
 			meatballID = 0;
 		}
