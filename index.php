@@ -260,7 +260,7 @@
 						<p class="copy">Celebrate the season with free, streamed Holiday tunes from independent Detroit artists.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #BB4422;"></div>
+						<div class="color-swatch" style="background: #d57f57;"></div>
 						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
 					</a>
 				</li>
