@@ -73,7 +73,7 @@
  			
  			<ul>
  				<a href="#work">See Down Below!</a>
- 				<li><img src="img/career/billboard.png" alt=""></li>
+ 				<li><img src="_/img/career/billboard.png" alt=""></li>
  			</ul>
  		
  		</div>
