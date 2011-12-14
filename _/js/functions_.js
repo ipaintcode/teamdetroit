@@ -446,7 +446,14 @@ $(document).ready(function() {
 	$(document).ready(function() {
 
 	});
-
+	
+	function checkHomePageBillboard() {
+		if ($('.homepage-billboard ul li img').height() === 0 || $('.homepage-billboard ul li img').height() === "undefined") {
+			checkHomePageBillboard();
+		} else {
+			$('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());		
+		}
+	}
 	$('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());
 
 	$('.homepage-billboard div a').click(function(e) {
