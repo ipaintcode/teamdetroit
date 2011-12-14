@@ -603,7 +603,7 @@ div.headline-wrapper > h2 > span {
 }
 
 .leader-overview .leader-text-sub-title {
-	line-height: 34px;
+	line-height: 26px;
 	font-size: 18px;
 	font-style: italic;
 	font-weight: 100;
@@ -613,14 +613,14 @@ div.headline-wrapper > h2 > span {
 }
 
 .leader-overview .leader-text-body {
-	line-height: 27px;
+	line-height: 20px;
 	font-size: 14px;
 	font-family: "ProximaNovaRegular", Arial, sans-serif;
 		margin-left: 40px;
 }
 
 .leader-overview .leader-text-footer {
-	line-height: 27px;
+	line-height: 20px;
 	font-size: 14px;
 	font-family: "ProximaNovaSemibold", Arial, sans-serif;
 		margin-left: 40px;
