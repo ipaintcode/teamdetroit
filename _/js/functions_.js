@@ -429,7 +429,7 @@ $(document).ready(function() {
 	
 	function changeMeatBall(ele) {
 	
-		console.log($(ele).attr('href').split('_')[1]);
+		meatballID = ($(ele).attr('href').split('_')[1])-1;
 		$('.homepage-billboard div a').each(function(index) {
 			if($(this).attr('class')==="active") {
 				$($(this).attr('href')).animate({opacity: 0}, 200);
@@ -442,6 +442,22 @@ $(document).ready(function() {
 		$(ele).stop().stop().animate({color: "#9e0120"}, 300);
 		var idalt = $(ele).attr('href');
 		$(idalt).stop().delay(200).animate({opacity: 1}, 500);
+	}
+	
+	var msg = "Hello World";
+	
+	var delay = function() { 
+		changeMeatBall(meatballID); 
+		setTimeout(delay, 10000);	
+	};
+	setTimeout(autoMeatballs, 10000);
+	
+	function autoMeatballs() {
+		meatballID+=1;
+		setTimeout(delay)
+		if(meatballID === 4) {
+			meatballID = 0;
+		}
 	}
 
 	$('.homepage-billboard div a').each(function(index) {
