@@ -87,14 +87,14 @@
 						<a href="#billboard_4">&middot;</a>
 					</li>
 					<li id="billboard_3">
-						<img src="_/img/home/billboard_1.png" alt="">
+						<img src="_/img/home/billboard-FocusRally.jpg" alt="">
 						<a href="#billboard_1">&middot;</a>
 						<a href="#billboard_2">&middot;</a>
 						<a href="#billboard_3">&middot;</a>
 						<a href="#billboard_4">&middot;</a>
 					</li>
 					<li id="billboard_4">
-						<img src="_/img/home/billboard.png" alt="">
+						<img src="_/img/home/billboard-CCS.jpg" alt="">
 						<a href="#billboard_1">&middot;</a>
 						<a href="#billboard_2">&middot;</a>
 						<a href="#billboard_3">&middot;</a>
