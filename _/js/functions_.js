@@ -454,6 +454,9 @@ $(document).ready(function() {
 			$('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());		
 		}
 	}
+	
+	checkHomePageBillboard();
+	
 	$('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());
 
 	$('.homepage-billboard div a').click(function(e) {
