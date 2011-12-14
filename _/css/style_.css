@@ -594,16 +594,16 @@ div.headline-wrapper > h2 > span {
 
 .leader-overview .leader-text-title {
 	margin-top: 7%;
-	font-size: 28px;
+	font-size: 32px;
 	font-style: italic;
 	font-weight: bold;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	margin-left: 40px;
-	margin-bottom: 8px;
+	margin-bottom: 12px;
 }
 
 .leader-overview .leader-text-sub-title {
-	line-height: 22px;
+	line-height: 26px;
 	font-size: 20px;
 	font-style: italic;
 	font-weight: 100;
@@ -618,7 +618,7 @@ div.headline-wrapper > h2 > span {
 	font-size: 14px;
 	font-family: "ProximaNovaRegular", Arial, sans-serif;
 	margin-left: 40px;
-	margin-bottom: 5px;
+	margin-bottom: 10px;
 }
 
 .leader-overview .leader-text-footer {
