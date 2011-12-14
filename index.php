@@ -73,7 +73,7 @@
 			<div class="homepage-billboard">
 				<ul>
 					<li id="billboard_1">
-						<img src="img/home/billboard_1.png" alt="">
+						<img src="_/img/home/billboard_1.png" alt="">
 						<a class="active" href="#billboard_1">&middot;</a>
 						<a href="#billboard_2">&middot;</a>
 						<a href="#billboard_3">&middot;</a>
@@ -81,7 +81,7 @@
 						<a href="#billboard_5">&middot;</a>
 					</li>
 					<li id="billboard_2">
-						<img src="img/aboutus/billboard.png" alt="">
+						<img src="_/img/home/billboard.png" alt="">
 						<a href="#billboard_1">&middot;</a>
 						<a href="#billboard_2">&middot;</a>
 						<a href="#billboard_3">&middot;</a>
@@ -89,7 +89,7 @@
 						<a href="#billboard_5">&middot;</a>
 					</li>
 					<li id="billboard_3">
-						<img src="img/home/billboard_1.png" alt="">
+						<img src="_/img/home/billboard_1.png" alt="">
 						<a href="#billboard_1">&middot;</a>
 						<a href="#billboard_2">&middot;</a>
 						<a href="#billboard_3">&middot;</a>
@@ -97,15 +97,7 @@
 						<a href="#billboard_5">&middot;</a>
 					</li>
 					<li id="billboard_4">
-						<img src="img/home/billboard_1.png" alt="">
-						<a href="#billboard_1">&middot;</a>
-						<a href="#billboard_2">&middot;</a>
-						<a href="#billboard_3">&middot;</a>
-						<a href="#billboard_4">&middot;</a>
-						<a href="#billboard_5">&middot;</a>
-					</li>
-					<li id="billboard_5">
-						<img src="img/home/billboard_1.png" alt="">
+						<img src="_/img/home/billboard.png" alt="">
 						<a href="#billboard_1">&middot;</a>
 						<a href="#billboard_2">&middot;</a>
 						<a href="#billboard_3">&middot;</a>
