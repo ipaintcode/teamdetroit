@@ -245,57 +245,66 @@
 	<section class="home-culture">
 
 		<div class="center min-max">
-			<!-- <h3>These shoes<br />are Magic.</h3>
-						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when they’re suddenly confronted by two dozen “journalists.”</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #5d7407;"></div>
-						<img src="img/home/work/7.jpg" alt=""> -->
+			
 			<ul class="grid">
 				<li class="single">
-					<a href="culture-landing.php">
-						<h3 class="culture-title">Warrior<br />Lacrosse.</h3>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #AC183C;"></div>
-						<img src="img/culture/bassplayer.jpg" alt="Bassplayer">
-					</a>
-				</li>
-				
-				<li class="double">
-					<a href="culture-landing.php">
+					<a href="culture/people_mover.php">
 						<h3 class="culture-title">People Mover Project.</h3>
+						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #95AF3C;"></div>
-						<img src="img/culture/bus-large.jpg" alt="Bus">
+						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture-landing.php">
-						<h3 class="culture-title">Warriors<br />in Pink</h3>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #ED71A7;"></div>
-						<img src="img/culture/pink.jpg" alt="Pink">
-					</a>
-				</li>
-				<li class="single">
-					<a href="culture-landing.php">
-						<h3 class="culture-title">Summer<br />Fridays</h3>
+					<a href="culture/love_detroit.php">
+						<h3 class="culture-title">Love,<br />Detroit</h3>
+						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #797A65;"></div>
-						<img src="img/culture/3d.jpg" alt="Walltree">
+						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture-landing.php">
+					<a href="culture/greening_of_detroit.php">
 						<h3 class="culture-title">Greening of<br />Detroit</h3>
+						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #2D6F2F;"></div>
-						<img src="img/culture/walltree.jpg" alt="Bus">
+						<img src="_/img/culture/greening_of_detroit/button-greening.jpg" alt="">
+					</a>
+				</li>
+				<li class="single">
+					<a href="culture/movember.php">
+						<h3 class="culture-title">Movember</h3>
+						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #AC183C;"></div>
+						<img src="_/img/culture/movember/button-Movember.jpg" alt="Bassplayer">						
+					</a>
+				</li>
+				<li class="single">
+					<a href="culture/motorcity_pride.php">
+						<h3 class="culture-title">Motorcity<br />Pride</h3>
+						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #ED71A7;"></div>
+						<img src="_/img/culture/motorcity_pride/button-Pride.jpg" alt="Pink">
+					</a>
+				</li>
+				<li class="single">
+					<a href="culture/signal_return.php">
+						<h3 class="culture-title">Signal<br />Return</h3>
+						<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #ED71A7;"></div>
+						<img src="_/img/culture/signal_return/button-SignalReturn.jpg" alt="Pink">
 					</a>
 				</li>
 			</ul>
