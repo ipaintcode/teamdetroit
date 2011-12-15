@@ -27,9 +27,9 @@ $(document).ready(function (){
 	
 	var width = 0;
 	var which = 3;
-	
+	console.log($('.fluidCarousel'));
 	$(window).load(function() {
-		console.log($('ul.fluidCarousel'));
+		console.log($('.fluidCarousel'));
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
