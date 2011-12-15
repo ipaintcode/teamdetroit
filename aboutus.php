@@ -178,7 +178,7 @@
 					<img src="_/img/aboutus/capabilities/media-connections.jpg" alt="media-connections">
 				</li>
 				<li class="single vdash-fix">
-					<h5>Digital Studio</h5>
+					<h5>Digital</h5>
 					<img src="_/img/aboutus/capabilities/digital-studio.jpg" alt="digital-studio">
 				</li>
 				<li class="single vdash-fix">
@@ -186,7 +186,7 @@
 					<img src="_/img/aboutus/capabilities/production.jpg" alt="production">
 				</li>
 				<li class="single vdash-fix">
-					<h5>Analytics</h5>
+					<h5>Media</h5>
 					<img src="_/img/aboutus/capabilities/analytics.jpg" alt="analytics">
 				</li>
 				<li class="single vdash-fix">
@@ -198,8 +198,8 @@
 					<img src="_/img/aboutus/capabilities/mobile-design.jpg" alt="mobile-design">
 				</li>
 				<li class="single vdash-fix">
-					<h5>Social Strategy</h5>
-					<img src="_/img/aboutus/capabilities/social-strategy.jpg" alt="social-strategy">
+					<h5>Social Media</h5>
+					<img src="_/img/aboutus/capabilities/social-strategy.jpg" alt="social-media">
 				</li>
 			</ul>
 
