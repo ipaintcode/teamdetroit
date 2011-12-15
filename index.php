@@ -123,7 +123,7 @@
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #31599C;"></div>
-						<img src="_/img/projects/totally_unexpected_press_conference/thumb_large.jpg" alt="">
+						<img src="_/img/projects/press_conference/thumb_large.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
