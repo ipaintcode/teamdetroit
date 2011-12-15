@@ -538,12 +538,42 @@ header {
 /* Footer
 -------------------------------------------------------------------------------*/
 
-footer {
-	background: #383838;
+.footer {
+	color: white;
 }
 
-footer a {
-	color: #999999;
+.footer a {
+	color: white;
+	font-size: 10px;
+}
+
+.footer a:hover {
+	color: black;
+}
+
+.footer > div {
+	overflow: hidden;
+}
+
+.footer aside {
+	float: left;
+}
+
+.footer .footer-nav {
+	float: left;
+	margin-bottom: 200px;
+	font-size: 12px;
+	margin-top: 25px;
+}
+
+.footer .footer-nav h5 {
+	font-size: 16px;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.footer .footer-nav > li {
+	float: left;
 }
 
 /*div.headline-wrapper > h2 > span {*/
