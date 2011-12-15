@@ -667,11 +667,11 @@ footer, footer a {
 	text-align: center;
 	display: table-cell;
 	vertical-align: middle;
-	overflow: hidden;
 }
 
 .carousel-controller li .page-nate {
-	line-height: 65px;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 .carousel-controller li a {
