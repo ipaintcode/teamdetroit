@@ -63,7 +63,7 @@ $(document).ready(function (){
 		$(window).click(function(event) {
 		if(!animating) {
 			animating = true;
-			$('li:last').after($('li:first'));
+			$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
 			var ulLeft = $('.fluidCarousel').css('left');
 			$('.fluidCarousel').css('left', $('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));	
 			if($('.activeCarousel').next().length === 0) {
