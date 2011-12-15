@@ -678,17 +678,19 @@ footer, footer a {
 	color: #484848;
 	font-style: italic;
 	font-family: Georgia, "Times New Roman", Times, serif;
-}
-
-.carousel-controller .prev-button {
 	border-left: 1px dashed #ccccccc;
 	border-right: 1px dashed #ccccccc;
 }
 
-.carousel-controller .next-button {
-	border-left: 1px dashed #ccccccc;
-	border-right: 1px dashed #ccccccc;
-}
+/*.carousel-controller .prev-button {*/
+/*	border-left: 1px dashed #ccccccc;*/
+/*	border-right: 1px dashed #ccccccc;*/
+/*}*/
+/**/
+/*.carousel-controller .next-button {*/
+/*	border-left: 1px dashed #ccccccc;*/
+/*	border-right: 1px dashed #ccccccc;*/
+/*}*/
 
 
 /**/
