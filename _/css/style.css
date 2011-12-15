@@ -267,7 +267,7 @@ header {
 	background: rgba(255, 255, 255, .97);
 	z-index: 50000;
 	width: 100%;
-	top: -98px;
+	top: 0;
 	border-bottom: 1px dashed #cecece;
 
 }
