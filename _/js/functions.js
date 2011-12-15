@@ -40,7 +40,7 @@ $(document).ready(function (){
 		function resetCarousel() {
 			$('.fluidCarousel').stop().animate({
 				left: (($(window).width()-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
-			}, 500, function() {
+			}, 1000, function() {
 				animating = false;
 			});
 		}
@@ -62,7 +62,6 @@ $(document).ready(function (){
 		
 		var animating = false;
 		$(window).click(function(event) {
-			console.log($(this));
 			if(!animating) {
 				animating = true;
 				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
