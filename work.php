@@ -90,7 +90,7 @@
 				<li class="single">
 					<a href="projects/lincoln-innovators.php">
 						<h3>Lincoln Innovators</h3>
-						<p class="copy">For Lincoln, it’s all about partnerships: Partnering with people at the top of the design and innovation business who truly embody the Lincoln aesthetic. Then partnering with the perfect media to make their stories sing.</p>
+						<p class="copy">For Lincoln, it’s all about partnerships: Partnering with people at the top of the design.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #86633D;"></div>
@@ -111,7 +111,7 @@
 				<li class="single">
 					<a href="projects/carhartt.php">
 						<h3>Carhartt</h3>
-						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. Oh yeah, we definitely made sure it would grab you.</p>
+						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #333C52;"></div>
@@ -121,7 +121,7 @@
 				<li class="single">
 					<a href="projects/f150-torture-test.php">
 						<h3>F-150<br />Torture Test</h3>
-						<p class="copy">Toughness and durability? Pickup truck owners need to see it before they’ll believe it. So we took one F-150 EcoBoost engine and subjected it to a slasher movie-style world of pain to prove it’s Built Ford Tough.</p>
+						<p class="copy">Toughness and durability? Pickup truck owners need to see it before they’ll believe it.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #3E2008;"></div>
@@ -131,7 +131,7 @@
 				<li class="single">
 					<a href="projects/bosch.php">
 						<h3>Bosch</h3>
-						<p class="copy">How do you prove that Bosch Icon Wiper Blades will perform when you need them, in even the worst rain, sleet and snow? Team up with the freakishly fearless crew from Discovery Channel’s Storm Chasers.</p>
+						<p class="copy">How do you prove that Bosch Icon Wiper Blades will perform when you need them.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #2D402D;"></div>
@@ -141,7 +141,7 @@
 				<li class="single">
 					<a href="projects/ccs.php">
 						<h3>CCS</h3>
-						<p class="copy">The College For Creative Studies is one of the leading art and design colleges in the world. Yet we art-directed and design their communications. Pretty impressive, huh?</p>
+						<p class="copy">The College For Creative Studies is one of the leading art and design colleges in the world.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #5f5347;"></div>
@@ -151,7 +151,7 @@
 				<li class="single">
 					<a href="projects/explorer-live.php">
 						<h3>Explorer<br />Live</h3>
-						<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvented the SUV launch. So we introduced the new Explorer with richer, more intense uses of social media than ever.</p>
+						<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvented the SUV launch.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #1F2322;"></div>
@@ -171,7 +171,7 @@
 				<li class="single">
 					<a href="projects/mustang-customizer.php">
 						<h3>Mustang<br />Customizer</h3>
-						<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like. We created a tool – and a battleground – for them to see it come to life.</p>
+						<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						 <div class="color-swatch" style="background: #B22E25;"></div>
@@ -181,7 +181,7 @@
 				<li class="single">
 					<a href="projects/we-own-work.php">
 						<h3>We Own Work</h3>
-						<p class="copy">Super Duty is the only true heavy-duty work truck and our customers are proving it to the world. They’re creating digital truck cards that feature their truck along with the work they use it for. The public weighs in on degree of toughness.</p>
+						<p class="copy">Super Duty is the only true heavy-duty work truck and our customers are proving it to the world.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #1D2122;"></div>
@@ -191,7 +191,7 @@
 				<li class="single">
 					<a href="projects/focus-doug.php">
 						<h3>Focus<br />Doug</h3>
-						<p class="copy">Who could possibly convince young, socially-connected types that the new Ford Focus was worth a look? Sometimes you just have to put your faith in a quick-witted, R-rated hand puppet and see how it works out.</p>
+						<p class="copy">Who could possibly convince young, socially-connected types that the new Ford Focus was worth a look?</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #5F1006;"></div>
@@ -211,7 +211,7 @@
 				<li class="single">
 					<a href="projects/warrior.php">
 						<h3>Warrior</h3>
-						<p class="copy">What makes a Manchine? An Alpha male attitude. And a downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt®. All Hail.</p>
+						<p class="copy">What makes a Manchine? An Alpha male attitude.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #46496a;"></div>
@@ -222,7 +222,7 @@
 				<li class="single">
 					<a href="projects/scotts.php">
 						<h3>Scotts</h3>
-						<p class="copy">Independent retailers helped put Scotts on the map. So to show those retailers some love, Scotts released an entire line of products exclusively for them. Suddenly, customers had a new reason to shop the independents.</p>
+						<p class="copy">Independent retailers helped put Scotts on the map. So to show those retailers some love.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #426907;"></div>
@@ -244,7 +244,7 @@
 				<li class="single">
 					<a href="projects/mustang.php">
 						<h3>Mustang</h3>
-						<p class="copy">You can give a Ford Mustang better miles per gallon and more smart technology. But no matter what you do, it’s still a Ford Mustang. And still capable of making hearts race.</p>
+						<p class="copy">You can give a Ford Mustang better miles per gallon and more smart technology.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #3f546e;"></div>
@@ -255,7 +255,7 @@
 				<li class="single">
 					<a href="projects/ohio-art.php">
 						<h3>Ohio Art</h3>
-						<p class="copy">We say the bigger you get, the smaller your blocks should be. Micro-sized Nanoblocks have the magic to return you to childhood. Stick a few together and find that no matter what you create, you’re building a time machine.</p>
+						<p class="copy">We say the bigger you get, the smaller your blocks should be.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #a38c43;"></div>
@@ -266,7 +266,7 @@
 				<li class="single">
 					<a href="projects/sports-authority.php">
 						<h3>Sports Authority</h3>
-						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them. Teaming up with us: Future Hall-of-Famer Michael Strahan and star running back Adrian Peterson.</p>
+						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #bb0f0f;"></div>

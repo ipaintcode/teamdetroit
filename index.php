@@ -119,7 +119,7 @@
 				<li class="double">
 					<a href="projects/press-conference.php">
 						<h3>Totally Unexpected<br />Press Conference</h3>
-						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when they’re suddenly confronted by two dozen “journalists.”</p>
+						<p class="copy">Testimonials were never this enlightening.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #31599C;"></div>
@@ -179,7 +179,7 @@
 				<li class="double">
 					<a href="projects/sports-authority.php">
 						<h3>These shoes<br />are Magic.</h3>
-						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when they’re suddenly confronted by two dozen “journalists.”</p>
+						<p class="copy">Testimonials were never this enlightening.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #257698;"></div>
