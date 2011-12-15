@@ -5,7 +5,21 @@
 /* trigger when page is ready */
 $(document).ready(function (){
 
-	// your functions go here
+	$('a').click(function(ele) {
+		if($(this).attr('href').indexOf("#billboard_") !== 0) {
+			ele.preventDefault();
+			var url = $(this).attr('href');
+			if (url.indexOf("#") === -1) {
+				$('.wrapper').stop().animate({
+					opacity: 0
+				}, 500, function() {
+					window.location.href = url;
+				});
+			}
+		}else {
+			
+		}
+	});
 
 });
 
