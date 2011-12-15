@@ -50,8 +50,8 @@ $(document).ready(function (){
 			resetCarousel();
 		});
 		
-		var len = $('.fluidCarousel li').length;
-		for (var i = 0; i < len; i++) {
+		var len = $('.fluidCarousel li').length-1;
+		for (var i = 0; i < len+1; i++) {
 			console.log("called");
 			$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
 		}
