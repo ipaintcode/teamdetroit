@@ -670,6 +670,10 @@ footer, footer a {
 	overflow: hidden;
 }
 
+.carousel-controller li .page-nate {
+	line-height: 65px;
+}
+
 .carousel-controller li a {
 	display: table-cell;
 	vertical-align: middle;
@@ -679,17 +683,19 @@ footer, footer a {
 	color: #484848;
 	font-style: italic;
 	font-family: Georgia, "Times New Roman", Times, serif;
+	border-left: 1px dashed #cccccc;
+	border-right: 1px dashed #cccccc;
 }
 
-.carousel-controller li.prev-button {
-	border-left: 1px dashed #ccccccc;
-	border-right: 1px dashed #ccccccc;
-}
-
-.carousel-controller li.next-button {
-	border-left: 1px dashed #ccccccc;
-	border-right: 1px dashed #ccccccc;
-}
+/*.carousel-controller li.prev-button {*/
+/*	border-left: 1px dashed #cccccc;*/
+/*	border-right: 1px dashed #cccccc;*/
+/*}*/
+/**/
+/*.carousel-controller li.next-button {*/
+/*	border-left: 1px dashed #cccccc;*/
+/*	border-right: 1px dashed #cccccc;*/
+/*}*/
 
 
 /**/
