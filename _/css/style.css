@@ -665,12 +665,15 @@ footer, footer a {
 	width: 100px;
 	text-align: center;
 	background: #990000;
+	display: table-cell;
+	vertical-align: middle;
 }
 
 .carousel-controller li a {
 	display: table-cell;
 	vertical-align: middle;
 	height: 65px;
+	width: 100px;
 	text-decoration: none;
 	color: #484848;
 	font-style: italic;
