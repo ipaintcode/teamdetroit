@@ -53,7 +53,7 @@ $(document).ready(function (){
 		var len = $('.fluidCarousel li').length-1;
 		for (var i = 0; i < len+1; i++) {
 			console.log("called");
-			$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
+			$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel').removeClass('activeCarousel');
 		}
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
