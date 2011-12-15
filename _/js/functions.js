@@ -55,6 +55,8 @@ $(document).ready(function (){
 		
 		$('.page-nate span').text(len+1);
 		
+		console.log($('.page-nate span').text()+": "+len);
+		
 		for (var i = 0; i < len+1; i++) {
 			console.log("called");
 			$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel').removeClass('activeCarousel');
