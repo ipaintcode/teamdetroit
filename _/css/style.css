@@ -280,7 +280,7 @@ header {
 	height: 44px;
 	width: 148px;
 	text-indent: -9999px;
-	background: url('../img/teamdetroit.png') no-repeat top left;
+	background: url('/teamdetroit/_/img/teamdetroit.png') no-repeat top left;
 }
 
 .main-nav ul {
