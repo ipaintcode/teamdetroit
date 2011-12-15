@@ -66,6 +66,12 @@ $(document).ready(function (){
 			$('.page-nate .page-of').text(tracker);
 		});
 		
+		$('.next-button').hover(function() {
+			$(this).stop().animate({opacity: 1}, 300);
+		}, function() {
+			$(this).stop().animate({opacity: 1}, 300);
+		});
+		
 		for (var i = 0; i < len+1; i++) {
 			console.log("called");
 			$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel').removeClass('activeCarousel');
