@@ -320,7 +320,7 @@ $(document).ready(function() {
 		}, 300);
 		$('.google-overlay').stop().animate({
 			top: (460+98)
-		}, speed);
+		}, 300);
 		$('.wdet-icon img').stop().animate({
 			top: -254
 		}, 300);
@@ -345,7 +345,7 @@ $(document).ready(function() {
 		}, 300);
 		$('.google-overlay').stop().animate({
 			top: 460
-		}, speed);
+		}, 300);
 		$('.wdet-icon img').stop().animate({
 			top: 0
 		}, 300, function() {
