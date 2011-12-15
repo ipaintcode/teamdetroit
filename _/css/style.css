@@ -540,6 +540,8 @@ header {
 
 .twentyfive {
 	width: 25%;
+	background: url('../img/facts.png') no-repeat top left;
+
 }
 
 .footer {
