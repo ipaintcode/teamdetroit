@@ -58,12 +58,14 @@ $(document).ready(function (){
 		$('.page-nate .page-of').text(tracker);
 		
 		$('.next-button').click(function(event) {
-			goNext();
-			tracker+=1;
-			if (tracker === len+2) {
-				tracker = 1;
+			if(!animating) {
+				goNext();
+				tracker+=1;
+				if (tracker === len+2) {
+					tracker = 1;
+				}
+				$('.page-nate .page-of').text(tracker);
 			}
-			$('.page-nate .page-of').text(tracker);
 		});
 		
 		$('.next-button').hover(function() {
