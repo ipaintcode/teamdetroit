@@ -653,9 +653,7 @@ footer, footer a {
 -------------------------------------------------------------------------------*/
 
 .carousel-navigation {
-	height: 0;
-	position: relative;
-	top: 65px;
+
 }
 .carousel-controller {
 	float: right;
