@@ -319,7 +319,7 @@ $(document).ready(function() {
 			marginTop: 232
 		}, 300);
 		$('.google-overlay').stop().animate({
-			top: (460+98)
+			top: (460+119)
 		}, 300);
 		$('.wdet-icon img').stop().animate({
 			top: -254
