@@ -656,6 +656,7 @@ footer, footer a {
 .carousel-controller {
 	float: right;
 	height: 65px;
+	font-style: italic;
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
 
@@ -663,6 +664,7 @@ footer, footer a {
 	float: left;
 	width: 100px;
 	text-align: center;
+	background: #990000;
 }
 
 .carousel-controller li a {
