@@ -92,12 +92,13 @@
 			<li class=""><img src="../_/img/projects/ccs/billboard_11.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/ccs/billboard_12.jpg" alt=""></li>														
 		</ul>
-		<ul class="carousel-controller">
-			<li class="prev-button"><a href="#prec">&larr; Previous</a></li>
-			<li class="page-nate">1 of <span>12</span></li>
-			<li class="next-button"><a href="#next">Next &rarr;</a></li>
-		</ul>
 	</div>
+	
+	<ul class="carousel-controller">
+		<li class="prev-button"><a href="#prec">&larr; Previous</a></li>
+		<li class="page-nate">1 of <span>12</span></li>
+		<li class="next-button"><a href="#next">Next &rarr;</a></li>
+	</ul>
 
 	<div class="segment-headline-wrapper clear">
 		<h2 class="center min-max"><span class="segment-header-spacer">CCS</span></h2>
