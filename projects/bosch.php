@@ -81,7 +81,7 @@
 		</ul>
 	</div>
 
-	<div class="segment-headline-wrapper clear">
+	<div class="segment-headline-wrapper clear below-carousel">
 		<h2 class="center min-max"><span class="segment-header-spacer">Bosch Storm Chasers TV:30</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">

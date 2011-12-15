@@ -84,7 +84,7 @@
 		</ul>
 	</div>
 
-	<div class="segment-headline-wrapper clear">
+	<div class="segment-headline-wrapper clear below-carousel">
 		<h2 class="center min-max"><span class="segment-header-spacer">Signal Return</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
