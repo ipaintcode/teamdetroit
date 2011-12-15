@@ -318,6 +318,9 @@ $(document).ready(function() {
 		$('.billboard').stop().animate({
 			marginTop: 232
 		}, 300);
+		$('.google-overlay').stop().animate({
+			marginTop: (460+98)
+		}, speed);
 		$('.wdet-icon img').stop().animate({
 			top: -254
 		}, 300);
@@ -340,6 +343,9 @@ $(document).ready(function() {
 		$('.wdet-inner').stop().animate({
 			height: 0
 		}, 300);
+		$('.google-overlay').stop().animate({
+			marginTop: 460
+		}, speed);
 		$('.wdet-icon img').stop().animate({
 			top: 0
 		}, 300, function() {
