@@ -72,8 +72,8 @@
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
 			<li><img src="../_/img/leadership/andrew_weil.jpg" alt=""></li>
-			<li><img src="../_/img/leadership/bob_mclowery.jpg" alt=""></li>
-			<li><img src="../_/img/leadership/bob_mclowery.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/bob_mcclowery.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/bob_mcclowery.jpg" alt=""></li>
 		</ul>
 	</div>
 
