@@ -69,11 +69,31 @@
 	
 	<div id="billboard-spacer"></div>
 	
-	<div class="billboard-wrapper billboard-ext-leaders">
-		<ul>
-			<li><img src="../_/img/culture/movember/billboard-3.jpg" alt=""></li>
-			<li><img src="../_/img/culture/movember/billboard-2.jpg" alt=""></li>
-			<li><img src="../_/img/culture/movember/billboard-1.jpg" alt=""></li>
+	<div class="billboard-wrapper billboard-ext-carousel">
+		<ul class="fluidCarousel">
+			<li class="activeCarousel"><img src="../_/img/culture/movember/billboard-1.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-1.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-3.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-4.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-5.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-6.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-7.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-8.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-9.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-10.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-11.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-12.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-13.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-14.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-15.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-16.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-17.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-18.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-19.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-20.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-21.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/movember/billboard-22.jpg" alt=""></li>
 		</ul>
 	</div>
 
