@@ -59,6 +59,11 @@
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 	<style>
+		.fluidCarousel-wrapper {
+			height: 420px;
+			overflow: hidden;
+			position: relative;
+		}
 		.fluidCarousel  {
 			list-style: none;
 			position: absolute;
@@ -81,7 +86,7 @@
 	
 	<div id="billboard-spacer"></div>
 	
-	<div class="billboard-wrapper billboard">
+	<div class="billboard-wrapper billboard fluidCarousel-wrapper">
 		<ul class"fluidCarousel">
 			<li class="active"><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-2.jpg" alt=""></li>
@@ -185,7 +190,7 @@
 			
 			function resetCarousel() {
 				$('.fluidCarousel').stop().animate({
-					//left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+					left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
 				}, 500, function() {
 					animating = false;
 				});
@@ -204,7 +209,7 @@
 			$('.fluidCarousel').width(width);
 			$('.fluidCarousel').css({
 				left: 300
-				//left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+				left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
 			});
 			
 			var animating = false;
