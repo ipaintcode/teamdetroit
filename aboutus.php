@@ -211,28 +211,19 @@
 
 	    	<div class="full-list min-max margin-center">
 	    		<ul>
-	    			<li>Insights &amp; Planning</li>
-	    			<li>Media/Connections</li>
-	    			<li>Analytics</li>
-	    			<li>Visual Design</li>
-	    			<li>Copywriting</li>
-	    			<li>Interaction Design</li>
+	    			<li>Broadcast Production</li>
+	    			<li>Online Advertising</li>
+	    			<li>Relationship Marketing</li>
 	    		</ul>
 	    		<ul>
-	    			<li>Platforms/Applications</li>
-	    			<li>Campaigns</li>
-	    			<li>Digital Advertising</li>
-	    			<li>Relationship Marketing</li>
 	    			<li>E-Commerce</li>
 	    			<li>Brand Development</li>
+	    			<li>Mobile Design</li>
 	    		</ul>
 	    		<ul>
-	    			<li>Mobile Design</li>
-	    			<li>Social Strategy</li>
-	    			<li>Retail Experiences</li>
-	    			<li>Client Services</li>
-	    			<li>Production</li>
-	    			<li>Digital Studio</li>
+	    			<li>Video Editing</li>
+	    			<li>Audio Post</li>
+	    			<li>Animation</li>
 	    		</ul>
 	    		<p>And if all of this isn't enough</p>
 	    		<p>&darr;</p>
