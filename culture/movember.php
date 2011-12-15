@@ -69,7 +69,7 @@
 	
 	<div id="billboard-spacer"></div>
 	
-	<div class="billboard-wrapper billboard-ext-carousel">
+	<div class="billboard-wrapper billboard-ext-carousel" style="background: #333132;">
 		<ul class="fluidCarousel">
 			<li class="activeCarousel"><img src="../_/img/culture/movember/billboard-1.jpg" alt=""></li>
 			<li class=""><img src="../_/img/culture/movember/billboard-2.jpg" alt=""></li>
