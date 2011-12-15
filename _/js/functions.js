@@ -65,7 +65,7 @@ $(document).ready(function (){
 			animating = true;
 			$('li:last').after($('li:first'));
 			var ulLeft = $('.fluidCarousel').css('left');
-			$('.fluidCarousel').css('left', $('li:last').width()+parseInt(ulLeft));	
+			$('.fluidCarousel').css('left', $('li:last').width()+parseInt(ulLeft, 10));	
 			if($('.activeCarousel').next().length === 0) {
 					$('li').eq(1).addClass('activeCarousel');
 				}
@@ -77,9 +77,8 @@ $(document).ready(function (){
 		resetCarousel();
 		
 	});	
-	});
-
 });
+
 
 
 /* optional triggers
