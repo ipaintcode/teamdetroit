@@ -58,15 +58,7 @@
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="../_/js/modernizr-2.0.6.min.js"></script>
-	<style>
-		.carousel-controller {
-			float: right;
-		}
-		
-		.carousel-controller li {
-			float: left;
-		}
-	</style>
+
 </head>
 
 <body>

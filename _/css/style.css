@@ -650,10 +650,43 @@ footer, footer a {
 /*	background: black;*/
 /*}*/
 
-/* need sorting
+/* Carousel Controller
 -------------------------------------------------------------------------------*/
 
+.carousel-controller {
+	float: right;
+	height: 80px;
+}
 
+.carousel-controller li {
+	float: left;
+	width: 100px;
+}
+
+.carousel-controller li a {
+	text-decoration: none;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.carousel-controller .prev-button {
+	border-left: 1px dashed #ccccccc;
+	border-right: 1px dashed #ccccccc;
+}
+
+.carousel-controller .next-button {
+	border-left: 1px dashed #ccccccc;
+	border-right: 1px dashed #ccccccc;
+}
+
+
+
+
+<ul class="carousel-controller">
+	<li class="prev-button"><a href="#prec">&larr; Previous</a></li>
+	<li class="page-nate">1 of <span>12</span></li>
+	<li class="next-button"><a href="#next">Next &rarr;</a></li>
+</ul>
 
 /* Navigation + Header (w/WDET)
 -----------------------------*/
