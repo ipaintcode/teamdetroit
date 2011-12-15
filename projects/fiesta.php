@@ -71,12 +71,12 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/fiesta/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/fiesta/billboard-2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/fiesta/billboard-3.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/fiesta/billboard-4.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/fiesta/billboard-5.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/fiesta/billboard-6.jpg" alt=""></li>													
+			<li class="activeCarousel"><img src="../_/img/projects/fiesta/billboard_1.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/fiesta/billboard_2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/fiesta/billboard_3.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/fiesta/billboard_4.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/fiesta/billboard_5.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/fiesta/billboard_6.jpg" alt=""></li>													
 		</ul>
 	</div>
 
