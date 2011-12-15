@@ -55,7 +55,9 @@ $(document).ready(function (){
 		
 		$('.page-nate span').text(len+1);
 		
-		console.log($('.page-nate span').text()+": "+len);
+		$('.prev-button').click(function(event) {
+			goNext();
+		});
 		
 		for (var i = 0; i < len+1; i++) {
 			console.log("called");
@@ -71,22 +73,26 @@ $(document).ready(function (){
 		
 		var animating = false;
 		$('.billboard-ext-carousel').click(function(event) {
-		// if (deletedCount < 3) {
-		// 		$('.fluidCarousel li:last').remove();
-		// 	}
-		deletedCount+=1;
-		if(!animating) {
-			animating = true;
-			$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
-			var ulLeft = $('.fluidCarousel').css('left');
-			$('.fluidCarousel').css('left', $('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));	
-			if($('.activeCarousel').next().length === 0) {
+			goNext();
+		});
+		
+		function goNext() {
+			//f (deletedCount < 3) {
+			//	$('.fluidCarousel li:last').remove();
+			//}
+			deletedCount+=1;
+			if(!animating) {
+				animating = true;
+				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
+				var ulLeft = $('.fluidCarousel').css('left');
+				$('.fluidCarousel').css('left', $('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));	
+				if($('.activeCarousel').next().length === 0) {
 					$('.fluidCarousel li').eq(1).addClass('activeCarousel');
 				}
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
 				resetCarousel();
 			}
-		});
+		}
 		
 		resetCarousel();
 		$('.billboard-ext-carousel ul').stop().animate({opacity: 1}, 500);
