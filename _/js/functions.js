@@ -46,6 +46,7 @@ $(document).ready(function (){
 		}
 		
 		var deletedCount = 0;
+		var tracker = 1;
 		
 		$(window).resize(function(event) {
 			resetCarousel();
@@ -54,11 +55,11 @@ $(document).ready(function (){
 		var len = $('.fluidCarousel li').length-1;
 		
 		$('.page-nate span').text(len+1);
-		$('.page-nate .page-of').text(deletedCount);
+		$('.page-nate .page-of').text(tracker);
 		
 		$('.next-button').click(function(event) {
 			goNext();
-			$('.page-nate .page-of').text(deletedCount);
+			$('.page-nate .page-of').text(tracker);
 		});
 		
 		for (var i = 0; i < len+1; i++) {
@@ -82,6 +83,10 @@ $(document).ready(function (){
 			//f (deletedCount < 3) {
 			//	$('.fluidCarousel li:last').remove();
 			//}
+			tracker+=1;
+			if (tracker = len) {
+				tracker = 1;
+			}
 			deletedCount+=1;
 			if(!animating) {
 				animating = true;
