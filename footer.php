@@ -9,7 +9,7 @@
 							<li>rotate goodies about TDi</li>
 							<li>rotate goodies about TDi</li>
 						</ul> -->
-			<img src="_/img/facts.png" alt="Facts" style="display: block;">
+			<img src="/teamdetroit/_/img/facts.png" alt="Facts" style="display: block;">
 			<!-- <span class="est-time">2:35<sup>am</sup></span>
 			<span class="est-weather-temp">72&deg;</span>
 			<span class="est-weather-icon"></span> -->
