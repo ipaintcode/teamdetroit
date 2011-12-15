@@ -89,7 +89,7 @@
 	<div class="carousel-navigation center min-max">
 		<ul class="carousel-controller">
 			<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
-			<li class="page-nate">1 of <span>12</span></li>
+			<li class="page-nate"><span class="page-of">1</span> of <span>12</span></li>
 			<li class="next-button"><a href="#next">Next &rarr;</a></li>
 		</ul>
 	</div>

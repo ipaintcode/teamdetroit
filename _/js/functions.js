@@ -54,9 +54,11 @@ $(document).ready(function (){
 		var len = $('.fluidCarousel li').length-1;
 		
 		$('.page-nate span').text(len+1);
+		$('.page-nate .page-of').text(deletedCount);
 		
-		$('.prev-button').click(function(event) {
+		$('.next-button').click(function(event) {
 			goNext();
+			$('.page-nate .page-of').text(deletedCount);
 		});
 		
 		for (var i = 0; i < len+1; i++) {
