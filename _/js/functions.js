@@ -49,8 +49,9 @@ $(document).ready(function (){
 			resetCarousel();
 		});
 		
-		$('.fluidCarousel li').eq(7).clone().prependTo('.fluidCarousel');
-		$('.fluidCarousel li').eq(7).clone().prependTo('.fluidCarousel');
+		var len = $('.fluidCarousel li').length-1;
+		$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
+		$('.fluidCarousel li').eq(len-).clone().prependTo('.fluidCarousel');
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
