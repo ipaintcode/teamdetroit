@@ -233,7 +233,6 @@ body {
 .segment-headline-wrapper {
 	border-top: 1px dashed #cecece;
 	border-bottom: 1px dashed #cecece;
-	clear: both;
 }
 
 .segment-headline-wrapper h2 {
