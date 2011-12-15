@@ -78,8 +78,7 @@
 			<li class=""><img src="../_/img/culture/people_mover/billboard-5.jpg" alt=""></li>
 			<li class=""><img src="../_/img/culture/people_mover/billboard-6.jpg" alt=""></li>
 			<li class=""><img src="../_/img/culture/people_mover/billboard-7.jpg" alt=""></li>
-			<li class=""><img src="../_/img/culture/people_mover/billboard-8.jpg" alt=""></li>
-			<li class=""><img src="../_/img/culture/people_mover/billboard-9.jpg" alt=""></li>										
+			<li class=""><img src="../_/img/culture/people_mover/billboard-8.jpg" alt=""></li>									
 		</ul>
 	</div>
 
