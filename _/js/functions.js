@@ -44,14 +44,15 @@ $(document).ready(function (){
 			});
 		}
 		
+		var deletedCount = 0;
 		
 		$(window).resize(function(event) {
 			resetCarousel();
 		});
 		
 		var len = $('.fluidCarousel li').length-1;
-		// $('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
-		// $('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
+		$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
+		$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
@@ -62,6 +63,10 @@ $(document).ready(function (){
 		
 		var animating = false;
 		$('.billboard-ext-carousel').click(function(event) {
+		if (deletedCount < 2) {
+			$('.fluidCarousel li:last').remove();
+		}
+		deletedCount+=1;
 		if(!animating) {
 			animating = true;
 			$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
