@@ -535,7 +535,7 @@ div.headline-wrapper > h2 > span {
 -------------------------------------------------------------------------------*/
 
 .departments {
-	font-family: "ProximaNovaSemibold", Arial, sans-serif;
+	font-family: "ProximaNovaRegular", Arial, sans-serif;
 }
 
 .departments .photo-list li {
@@ -549,7 +549,7 @@ div.headline-wrapper > h2 > span {
 	margin-top: 24%;
 	line-height: 0;
 	float: left;
-	font-size: 16px;
+	font-size: 14px;
 }
 
 .departments .photo-list img {
@@ -572,7 +572,7 @@ div.headline-wrapper > h2 > span {
 
 .leadership {
 	background: #901435;
-		overflow: hidden;
+	overflow: hidden;
 }
 
 .leadership aside {
