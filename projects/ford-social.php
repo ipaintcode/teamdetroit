@@ -71,9 +71,9 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/ford_social/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ford_social/billboard-2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ford_social/billboard-3.jpg" alt=""></li>												
+			<li class="activeCarousel"><img src="../_/img/projects/ford_social/billboard_1.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ford_social/billboard_2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ford_social/billboard_3.jpg" alt=""></li>												
 		</ul>
 	</div>
 
