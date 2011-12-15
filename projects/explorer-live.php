@@ -83,7 +83,7 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel"><!-- <img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""> -->
-			<li class="activeCarousel"><iframe width="768" height="420" src="http://www.youtube.com/embed/NnxykOAn8B4?wmode=opaque" frameborder="0" allowfullscreen></iframe>/li>
+			<li class="activeCarousel"><iframe width="768" height="420" src="http://www.youtube.com/embed/NnxykOAn8B4?wmode=opaque" frameborder="0" allowfullscreen></iframe></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-2.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-4.jpg" alt=""></li>
