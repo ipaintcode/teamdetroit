@@ -83,7 +83,7 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="active"><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+			<li class="activeCarousel"><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-2.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-4.jpg" alt=""></li>
