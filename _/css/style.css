@@ -355,6 +355,7 @@ header {
 .billboard-ext-carousel {
 	height: 420px;
 	position: relative;
+	background: url('../img/ajax-loader.gif') no-repeat center center;
 }
 
 .billboard-ext-carousel ul {
