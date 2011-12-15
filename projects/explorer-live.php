@@ -81,7 +81,7 @@
 	
 	<div id="billboard-spacer"></div>
 	
-	<div class="billboard-wrapper billboard-ext-leaders">
+	<div class="billboard-wrapper billboard">
 		<ul class"fluidCarousel">
 			<li class="active"><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-2.jpg" alt=""></li>
