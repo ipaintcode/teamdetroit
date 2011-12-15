@@ -75,7 +75,7 @@ $(document).ready(function (){
 		});
 		
 		resetCarousel();
-		
+		$('.billboard-ext-carousel ul').stop().animate({opacity: 1}, 500);
 	});	
 });
 

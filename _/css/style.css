@@ -360,6 +360,9 @@ header {
 
 .billboard-ext-carousel ul {
 	position: absolute;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
 }
 
 .billboard-ext-carousel li {
