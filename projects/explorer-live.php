@@ -154,7 +154,7 @@
 <!-- this is where we put our custom functions -->
 <script src="../_/js/jquery.shadow-animation.min.js"></script>
 <script src="../_/js/jquery.easing.1.3.js"></script>
-<script src="../_/js/functions.js"></script>
+
 <script>
 	
 	$(document).ready(function() {
@@ -190,7 +190,7 @@
 			});
 			$('.fluidCarousel').width(width);
 			$('.fluidCarousel').css({
-				//left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+				left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
 			});
 			
 			var animating = false;
