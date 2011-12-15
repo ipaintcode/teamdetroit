@@ -200,7 +200,7 @@
 				</li>
 				<li class="single">
 					<a href="projects/press-conference.php">
-						<h3>Totally Unexpected<br />Press Conference</h3>
+						<h3>Press<br />Conference</h3>
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>

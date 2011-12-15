@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>CCS</title>
+	<title>Totally Unexpected Press Conference</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
@@ -78,8 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">CCS</span></h2>
-		<!-- <h2 class="center min-max"><span class="segment-header-spacer">Today’s teenagers are the most connected, plugged in generation ever. But our work for Detroit’s College for Creative Studies proves you could still reach them using low-tech communication.</span></h2> -->
+		<h2 class="center min-max"><span class="segment-header-spacer">Totally Unexpected Press Conference</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -90,13 +89,14 @@
 
 				<article class="content-info">
 					
-					<h3>Why we used posters to talk to tech-savvy teenagers</h3>
+					<h3>Lorem ipsum dolor sit amet</h3>
 
-					<p>Every year, colleges and universities compete against each other to bring the brightest students to their campus.  As eighteen-year-olds have gotten more and more technologically advanced, so have the messages that schools use to reach them. These days, colleges spend thousands of dollars per prospective student to reach their target audience.</p>
-					
-					<p>When Detroit&rsquo;s iconic art and design school, the College for Creative Studies, asked us to create a campaign for them, we knew outspending the competition wasn&rsquo;t an option. So, we decided to outthink them instead.  Our key insight came when we saw a group of our interns huddled next to our bulletin board looking at flyers. After realizing they all were CCS students, we put two and two together and realized it was possible to reach our tech-savvy target with one of the world&rsquo;s oldest forms of communication &mdash; posters.</p>
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 				
-					<p>After we created this series of low-tech posters, something amazing happened. They went viral. People started sharing them though blogs, Facebook and Twitter.  People chuckled, then passed them along to their friends. Who knew you could blow up the Internet with a campaign full of print material?</p>
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>
@@ -114,8 +114,9 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>We’re out to show That Super Duty is the only true heavy work truck.
+						</p>
+					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
 				</div>
