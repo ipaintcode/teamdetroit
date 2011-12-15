@@ -51,7 +51,7 @@ $(document).ready(function (){
 		
 		var len = $('.fluidCarousel li').length-1;
 		$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
-		$('.fluidCarousel li').eq(len-).clone().prependTo('.fluidCarousel');
+		$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
