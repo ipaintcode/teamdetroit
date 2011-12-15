@@ -67,7 +67,7 @@ $(document).ready(function (){
 		});
 		
 		$('.next-button').hover(function() {
-			$(this).stop().animate({opacity: 1}, 300);
+			$(this).stop().animate({opacity: .5}, 300);
 		}, function() {
 			$(this).stop().animate({opacity: 1}, 300);
 		});
