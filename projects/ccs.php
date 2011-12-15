@@ -82,8 +82,7 @@
 			<li class=""><img src="../_/img/projects/ccs/billboard-9.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/ccs/billboard-10.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/ccs/billboard-11.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-12.jpg" alt=""></li>
-																		
+			<li class=""><img src="../_/img/projects/ccs/billboard-12.jpg" alt=""></li>														
 		</ul>
 	</div>
 

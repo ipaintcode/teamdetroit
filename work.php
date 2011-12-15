@@ -94,7 +94,7 @@
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #86633D;"></div>
-						<img src="_/img/projects/lincoln_inovators/thumb.jpg" alt="">
+						<img src="_/img/projects/lincoln_innovators/thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
