@@ -378,6 +378,7 @@ header {
 
 .content-wrapper {
 	overflow: hidden;
+	clear: both;
 }
 
 .content-info-wrapper {
