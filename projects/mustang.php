@@ -69,11 +69,21 @@
 	
 	<div id="billboard-spacer"></div>
 	
-	<div class="billboard-wrapper billboard-ext-leaders">
-		<ul>
-			<li><img src="../_/img/culture/greening_of_detroit/billboard-8.jpg" alt=""></li>
-			<li><img src="../_/img/culture/greening_of_detroit/billboard-1.jpg" alt=""></li>
-			<li><img src="../_/img/culture/greening_of_detroit/billboard-2.jpg" alt=""></li>
+	<div class="billboard-wrapper billboard-ext-carousel">
+		<ul class="fluidCarousel">
+			<li class="activeCarousel"><img src="../_/img/projects/mustang/billboard-1.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-3.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-4.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-5.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-6.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-7.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-8.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-9.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-10.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-11.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-12.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang/billboard-13.jpg" alt=""></li>											
 		</ul>
 	</div>
 
