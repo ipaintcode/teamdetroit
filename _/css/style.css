@@ -692,6 +692,7 @@ footer, footer a {
 
 .below-carousel {
 	overflow: hidden;
+	height: 65px;
 }
 
 /*.carousel-controller li.prev-button {*/
