@@ -175,6 +175,7 @@
 		var which = 3;
 		
 		$(window).load(function() {
+			console.log($('.fluidCarousel'));
 			$('.fluidCarousel li img').each(function(index) {
 				width +=$(this).width();
 			});
