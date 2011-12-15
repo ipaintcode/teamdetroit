@@ -190,7 +190,7 @@
 			
 			function resetCarousel() {
 				$('.fluidCarousel').stop().animate({
-					left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+				//	left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
 				}, 500, function() {
 					animating = false;
 				});
@@ -208,7 +208,7 @@
 			});
 			$('.fluidCarousel').width(width);
 			$('.fluidCarousel').css({
-				left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+				//left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
 			});
 			
 			var animating = false;
