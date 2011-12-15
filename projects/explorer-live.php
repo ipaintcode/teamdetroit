@@ -72,13 +72,13 @@
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul class"fluidCarousel">
 			<li class="active"><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/explorer_live/billboard-2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/explorer_live/billboard-3.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/explorer_live/billboard-4.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/explorer_live/billboard-5.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/explorer_live/billboard-6.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/explorer_live/billboard-7.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/explorer_live/billboard-8.jpg" alt=""></li>
 		</ul>
 	</div>
 
