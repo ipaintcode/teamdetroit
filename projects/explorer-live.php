@@ -202,7 +202,7 @@
 			});
 			$('.fluidCarousel').width(width);
 			$('.fluidCarousel').css({
-				left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+				"left": (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
 			});
 			
 			var animating = false;
