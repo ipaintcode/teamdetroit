@@ -50,8 +50,8 @@ $(document).ready(function (){
 			resetCarousel();
 		});
 		
-		$('li').eq(4).clone().prependTo('.fluidCarousel');
-		$('li').eq(4).clone().prependTo('.fluidCarousel');
+		$('.fluidCarousel li').eq(4).clone().prependTo('.fluidCarousel');
+		$('.fluidCarousel li').eq(4).clone().prependTo('.fluidCarousel');
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
