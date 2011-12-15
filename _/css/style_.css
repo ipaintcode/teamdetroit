@@ -550,6 +550,7 @@ div.headline-wrapper > h2 > span {
 	line-height: 0;
 	float: left;
 	font-size: 14px;
+	font-weight: normal;
 }
 
 .departments .photo-list img {
