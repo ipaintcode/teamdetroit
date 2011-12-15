@@ -89,6 +89,11 @@
 	<div class="segment-headline-wrapper clear">
 		<h2 class="center min-max"><span class="segment-header-spacer">CCS</span></h2>
 		<!-- <h2 class="center min-max"><span class="segment-header-spacer">Today’s teenagers are the most connected, plugged in generation ever. But our work for Detroit’s College for Creative Studies proves you could still reach them using low-tech communication.</span></h2> -->
+		<ul class="carousel-controller">
+			<li class="prev-button">&larr; Previous</li>
+			<li class="page-nate">1 of <span>12</span></li>
+			<li class="next-button">Next &rarr;</li>
+		</ul>
 	</div>
 
 	<div class="content-wrapper">
