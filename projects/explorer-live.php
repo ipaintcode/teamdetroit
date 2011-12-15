@@ -82,8 +82,8 @@
 	<div id="billboard-spacer"></div>
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
-		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+		<ul class="fluidCarousel"><!-- <img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""> -->
+			<li class="activeCarousel"><iframe width="767" height="390" src="http://www.youtube.com/embed/NnxykOAn8B4" frameborder="0" allowfullscreen></iframe></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-2.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-4.jpg" alt=""></li>
