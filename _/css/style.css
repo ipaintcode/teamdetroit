@@ -686,6 +686,10 @@ footer, footer a {
 	border-right: 1px dashed #cccccc;
 }
 
+.below-carousel {
+	margin-top; -65px;
+}
+
 /*.carousel-controller li.prev-button {*/
 /*	border-left: 1px dashed #cccccc;*/
 /*	border-right: 1px dashed #cccccc;*/
