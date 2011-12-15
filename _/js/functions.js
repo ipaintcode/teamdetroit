@@ -4,6 +4,10 @@
 
 /* trigger when page is ready */
 $(document).ready(function (){
+	
+	$('.wrapper').stop().delay(500).animate({
+		opacity: 1
+	}, 500);
 
 	$('a').click(function(ele) {
 		if($(this).attr('href').indexOf("#billboard_") !== 0) {
