@@ -58,7 +58,19 @@
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="../_/js/modernizr-2.0.6.min.js"></script>
-
+	<style>
+		.fluidCarousel  {
+			list-style: none;
+			position: absolute;
+			top: 0; left: 0;
+		}
+		 .fluidCarousel li {
+			float: left;
+		}
+		.fluidCarousel li img {
+			display: block;
+		}
+	</style>
 </head>
 
 <body>
@@ -154,7 +166,7 @@
 <!-- this is where we put our custom functions -->
 <script src="../_/js/jquery.shadow-animation.min.js"></script>
 <script src="../_/js/jquery.easing.1.3.js"></script>
-
+<script src="../_/js/functions.js"></script>
 <script>
 	
 	$(document).ready(function() {
