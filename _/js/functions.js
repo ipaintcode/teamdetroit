@@ -59,6 +59,10 @@ $(document).ready(function (){
 		
 		$('.next-button').click(function(event) {
 			goNext();
+			tracker+=1;
+			if (tracker = len) {
+				tracker = 1;
+			}
 			$('.page-nate .page-of').text(tracker);
 		});
 		
@@ -83,10 +87,6 @@ $(document).ready(function (){
 			//f (deletedCount < 3) {
 			//	$('.fluidCarousel li:last').remove();
 			//}
-			tracker+=1;
-			if (tracker = len) {
-				tracker = 1;
-			}
 			deletedCount+=1;
 			if(!animating) {
 				animating = true;
