@@ -666,6 +666,7 @@ footer, footer a {
 	text-align: center;
 	display: table-cell;
 	vertical-align: middle;
+	overflow: hidden;
 }
 
 .carousel-controller li a {
