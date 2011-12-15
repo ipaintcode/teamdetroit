@@ -71,18 +71,18 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/ccs/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-3.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-4.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-5.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-6.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-7.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-8.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-9.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-10.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-11.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard-12.jpg" alt=""></li>														
+			<li class="activeCarousel"><img src="../_/img/projects/ccs/billboard_1.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_3.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_4.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_5.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_6.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_7.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_8.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_9.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_10.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_11.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/ccs/billboard_12.jpg" alt=""></li>														
 		</ul>
 	</div>
 
