@@ -52,6 +52,7 @@ $(document).ready(function (){
 		
 		var len = $('.fluidCarousel li').length-1;
 		for (var i = 0; i > len; i++) {
+			console.log("called");
 			$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
 		}
 		$('.fluidCarousel li img').each(function(index) {
