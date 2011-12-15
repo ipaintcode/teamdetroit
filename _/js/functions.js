@@ -29,7 +29,6 @@ $(document).ready(function (){
 	var which = 3;
 	
 	$(window).load(function() {
-
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
@@ -40,7 +39,7 @@ $(document).ready(function (){
 		function resetCarousel() {
 			$('.fluidCarousel').stop().animate({
 				left: (($(window).width()-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
-			}, 1000, function() {
+			}, 500, function() {
 				animating = false;
 			});
 		}
@@ -50,9 +49,8 @@ $(document).ready(function (){
 			resetCarousel();
 		});
 		
-		var cloneValue = $('.fluidCarousel li').length-1;
-		$('.fluidCarousel li').eq(cloneValue).clone().prependTo('.fluidCarousel');
-		$('.fluidCarousel li').eq(cloneValue).clone().prependTo('.fluidCarousel');
+		$('li').eq(7).clone().prependTo('.fluidCarousel');
+		$('li').eq(7).clone().prependTo('.fluidCarousel');
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
@@ -63,19 +61,22 @@ $(document).ready(function (){
 		
 		var animating = false;
 		$(window).click(function(event) {
-			if(!animating) {
-				animating = true;
-				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
-				var ulLeft = $('.fluidCarousel').css('left');
-				$('.fluidCarousel').css('left', $('li:last').width()+parseInt(ulLeft, 10));	
-				if($('.activeCarousel').next().length === 0) {
-					$('.fluidCarousel li').eq(1).addClass('activeCarousel');
+		if(!animating) {
+			animating = true;
+			$('li:last').after($('li:first'));
+			var ulLeft = $('.fluidCarousel').css('left');
+			$('.fluidCarousel').css('left', $('li:last').width()+parseInt(ulLeft));	
+			if($('.activeCarousel').next().length === 0) {
+					$('li').eq(1).addClass('activeCarousel');
 				}
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
 				resetCarousel();
 			}
 		});
-		//resetCarousel();	
+		
+		resetCarousel();
+		
+	});	
 	});
 
 });
