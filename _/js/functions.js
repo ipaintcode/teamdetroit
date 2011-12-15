@@ -39,7 +39,7 @@ $(document).ready(function (){
 		function resetCarousel() {
 			var windownWidth = ($(window).width() > 960) ? $(window).width() : 960;
 			$('.fluidCarousel').stop().animate({
-				left: (($(window).width()-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
+				left: ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
 			}, 500, function() {
 				animating = false;
 			});
