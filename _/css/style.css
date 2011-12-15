@@ -379,7 +379,6 @@ header {
 .content-wrapper {
 	overflow: hidden;
 	clear: both;
-	margin-top: -65px;
 }
 
 .content-info-wrapper {
@@ -692,7 +691,7 @@ footer, footer a {
 }
 
 .below-carousel {
-	margin-top; -65px;
+	overflow: hidden;
 }
 
 /*.carousel-controller li.prev-button {*/
