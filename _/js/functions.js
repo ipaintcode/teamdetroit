@@ -62,21 +62,20 @@ $(document).ready(function (){
 		
 		var animating = false;
 		$(window).click(function(event) {
-		if(!animating) {
-			animating = true;
-			$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
-			var ulLeft = $('.fluidCarousel').css('left');
-			$('.fluidCarousel').css('left', $('li:last').width()+parseInt(ulLeft, 10));	
-			if($('.activeCarousel').next().length === 0) {
+			console.log($(this));
+			if(!animating) {
+				animating = true;
+				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
+				var ulLeft = $('.fluidCarousel').css('left');
+				$('.fluidCarousel').css('left', $('li:last').width()+parseInt(ulLeft, 10));	
+				if($('.activeCarousel').next().length === 0) {
 					$('.fluidCarousel li').eq(1).addClass('active');
 				}
 				$('.activeCarousel').removeClass('active').next().addClass('active');
 				resetCarousel();
 			}
 		});
-		
-		resetCarousel();
-		
+		resetCarousel();	
 	});
 
 });
