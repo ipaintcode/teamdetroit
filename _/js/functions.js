@@ -53,6 +53,7 @@ $(document).ready(function (){
 		var len = $('.fluidCarousel li').length-1;
 		$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
 		$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
+		$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel');
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
@@ -63,7 +64,7 @@ $(document).ready(function (){
 		
 		var animating = false;
 		$('.billboard-ext-carousel').click(function(event) {
-		if (deletedCount < 2) {
+		if (deletedCount < 3) {
 			$('.fluidCarousel li:last').remove();
 		}
 		deletedCount+=1;
