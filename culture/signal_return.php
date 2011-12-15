@@ -69,11 +69,18 @@
 	
 	<div id="billboard-spacer"></div>
 	
-	<div class="billboard-wrapper billboard-ext-leaders">
-		<ul>
-			<li><img src="../_/img/culture/signal_return/billboard-3.jpg" alt=""></li>
-			<li><img src="../_/img/culture/signal_return/billboard-2.jpg" alt=""></li>
-			<li><img src="../_/img/culture/signal_return/billboard-1.jpg" alt=""></li>
+	<div class="billboard-wrapper billboard-ext-carousel">
+		<ul class="fluidCarousel">
+			<li class="activeCarousel"><img src="../_/img/culture/signal_return/billboard-1.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/signal_return/billboard-2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/signal_return/billboard-3.jpg" alt=""></li>
+			<li class=""><img src="../_/img/culture/signal_return/billboard-4.jpg" alt=""></li>	
+			<li class=""><img src="../_/img/culture/signal_return/billboard-5.jpg" alt=""></li>	
+			<li class=""><img src="../_/img/culture/signal_return/billboard-6.jpg" alt=""></li>	
+			<li class=""><img src="../_/img/culture/signal_return/billboard-7.jpg" alt=""></li>	
+			<li class=""><img src="../_/img/culture/signal_return/billboard-8.jpg" alt=""></li>	
+			<li class=""><img src="../_/img/culture/signal_return/billboard-9.jpg" alt=""></li>	
+			<li class=""><img src="../_/img/culture/signal_return/billboard-10.jpg" alt=""></li>											
 		</ul>
 	</div>
 
