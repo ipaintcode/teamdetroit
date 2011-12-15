@@ -47,7 +47,7 @@ $html = file_get_html('http://wdetfm.org/listenlive/');
 
 	<div class="wdet-icon">
 		<div class="center min-max">
-			<img class="stream" src="_/img/wdet-stream.png" alt="Wdet Stream">
+			<img class="stream" src="/teamdetroit/_/img/wdet-stream.png" alt="Wdet Stream">
 		</div>
 	</div>
 
