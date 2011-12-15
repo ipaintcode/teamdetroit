@@ -93,7 +93,7 @@
 						<p class="copy">For Lincoln, it’s all about partnerships: Partnering with people at the top of the design and innovation business who truly embody the Lincoln aesthetic. Then partnering with the perfect media to make their stories sing.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
+						<div class="color-swatch" style="background: #86633D;"></div>
 						<img src="_/img/projects/lincoln_inovators/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -104,7 +104,7 @@
 						</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						 <div class="color-swatch" style="background: #0ca787;"></div>
+						 <div class="color-swatch" style="background: #702107;"></div>
 						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -114,7 +114,7 @@
 						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. Oh yeah, we definitely made sure it would grab you.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #c6041f;"></div>
+						<div class="color-swatch" style="background: #333C52;"></div>
 						<img src="_/img/projects/carhartt/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -124,7 +124,7 @@
 						<p class="copy">Toughness and durability? Pickup truck owners need to see it before they’ll believe it. So we took one F-150 EcoBoost engine and subjected it to a slasher movie-style world of pain to prove it’s Built Ford Tough.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #26041f;"></div>
+						<div class="color-swatch" style="background: #3E2008;"></div>
 						<img src="_/img/projects/torture_test/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -134,7 +134,7 @@
 						<p class="copy">How do you prove that Bosch Icon Wiper Blades will perform when you need them, in even the worst rain, sleet and snow? Team up with the freakishly fearless crew from Discovery Channel’s Storm Chasers.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #354773;"></div>
+						<div class="color-swatch" style="background: #2D402D;"></div>
 						<img src="_/img/projects/bosch/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -144,7 +144,7 @@
 						<p class="copy">The College For Creative Studies is one of the leading art and design colleges in the world. Yet we art-directed and design their communications. Pretty impressive, huh?</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #2539cf;"></div>
+						<div class="color-swatch" style="background: #5f5347;"></div>
 						<img src="_/img/projects/ccs/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -154,7 +154,7 @@
 						<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvented the SUV launch. So we introduced the new Explorer with richer, more intense uses of social media than ever.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #B13106;"></div>
+						<div class="color-swatch" style="background: #1F2322;"></div>
 						<img src="_/img/projects/explorer_live/thumb.jpg" alt="">
 					</a>
 				</li>	
@@ -164,7 +164,7 @@
 						<p class="copy">The Ford Fiesta may look small. But between its smart technology and high MPG, it really is a pretty big deal.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #4927e3;"></div>
+						<div class="color-swatch" style="background: #5592AA;"></div>
 						<img src="_/img/projects/fiesta/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -174,7 +174,7 @@
 						<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like. We created a tool – and a battleground – for them to see it come to life.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						 <div class="color-swatch" style="background: #0ca787;"></div>
+						 <div class="color-swatch" style="background: #B22E25;"></div>
 						<img src="_/img/projects/mustang_customizer/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -184,7 +184,7 @@
 						<p class="copy">Super Duty is the only true heavy-duty work truck and our customers are proving it to the world. They’re creating digital truck cards that feature their truck along with the work they use it for. The public weighs in on degree of toughness.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #c6041f;"></div>
+						<div class="color-swatch" style="background: #1D2122;"></div>
 						<img src="_/img/projects/we_own_work/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -194,7 +194,7 @@
 						<p class="copy">Who could possibly convince young, socially-connected types that the new Ford Focus was worth a look? Sometimes you just have to put your faith in a quick-witted, R-rated hand puppet and see how it works out.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #5F4C2E;"></div>
+						<div class="color-swatch" style="background: #5F1006;"></div>
 						<img src="_/img/projects/focus_doug/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -204,7 +204,7 @@
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #676B6A;"></div>
+						<div class="color-swatch" style="background: #5B4F3F;"></div>
 						<img src="_/img/projects/press_conference/thumb.jpg" alt="">	
 					</a>
 				</li>	
@@ -214,7 +214,7 @@
 						<p class="copy">What makes a Manchine? An Alpha male attitude. And a downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt®. All Hail.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #676B6A;"></div>
+						<div class="color-swatch" style="background: #46496a;"></div>
 						<img src="_/img/projects/warrior/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -225,7 +225,7 @@
 						<p class="copy">Independent retailers helped put Scotts on the map. So to show those retailers some love, Scotts released an entire line of products exclusively for them. Suddenly, customers had a new reason to shop the independents.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #676B6A;"></div>
+						<div class="color-swatch" style="background: #426907;"></div>
 						<img src="_/img/projects/scotts/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -236,7 +236,7 @@
 						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #676B6A;"></div>
+						<div class="color-swatch" style="background: #004174;"></div>
 						<img src="_/img/projects/ford_social/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -247,7 +247,7 @@
 						<p class="copy">You can give a Ford Mustang better miles per gallon and more smart technology. But no matter what you do, it’s still a Ford Mustang. And still capable of making hearts race.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #676B6A;"></div>
+						<div class="color-swatch" style="background: #3f546e;"></div>
 						<img src="_/img/projects/mustang/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -258,7 +258,7 @@
 						<p class="copy">We say the bigger you get, the smaller your blocks should be. Micro-sized Nanoblocks have the magic to return you to childhood. Stick a few together and find that no matter what you create, you’re building a time machine.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #676B6A;"></div>
+						<div class="color-swatch" style="background: #a38c43;"></div>
 						<img src="_/img/projects/ohio_art/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -269,7 +269,7 @@
 						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them. Teaming up with us: Future Hall-of-Famer Michael Strahan and star running back Adrian Peterson.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #676B6A;"></div>
+						<div class="color-swatch" style="background: #bb0f0f;"></div>
 						<img src="_/img/projects/sports_authority/thumb.jpg" alt="">	
 					</a>
 				</li>
