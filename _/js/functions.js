@@ -60,7 +60,7 @@ $(document).ready(function (){
 		});
 		
 		var animating = false;
-		$(window).click(function(event) {
+		$('.billboard-ext-carousel').click(function(event) {
 		if(!animating) {
 			animating = true;
 			$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
