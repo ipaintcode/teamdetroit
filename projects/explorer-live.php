@@ -208,7 +208,6 @@
 			});
 			$('.fluidCarousel').width(width);
 			$('.fluidCarousel').css({
-				left: 300
 				left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
 			});
 			
