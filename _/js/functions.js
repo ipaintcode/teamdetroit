@@ -69,7 +69,7 @@ $(document).ready(function (){
 				var ulLeft = $('.fluidCarousel').css('left');
 				$('.fluidCarousel').css('left', $('li:last').width()+parseInt(ulLeft, 10));	
 				if($('.activeCarousel').next().length === 0) {
-					$('.fluidCarousel li').eq(1).addClass('active');
+					$('.fluidCarousel li').eq(1).addClass('activeCarousel');
 				}
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
 				resetCarousel();
