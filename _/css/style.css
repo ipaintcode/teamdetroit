@@ -627,6 +627,62 @@ footer, footer a {
 	background: #383838;
 }
 
+.wdet {
+	background: #383838;
+	color: white;
+	font-size: 20px;
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+	overflow: hidden;
+}
+
+.wdet-inner {
+	height: 0;
+	margin-bottom: 4px;
+	background: url('../../_/img/wdet-player.png') no-repeat top left;
+	width: 960px;
+	position: relative;
+}
+
+.wdet-inner .add-stream {
+	position: absolute;
+	right: 21px;
+	top: 55px;
+}
+
+.wdet .player-holder {
+	position: absolute;
+	top: -10000px; left: -100000px;
+}
+
+.wdet-icon div {
+	background: blue;
+	position: relative;
+}
+
+.wdet-icon img {
+	position: absolute;
+	right: 0;
+}
+
+.on-now {
+	color: white;
+	position: absolute;
+	top: 43px; left: 533px;
+	width: 240px; height: 80px;
+}
+
+.on-now-show {
+	line-height: 18px;
+	font-size: 20px;
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+}
+
+.on-now-title {
+	margin-top: 5px;
+	font-size: 11px;
+	font-weight: bold;
+	font-family: Helvetica, Arial, "MS Trebuchet", sans-serif;
+}
 
 /*div.headline-wrapper > h2 > span {*/
 /*	padding-left: 18px;*/
