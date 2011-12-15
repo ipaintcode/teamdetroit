@@ -175,7 +175,7 @@
 		var which = 3;
 		
 		$(window).load(function() {
-			console.log($('.fluidCarousel'));
+			console.log($('ul.fluidCarousel'));
 			$('.fluidCarousel li img').each(function(index) {
 				width +=$(this).width();
 			});
@@ -203,8 +203,7 @@
 			});
 			$('.fluidCarousel').width(width);
 			$('.fluidCarousel').css({
-				//left: 300
-				left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+				//left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
 			});
 			
 			var animating = false;
