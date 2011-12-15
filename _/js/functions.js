@@ -60,7 +60,7 @@ $(document).ready(function (){
 		$('.next-button').click(function(event) {
 			goNext();
 			tracker+=1;
-			if (tracker === len+2) {
+			if (tracker === len+3) {
 				tracker = 1;
 			}
 			$('.page-nate .page-of').text(tracker);
