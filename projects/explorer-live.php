@@ -70,10 +70,15 @@
 	<div id="billboard-spacer"></div>
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
-		<ul>
-			<li><img src="../_/img/culture/greening_of_detroit/billboard-8.jpg" alt=""></li>
-			<li><img src="../_/img/culture/greening_of_detroit/billboard-1.jpg" alt=""></li>
-			<li><img src="../_/img/culture/greening_of_detroit/billboard-2.jpg" alt=""></li>
+		<ul class"fluidCarousel">
+			<li><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+			<li><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+			<li><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+			<li><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+			<li><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+			<li><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+			<li><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
+			<li><img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""></li>
 		</ul>
 	</div>
 
@@ -150,6 +155,65 @@
 <script src="../_/js/jquery.shadow-animation.min.js"></script>
 <script src="../_/js/jquery.easing.1.3.js"></script>
 <script src="../_/js/functions.js"></script>
+<script>
+	
+	$(document).ready(function() {
+		
+		var width = 0;
+		var which = 3;
+		
+		$(window).load(function() {
+			$('ul li img').each(function(index) {
+				width +=$(this).width();
+			});
+			$('ul').width(width);			
+			var w = ($(window).width()-$('ul').width())/2;
+
+			
+			function resetCarousel() {
+				$('ul').stop().animate({
+					left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('ul').offset().left)
+				}, 500, function() {
+					animating = false;
+				});
+			}
+			
+			
+			$(window).resize(function(event) {
+				resetCarousel();
+			});
+			
+			$('li').eq(4).clone().prependTo('ul');
+			$('li').eq(4).clone().prependTo('ul');
+			$('ul li img').each(function(index) {
+				width +=$(this).width();
+			});
+			$('ul').width(width);
+			$('ul').css({
+				left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('ul').offset().left)
+			});
+			
+			var animating = false;
+			$(window).click(function(event) {
+			if(!animating) {
+				animating = true;
+				$('li:last').after($('li:first'));
+				var ulLeft = $('ul').css('left');
+				$('ul').css('left', $('li:last').width()+parseInt(ulLeft));	
+				if($('.active').next().length === 0) {
+						$('li').eq(1).addClass('active');
+					}
+					$('.active').removeClass('active').next().addClass('active');
+					resetCarousel();
+				}
+			});
+			
+			resetCarousel()
+			
+		});
+	});
+	
+</script>
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.
