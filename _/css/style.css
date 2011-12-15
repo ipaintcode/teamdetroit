@@ -350,6 +350,24 @@ header {
 	display: block;
 }
 
+/**/
+
+.billboard-ext-carousel {
+	height: 420px;
+}
+
+.billboard-ext-carousel ul {
+	position: absolute;
+}
+
+.billboard-ext-carousel li {
+	float: left;
+}
+
+.billboard-ext-carousel li img {
+	display: block;
+}
+
 
 /* Content (Projects, Leaders, Culture pages)
 -------------------------------------------------------------------------------*/
