@@ -24,6 +24,60 @@ $(document).ready(function (){
 			
 		}
 	});
+	
+	var width = 0;
+	var which = 3;
+	
+	$(window).load(function() {
+		console.log($('ul.fluidCarousel'));
+		$('.fluidCarousel li img').each(function(index) {
+			width +=$(this).width();
+		});
+		$('.fluidCarousel').width(width);			
+		var w = ($(window).width()-$('.fluidCarousel').width())/2;
+
+		
+		function resetCarousel() {
+			$('.fluidCarousel').stop().animate({
+				//left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+			}, 500, function() {
+				animating = false;
+			});
+		}
+		
+		
+		$(window).resize(function(event) {
+			resetCarousel();
+		});
+		
+		$('li').eq(4).clone().prependTo('.fluidCarousel');
+		$('li').eq(4).clone().prependTo('.fluidCarousel');
+		$('.fluidCarousel li img').each(function(index) {
+			width +=$(this).width();
+		});
+		$('.fluidCarousel').width(width);
+		$('.fluidCarousel').css({
+			//left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+		});
+		
+		var animating = false;
+		$(window).click(function(event) {
+		if(!animating) {
+			animating = true;
+			$('li:last').after($('li:first'));
+			var ulLeft = $('.fluidCarousel').css('left');
+			$('.fluidCarousel').css('left', $('li:last').width()+parseInt(ulLeft, 10));	
+			if($('.active').next().length === 0) {
+					$('li').eq(1).addClass('active');
+				}
+				$('.active').removeClass('active').next().addClass('active');
+				resetCarousel();
+			}
+		});
+		
+		resetCarousel();
+		
+	});
 
 });
 
