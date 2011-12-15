@@ -58,7 +58,15 @@
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="../_/js/modernizr-2.0.6.min.js"></script>
-
+	<style>
+		.carousel-controller {
+			float: right;
+		}
+		
+		.carousel-controller li {
+			float: left;
+		}
+	</style>
 </head>
 
 <body>
@@ -90,7 +98,7 @@
 		<h2 class="center min-max"><span class="segment-header-spacer">CCS</span></h2>
 		<!-- <h2 class="center min-max"><span class="segment-header-spacer">Today’s teenagers are the most connected, plugged in generation ever. But our work for Detroit’s College for Creative Studies proves you could still reach them using low-tech communication.</span></h2> -->
 		<ul class="carousel-controller">
-			<li class="prev-button"><a href="#prec">&larr; Previous<</a>/li>
+			<li class="prev-button"><a href="#prec">&larr; Previous</a></li>
 			<li class="page-nate">1 of <span>12</span></li>
 			<li class="next-button"><a href="#next">Next &rarr;</a></li>
 		</ul>
