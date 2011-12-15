@@ -57,7 +57,7 @@ $(document).ready(function (){
 		});
 		$('.fluidCarousel').width(width);
 		$('.fluidCarousel').css({
-			left: (($(window).width()-$('.active').width())/2)-($('.active').offset().left-$('.fluidCarousel').offset().left)
+			left: (($(window).width()-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
 		});
 		
 		var animating = false;
@@ -71,7 +71,7 @@ $(document).ready(function (){
 				if($('.activeCarousel').next().length === 0) {
 					$('.fluidCarousel li').eq(1).addClass('active');
 				}
-				$('.activeCarousel').removeClass('active').next().addClass('active');
+				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
 				resetCarousel();
 			}
 		});
