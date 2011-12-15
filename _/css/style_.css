@@ -222,6 +222,8 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 	border-right: none;
 	overflow: hidden;
 	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
 	background: white;
 }
 
@@ -231,6 +233,8 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 	border-bottom: none;
 	overflow: hidden;
 	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
 	background: white;
 }
 
@@ -245,11 +249,15 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 }
 
 .project-nav .pagenate span {
-	opacity: .5;
+	opacity: 0.5;
+	-moz-opacity: 0.5;
+	filter:alpha(opacity=50);
 }
 
 .project-nav .pagenate a {
 	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
 }
 
 /* Global styles!
@@ -257,6 +265,8 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 
 .wrapper {
 	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
 }
 
 .min-max {
@@ -335,6 +345,8 @@ ol.grid-ext-leader li h3 {
 	line-height: 18px;
 	width: 80px;
 	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
 	font-size: 16px;
 	text-align: center;
 	left: -5px;
@@ -459,6 +471,8 @@ ol.grid-ext-leader li h3 {
 	position: absolute;
 	top: 0; left: 0;
 	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
 	box-shadow: inset 0 0 0 #000;
 }
 
@@ -466,6 +480,8 @@ ol.grid-ext-leader li h3 {
 	position: absolute;
 	left: 25px;
 	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
 	font-style: italic;
 	width: 60%;
 	line-height: 18px;
