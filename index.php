@@ -117,7 +117,7 @@
 			<!-- <a class="view-all-work" href="work.html">View all work &rarr;</a> -->
 			<ol class="grid">
 				<li class="double">
-					<a href="projects/project.php">
+					<a href="projects/press-conference.php">
 						<h3>Totally Unexpected<br />Press Conference</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when they’re suddenly confronted by two dozen “journalists.”</p>
 						<p class="view-project">View&nbsp;Project</p>
