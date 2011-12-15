@@ -662,9 +662,13 @@ footer, footer a {
 .carousel-controller li {
 	float: left;
 	width: 100px;
+	text-align: center;
 }
 
 .carousel-controller li a {
+	display: table-cell;
+	vertical-align: middle;
+	height: 65px;
 	text-decoration: none;
 	color: #484848;
 	font-style: italic;
@@ -680,6 +684,15 @@ footer, footer a {
 	border-left: 1px dashed #ccccccc;
 	border-right: 1px dashed #ccccccc;
 }
+
+
+/**/
+/**/
+/*<ul class="carousel-controller">*/
+/*	<li class="prev-button"><a href="#prec">&larr; Previous</a></li>*/
+/*	<li class="page-nate">1 of <span>12</span></li>*/
+/*	<li class="next-button"><a href="#next">Next &rarr;</a></li>*/
+/*</ul>*/
 
 /* Navigation + Header (w/WDET)
 -----------------------------*/
