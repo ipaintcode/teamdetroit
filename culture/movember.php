@@ -72,7 +72,6 @@
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
 			<li class="activeCarousel"><img src="../_/img/culture/movember/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/culture/movember/billboard-1.jpg" alt=""></li>
 			<li class=""><img src="../_/img/culture/movember/billboard-2.jpg" alt=""></li>
 			<li class=""><img src="../_/img/culture/movember/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/culture/movember/billboard-4.jpg" alt=""></li>
