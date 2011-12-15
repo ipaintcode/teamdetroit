@@ -669,9 +669,8 @@ footer, footer a {
 	vertical-align: middle;
 }
 
-.carousel-controller li .page-nate {
-	display: table-cell;
-	vertical-align: middle;
+.carousel-controller .page-nate {
+	line-height: 65px;
 }
 
 .carousel-controller li a {
