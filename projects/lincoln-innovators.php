@@ -14,7 +14,7 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Lincoln Inovators</title>
+	<title>Lincoln Innovators</title>
 
 	<meta name="title" content="">
 	<meta name="description" content="">
