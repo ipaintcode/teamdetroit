@@ -670,7 +670,7 @@ footer, footer a {
 
 .fluidCarousel li iframe {
 	position: absolute;
-	top: 0; left: 0;
+	top: 420px; left: 0;
 }
 
 /* Carousel Controller
