@@ -368,10 +368,21 @@ header {
 	float: left;
 }
 
-.billboard-ext-carousel li img {
-	display: block;
+.billboard-ext-carousel li h4 {
+	positon: absolute;
+	top: 0; left: 0;
 }
 
+.billboard-ext-carousel li img {
+	display: block;
+	positon: absolute;
+	top: 0; left: 0;
+}
+
+.billboard-ext-carousel li frame {
+	positon: absolute;
+	top: 0; left: 0;
+}
 
 /* Content (Projects, Leaders, Culture pages)
 -------------------------------------------------------------------------------*/
@@ -650,8 +661,12 @@ footer, footer a {
 /*	background: black;*/
 /*}*/
 
-/* Carousel Controller
+
+/* Carousel
 -------------------------------------------------------------------------------*/
+
+/* Carousel Controller
+--------------------*/
 
 .carousel-navigation {
 	position: relative;
