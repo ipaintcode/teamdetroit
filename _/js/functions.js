@@ -82,7 +82,8 @@ $(document).ready(function (){
 			if(!animating) {
 				if(e.keyCode == 37) { // left
 					goPrevious();
-				} else if(e.keyCode == 39) { // right
+				}
+				if(e.keyCode == 39) { // right
 					goNext();
 				}
 			}
