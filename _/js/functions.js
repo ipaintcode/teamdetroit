@@ -115,6 +115,7 @@ $(document).ready(function (){
 			//}
 			deletedCount+=1;
 			if(!animating) {
+				console.log($('.fluidCarousel li:last').width()+":"+parseInt(ulLeft, 10));
 				animating = true;
 				$('.fluidCarousel li:last').before($('.fluidCarousel li:first'));
 				var ulLeft = $('.fluidCarousel').css('left');
@@ -133,6 +134,7 @@ $(document).ready(function (){
 		function goPrevious() {
 			deletedCount-=1;
 			if(!animating) {
+				$('.fluidCarousel').css('left', $('.fluidCarousel li:first').width()+":"+parseInt(ulLeft, 10));
 				animating = true;
 				$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
 				var ulLeft = $('.fluidCarousel').css('left');
