@@ -141,7 +141,7 @@ $(document).ready(function (){
 					$('.fluidCarousel li').eq(len-1).addClass('activeCarousel');
 				}
 				$('.activeCarousel').removeClass('activeCarousel').prev().addClass('activeCarousel');
-				resetCarousel('previous');
+				//resetCarousel('previous');
 			}
 		}
 	});	
