@@ -71,7 +71,7 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><!-- <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4> --><img src="../_/img/projects/lincoln_innovators/billboard-1.jpg" alt=""><!-- <iframe width="704" height="420" src="http://www.youtube.com/embed/s4Zv7TQCdMk?wmode=opaque" frameborder="0" allowfullscreen></iframe> --></li>
+			<li class="activeCarousel"><img src="../_/img/projects/lincoln_innovators/billboard-1.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-2.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-4.jpg" alt=""></li>
