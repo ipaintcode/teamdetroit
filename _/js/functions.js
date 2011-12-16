@@ -117,9 +117,6 @@ $(document).ready(function (){
 				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
 				
 				$('.fluidCarousel').css('left', $('.fluidCarousel li:first').width()+parseInt(ulLeft, 10));	
-				if($('.activeCarousel').next().length === 0) {
-					$('.fluidCarousel li').eq(1).addClass('activeCarousel');
-				}
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
 				resetCarousel('next');
 			}
@@ -142,9 +139,6 @@ $(document).ready(function (){
 				$('.fluidCarousel li:first').after($('.fluidCarousel li:last'));
 				
 				$('.fluidCarousel').css('left', parseInt(ulLeft, 10)-setWidth);
-				if($('.activeCarousel').prev().length === 0) {
-					$('.fluidCarousel li').eq(len-1).addClass('activeCarousel');
-				}
 				$('.activeCarousel').removeClass('activeCarousel').prev().addClass('activeCarousel');
 				resetCarousel('previous');
 			}
