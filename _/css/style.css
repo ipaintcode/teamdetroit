@@ -686,8 +686,8 @@ footer, footer a {
 	color: #484848;
 	font-style: italic;
 	font-family: Georgia, "Times New Roman", Times, serif;
-	border-left: 1px dashed #cccccc;
-	border-right: 1px dashed #cccccc;
+	/*border-left: 1px dashed #cccccc;*/
+	/*border-right: 1px dashed #cccccc;*/
 }
 
 .below-carousel {
@@ -695,15 +695,15 @@ footer, footer a {
 	height: 65px;
 }
 
-/*.carousel-controller li.prev-button {*/
-/*	border-left: 1px dashed #cccccc;*/
-/*	border-right: 1px dashed #cccccc;*/
-/*}*/
-/**/
-/*.carousel-controller li.next-button {*/
-/*	border-left: 1px dashed #cccccc;*/
-/*	border-right: 1px dashed #cccccc;*/
-/*}*/
+.carousel-controller li.prev-button {
+	border-left: 1px dashed #cccccc;
+	border-right: 1px dashed #cccccc;
+}
+
+.carousel-controller li.next-button {
+	border-left: 1px dashed #cccccc;
+	border-right: 1px dashed #cccccc;
+}
 
 
 /**/
