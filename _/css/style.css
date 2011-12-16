@@ -662,11 +662,11 @@ footer, footer a {
 	font-size: 16px;
 }
 
-.fluidCarousel li img {
-	position: relative;
-	top: 0; left: 0;
-	display: block;
-}
+/*.fluidCarousel li img {*/
+/*	position: relative;*/
+/*	top: 0; left: 0;*/
+/*	display: block;*/
+/*}*/
 
 .fluidCarousel li iframe {
 	position: absolute;
