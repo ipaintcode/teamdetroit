@@ -115,11 +115,11 @@ $(document).ready(function (){
 			//}
 			deletedCount+=1;
 			if(!animating) {
-				console.log($('.fluidCarousel li:last').width()+":"+parseInt(ulLeft, 10));
 				animating = true;
 				$('.fluidCarousel li:last').before($('.fluidCarousel li:first'));
 				var ulLeft = $('.fluidCarousel').css('left');
 				$('.fluidCarousel').css('left', $('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));	
+				console.log(ulLeft);
 				if($('.activeCarousel').next().length === 0) {
 					$('.fluidCarousel li').eq(1).addClass('activeCarousel');
 				}
@@ -134,10 +134,10 @@ $(document).ready(function (){
 		function goPrevious() {
 			deletedCount-=1;
 			if(!animating) {
-				$('.fluidCarousel').css('left', $('.fluidCarousel li:first').width()+":"+parseInt(ulLeft, 10));
 				animating = true;
 				$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
 				var ulLeft = $('.fluidCarousel').css('left');
+				console.log(ulLeft);
 				$('.fluidCarousel').css('left', $('.fluidCarousel li:first').width()-parseInt(ulLeft, 10));
 				if($('.activeCarousel').prev().length === 0) {
 					$('.fluidCarousel li').eq(len-1).addClass('activeCarousel');
