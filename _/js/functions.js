@@ -123,18 +123,18 @@ $(document).ready(function (){
 		$('.billboard-ext-carousel ul').stop().animate({opacity: 1}, 500);
 		
 		function goPrevious() {
-			// deletedCount-=1;
-			// 		if(!animating) {
-			// 			animating = true;
-			// 			$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
-			// 			var ulLeft = $('.fluidCarousel').css('left');
-			// 			$('.fluidCarousel').css('left', $('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));	
-			// 			if($('.activeCarousel').next().length === 0) {
-			// 				$('.fluidCarousel li').eq(1).addClass('activeCarousel');
-			// 			}
-			// 			$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
-			// 			resetCarousel();
-			// 		}
+			deletedCount-=1;
+			if(!animating) {
+				animating = true;
+				$('.fluidCarousel li:last').before($('.fluidCarousel li:first'));
+				var ulLeft = $('.fluidCarousel').css('left');
+				$('.fluidCarousel').css('left', $('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));	
+				if($('.activeCarousel').next().length === 0) {
+					$('.fluidCarousel li').eq(len).addClass('activeCarousel');
+				}
+				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
+				resetCarousel();
+			}
 		}
 	});	
 });
