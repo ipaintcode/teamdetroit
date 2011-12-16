@@ -36,13 +36,21 @@ $(document).ready(function (){
 		var w = ($(window).width()-$('.fluidCarousel').width())/2;
 
 		
-		function resetCarousel() {
-			var windownWidth = ($(window).width() > 960) ? $(window).width() : 960;
-			$('.fluidCarousel').stop().animate({
-				left: ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
-			}, 500, function() {
-				animating = false;
-			});
+		function resetCarousel(way) {
+			var windownWidth = ($(window).width() > 960) ? $(window).width() : 960;	
+			if(way === "next") {
+				$('.fluidCarousel').stop().animate({
+					left: ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
+				}, 500, function() {
+					animating = false;
+				});
+			} else {
+				$('.fluidCarousel').stop().animate({
+					right: ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().right-$('.fluidCarousel').offset().right)
+				}, 500, function() {
+					animating = false;
+				});
+			}		
 		}
 		
 		var deletedCount = 0;
@@ -73,7 +81,7 @@ $(document).ready(function (){
 				goPrevious();
 				tracker-=1;
 				if (tracker === 0) {
-					tracker = len+2;
+					tracker = len+1;
 				}
 				$('.page-nate .page-of').text(tracker);
 			}
@@ -115,11 +123,11 @@ $(document).ready(function (){
 					$('.fluidCarousel li').eq(1).addClass('activeCarousel');
 				}
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
-				resetCarousel();
+				resetCarousel('next');
 			}
 		}
 		
-		resetCarousel();
+		resetCarousel('next');
 		$('.billboard-ext-carousel ul').stop().animate({opacity: 1}, 500);
 		
 		function goPrevious() {
@@ -129,11 +137,11 @@ $(document).ready(function (){
 				$('.fluidCarousel li:last').before($('.fluidCarousel li:first'));
 				var ulLeft = $('.fluidCarousel').css('left');
 				$('.fluidCarousel').css('left', $('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));	
-				if($('.activeCarousel').next().length === 0) {
-					$('.fluidCarousel li').eq(len).addClass('activeCarousel');
+				if($('.activeCarousel').prev().length === 0) {
+					$('.fluidCarousel li').eq(len-1).addClass('activeCarousel');
 				}
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
-				resetCarousel();
+				resetCarousel('previous');
 			}
 		}
 	});	
