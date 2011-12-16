@@ -84,10 +84,6 @@
 			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-7.jpg" alt=""></li>												
 		</ul>
 	</div>
-	
-	<script>
-		$('.billboard-ext-carousel li').css('position', 'relative')
-	</script>
 
 	<div class="segment-headline-wrapper clear below-carousel">
 		<h2 class="center min-max"><span class="segment-header-spacer">Lincoln Innovators</span></h2>
