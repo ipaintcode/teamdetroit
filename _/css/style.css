@@ -653,6 +653,8 @@ footer, footer a {
 .fluidCarousel li {
 	position: relative;
 	overflow: hidden;
+	height: 420px;
+	width: auto;
 }
 
 .fluidCarousel li h4 {
