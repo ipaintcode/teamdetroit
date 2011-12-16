@@ -87,7 +87,7 @@ $(document).ready(function (){
 			}
 		});
 		
-		$('.next-button').hover(function() {
+		$('.next-button, .prev-button').hover(function() {
 			$(this).find('a').stop().animate({opacity: .5}, 300);
 		}, function() {
 			$(this).find('a').stop().animate({opacity: 1}, 300);
