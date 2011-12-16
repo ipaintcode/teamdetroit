@@ -87,6 +87,15 @@ $(document).ready(function (){
 			}
 		});
 		
+		$("body").keydown(function(e) {
+			if(e.keyCode == 37) { // left
+				goPrevious();
+				console.log($(window).offset().top);
+			} else if(e.keyCode == 39) { // right
+				goNext();
+			}
+		});
+		
 		$('.next-button, .prev-button').hover(function() {
 			$(this).find('a').stop().animate({opacity: .5}, 300);
 		}, function() {
