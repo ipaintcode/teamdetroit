@@ -72,7 +72,7 @@ $(document).ready(function (){
 				if (tracker === len+2) {
 					tracker = 1;
 				}
-				$('.page-nate .page-of').text(tracker);
+				$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
 			}
 		});
 		
@@ -83,7 +83,7 @@ $(document).ready(function (){
 				if (tracker === 0) {
 					tracker = len+1;
 				}
-				$('.page-nate .page-of').text(tracker);
+				$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
 			}
 		});
 		
