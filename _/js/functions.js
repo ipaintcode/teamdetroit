@@ -104,7 +104,7 @@ $(document).ready(function (){
 		// 			goNext();
 		// 		});
 		
-		function goNext() {;
+		function goNext() {
 			tracker+=1;
 			if (tracker === len+2) {
 				tracker = 1;
