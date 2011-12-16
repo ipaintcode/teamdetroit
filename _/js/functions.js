@@ -46,7 +46,7 @@ $(document).ready(function (){
 				});
 			} else {
 				$('.fluidCarousel').stop().animate({
-					right: ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().right-$('.fluidCarousel').offset().right)
+					left: ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
 				}, 500, function() {
 					animating = false;
 				});
