@@ -134,7 +134,7 @@ $(document).ready(function (){
 			deletedCount-=1;
 			if(!animating) {
 				animating = true;
-				$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
+				$('.fluidCarousel li:last').before($('.fluidCarousel li:first'));
 				var ulLeft = $('.fluidCarousel').css('left');
 				$('.fluidCarousel').css('left', $('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));	
 				if($('.activeCarousel').prev().length === 0) {
