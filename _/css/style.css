@@ -661,17 +661,15 @@ footer, footer a {
 	padding: 15px;
 }
 
-/**/
-/*.fluidCarousel li img {*/
-/*	display: block;*/
-/*	position: absolute;*/
-/*	top: 0; left: 0;*/
-/*}*/
-/**/
+.fluidCarousel li img {
+	position: absolute;
+	top: 0; left: 0;
+}
+
 .fluidCarousel li iframe {
 	position: absolute;
 	top: 0; left: 0;
-	display: none;
+	visibility: hidden;
 }
 
 /* Carousel Controller
