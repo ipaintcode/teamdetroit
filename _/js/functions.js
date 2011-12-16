@@ -137,10 +137,10 @@ $(document).ready(function (){
 				$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
 				var ulLeft = $('.fluidCarousel').css('left');
 				$('.fluidCarousel').css('left', parseInt(ulLeft, 10)-$('.fluidCarousel li:last').width());	
-				if($('.activeCarousel').next().length === 0) {
-					$('.fluidCarousel li').eq(1).addClass('activeCarousel');
+				if($('.activeCarousel').prev().length === 0) {
+					$('.fluidCarousel li').eq(len-1).addClass('activeCarousel');
 				}
-				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
+				$('.activeCarousel').removeClass('activeCarousel').prev().addClass('activeCarousel');
 				resetCarousel('previous');
 			}
 		}
