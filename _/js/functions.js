@@ -29,7 +29,7 @@ $(document).ready(function (){
 	var which = 3;
 	
 	$(window).load(function() {
-		$('.fluidCarousel li').each(function(index) {
+		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
 		$('.fluidCarousel').width(width);			
@@ -98,7 +98,7 @@ $(document).ready(function (){
 		for (var i = 0; i < len+1; i++) {
 			$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel').removeClass('activeCarousel');
 		}
-		$('.fluidCarousel li').each(function(index) {
+		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
 		$('.fluidCarousel').width(width);
