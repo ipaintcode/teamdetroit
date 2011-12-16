@@ -366,6 +366,7 @@ header {
 
 .billboard-ext-carousel li {
 	float: left;
+	positon: relative;
 }
 
 /* Content (Projects, Leaders, Culture pages)
