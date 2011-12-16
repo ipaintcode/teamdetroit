@@ -661,11 +661,11 @@ footer, footer a {
 /*	top: 0; left: 0;*/
 /*}*/
 /**/
-/*.fluidCarousel li iframe {*/
-/*	position: absolute;*/
-/*	top: 0; left: 0;*/
-/*	display: none;*/
-/*}*/
+.fluidCarousel li iframe {
+	position: absolute;
+	top: 0; left: 0;
+	display: none;
+}
 
 /* Carousel Controller
 --------------------*/
