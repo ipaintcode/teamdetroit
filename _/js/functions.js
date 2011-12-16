@@ -118,7 +118,7 @@ $(document).ready(function (){
 				
 				$('.fluidCarousel').css('left', $('.fluidCarousel li:first').width()+parseInt(ulLeft, 10));	
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
-				resetCarousel('next');
+				//resetCarousel('next');
 			}
 		}
 		
@@ -140,7 +140,7 @@ $(document).ready(function (){
 				
 				$('.fluidCarousel').css('left', parseInt(ulLeft, 10)-setWidth);
 				$('.activeCarousel').removeClass('activeCarousel').prev().addClass('activeCarousel');
-				resetCarousel('previous');
+				//resetCarousel('previous');
 			}
 		}
 	});	
