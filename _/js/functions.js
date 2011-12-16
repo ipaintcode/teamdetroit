@@ -120,7 +120,7 @@ $(document).ready(function (){
 			deletedCount+=1;
 			if(!animating) {
 				animating = true;
-				$('.fluidCarousel li:last').before($('.fluidCarousel li:first'));
+				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
 				var ulLeft = $('.fluidCarousel').css('left');
 				console.log($('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));
 				$('.fluidCarousel').css('left', $('.fluidCarousel li:last').width()+parseInt(ulLeft, 10));	
