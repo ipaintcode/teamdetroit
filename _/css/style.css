@@ -650,10 +650,15 @@ footer, footer a {
 /* Carousel
 -------------------------------------------------------------------------------*/
 
-/*.fluidCarousel li h4 {*/
-/*	position: absolute;*/
-/*	top: 0; left: 0;*/
-/*}*/
+.fluidCarousel li {
+	position: relative;
+}
+
+.fluidCarousel li h4 {
+	position: absolute;
+	top: 0; left: 0;
+}
+
 /**/
 /*.fluidCarousel li img {*/
 /*	display: block;*/
