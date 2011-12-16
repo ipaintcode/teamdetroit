@@ -137,7 +137,7 @@ $(document).ready(function (){
 				animating = true;
 				$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
 				var ulLeft = $('.fluidCarousel').css('left');
-				 parseInt(ulLeft, 10)+$('.fluidCarousel li:last').width()
+				console.log(parseInt(ulLeft, 10)+$('.fluidCarousel li:last').width());
 				$('.fluidCarousel').css('left', parseInt(ulLeft, 10)+$('.fluidCarousel li:last').width());
 				if($('.activeCarousel').prev().length === 0) {
 					$('.fluidCarousel li').eq(len-1).addClass('activeCarousel');
