@@ -650,22 +650,22 @@ footer, footer a {
 /* Carousel
 -------------------------------------------------------------------------------*/
 
-.fluidCarousel li h4 {
-	position: absolute;
-	top: 0; left: 0;
-}
-
-.fluidCarousel li img {
-	display: block;
-	position: absolute;
-	top: 0; left: 0;
-}
-
-.fluidCarousel li iframe {
-	position: absolute;
-	top: 0; left: 0;
-	display: none;
-}
+/*.fluidCarousel li h4 {*/
+/*	position: absolute;*/
+/*	top: 0; left: 0;*/
+/*}*/
+/**/
+/*.fluidCarousel li img {*/
+/*	display: block;*/
+/*	position: absolute;*/
+/*	top: 0; left: 0;*/
+/*}*/
+/**/
+/*.fluidCarousel li iframe {*/
+/*	position: absolute;*/
+/*	top: 0; left: 0;*/
+/*	display: none;*/
+/*}*/
 
 /* Carousel Controller
 --------------------*/
