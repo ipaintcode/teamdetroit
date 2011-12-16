@@ -140,7 +140,7 @@ $(document).ready(function (){
 				if($('.activeCarousel').prev().length === 0) {
 					$('.fluidCarousel li').eq(len-1).addClass('activeCarousel');
 				}
-				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
+				$('.activeCarousel').removeClass('activeCarousel').prev().addClass('activeCarousel');
 				resetCarousel('previous');
 			}
 		}
