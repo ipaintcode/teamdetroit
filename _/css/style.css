@@ -364,7 +364,7 @@ header {
 	filter:alpha(opacity=0);
 }
 
-.billboard-ext-carousel #fluidCarousel li {
+#fluidCarousel li {
 	float: left;
 	positon: relative;
 }
