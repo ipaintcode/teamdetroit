@@ -37,20 +37,13 @@ $(document).ready(function (){
 
 		
 		function resetCarousel(way) {
-			var windownWidth = ($(window).width() > 960) ? $(window).width() : 960;	
-			if(way === "next") {
-				$('.fluidCarousel').stop().animate({
-					left: ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
-				}, 500, function() {
-					animating = false;
-				});
-			} else {
-				$('.fluidCarousel').stop().animate({
-					left: (((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left))
-				}, 500, function() {
-					animating = false;
-				});
-			}		
+			var windownWidth = ($(window).width() > 960) ? $(window).width() : 960;			
+			$('.fluidCarousel').stop().animate({
+				left: ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
+			}, 2000, function() {
+				animating = false;
+			});
+				
 		}
 		
 		var deletedCount = 0;
