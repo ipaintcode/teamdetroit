@@ -104,6 +104,10 @@ $(document).ready(function (){
 			videoActive = true;
 			$('.activeCarousel img').stop().delay(250).animate({top: -420}, 300);
 			$('.activeCarousel h4').css({display: 'none'});
+			$('.activeCarousel .close-video').css({
+			  display: 'block',
+			  opacity: 0
+			}).animate({opacity: 1}, 300);
 			$('.activeCarousel .youtube-video-holder').stop().delay(250).animate({top: 0}, 300, function() {
 				animating = false;
 			});
