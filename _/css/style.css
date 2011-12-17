@@ -675,6 +675,8 @@ footer, footer a {
 .fluidCarousel li div {
 	position: absolute;
 	top: 420px; left: 0;
+	width: 100%;
+	background: #ED1B2E;
 }
 
 /* Carousel Controller

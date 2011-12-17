@@ -89,6 +89,7 @@ $(document).ready(function (){
 		
 		$(document).on("mouseover", ".activeCarousel h4", playBtnOver);
 		$(document).on("mouseout", ".activeCarousel h4", playBtnOut);
+		$(document).on("click", ".activeCarousel h4", playVideo);
 		
 		function playBtnOver() {
 			$(this).animate({opacity: .5}, 300);
@@ -96,6 +97,14 @@ $(document).ready(function (){
 		
 		function playBtnOut() {
 			$(this).animate({opacity: 1}, 300);
+		}
+		
+		function playVideo() {
+			animating = true;
+			videoActive = true;
+			$('.activeCarousel img').animate({top: -420}, 300);
+			$('.activeCarousel .youtube-video-holder').animate({top: 0}, 300);
+			
 		}
 		
 		$('.next-button, .prev-button').hover(function() {
@@ -115,7 +124,8 @@ $(document).ready(function (){
 			left: (($(window).width()-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
 		});
 		
-		var animating = false;
+		var animating = false,
+			videoActive = false;
 		// $('.billboard-ext-carousel').click(function(event) {
 		// 			goNext();
 		// 		});
