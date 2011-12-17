@@ -135,7 +135,7 @@ $(document).ready(function (){
 			$('.activeCarousel .youtube-video-holder').stop().delay(250).animate({top: 0}, 300, function() {
 				animating = false;
 			});
-			$('.activeCarousel .youtube-video-holder').html('<iframe width="960" height="420" src="http://www.youtube.com/embed/"+$('.activeCarousel .youtube-video-holder').attr('vid')+"?wmode=opaque&autoplay=1" frameborder="0" allowfullscreen></iframe>');
+			$('.activeCarousel .youtube-video-holder').html('<iframe width="960" height="420" src="http://www.youtube.com/embed/'+$('.activeCarousel .youtube-video-holder').attr('vid')+'?wmode=opaque&autoplay=1" frameborder="0" allowfullscreen></iframe>');
 			
 		}
 		
