@@ -69,7 +69,7 @@
 			width: 68px;
 		}
 		
-		.segment-header-spacer-ext {
+		h2.segment-header-spacer-ext {
 			padding-left: 0;
 		}
 	</style>
