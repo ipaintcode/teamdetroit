@@ -65,7 +65,7 @@
 			border-right: 1px dashed #C4C4C4;
 			text-indent: -9999px;
 			display: inline-block;
-			height: 100%;
+			height: 65px;
 			width: 68px;
 		}
 		
