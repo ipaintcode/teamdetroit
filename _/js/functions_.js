@@ -200,7 +200,7 @@ $(document).ready(function() {
 		}, 300);
 		$(this).find('.color-swatch').stop().animate({
 			height: "100%",
-			opacity: ".8"
+			opacity: ".9"
 		}, 300, function() {
 			// $(this).stop().delay(100).animate({
 			// 				boxShadow: '0 0 30px'
