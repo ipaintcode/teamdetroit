@@ -44,7 +44,7 @@ $(document).ready(function (){
 			console.log(one-two);
 			console.log(one+":"+two);		
 			$('.fluidCarousel').stop().animate({
-				left: (one+two)
+				left: (one-two)
 			}, 500, function() {
 				animating = false;
 			});
