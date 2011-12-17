@@ -86,7 +86,7 @@ $(document).ready(function (){
 				if(e.keyCode === 39) { // right
 					goNext();
 				}
-				if(e.keycode === 13) { // enter
+				if(e.keyCode === 13) { // enter
 					if(!videoActive) {
 						playVideo();
 					}
