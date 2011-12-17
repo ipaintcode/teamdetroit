@@ -70,7 +70,7 @@
 			text-indent: -9999px;
 		}
 		
-		h2.segment-header-spacer-ext {
+		.segment-headline-wrapper h2.segment-header-spacer-ext {
 			margin-left: 88px;
 		}
 	</style>
