@@ -259,7 +259,7 @@ body {
 }
 
 .segment-header-spacer-ext {
-	margin-left: 95px;
+	margin-left: 90px;
 }
 
 .gridbox {
@@ -410,7 +410,7 @@ header {
 }
 
 .content-info h3 {
-	margin-bottom: 30px;
+	margin-bottom: 90px;
 	font-family:"ProximaNovaSemiBold", "san-serif";
 }
 
@@ -424,7 +424,7 @@ header {
 }
 
 .content-info p {
-	margin-bottom: 30px;
+	margin-bottom: 90px;
 }
 
 .content-info a {
