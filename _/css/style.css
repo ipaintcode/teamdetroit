@@ -677,6 +677,7 @@ footer, footer a {
 	top: 420px; left: 0;
 	height: 420px; width: 100%;
 	z-index: 499;
+	background: black;
 }
 
 .fluidCarousel .close-video {
