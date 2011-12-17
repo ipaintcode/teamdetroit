@@ -103,7 +103,7 @@ $(document).ready(function (){
 			animating = true;
 			videoActive = true;
 			$('.activeCarousel img').stop().delay(250).animate({top: -420}, 300);
-			$('.activeCarousel h4').animate({display: 'none'}, 300);
+			$('.activeCarousel h4').css({display: 'none'});
 			$('.activeCarousel .youtube-video-holder').stop().delay(250).animate({top: 0}, 300, function() {
 				animating = false;
 			});
