@@ -70,8 +70,8 @@
 			text-indent: -9999px;
 		}
 		
-		.segment-header-spacer-ext {
-			padding-left: 100px;
+		h2.segment-header-spacer-ext {
+			padding-left: 150px;
 		}
 	</style>
 </head>
