@@ -399,7 +399,6 @@ header {
 .content-info-wrapper {
 	float: left;
 	margin-top: 36px;
-	width: 60%;
 }
 
 .content-info {
@@ -469,7 +468,6 @@ header {
 .content-quote-wrapper {
 	float: right;
 	margin-top: 36px;
-	width: 40%;
 }
 
 .content-quote {
