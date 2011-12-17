@@ -403,7 +403,7 @@ header {
 }
 
 .content-info {
-	padding: 0 90px 0 30px;
+	padding: 0 30px;
 	line-height: 26px;
 	font-size: 16px;
 	font-family:"ProximaNovaRegular", "san-serif";
@@ -411,6 +411,7 @@ header {
 
 .content-info h3 {
 	margin-bottom: 30px;
+	padding-left: 60px;
 	font-family:"ProximaNovaSemiBold", "san-serif";
 }
 
@@ -425,6 +426,7 @@ header {
 
 .content-info p {
 	margin-bottom: 30px;
+	padding-left: 60px;
 }
 
 .content-info a {
