@@ -233,12 +233,14 @@ body {
 .segment-headline-wrapper {
 	border-top: 1px dashed #cecece;
 	border-bottom: 1px dashed #cecece;
+	position: relative;
 }
 
 .segment-headline-wrapper h2 {
 	padding: 18px 0;
 	font-size: 24px;
 	font-weight: 800;
+	position: relative;
 	font-style: italic;
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
