@@ -165,64 +165,28 @@
 		<p class="center min-max">Maybe Stephan Jenkins of Third Eye Blind put it best: &ldquo;Team Detroit is the greatest rock and roll audience in the world!&rdquo; Other bands were equally blown away after they played our intimate venue. Us? We&rsquo;re just thrilled to be able to host such talented performers and brag to our family and friends about who just dropped by for some tunes and conversation. Check out our Stereo 550 guest list so far&hellip;</p>
 	</section>
 
-	<section class="billboard-alt" style="margin-top: 0;">
+	<div class="billboard-wrapper billboard-ext-carousel">
+		<ul class="fluidCarousel">
+			<li class="activeCarousel"><img src="_/img/culture/carousel/Dressy_Bessy_11.1.11.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/Frontier_Ruckus_12.6.11.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/Los_Lonely_Boys_11.1.11.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/Minus_The_Bear_11.1.11.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/Super_Grass_11.1.11.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/The Juliets_10.31.11.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/VV_Brown_10.31.11.jpg" alt=""></li>												
+		</ul>
+	</div>
 
-		<div class="hero">
-			<div class="hero-carousel">
-				<article class="first">
-					<img src="_/img/culture/carousel/Dressy_Bessy_11.1.11.jpg" alt="slide 1" width="960" height="550" />
-					<!-- <div class="contents">
-											<h1>Hero Carousel...</h1>
-											<p>Sed pharetra, nulla ac blandit hendrerit, justo lacus tempus leo, non fermentum elit tellus at enim.</p>
-										</div> -->
-				</article>
-				<article>
-					<img src="_/img/culture/carousel/Frontier_Ruckus_12.6.11.jpg" alt="slide 2" width="960" height="550" />
-					<!-- <div class="contents">
-											<h1>...a jQuery carousel plugin...</h1>
-											<p>Quisque cursus consequat risus vel sollicitudin. Nam ut mauris at dui bibendum pretium facilisis nec enim.</p>
-										</div> -->
-				</article>
-				<article>
-					<img src="_/img/culture/carousel/Los_Lonely_Boys_11.1.11.jpg" alt="slide 3" width="960" height="550" />
-					<!-- <iframe width="960" height="420" src="https://www.youtube-nocookie.com/embed/3JR5jAiOvmk?wmode=transparent" frameborder="0" allowfullscreen></iframe> -->
-					<!-- <div class="contents">
-											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
-											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
-										</div> -->
-				</article>
-				<article>
-					<img src="_/img/culture/carousel/Minus_The_Bear_11.1.11.jpg" alt="slide 3" width="960" height="550" />
-					<!-- <div class="contents">
-											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
-											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
-										</div> -->
-				</article>
-				<article>
-					<img src="_/img/culture/carousel/Super_Grass_11.1.11.jpg" alt="slide 3" width="960" height="550" />
-					<!-- <div class="contents">
-											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
-											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
-										</div> -->
-				</article>
-				<article>
-					<img src="_/img/culture/carousel/The Juliets_10.31.11.jpg" alt="slide 3" width="960" height="550" />
-					<!-- <div class="contents">
-											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
-											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
-										</div> -->
-				</article>
-				<article>
-					<img src="_/img/culture/carousel/VV_Brown_10.31.11.jpg" alt="slide 3" width="960" height="550" />
-					<!-- <div class="contents">
-											<h1>...with 100% width &amp; <br />previews of next/previous slide!</h1>
-											<p>Proin ultricies, ipsum at congue dapibus, justo augue egestas tortor, sit amet varius velit massa at nunc.</p>
-										</div> -->
-				</article>
-			</div>
+	<div class="segment-headline-wrapper clear below-carousel">
+		<h2 class="center min-max"><span class="segment-header-spacer"></span></h2>
+		<div class="carousel-navigation center min-max">
+			<ul class="carousel-controller">
+				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
+				<li class="page-nate"><span class="page-of">1</span> of <span>12</span></li>
+				<li class="next-button"><a href="#next">Next &rarr;</a></li>
+			</ul>
 		</div>
-
-	</section>
+	</div>
 
 <!-- 	<section class="soundtrack">
      		<div class="center min-max">
