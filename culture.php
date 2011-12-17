@@ -275,10 +275,6 @@
 		</div>
 	</section> -->
 
-	<div class="headline-wrapper">
-		<h2 class="center min-max"><span></span></h2>
-	</div>
-
 	<?php include 'footer.php'; ?>
 
 </div>
