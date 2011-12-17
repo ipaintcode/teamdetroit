@@ -127,7 +127,7 @@ $(document).ready(function (){
 		function playVideo() {
 			animating = true;
 			videoActive = true;
-			$('.activeCarousel img').stop().delay(250).animate({top: -420}, 300);
+			$('.activeCarousel img').stop().delay(250).animate({top: -420}, 330);
 			$('.activeCarousel h4').css({display: 'none'});
 			$('.activeCarousel .close-video').css({
 			  display: 'block',
