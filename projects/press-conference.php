@@ -61,12 +61,13 @@
 	<style>
 		.gridbox {
 			position: absolute;
-			left: -50px;
+			left: -50px; top: 0;
 			background: url('../_/img/grid.png') no-repeat center center;
 			border-left: 1px dashed #C4C4C4;
 			border-right: 1px dashed #C4C4C4;
 			width; 50px;
 			height: 100%;
+			text-indent: -9999px;
 		}
 	</style>
 </head>
