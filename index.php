@@ -58,15 +58,7 @@
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
-	
-	<style>
-		.headline-special {
-			float: right;
-			color: #990000;
-			font-size: 14px;
-			line-height: 30px;
-		}
-	</style>
+
 </head>
 
 <body>
@@ -115,7 +107,7 @@
 	</section>
 
     <div class="headline-wrapper">
-	    <h2 class="center min-max"><span>Work</span><span class="headline-special">view more work &rarr;</span></h2>
+	    <h2 class="center min-max"><span>Work</span><span class="headline-special"><a href="work.php">view more work &rarr;</a></span></h2>
 	</div>
 
 	<section class="home-work">

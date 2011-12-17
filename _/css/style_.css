@@ -532,6 +532,14 @@ div.headline-wrapper > h2 > span {
 	padding-left: 0;
 }
 
+.headline-special a {
+	float: right;
+	color: #990000;
+	font-size: 14px;
+	line-height: 28px;
+	text-decoration: none;
+}
+
 /* unique-3-col-headlines -------------------------------------------------------------------------------*/
 
 .hgroup-wrapper h2.single {
