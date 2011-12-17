@@ -103,7 +103,7 @@ $(document).ready(function (){
 					goPrevious();
 				}
 			});
-			$('.activeCarousel img').stop().delay(250).animate({top: 0}, 300);
+			$('.activeCarousel img').stop().animate({top: 0}, 300);
 		}
 		
 		$(document).on("mouseover", ".activeCarousel h4", playBtnOver);
