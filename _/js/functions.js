@@ -87,11 +87,16 @@ $(document).ready(function (){
 			}
 		});
 		
-		$('.activeCarousel h4').hover(function() {
+		$(document).on("click", ".activeCarousel h4", playBtnOver);
+		$(document).on("click", ".activeCarousel h4", playBtnOff);
+		
+		function playBtnOver() {
 			$(this).animate({opacity: .5}, 300);
-		}, function() {
+		}
+		
+		function playBtnOff() {
 			$(this).animate({opacity: 1}, 300);
-		});
+		}
 		
 		$('.next-button, .prev-button').hover(function() {
 			$(this).find('a').stop().animate({opacity: .5}, 300);
