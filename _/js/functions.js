@@ -41,7 +41,7 @@ $(document).ready(function (){
 				two = $('.activeCarousel').offset().left-$('.fluidCarousel').offset().left,
 				windownWidth = ($(window).width() > 960) ? $(window).width() : 960;	
 			console.log(one-two);
-			console.log(one+":"+two)l		
+			console.log(one+":"+two);		
 			$('.fluidCarousel').stop().animate({
 				left: ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
 			}, 500, function() {
