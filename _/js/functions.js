@@ -106,14 +106,17 @@ $(document).ready(function (){
 			});
 			$('.activeCarousel .youtube-video-holder').stop().animate({top: 420}, 300, function() {
 				$('.activeCarousel .youtube-video-holder').html('');
-				animating = false;
-				videoActive = false;
-				if(way === 'next') {
-					goNext();
-				}
-				if(way === 'prev') {
-					goPrevious();
-				}
+				$(this).stop.animate({top: 420}, 300, function() {
+					animating = false;
+					videoActive = false;
+					if(way === 'next') {
+						goNext();
+					}
+					if(way === 'prev') {
+						goPrevious();
+					}
+				})
+				
 			});
 		}
 		
