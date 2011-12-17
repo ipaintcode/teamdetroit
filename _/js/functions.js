@@ -38,9 +38,9 @@ $(document).ready(function (){
 		
 		function resetCarousel(way) {
 			var one = (windownWidth-$('.activeCarousel').width())/2,
-				two = $('.activeCarousel').offset().left-$('.fluidCarousel').offset().left
-			console.log(one-two));
-			console.log(one+":"+two));
+				two = $('.activeCarousel').offset().left-$('.fluidCarousel').offset().left;
+			console.log(one-two);
+			console.log(one+":"+two);
 
 			var windownWidth = ($(window).width() > 960) ? $(window).width() : 960;			
 			$('.fluidCarousel').stop().animate({
