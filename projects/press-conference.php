@@ -59,12 +59,12 @@
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 	<style>
-		/*.gridbox {*/
-		/*	background: url('../_/img/grid.png') no-repeat center center;*/
-		/*	border-left: 1px dashed #C4C4C4;*/
-		/*	border-right: 1px dashed #C4C4C4;*/
-		/*	text-indent: -9999px;*/
-		/*}*/
+		.gridbox {
+			background: url('../_/img/grid.png') no-repeat center center;
+			border-left: 1px dashed #C4C4C4;
+			border-right: 1px dashed #C4C4C4;
+			text-indent: -9999px;
+		}
 	</style>
 </head>
 
