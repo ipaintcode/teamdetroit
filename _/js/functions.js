@@ -45,7 +45,7 @@ $(document).ready(function (){
 			console.log(one+":"+two);		
 			$('.fluidCarousel').stop().animate({
 				left: (one-two)
-			}, 1500, "easeInOutBounce", function() {
+			}, 1500, "easeInOutBack", function() {
 				animating = false;
 			});
 				
