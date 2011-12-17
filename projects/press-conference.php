@@ -71,20 +71,76 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/press_conference/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/press_conference/billboard-2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/press_conference/billboard-3.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/press_conference/billboard-4.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/press_conference/billboard-5.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/press_conference/billboard-6.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/press_conference/billboard-7.jpg" alt=""></li>	
-			<li class=""><img src="../_/img/projects/press_conference/billboard-8.jpg" alt=""></li>	
-			<li class=""><img src="../_/img/projects/press_conference/billboard-9.jpg" alt=""></li>	
-			<li class=""><img src="../_/img/projects/press_conference/billboard-10.jpg" alt=""></li>	
-			<li class=""><img src="../_/img/projects/press_conference/billboard-11.jpg" alt=""></li>	
-			<li class=""><img src="../_/img/projects/press_conference/billboard-12.jpg" alt=""></li>	
-			<li class=""><img src="../_/img/projects/press_conference/billboard-13.jpg" alt=""></li>	
-			<li class=""><img src="../_/img/projects/press_conference/billboard-14.jpg" alt=""></li>												
+			<li class="activeCarousel">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-1.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-2.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-3.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-4.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-5.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-6.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-7.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-8.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-9.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-10.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>												
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-11.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-12.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-13.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
+			<li class="">
+				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<img src="../_/img/projects/press_conference/billboard-14.jpg" alt="">
+				<div class="youtube-video-holder"></div>
+			</li>
 		</ul>
 	</div>
 
