@@ -71,7 +71,7 @@
 		}
 		
 		h2.segment-header-spacer-ext {
-			padding-left: 150px;
+			margin-left: 88px;
 		}
 	</style>
 </head>
@@ -175,7 +175,7 @@
 
 	<div class="segment-headline-wrapper clear below-carousel">
 		
-		<h2 class="center min-max"><span class="segment-header-spacer"><div class="gridbox">GRID</div>Totally Unexpected Press Conference</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer segment-header-spacer-ext"><div class="gridbox">GRID</div>Totally Unexpected Press Conference</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
 				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
