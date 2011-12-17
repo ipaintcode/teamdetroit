@@ -86,7 +86,7 @@ $(document).ready(function (){
 				if(e.keyCode === 39) { // right
 					goNext();
 				}
-				if(e.keyCode === 13) { // enter
+				if(e.keyCode === 13 && $('.activeCarousel .youtube-video-holder').length > 0) { // enter
 					if(!videoActive) {
 						playVideo();
 					}
