@@ -41,7 +41,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	-->
 
-	<link rel="shortcut icon" href="_/img/favicon.ico">
+	<link rel="shortcut icon" href="/teamdetroit/_/img/favicon.ico">
 	<!-- This is the traditional favicon.
 		 - size: 16x16 or 32x32
 		 - transparency is OK

@@ -159,6 +159,9 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear below-carousel">
+		<div class="gridbox">
+			GRID
+		</div>
 		<h2 class="center min-max"><span class="segment-header-spacer">Totally Unexpected Press Conference</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
