@@ -148,7 +148,7 @@ $(document).ready(function (){
 				$('.fluidCarousel').css({
 					left: x-$('.fluidCarousel li:first').width()
 				});
-				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
+				$('.activeCarousel').removeClass('activeCarousel').prev().addClass('activeCarousel');
 				
 				resetCarousel('previous');
 			}
