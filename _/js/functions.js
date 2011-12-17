@@ -80,14 +80,20 @@ $(document).ready(function (){
 		
 		$("body").keydown(function(e) {
 			if(!animating) {
-				if(e.keyCode == 37) { // left
+				if(e.keyCode === 37) { // left
 					goPrevious();
 				}
-				if(e.keyCode == 39) { // right
+				if(e.keyCode === 39) { // right
 					goNext();
+				}
+				if(e.keycode === 13) { // enter
+					if(!videoActive) {
+						playVideo();
+					}
 				}
 			}
 		});
+
 		
 		$(document).on("click", ".activeCarousel .close-video", closeVideo);
 		
