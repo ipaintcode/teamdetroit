@@ -147,22 +147,22 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="projects/focus-rally.php">
+					<a href="projects/carhartt.php">
 						<h3>Carhartt</h3>
 						<p class="copy">Testimonials were never this enlightening. Amazing what people.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #BD0912;"></div>
+						<div class="color-swatch" style="background: #2F322B;"></div>
 						<img src="_/img/projects/carhartt/thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
-					<a href="projects/warrior.php">
+					<a href="projects/mustang.php">
 						<h3>Mustang</h3>
 						<p class="copy">Testimonials were never this enlightening.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #6D6588;"></div>
+						<div class="color-swatch" style="background: #2A4B76;"></div>
 						<img src="_/img/projects/mustang/thumb.jpg" alt="">
 					</a>
 				</li>
