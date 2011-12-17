@@ -72,6 +72,7 @@
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
 			<li class="activeCarousel">
+				<div class="close-video">x</div>
 				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
 				<img src="../_/img/projects/press_conference/billboard-1.jpg" alt="">
 				<div class="youtube-video-holder"></div>
@@ -137,7 +138,6 @@
 				<div class="youtube-video-holder"></div>
 			</li>
 			<li class="">
-				<div class="close-video">x</div>
 				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
 				<img src="../_/img/projects/press_conference/billboard-14.jpg" alt="">
 				<div class="youtube-video-holder"></div>
