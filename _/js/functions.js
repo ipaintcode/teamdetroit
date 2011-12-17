@@ -121,7 +121,7 @@ $(document).ready(function (){
 				});
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
 				
-				resetCarousel('next');
+			//	resetCarousel('next');
 			}
 		}
 		
@@ -144,7 +144,7 @@ $(document).ready(function (){
 					left: x-$('.fluidCarousel li:first').width()
 				});
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');	
-				resetCarousel('previous');
+			//	resetCarousel('previous');
 			}
 		}
 	});	
