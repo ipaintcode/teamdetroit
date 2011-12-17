@@ -60,17 +60,18 @@
 	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 	<style>
 		.gridbox {
+			position: absolute;
+			left: 0; top: 0;
 			background: url('../_/img/grid.png') no-repeat center center;
 			border-left: 1px dashed #C4C4C4;
 			border-right: 1px dashed #C4C4C4;
-			text-indent: -9999px;
-			display: inline-block;
-			line-height: 40px;
 			width: 68px;
+			height: 65px;
+			text-indent: -9999px;
 		}
 		
-		h2.segment-header-spacer-ext {
-			padding-left: 0;
+		.segment-header-spacer-ext {
+			padding-left: 100px;
 		}
 	</style>
 </head>
@@ -174,7 +175,7 @@
 
 	<div class="segment-headline-wrapper clear below-carousel">
 		
-		<h2 class="center min-max"><span class="segment-header-spacer segment-header-spacer-ext"><span class="gridbox">GRID</span>Totally Unexpected Press Conference</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer"><div class="gridbox">GRID</div>Totally Unexpected Press Conference</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
 				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
