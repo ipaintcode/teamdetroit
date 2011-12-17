@@ -87,14 +87,14 @@ $(document).ready(function (){
 			}
 		});
 		
-		$(document).on("click", ".activeCarousel h4", playBtnOver);
-		$(document).on("click", ".activeCarousel h4", playBtnOff);
+		$(document).on("mouseover", ".activeCarousel h4", playBtnOver);
+		$(document).on("mouseout", ".activeCarousel h4", playBtnOut);
 		
 		function playBtnOver() {
 			$(this).animate({opacity: .5}, 300);
 		}
 		
-		function playBtnOff() {
+		function playBtnOut() {
 			$(this).animate({opacity: 1}, 300);
 		}
 		
