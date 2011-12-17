@@ -102,11 +102,12 @@ $(document).ready(function (){
 		function playVideo() {
 			animating = true;
 			videoActive = true;
-			$('.activeCarousel img').animate({top: -420}, 300);
+			$('.activeCarousel img').stop().delay(250).animate({top: -420}, 300);
 			$('.activeCarousel h4').animate({display: 'none'}, 300);
-			$('.activeCarousel .youtube-video-holder').animate({top: 0}, 300, function() {
+			$('.activeCarousel .youtube-video-holder').stop().delay(250).animate({top: 0}, 300, function() {
 				animating = false;
-			}).html('<iframe width="960" height="420" src="http://www.youtube.com/embed/AYTGnB5InaY?wmode=opaque&autoplay=1" frameborder="0" allowfullscreen></iframe>');
+			});
+			('.activeCarousel .youtube-video-holder').html('<iframe width="960" height="420" src="http://www.youtube.com/embed/AYTGnB5InaY?wmode=opaque&autoplay=1" frameborder="0" allowfullscreen></iframe>');
 			
 		}
 		
