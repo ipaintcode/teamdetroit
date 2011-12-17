@@ -200,11 +200,11 @@ $(document).ready(function() {
 		}, 300);
 		$(this).find('.color-swatch').stop().animate({
 			height: "100%",
-			opacity: ".9"
+			opacity: ".8"
 		}, 300, function() {
-			$(this).stop().delay(100).animate({
-				boxShadow: '0 0 30px'
-			}, 1200);
+			// $(this).stop().delay(100).animate({
+			// 				boxShadow: '0 0 30px'
+			// 			}, 1200);
 		});
 
 		$(this).find('.copy').stop().delay(200).animate({
@@ -212,11 +212,8 @@ $(document).ready(function() {
 			marginTop: "55%"
 		}, 300);
 		$(this).find('h3').stop().animate({
-			opacity: 1,
-			top: -20,
-			perspective: '200px',
-			rotateX: '360deg'
-		}, 400).addClass('addShadow');
+			top: -20
+		}, 400);
 		$(this).find('.arrow').stop().animate({
 			right: -60
 		}, 300);
@@ -225,7 +222,7 @@ $(document).ready(function() {
 			"right": -100
 		}, 300);
 		$(this).find('.color-swatch').stop().animate({
-			boxShadow: '0 0 0',
+			// boxShadow: '0 0 0',
 			opacity: 0
 		}, 300, function() {
 			$(this).css('height', 0);
@@ -235,10 +232,8 @@ $(document).ready(function() {
 			marginTop: "80%"
 		}, 300);
 		$(this).find('h3').stop().animate({
-			opacity: 1,
-			top: 0,
-			rotateX: '0deg'
-		}, 300).removeClass('addShadow');
+			top: 0
+		}, 300);
 		$(this).find('.arrow').stop().delay(200).animate({
 			right: 15
 		}, 300);
