@@ -165,23 +165,24 @@ $(document).ready(function (){
 			if(!animating) {
 				if (videoActive) {
 					return closeVideo('next');
+				} else {
+					animating = true;
+				
+					tracker+=1;
+					if (tracker === len+2) {
+						tracker = 1;
+					}
+					$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
+				
+					$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
+					var x = parseInt($('.fluidCarousel').css('left'), 10);
+					$('.fluidCarousel').css({
+						left: x+$('.fluidCarousel li:last').width()
+					});
+					$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
+				
+					resetCarousel('next');
 				}
-				animating = true;
-				
-				tracker+=1;
-				if (tracker === len+2) {
-					tracker = 1;
-				}
-				$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
-				
-				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
-				var x = parseInt($('.fluidCarousel').css('left'), 10);
-				$('.fluidCarousel').css({
-					left: x+$('.fluidCarousel li:last').width()
-				});
-				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
-				
-				resetCarousel('next');
 			}
 		}
 		
@@ -193,23 +194,24 @@ $(document).ready(function (){
 			if(!animating) {
 				if (videoActive) {
 					return closeVideo('prev');
+				} else {
+					animating = true;
+				
+					tracker-=1;
+					if (tracker === 0) {
+						tracker = len+1;
+					}
+					$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
+				
+					$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
+					var x = parseInt($('.fluidCarousel').css('left'), 10);
+					$('.fluidCarousel').css({
+						left: x-$('.fluidCarousel li:first').width()
+					});
+					$('.activeCarousel').removeClass('activeCarousel').prev().addClass('activeCarousel');
+				
+					resetCarousel('previous');
 				}
-				animating = true;
-				
-				tracker-=1;
-				if (tracker === 0) {
-					tracker = len+1;
-				}
-				$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
-				
-				$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
-				var x = parseInt($('.fluidCarousel').css('left'), 10);
-				$('.fluidCarousel').css({
-					left: x-$('.fluidCarousel li:first').width()
-				});
-				$('.activeCarousel').removeClass('activeCarousel').prev().addClass('activeCarousel');
-				
-				resetCarousel('previous');
 			}
 		}
 	});	
