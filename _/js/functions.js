@@ -103,7 +103,10 @@ $(document).ready(function (){
 			animating = true;
 			videoActive = true;
 			$('.activeCarousel img').animate({top: -420}, 300);
-			$('.activeCarousel .youtube-video-holder').animate({top: 0}, 300);
+			$('.activeCarousel h4').animate({opacity: 0}, 300);
+			$('.activeCarousel .youtube-video-holder').animate({top: 0}, 300, function() {
+				animating = false;
+			}).html('<iframe width="768" height="420" src="http://www.youtube.com/embed/AYTGnB5InaY?wmode=opaque" frameborder="0" allowfullscreen></iframe>');
 			
 		}
 		
