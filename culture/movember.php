@@ -92,7 +92,6 @@
 			<li class=""><img src="../_/img/culture/movember/billboard-19.jpg" alt=""></li>
 			<li class=""><img src="../_/img/culture/movember/billboard-20.jpg" alt=""></li>
 			<li class=""><img src="../_/img/culture/movember/billboard-21.jpg" alt=""></li>
-			<li class=""><img src="../_/img/culture/movember/billboard-22.jpg" alt=""></li>
 		</ul>
 	</div>
 
