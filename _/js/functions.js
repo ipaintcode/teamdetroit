@@ -93,6 +93,11 @@ $(document).ready(function (){
 		
 		function closeVideo(way) {
 			animating = true;
+			$('.activeCarousel .close-video').css('display', 'none');
+			$('.activeCarousel img').stop().animate({top: 0}, 300, function() {
+				$('.activeCarousel h4').css({display: 'block', opacity: 1})
+				.animate({opacity: 1}, 300);
+			});
 			$('.activeCarousel .youtube-video-holder').stop().animate({top: 420}, 300, function() {
 				$('.activeCarousel .youtube-video-holder').html('');
 				animating = false;
@@ -103,11 +108,6 @@ $(document).ready(function (){
 				if(way === 'prev') {
 					goPrevious();
 				}
-			});;
-			$('.activeCarousel .close-video').css('display', 'none');
-			$('.activeCarousel img').stop().animate({top: 0}, 300, function() {
-				$('.activeCarousel h4').css({display: 'block', opacity: 1})
-				.animate({opacity: 1}, 300);
 			});
 		}
 		
