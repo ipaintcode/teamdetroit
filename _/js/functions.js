@@ -87,6 +87,12 @@ $(document).ready(function (){
 			}
 		});
 		
+		$('.activeCarousel h4').hover(function() {
+			$(this).animate({opacity: .5}, 300);
+		}, function() {
+			$(this).animate({opacity: 1}, 300);
+		});
+		
 		$('.next-button, .prev-button').hover(function() {
 			$(this).find('a').stop().animate({opacity: .5}, 300);
 		}, function() {
