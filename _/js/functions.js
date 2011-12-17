@@ -103,11 +103,10 @@ $(document).ready(function (){
 				if(way === 'prev') {
 					goPrevious();
 				}
-			});
-			$('.activeCarousel h4').css({display: 'block', opacity: 0});
-			$('.activeCarousel .close-video').css('display', 'none')
+			});;
+			$('.activeCarousel .close-video').css('display', 'none');
 			$('.activeCarousel img').stop().animate({top: 0}, 300, function() {
-				$('.activeCarousel h4').css({display: 'block', opacity: 0})
+				$('.activeCarousel h4').css({display: 'block', opacity: 1})
 				.animate({opacity: 1}, 300);
 			});
 		}
