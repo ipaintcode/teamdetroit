@@ -258,6 +258,23 @@ body {
 	margin-left: 30px;
 }
 
+.segment-header-spacer-ext {
+	margin-left: 95px;
+}
+
+.gridbox {
+	position: absolute;
+	left: 0; top: 0;
+	background: url('../img/grid.png') no-repeat center center;
+	border-left: 1px dashed #C4C4C4;
+	border-right: 1px dashed #C4C4C4;
+	width: 68px;
+	height: 65px;
+	text-indent: -9999px;
+}
+
+
+
 /* !Header
 -------------------------------------------------------------------------------*/
 
