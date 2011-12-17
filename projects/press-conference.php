@@ -64,6 +64,13 @@
 			border-left: 1px dashed #C4C4C4;
 			border-right: 1px dashed #C4C4C4;
 			text-indent: -9999px;
+			display: inline-block;
+			height: 100%;
+			width: 68px;
+		}
+		
+		.segment-header-spacer-ext {
+			padding-left: 0;
 		}
 	</style>
 </head>
@@ -167,7 +174,7 @@
 
 	<div class="segment-headline-wrapper clear below-carousel">
 		
-		<h2 class="center min-max"><span class="segment-header-spacer"><span class="gridbox">GRID</span>Totally Unexpected Press Conference</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer segment-header-spacer-ext"><span class="gridbox">GRID</span>Totally Unexpected Press Conference</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
 				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
