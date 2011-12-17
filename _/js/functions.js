@@ -53,6 +53,8 @@ $(document).ready(function (){
 		
 		var deletedCount = 0;
 		var tracker = 1;
+		var animating = false,
+			videoActive = false;
 		
 		$(window).resize(function(event) {
 			resetCarousel();
@@ -86,6 +88,22 @@ $(document).ready(function (){
 				}
 			}
 		});
+		
+		$(document).on("click", ".activeCarousel .close-video", closeVideo);
+		
+		function closeVideo(btn) {
+			animating = true;
+			$('.activeCarousel .youtube-video-holder').stop().animate({top: 420}, 300, function() {
+				$('.activeCarousel .youtube-video-holder').html('');
+				animating = false;
+				if(way === 'next') {
+					goNext();
+				} else {
+					goPrevious();
+				}
+			});
+			$('.activeCarousel img').stop().delay(250).animate({top: 0}, 300);
+		}
 		
 		$(document).on("mouseover", ".activeCarousel h4", playBtnOver);
 		$(document).on("mouseout", ".activeCarousel h4", playBtnOut);
@@ -132,8 +150,6 @@ $(document).ready(function (){
 			left: (($(window).width()-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
 		});
 		
-		var animating = false,
-			videoActive = false;
 		// $('.billboard-ext-carousel').click(function(event) {
 		// 			goNext();
 		// 		});
@@ -146,6 +162,9 @@ $(document).ready(function (){
 			$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
 	
 			if(!animating) {
+				if (videoActive) {
+					return closeVideo('next');
+				}
 				animating = true;
 				
 				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
@@ -170,6 +189,9 @@ $(document).ready(function (){
 			$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
 	
 			if(!animating) {
+				if (videoActive) {
+					return closeVideo('prev');
+				}
 				animating = true;
 				
 				$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
