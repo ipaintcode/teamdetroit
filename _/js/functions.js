@@ -113,13 +113,15 @@ $(document).ready(function (){
 	
 			if(!animating) {
 				animating = true;
-				var setWidth = $('.fluidCarousel li:last').width();
-				var ulLeft = $('.fluidCarousel').css('left');
-				$('.fluidCarousel li:last').before($('.fluidCarousel li:first'));
 				
-				$('.fluidCarousel').css('left', parseInt(ulLeft, 10)+setWidth);	
+				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
+				var x = parseInt($('.fluidCarousel').css('left'), 10);
+				$('.fluidCarousel').css({
+					left: x+$('.fluidCarousel li:last').width()
+				});
 				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
-				//resetCarousel('next');
+				
+				resetCarousel('next');
 			}
 		}
 		
@@ -135,13 +137,14 @@ $(document).ready(function (){
 	
 			if(!animating) {
 				animating = true;
-				var setWidth = $('.fluidCarousel li:first').width();
-				var ulLeft = $('.fluidCarousel').css('left');
-				$('.fluidCarousel li:first').after($('.fluidCarousel li:last'));
 				
-				$('.fluidCarousel').css('left', parseInt(ulLeft, 10)-setWidth);
-				$('.activeCarousel').removeClass('activeCarousel').prev().addClass('activeCarousel');
-				//resetCarousel('previous');
+				$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
+				var x = parseInt($('.fluidCarousel').css('left'), 10);
+				$('.fluidCarousel').css({
+					left: x-$('.fluidCarousel li:first').width()
+				});
+				$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');	
+				resetCarousel('previous');
 			}
 		}
 	});	
