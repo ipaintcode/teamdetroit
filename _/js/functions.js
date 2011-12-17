@@ -101,7 +101,7 @@ $(document).ready(function (){
 			animating = true;
 			$('.activeCarousel .close-video').css('display', 'none');
 			$('.activeCarousel img').stop().animate({top: 0}, 300, function() {
-				$('.activeCarousel h4').css({display: 'block', opacity: 1})
+				$('.activeCarousel h4').animate({display: 'block', opacity: 1})
 				.animate({opacity: 1}, 300);
 			});
 			$('.activeCarousel .youtube-video-holder').stop().animate({top: 420}, 300, function() {
