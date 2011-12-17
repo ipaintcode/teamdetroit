@@ -60,8 +60,7 @@
 	<script src="../_/js/modernizr-2.0.6.min.js"></script>
 	<style>
 		.gridbox {
-			position: absolute;
-			left: -68px; top: 0;
+
 			background: url('../_/img/grid.png') no-repeat center center;
 			border-left: 1px dashed #C4C4C4;
 			border-right: 1px dashed #C4C4C4;
