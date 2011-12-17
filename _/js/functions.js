@@ -99,11 +99,17 @@ $(document).ready(function (){
 				videoActive = false;
 				if(way === 'next') {
 					goNext();
-				} else {
+				}
+				if(way === 'prev') {
 					goPrevious();
 				}
 			});
-			$('.activeCarousel img').stop().animate({top: 0}, 300);
+			$('.activeCarousel h4').css({display: 'block', opacity: 0});
+			$('.activeCarousel .close-video').css('display', 'none')
+			$('.activeCarousel img').stop().animate({top: 0}, 300, function() {
+				$('.activeCarousel h4').css({display: 'block', opacity: 0})
+				.animate({opacity: 1}, 300);
+			});
 		}
 		
 		$(document).on("mouseover", ".activeCarousel h4", playBtnOver);
