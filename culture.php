@@ -57,6 +57,7 @@
 	<link rel="stylesheet" href="_/css/style_.css">
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
+	<link rel="stylesheet" href="_/css/style.css">
 	<link rel="stylesheet" href="_/css/style_.css">
 	<link rel="stylesheet" media="all" href="_/css/jquery.heroCarousel.css" type="text/css" />
 
