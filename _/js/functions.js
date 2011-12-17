@@ -102,7 +102,6 @@ $(document).ready(function (){
 		function playVideo() {
 			animating = true;
 			videoActive = true;
-			$('.activeCarousel .youtube-video-holder').css('width', $('.activeCarousel img').width())
 			$('.activeCarousel img').animate({top: -420}, 300);
 			$('.activeCarousel .youtube-video-holder').animate({top: 0}, 300);
 			

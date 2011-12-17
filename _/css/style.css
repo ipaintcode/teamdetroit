@@ -672,10 +672,10 @@ footer, footer a {
 	z-index: 500;
 }
 
-.fluidCarousel li div {
+.fluidCarousel .youtube-video-holder {
 	position: absolute;
 	top: 420px; left: 0;
-	width: 100%;
+	height: 420px; width: 100%;
 	background: #ED1B2E;
 }
 
