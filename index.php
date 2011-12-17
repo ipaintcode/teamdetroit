@@ -107,7 +107,7 @@
 	</section>
 
     <div class="headline-wrapper">
-	    <h2 class="center min-max"><span>Work</span></h2>
+	    <h2 class="center min-max"><span>Work</span><span class="headline-special">view more work &rarr;</span><</h2>
 	</div>
 
 	<section class="home-work">
