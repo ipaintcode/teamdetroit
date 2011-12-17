@@ -91,7 +91,7 @@ $(document).ready(function (){
 		
 		$(document).on("click", ".activeCarousel .close-video", closeVideo);
 		
-		function closeVideo(btn) {
+		function closeVideo(way) {
 			animating = true;
 			$('.activeCarousel .youtube-video-holder').stop().animate({top: 420}, 300, function() {
 				$('.activeCarousel .youtube-video-holder').html('');
@@ -156,17 +156,18 @@ $(document).ready(function (){
 		// 		});
 		
 		function goNext() {
-			tracker+=1;
-			if (tracker === len+2) {
-				tracker = 1;
-			}
-			$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
 	
 			if(!animating) {
 				if (videoActive) {
 					return closeVideo('next');
 				}
 				animating = true;
+				
+				tracker+=1;
+				if (tracker === len+2) {
+					tracker = 1;
+				}
+				$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
 				
 				$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
 				var x = parseInt($('.fluidCarousel').css('left'), 10);
@@ -183,17 +184,18 @@ $(document).ready(function (){
 		$('.billboard-ext-carousel ul').stop().animate({opacity: 1}, 500);
 		
 		function goPrevious() {
-			tracker-=1;
-			if (tracker === 0) {
-				tracker = len+1;
-			}
-			$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
 	
 			if(!animating) {
 				if (videoActive) {
 					return closeVideo('prev');
 				}
 				animating = true;
+				
+				tracker-=1;
+				if (tracker === 0) {
+					tracker = len+1;
+				}
+				$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
 				
 				$('.fluidCarousel li:first').before($('.fluidCarousel li:last'));
 				var x = parseInt($('.fluidCarousel').css('left'), 10);
