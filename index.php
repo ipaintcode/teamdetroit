@@ -64,7 +64,7 @@
 			float: right;
 			color: #990000;
 			font-size: 14px;
-			line-height: 60px;
+			line-height: 30px;
 		}
 	</style>
 </head>
