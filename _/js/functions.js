@@ -100,9 +100,9 @@ $(document).ready(function (){
 		function closeVideo(way) {
 			animating = true;
 			$('.activeCarousel .close-video').css('display', 'none');
-			$('.activeCarousel img').stop().animate({top: 0}, 300, function() {
-				$('.activeCarousel h4').animate({opacity: 1})
-			});
+			$('.activeCarousel img').stop().animate({top: 0}, 300);
+			$('.activeCarousel h4').css({display: 'block', opacity: 1});
+			$('.activeCarousel h4').stop().animate({opacity: 1})
 			$('.activeCarousel .youtube-video-holder').stop().animate({top: 420}, 300, function() {
 				$('.activeCarousel .youtube-video-holder').html('');
 				$('.activeCarousel .youtube-video-holder').stop().animate({top: 420}, 300, function() {
