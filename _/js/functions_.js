@@ -147,7 +147,7 @@ $(document).ready(function() {
 	var wasFired = false;
 
 	function firstTime() {
-		console.log('fired');
+	
 		$('.rows-jobs li').each(function(index) {
 			$(this).attr('val', $(this).offset().top - 98);
 		});
@@ -476,7 +476,7 @@ $(document).ready(function() {
 	function checkHomePageBillboard() {
 		if ($('.homepage-billboard ul li img').height() === 0 || $('.homepage-billboard ul li img').height() === "undefined") {
 			setTimeout(checkHomePageBillboard, 100);
-			console.log($('.homepage-billboard ul li img').height());
+	
 		} else {
 			$('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());		
 		}
@@ -559,7 +559,7 @@ $(document).ready(function() {
 		
 		var len = $('.fluidCarousel li').length-1;
 		for (var i = 0; i < len+1; i++) {
-			console.log("called");
+		
 			$('.fluidCarousel li').eq(len).clone().prependTo('.fluidCarousel').removeClass('activeCarousel');
 		}
 		$('.fluidCarousel li img').each(function(index) {
