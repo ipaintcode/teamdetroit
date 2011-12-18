@@ -159,7 +159,7 @@
 
 	<div class="segment-headline-wrapper clear below-carousel">
 		
-		<h2 class="center min-max"><span class="segment-header-spacer-ext"><a href="../work.php"><div class="gridbox">GRID</div></a>Totally Unexpected Press Conference</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer-ext"><a href="../work.php" title="Back to Work"><div class="gridbox">GRID</div></a>Totally Unexpected Press Conference</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
 				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>

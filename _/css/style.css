@@ -273,6 +273,11 @@ body {
 	text-indent: -9999px;
 }
 
+.gridbox:hover:before {
+	content: attr(title);
+	position: absolute;
+}
+
 /* !Header
 -------------------------------------------------------------------------------*/
 
