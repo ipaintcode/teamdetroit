@@ -273,12 +273,14 @@ body {
 	width: 68px;
 	height: 65px;
 	text-indent: -9999px;
+	z-index: 1001;
 }
 
 .segment-headline-wrapper h2 a[alt]{
 	position:absolute;
 	text-decoration: none;
 		display: inline-block;
+		z-index: 1001;
 }
 .segment-headline-wrapper h2 a[alt]:after{
 	content:attr(alt);
@@ -295,12 +297,13 @@ body {
 	-webkit-transition:0.25s linear opacity;
 	text-decoration: none;
 	line-height: 0px;
+	z-index: 1001;
 }
 .segment-headline-wrapper h2 a[alt]:hover:after{
 	left: 70px;
 	top: 0px;
 	opacity:1;
-	z-index: 1000;
+	z-index: 1001;
 }
 
 /* !Header
