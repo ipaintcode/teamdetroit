@@ -238,7 +238,8 @@ body {
 
 .segment-headline-wrapper h2 {
 	padding: 18px 0;
-	font-size: 24px;
+	font-size: 20px;
+	line-height: 26px;
 	font-weight: 800;
 	position: relative;
 	font-style: italic;
@@ -255,16 +256,17 @@ body {
 }
 
 .segment-header-spacer {
-	margin-left: 30px;
+	margin-left: 28px;
 }
 
 .segment-header-spacer-ext {
 	margin-left: 90px;
+	position: relative;
 }
 
 .gridbox {
 	position: absolute;
-	left: 0; top: -15px;
+	left: 0px; top: -17px;
 	background: url('../img/grid.png') no-repeat center center;
 	border-left: 1px dashed #C4C4C4;
 	border-right: 1px dashed #C4C4C4;
@@ -273,11 +275,12 @@ body {
 	text-indent: -9999px;
 }
 
-.segment-header-spacer-ext a[alt]{
-	position:relative;
+.segment-headline-wrapper h2 a[alt]{
+	position:absolute;
 	text-decoration: none;
+		display: inline-block;
 }
-.segment-header-spacer-ext a[alt]:after{
+.segment-headline-wrapper h2 a[alt]:after{
 	content:attr(alt);
 	color:#fff;
 	background:#333;
@@ -291,12 +294,13 @@ body {
 	font-size: 12px;
 	-webkit-transition:0.25s linear opacity;
 	text-decoration: none;
+	line-height: 0px;
 }
-.segment-header-spacer-ext a[alt]:hover:after{
+.segment-headline-wrapper h2 a[alt]:hover:after{
 	left: 70px;
-	bottom: -37px;
+	top: 0px;
 	opacity:1;
-	z-index: 1000
+	z-index: 1000;
 }
 
 /* !Header
