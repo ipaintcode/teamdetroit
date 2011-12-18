@@ -264,7 +264,7 @@ body {
 
 .gridbox {
 	position: absolute;
-	left: 0; top: 0;
+	left: 0; top: -15px;
 	background: url('../img/grid.png') no-repeat center center;
 	border-left: 1px dashed #C4C4C4;
 	border-right: 1px dashed #C4C4C4;
@@ -273,9 +273,30 @@ body {
 	text-indent: -9999px;
 }
 
-.gridbox:hover:before {
-	content: attr(title);
-	position: absolute;
+.segment-header-spacer-ext a[alt]{
+	position:relative;
+	text-decoration: none;
+}
+.segment-header-spacer-ext a[alt]:after{
+	content:attr(alt);
+	color:#fff;
+	background:#333;
+	background:rgba(51,51,51,0.95);
+	padding:15px;
+	position:absolute;
+	left:-9999px;
+	opacity:0;
+	bottom:100%;
+	white-space:nowrap;
+	font-size: 12px;
+	-webkit-transition:0.25s linear opacity;
+	text-decoration: none;
+}
+.segment-header-spacer-ext a[alt]:hover:after{
+	left: 70px;
+	bottom: -37px;
+	opacity:1;
+	z-index: 1000
 }
 
 /* !Header
