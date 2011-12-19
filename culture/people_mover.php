@@ -74,8 +74,8 @@
 			<li class="activeCarousel">
 				<div class="close-video">x</div>
 				<h4></h4>
-				<img src="../_/img/projects/people_mover/Tm1-9I0oIlg.jpg" alt="">
-				<div class="youtube-video-holder" data="HZE_smUL4js"></div>
+				<img src="../_/img/projects/people_mover/billboard-1.jpg" alt="">
+				<div class="youtube-video-holder" data="Tm1-9I0oIlg"></div>
 			</li>
 			<li class=""><img src="../_/img/culture/people_mover/billboard-2.jpg" alt=""></li>
 			<li class=""><img src="../_/img/culture/people_mover/billboard-3.jpg" alt=""></li>
