@@ -74,7 +74,7 @@
 			<li class="activeCarousel">
 				<div class="close-video">x</div>
 				<h4></h4>
-				<img src="../_/img/projects/motorcity_pride/billboard-1.jpg" alt="">
+				<img src="../_/img/culture/motorcity_pride/billboard-1.jpg" alt="">
 				<div class="youtube-video-holder" data="HZE_smUL4js"></div>
 			</li>
 			<li class=""><img src="../_/img/culture/motorcity_pride/billboard-2.jpg" alt=""></li>
