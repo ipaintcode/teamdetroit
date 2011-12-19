@@ -157,13 +157,13 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="projects/mustang.php">
-						<h3>Mustang</h3>
+					<a href="projects/focus-rally.php">
+						<h3>Focus Rally</h3>
 						<p class="copy">Testimonials were never this enlightening.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #2A4B76;"></div>
-						<img src="_/img/projects/mustang/thumb.jpg" alt="">
+						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
