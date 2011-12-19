@@ -73,24 +73,24 @@ $final = $parts[count($parts) - 1];
 				echo '<ul>';
 
 				echo ($final == 'work.php') ? 
-				'<li><a class="active-nav" href="work.php">Work</a></li>' :
-				'<li><a class="none" href="work.php">Work</a></li>';
+				'<li><a class="active-nav" href="/teamdetroit/work.php">Work</a></li>' :
+				'<li><a class="none" href="/teamdetroit/work.php">Work</a></li>';
 
 				echo ($final == 'aboutus.php') ? 
-				'<li><a class="active-nav" href="aboutus.php">About Us</a></li>' :
-				'<li><a class="none" href="aboutus.php">About Us</a></li>';
+				'<li><a class="active-nav" href="/teamdetroit/aboutus.php">About Us</a></li>' :
+				'<li><a class="none" href="/teamdetroit/aboutus.php">About Us</a></li>';
 
 				echo ($final == 'culture.php') ? 
-				'<li><a class="active-nav" href="culture.php">Culture</a></li>' :
-				'<li><a class="none" href="culture.php">Culture</a></li>';
+				'<li><a class="active-nav" href="/teamdetroit/culture.php">Culture</a></li>' :
+				'<li><a class="none" href="/teamdetroit/culture.php">Culture</a></li>';
 
 				echo ($final == 'careers.php') ? 
-				'<li><a class="active-nav" href="careers.php">Careers</a></li>' :
-				'<li><a class="none" href="careers.php">Careers</a></li>';
+				'<li><a class="active-nav" href="/teamdetroit/careers.php">Careers</a></li>' :
+				'<li><a class="none" href="/teamdetroit/careers.php">Careers</a></li>';
 
 				echo ($final == 'contact.php') ? 
-				'<li><a class="active-nav" href="contact.php">Contact</a></li>' :
-				'<li><a class="none" href="contact.php">Contact</a></li>';
+				'<li><a class="active-nav" href="/teamdetroit/contact.php">Contact</a></li>' :
+				'<li><a class="none" href="/teamdetroit/contact.php">Contact</a></li>';
 
 				echo '</ul>';
 				?>
