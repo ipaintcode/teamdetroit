@@ -100,13 +100,13 @@
 
 				<article class="content-info">
 					
-					<h3>Lorem ipsum dolor sit amet</h3>
+					<h3>Celebrating true craft with like-minded friends.</h3>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>In order to portray Lincoln&rsquo;s focus on luxury craftsmanship with functionality in mind, we invited some of today&rsquo;s top designers to join the conversation.</p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>The who&rsquo;s who: Renowned jeweler and home lighting designer Karen Erickson, culinary designer and pioneer of molecular gastronomy Richard Blais, and clothing designer Kevin Stewart were all featured in a series of webisodes and advertorials to showcase Lincoln&rsquo;s reinventions of luxury craftsmanship.</p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>All mediums drove to a microsite that gave visitors a chance to win a custom prize from each celebrity: A dinner, a custom-designed shirt or custom-made jewelry.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -125,8 +125,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Viewers engaged with competitors—even affecting the outcome to create the first interactive reality web series.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<p>Driving a Lincoln is an extension of the individual, and we create luxury by giving people personal experiences that transcend just driving an automobile &ndash; much like crafting jewelry, food or men&#x27;s shirts.</p>
+					 	<p class="content-quote-author">&ndash; Max Wolff <span>(Lincoln Director of Design)</span></p>
 					 </blockquote>
 				
 				</div>

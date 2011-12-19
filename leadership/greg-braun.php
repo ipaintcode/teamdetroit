@@ -113,8 +113,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Once you set a limit, you’re doomed to adhere to it. Don’t set limits.</p>
+					 	<p class="content-quote-author">&ndash; Greg Braun</p>
 					 </blockquote>
 				
 				</div>

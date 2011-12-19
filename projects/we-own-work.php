@@ -102,7 +102,7 @@
 
 				<article class="content-info">
 					
-					<h3>Fact: Ford sells more heavy-duty trucks than any other company.</h3>
+					<h3>Ford sells more heavy-duty trucks than any other company. Can’t argue with truth.</h3>
 
 					<p>That means more guys are working the toughest jobs in the country with Super Duty trucks, more than any other competitive brand. We’re out to show that Super Duty is the only true heavy-duty work truck and we’re out to show why.</p>
 
@@ -132,9 +132,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>We’re out to show That Super Duty is the only true heavy work truck.
-						</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<p>Now, the new Super Duty joins the assault in a comprehensive launch that’s befitting its status as the backbone of the Built Ford Tough franchise.</p>
+					 	<p class="content-quote-author">&ndash; Steve Lyons <span>(Ford Division President)</span></p>
 					 </blockquote>
 				
 				</div>

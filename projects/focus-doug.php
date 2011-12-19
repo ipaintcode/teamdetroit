@@ -100,60 +100,17 @@
 
 				<article class="content-info">
 					
-					<h3>When people shopped for small cars, they didn’t shop for the Focus.</h3>
+					<h3>How a Puppet Changed Perceptions of the Ford Focus.</h3>
 					
-					<p>
-					Most, especially the young, socially-connected types we wanted to talk to, thought of the Focus as a tin can or, worse, didn’t think about it at all. 
-					</p>
+					<p>Ford came to us with a totally reinvented Focus, but the challenge was overcoming a perception – especially among the young and socially connected – that it was nothing more than an econobox. </p>
 
-					<p>
-					The only ones who were talking about it were the haters.
-					</p>
+					<p>We knew your typical spokesperson couldn’t break through to this audience, so we collaborated with writers and directors from shows like The Office and The Simpsons to create characters who could. </p>
 
-					<p>
-					So how do we start a conversation with them about the all-new 2012 Focus? Who could convince them this small car from Ford was worth a look?
-					</p>
+					<p>Doug, because he’s a puppet, could say and do almost anything he wanted, which ultimately earned him credibility among the naysayers. And if Doug ever strayed too far, John, the Ford Marketing Specialist, was always there to try to correct him.</p>
 
-					<p>
-					We knew this audience wouldn’t listen to your typical corporate spokesperson. So we collaborated with writers and directors from shows like The Office and The Simpsons to create funny, entertaining content that would get people talking about the Focus.
-					</p>
+					<p>To keep people engaged we released new videos each week and dedicated a team of writers to respond to fans nearly 24/7 on Doug and John’s Facebook and Twitter pages.</p>
 
-					<p>
-					To keep people engaged we released new videos each week for 28 weeks straight.
-					</p>
-
-					<p>
-					And helped drive traffic to the videos through relevant online placements and partnerships. 
-					</p>
-
-					<p>
-					We dedicated a team of writers to Doug and John’s Facebook and Twitter pages and because fans became so hooked, they had to respond in character almost 24/7.
-					</p>
-
-					<p>
-					Media coverage of Doug also helped to generate buzz throughout the campaign.
-					</p>
-
-					<p>
-					And as his reach expanded, we noticed people were confiding in Doug more and more and started to ask him more questions about the Focus.
-					</p>
-
-					<p>
-					We continued to respond by creating videos that incorporated more of the car and its high tech features. 
-					</p>
-
-					<p>
-					In the midst of all the entertaining, we put a spotlight on our 2012 Focus and the Ford brand in a fresh, innovative way.
-					</p>
-
-					<p>
-					Causing fans not only to become advocates for Doug, but also to become advocates for the Focus. Some even going as far as saying they bought a Focus because of him.
-					</p>
-
-					<p>
-					All proof that you should never, ever underestimate a puppet. 
-					</p>
-					
+					<p>In the midst of all the entertaining, we put a spotlight on the brand in a fresh, innovative way, earning the campaign recognition in articles from Ad Age and The Wall Street journal. It was also named one of the most innovative viral videos ads of 2011 by Mashable. Most importantly, Doug helped bring new fans to the brand, some even going as far as saying they would buy a Focus because of him.</p>					
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -172,8 +129,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>The Doug campaign’s humor is edgy in a way that a traditional TV campaign couldn’t be.</p>
+					 	<p class="content-quote-author">&ndash; Mashable</p>
 					 </blockquote>
 				
 				</div>

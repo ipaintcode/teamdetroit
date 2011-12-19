@@ -148,7 +148,12 @@ $(document).ready(function (){
 			$('.activeCarousel .youtube-video-holder').stop().delay(250).animate({top: 0}, 300, function() {
 				animating = false;
 			});
-			$('.activeCarousel .youtube-video-holder').html('<iframe width="689" height="420" src="http://www.youtube.com/embed/'+$('.activeCarousel .youtube-video-holder').attr('data')+'?wmode=opaque&autoplay=1" frameborder="0" allowfullscreen></iframe>');
+			var w = $('.activeCarousel .youtube-video-holder').attr('w');
+			if (w === undefined) {
+				w = $('.activeCarousel img').width();
+			}
+			
+			$('.activeCarousel .youtube-video-holder').html('<iframe width="'+w+'" height="420" src="http://www.youtube.com/embed/'+$('.activeCarousel .youtube-video-holder').attr('data')+'?wmode=opaque&autoplay=1" frameborder="0" allowfullscreen></iframe>');
 			
 		}
 		

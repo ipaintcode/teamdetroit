@@ -124,8 +124,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Pickup truck owners have liked V6 engines about as much as they like man purses.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<p>I just had a chance to see the latest 2011&nbsp;Ford Fiesta ad and it left me with a huge smile on my face. A grin from ear to ear. It&#x27;s so unabashedly happy, fun to watch and just so well choreographed--music, dancers, images and all.</p>
+					 	<p class="content-quote-author">&ndash; The Car Connection</p>
 					 </blockquote>
 				
 				</div>

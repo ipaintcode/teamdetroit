@@ -91,7 +91,7 @@
 				<li class="single">
 					<a href="projects/sports-authority.php">
 						<h3>Sports Authority</h3>
-						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods.</p>
+						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #bb0f0f;"></div>
@@ -157,8 +157,8 @@
 				
 				<li class="single">
 					<a href="projects/focus-doug.php">
-						<h3>Focus<br />Doug</h3>
-						<p class="copy">Who could possibly convince young, socially-connected types that the new Ford Focus was worth a look?</p>
+						<h3>Doug,<br />the Ford Spokespuppet</h3>
+						<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #5F1006;"></div>
@@ -169,7 +169,7 @@
 				<li class="single">
 					<a href="projects/mustang.php">
 						<h3>Mustang</h3>
-						<p class="copy">You can give a Ford Mustang better miles per gallon and more smart technology.</p>
+						<p class="copy">Go ahead. Give the Ford Mustang better miles-per-gallon and even smarter technology. It’ll still make your heart race.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #3f546e;"></div>
@@ -246,7 +246,7 @@
 				<li class="single">
 					<a href="projects/bosch.php">
 						<h3>Bosch</h3>
-						<p class="copy">How do you prove that Bosch Icon Wiper Blades will perform when you need them.</p>
+						<p class="copy">To prove Bosch Icon Wiper Blades can endure insane weather, we teamed up with the fearless crew from Discovery Channel’s Storm Chasers.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #2D402D;"></div>
@@ -268,7 +268,7 @@
 				<li class="single">
 					<a href="projects/ford-social.php">
 						<h3>Ford Social</h3>
-						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+						<p class="copy">We tapped into a group of people who had good vibes about Ford. The more they talked, the more we wanted to listen. To engage. And socialize.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #004174;"></div>

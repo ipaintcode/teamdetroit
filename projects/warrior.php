@@ -100,17 +100,13 @@
 
 				<article class="content-info">
 
-					<h3>Warrior “Manchine” Print<span>There’s nothing more manly than asserting your manliness in the most manly way possible.</span></h3>
+					<h3>Did you say Warrior Manchine?</h3>
 					
 					<p>Since the beginning of the Manchine campaign, Warrior has been taking over the covers of Lacrosse publications and catalogs. Each cover wrap is a representation of what makes a Manchine.</p>
 
-					<p>From the laboratory to the field and, in this case, into the woods, Manchine’s alpha male attitude continues to resonate with Warrior Lacrosse players.</p>
+					<p>From the laboratory to the field and, in this case, into the woods, Manchine’s alpha male attitude continues to resonate with Warrior Lacrosse players. Warrior represents and equips the leaders of lacrosse and hockey. For TV, we combined the intensity of the game with Warrior’s alpha male attitude to create the Manchine campaign.</p>
 					
-					<h3>Warrior “Manchine” TV :30<span>With the right gear, you become more than a man.</span></h3>
-					
-					<p>Warrior represents and equips the leaders of lacrosse and hockey. For TV, we combined the intensity of the game with Warrior’s alpha male attitude to create the Manchine campaign.</p>
-
-					<p>&ldquo;Manchine&rdquo; became part of the player&rsquo;s vernacular, and Warrior Lacrosee became a brand worth talking about.</p>
+					<p>&ldquo;Manchine&rdquo; became part of the player’s vernacular, and Warrior Lacrosse became a brand worth talking about.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>

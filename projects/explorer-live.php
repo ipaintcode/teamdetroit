@@ -112,7 +112,9 @@
 			<section class="content-info-wrapper double">
 
 				<article class="content-info">
-
+					
+					<h3>A 24/7, rapid-response reveal of an SUV. <span>(With celebrities to boot.)</span></h3>
+					
 					<p>Ford was completely reinventing the SUV to be greener and smarter, with a stunning suite of technology, spectacular fuel economy and a sleek, &ldquo;ripped&rdquo; physique. So we needed to reinvent the SUV launch.</p>
 					
 					<p>Our first step? Dial up the social media. We built a program with richer, more complex, more intense uses of social media than had ever been used in a launch.</p>
@@ -142,8 +144,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>We built a program with richer, more complex, more intense uses of social media than had ever been used in a launch.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<p>Explorer Live is a program that allows us to get to the Holy Grail of marketing—direct, unfiltered dialogue with thousands of customers&hellip;</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
 					 </blockquote>
 				
 				</div>

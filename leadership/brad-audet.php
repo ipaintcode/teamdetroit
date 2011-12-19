@@ -109,8 +109,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>It’s not how you play the game; it’s whether or not you win.</p>
+					 	<p class="content-quote-author">&ndash; Brad Audet</p>
 					 </blockquote>
 				
 				</div>

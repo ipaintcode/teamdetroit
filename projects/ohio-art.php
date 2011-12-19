@@ -100,7 +100,9 @@
 			<section class="content-info-wrapper double">
 
 				<article class="content-info">
-
+					
+					<h3>The Nano Blocks &ldquo;Anthem.&rdquo;</h3>
+					
 					<p>They’re called Nano Blocks. Tiny little building blocks that instantly cause grown adults to crumble into excited little kids. Stick ‘em together with a little imagination and you’d be surprised at what you can build.</p>
 					
 					<p>We wanted to show how much fun is crammed into those itty, bitty blocks. And this video captures it pretty well. A whimsical music track. Playful graphics. Lighthearted copy. It all added up to be way more than what our Ohio Art clients were looking for. And exactly what they needed.</p>
@@ -122,8 +124,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>We built a program with richer, more complex, more intense uses of social media than had ever been used in a launch.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<p>Japanese toys may be the next bastion of Detroit creativity. Team Detroit Pulse created this fun spot promoting Japanese Toy Brand nanoblocks, which recently launched in the States.</p>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(CREATIVITY)</span></p>
 					 </blockquote>
 				
 				</div>

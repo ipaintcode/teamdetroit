@@ -132,8 +132,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>If art is your drug of choice, you'll appreciate these wonderful print ads from Team Detroit for that city's College for Creative Studies.</p>
+					 	<p class="content-quote-author">&ndash; AdWeek</p>
 					 </blockquote>
 				
 				</div>

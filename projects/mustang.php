@@ -106,7 +106,7 @@
 
 				<article class="content-info">
 					
-					<h3>How the new Mustang campaign came to be</h3>
+					<h3>Keep the raw power. Up the ante on efficiency.</h3>
 
 					<p>When Ford redesigned the Mustang, they didn’t completely change it. Sure, the new model got much better gas mileage than before, and was filled with more smart technology. But at the center of it all was the same adrenaline-inducing car that America fell in love with in 1964.</p>
 					
@@ -129,8 +129,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>The campaign sent Mustang enthusiasts’ hearts racing. And won over many new enthusiasts in the process.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<p>It&rsquo;s a record for being the first 300+ hp vehicle to be officially rated at 30 mpg or more. Wow, think about that. It&#x27;s never been done before.</p>
+					 	<p class="content-quote-author">&ndash; Autoblog</p>
 					 </blockquote>
 				
 				</div>

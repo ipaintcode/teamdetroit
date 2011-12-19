@@ -99,6 +99,8 @@
 			<section class="content-info-wrapper double">
 
 				<article class="content-info">
+					
+					<h3>Truck owners have liked V6 engines about as much as they like man purses.</h3>
 
 					<p>Pickup truck owners have liked V6 engines about as much as they like man purses. But then Ford introduced a radical new V6 that could tow more, haul more and get better fuel economy than any V8.  All we had to do was convince truck guys that this V6 was tough enough for them. Convince skeptical truck guys who told us they need to &ldquo;see it before they&rsquo;ll believe it.&rdquo;</p>
 					
@@ -127,7 +129,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Pickup truck owners have liked V6 engines about as much as they like man purses.</p>
+					 	<p>Best of all, 42% of all new F-150 buyers upgraded their engine to the EcoBoost. Well over the sales goal of 25%.</p>
 					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				

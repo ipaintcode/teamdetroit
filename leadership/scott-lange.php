@@ -78,7 +78,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Scott Lange</span><span class="segment-leader-title">(Executive Creative Director, Digital)</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Scott Lange</span><span class="segment-leader-title">(EVP, Executive Digital Creative Director)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -111,8 +111,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Since when is holding back a good thing? That sounds like mediocrity to me.</p>
+					 	<p class="content-quote-author">&ndash; Scott Lange</p>
 					 </blockquote>
 				
 				</div>

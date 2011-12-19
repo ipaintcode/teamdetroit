@@ -113,8 +113,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Life is 10% what happens to you and 90% how you react to it.</p>
+					 	<p class="content-quote-author">&ndash; Michele Silvestri</p>
 					 </blockquote>
 				
 				</div>

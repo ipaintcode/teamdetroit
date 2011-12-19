@@ -121,8 +121,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>At 11 seconds in, we get the surprise, which is fairly bracing and well-done … Best of all, the ad has a point, too: That Carhartt jackets are strong enough to withstand whatever nature throws at them, including a pack of hungry wolves.</p>
+					 	<p class="content-quote-author">&ndash; Brand Freak</p>
 					 </blockquote>
 				
 				</div>

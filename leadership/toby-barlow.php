@@ -113,8 +113,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Be kind, for everyone is fighting a hard battle. Socrates said that, and it’s true.</p>
+					 	<p class="content-quote-author">&ndash; Toby Barlow</p>
 					 </blockquote>
 				
 				</div>

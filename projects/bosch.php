@@ -114,7 +114,7 @@
 
 				<article class="content-info">
 					
-					<h3>Bosch Icon Wiper Blades Get &ldquo;Tornado Tested.&rdquo;</h3>
+					<h3>Nothing says road worthy like a tornado test.</h3>
 
 					<p>How do you prove that Bosch Icon Wiper Blades will perform when you need them, in even the worst rain, sleet and snow? Well, one way would be to prove they perform in the worst weather conditions on the planet.</p>
 
@@ -139,8 +139,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>The new spots really gave us the opportunity to communicate not only the Bosch brand, but also the specific technical features that make ICON the most advanced blade available in the aftermarket.</p>
+					 	<p class="content-quote-author">&ndash; Pam Krebs <span>(Director of Advertising and Sales Promotion for Bosch)</span></p>
 					 </blockquote>
 				
 				</div>

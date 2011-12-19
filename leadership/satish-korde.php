@@ -113,8 +113,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>A winner among agencies would be the one with commitment to the client, who also delivers.</p>
+					 	<p class="content-quote-author">&ndash; Satish Korde</p>
 					 </blockquote>
 				
 				</div>

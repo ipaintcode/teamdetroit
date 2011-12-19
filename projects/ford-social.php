@@ -96,13 +96,15 @@
 
 				<article class="content-info">
 					
-					<h3>Lorem ipsum dolor sit amet</h3>
+					<h3>Some call this a conversation. We call it Ford Social.</h3>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>Ford Social&rsquo;s first steps came to light through online badges. Iconic, super-graphic images that appealed to both owners and non-owners alike. Shareable via Facebook, Twitter and email, they invite fans to show their love for all things Ford. Like driving with Fido sitting shotgun? Grab the pet badge. Taking your SUV on a serious adventure? Sport that Escape badge.</p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>Next came the launch of Ford.social.com. The happening place to share new ideas with Ford engineers and designers, upload your pics, tell a story or just hang out and chat.</p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>But like Ford itself, Ford Social has way more good stuff to come. So whether it’s special events, contests, games, insider info or more, you’ll know that the world of Ford Social isn’t just a place to land, but a place to experience. Again and again.</p>
+					
+					<p>Welcome to <a href="#">Ford.Social.com</a></p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>

@@ -98,25 +98,11 @@
 
 				<article class="content-info">
 					
-					<h3>Sports Authority &ldquo;Shoe Review&rdquo; Website<span>We couldn’t have said it better ourselves.</span></h3>
-					
-					<p>Before kids go back to school, kids go back-to-school shopping with mom in tow. And a sporting goods store like Sports Authority isn’t usually one of the stops, but with a much larger shoe selection than department stores, it should be. Not to mention all the school sports and gym class to shop for.</p>
-
-					<p>So the goal was to make Sports Authority a must-stop on their route. We wanted to appeal to kids without alienating mom. Hence, our shoe review. Choose a shoe, get a review from a teenagers’ point of view.</p>
-					
-					<h3>Sports Authority “Dog” :30 TV<span>Pavlov would be proud.</span></h3>
-					
-					<p>In order to highlight the selection of running shoes available at Sports Authority, we chose to show that moment before the run. That charming, Pavlovian moment a lot of people can relate to, where your dog knows what’s coming and can’t contain its excitement.</p>
-
-					<p>Using a montage of these moments, a clear point is made while a catchy tune helps carry the story. One couples’ routine showcases Sports Authority’s huge selection of shoes and everything else you need for running.</p>
-					
-					<h3>Sports Authority “NFL Play 60” :30 TV<span>Sporting goods for the greater good.</span></h3>
+					<h3>Sporting goods for the greater good.</h3>
 					
 					<p>NFL Play 60 is a movement to get kids active for 60 minutes a day. Problem is, some kids don’t have the appropriate clothing or gear to play sports. Sports Authority started a program where people could donate used equipment and get a $10 cash card to use toward new gear.</p>
 
-					<p>We took an anthemic approach to promoting the program. The spot was going to run during the Super Bowl, after all. The result was a single-file line of children doing what’s right and donating their gear. Future Hall of Famer Michael Strahan spread the word and star running back Adrian Peterson even contributed some cleats to the cause.</p>
-					
-					
+					<p>We took an anthemic approach to promoting the program. The spot was going to run during the Super Bowl, after all. The result was a single-file line of children doing what’s right and donating their gear. Future Hall of Famer Michael Strahan spread the word and star running back Adrian Peterson even contributed some cleats to the cause.</p>	
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -135,8 +121,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Viewers engaged with competitors—even affecting the outcome to create the first interactive reality web series.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<p>By teaming with Sports Authority on 'Pass the Good,' we are helping kids nationwide get active and healthy.</p>
+					 	<p class="content-quote-author">&ndash; Peter O'Reilly <span>(NFL Vice President of Fan Strategy and Marketing)</span></p>
 					 </blockquote>
 				
 				</div>

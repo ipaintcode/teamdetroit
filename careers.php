@@ -338,11 +338,11 @@
  	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/Billboard_bands.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/billboard_Bikes.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_MyBoss.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_Plates.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_SummerFridays.jpg" alt="Billboard Bands"></li>												
+			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/Billboard_1.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_2.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_3.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_4.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_5.jpg" alt="Billboard Bands"></li>												
 		</ul>
 	</div>
 

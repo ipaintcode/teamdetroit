@@ -111,8 +111,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Never throw the first punch, always the last.</p>
+					 	<p class="content-quote-author">&ndash; Mike Bently</span></p>
 					 </blockquote>
 				
 				</div>

@@ -128,8 +128,8 @@
 				</li>
 				<li class="single">
 					<a href="projects/focus-doug.php">
-						<h3>Doug The<br />Puppet</h3>
-						<p class="copy">Testimonials were never this enlightening. Amazing what people will say when.</p>
+						<h3>Doug<br />the Ford Spokespuppet</h3>
+						<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						 <div class="color-swatch" style="background: #BF441B;"></div>
@@ -139,7 +139,7 @@
 				<li class="single">
 					<a href="projects/lincoln-innovators.php">
 						<h3>Lincoln<br />Innovators</h3>
-						<p class="copy">Testimonials were never this enlightening.</p>
+						<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #8F6B39;"></div>
@@ -149,7 +149,7 @@
 				<li class="single">
 					<a href="projects/carhartt.php">
 						<h3>Carhartt</h3>
-						<p class="copy">Testimonials were never this enlightening. Amazing what people.</p>
+						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #2F322B;"></div>
@@ -159,7 +159,7 @@
 				<li class="single">
 					<a href="projects/focus-rally.php">
 						<h3>Focus Rally</h3>
-						<p class="copy">Testimonials were never this enlightening.</p>
+						<p class="copy">We rallied around the all-new Focus and had the ultimate interactive, cross-country road race.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #2A4B76;"></div>
@@ -179,7 +179,7 @@
 				<li class="double">
 					<a href="projects/sports-authority.php">
 						<h3>These shoes<br />are Magic.</h3>
-						<p class="copy">Testimonials were never this enlightening.</p>
+						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #257698;"></div>
@@ -236,7 +236,7 @@
 			<ul class="grid">
 				<li class="single">
 					<a href="culture/movember.php">
-						<h3 class="culture-title">Movember</h3>
+						<h3 class="culture-title">Our Epic<br />Movember</h3>
 						<p class="copy">United for the cause of men’s health, the men of Team Detroit sported a little upper crust during the month of November.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
@@ -256,7 +256,7 @@
 				</li>
 				<li class="single">
 					<a href="culture/people_mover.php">
-						<h3 class="culture-title">People Mover Project.</h3>
+						<h3 class="culture-title">People Mover<br />Project.</h3>
 						<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
@@ -267,7 +267,7 @@
 				<li class="single">
 					<a href="culture/love_detroit.php">
 						<h3 class="culture-title">Love,<br />Detroit</h3>
-						<p class="copy">Celebrate the season with free, streamed Holiday tunes from independent Detroit artists.</p>
+						<p class="copy">Celebrate the season with free, streaming and downloadable Holiday tunes from Detroit artists.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #d57f57;"></div>

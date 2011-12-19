@@ -101,7 +101,8 @@
 			<section class="content-info-wrapper double">
 
 				<article class="content-info">
-
+					
+					<h3>Cross-country… and winning all the way.</h3>
 					<p>To introduce the 2012 Ford Focus we put a spin on the classic reality web series, turning it into the first ever interactive reality web series, allowing viewers to engage with competitors—even affecting the outcome. We took six teams of two, on a 52 day, 3,500 mile road race across America with Olympic gold medalist, Jonny Moseley as the host.</p>
 
 					<p>Teams competed in varies challenges and tasks in hope of winning $100,000 and a brand-new 2012 Focus. </p>
@@ -125,8 +126,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Viewers engaged with competitors—even affecting the outcome to create the first interactive reality web series.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<p>Has Ford proven adept at utilizing social media? We’d argue it’s one of the best social brands in the business.</p>
+					 	<p class="content-quote-author">&ndash; Mashable</p>
 					 </blockquote>
 				
 				</div>
