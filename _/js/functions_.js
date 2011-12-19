@@ -507,7 +507,7 @@ $(document).ready(function() {
 	    );
 	}
 	
-/*
+
 	var video = document.getElementsByTagName("audio")[0];	
 	video.src = "undefined";
 	
@@ -527,7 +527,7 @@ $(document).ready(function() {
 		}
 	}
 	wdetPlayer();
-*/
+
 	
 	
 	
