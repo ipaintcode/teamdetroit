@@ -255,16 +255,6 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture/love_detroit.php">
-						<h3 class="culture-title">Love,<br />Detroit</h3>
-						<p class="copy">Celebrate the season with free, streamed Holiday tunes from independent Detroit artists.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #d57f57;"></div>
-						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
-					</a>
-				</li>
-				<li class="single">
 					<a href="culture/people_mover.php">
 						<h3 class="culture-title">People Mover Project.</h3>
 						<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
@@ -272,6 +262,16 @@
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #78b9ba;"></div>
 						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
+					</a>
+				</li>
+				<li class="single">
+					<a href="culture/love_detroit.php">
+						<h3 class="culture-title">Love,<br />Detroit</h3>
+						<p class="copy">Celebrate the season with free, streamed Holiday tunes from independent Detroit artists.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #d57f57;"></div>
+						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
