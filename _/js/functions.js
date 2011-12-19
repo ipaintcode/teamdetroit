@@ -287,7 +287,7 @@ $(document).ready(function (){
 				w = $('.activeCarousel img').width();
 			}
 			
-			$('.activeCarousel .youtube-video-holder').html('<iframe width="'+w+'" height="420" src="http://www.youtube.com/embed/'+$('.activeCarousel .youtube-video-holder').attr('data')+'?wmode=opaque&autoplay=1&autohide=1&showinfo=0" frameborder="0" allowfullscreen></iframe>');
+			$('.activeCarousel .youtube-video-holder').html('<iframe id="ytplayer" width="'+w+'" height="420" src="http://www.youtube.com/embed/'+$('.activeCarousel .youtube-video-holder').attr('data')+'?wmode=opaque&autoplay=1&autohide=1&showinfo=0&disablekb=1" frameborder="0" allowfullscreen></iframe>');
 			
 		}
 		
