@@ -13,7 +13,6 @@ $final = $parts[count($parts) - 1];
 <header>
 	<script type="text/javascript" charset="utf-8">
 		var whatever = "<?= $final ?>";
-		console.log(whatever)
 	</script>
 	<div class="wdet">
 		<div class="min-max center wdet-inner">

@@ -1030,6 +1030,10 @@ footer, footer a {
 /* HOMEPAGE BILLBOARD!
 -------------------------------------------------------------------------------*/
 
+.homepage-billboard {
+	height: 345px;
+}
+
 .homepage-billboard ul {
 	overflow: hidden;
 	height: 345px;

@@ -296,6 +296,10 @@ $(document).ready(function() {
 		}, 300);
 	});
 	
+	$(window).load(function() {
+		$('.flexslider').flexslider();
+	});
+	
 	$('.next-button-stereo, .prev-button-stereo').hover(function() {
 		$(this).find('a').stop().animate({opacity: .5}, 300);
 	}, function() {
