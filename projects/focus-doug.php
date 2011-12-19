@@ -75,43 +75,43 @@
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/focus_doug/billboard-1.jpg" alt="">
-				<div class="youtube-video-holder" data="iuKUxK7-P7s"></div>
+				<div class="youtube-video-holder" data="S9udCp32LdA"></div>
 			</li>
 			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/focus_doug/billboard-2.jpg" alt="">
-				<div class="youtube-video-holder" data="poPz-11vb6s"></div>
+				<div class="youtube-video-holder" data="iuKUxK7-P7s"></div>
 			</li>
 			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/focus_doug/billboard-3.jpg" alt="">
-				<div class="youtube-video-holder" data="ya-RF71JXGA"></div>
+				<div class="youtube-video-holder" data="qNhtvfEXrsQ"></div>
 			</li>
 			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/focus_doug/billboard-4.jpg" alt="">
-				<div class="youtube-video-holder" data="ie9RjO7WDGQ"></div>
+				<div class="youtube-video-holder" data="-8_2fMw6m4E"></div>
 			</li>
 			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/focus_doug/billboard-5.jpg" alt="">
-				<div class="youtube-video-holder" data="UUMRNTgqV6Q"></div>
+				<div class="youtube-video-holder" data="d_qRYAUGbBo"></div>
 			</li>
 			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/focus_doug/billboard-6.jpg" alt="">
-				<div class="youtube-video-holder" data="sBHxArQrxIg"></div>
+				<div class="youtube-video-holder" data="QIfk-IQJan0"></div>
 			</li>
 			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/focus_doug/billboard-7.jpg" alt="">
-				<div class="youtube-video-holder" data="PJ8tvF7ER_k"></div>
+				<div class="youtube-video-holder" data="jtav7-Tu-pE"></div>
 			</li>													
 		</ul>
 	</div>
