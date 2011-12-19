@@ -10,6 +10,12 @@ jQuery.cookie = function(key, value, options) {
 			scrollTop: 1630
 		}, 0);
 	}
+	
+	if ($('.on-now-title').text().length > 130) {
+		var onText = $('.on-now-title').text();
+		var tmpText = onText.substr(0, 130);
+		$('.on-now-title').text(tmpText + "...");
+	}
 
 	// key and at least value given, set cookie...
 	if (arguments.length > 1 && String(value) !== "[object Object]") {
