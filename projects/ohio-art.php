@@ -81,9 +81,10 @@
 			<li class=""><img src="../_/img/projects/ohio_art/billboard-8.jpg" alt=""></li>											
 		</ul>
 	</div>
-
-	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Nano Blocks &ldquo;Anthem&rdquo;</span></h2>
+	
+	<div class="segment-headline-wrapper clear below-carousel">
+		
+		<h2 class="center min-max"><a href="../work.php" alt="Back to Work"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Nano Blocks &ldquo;Anthem&rdquo;</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
 				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>

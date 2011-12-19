@@ -12,6 +12,16 @@
  */
 jQuery.cookie = function(key, value, options) {
 
+	var getAnchor = window.location.href.split("=")[1];
+	
+	console.debug(getAnchor === 'leaders');
+	
+	if(getAnchor == 'leaders') {
+		$('html,body').stop().delay(100).animate({
+			scrollTop: 1630
+		}, 0);
+	}
+
 	// key and at least value given, set cookie...
 	if (arguments.length > 1 && String(value) !== "[object Object]") {
 
@@ -206,10 +216,12 @@ $(document).ready(function() {
 			// 				boxShadow: '0 0 30px'
 			// 			}, 1200);
 		});
-
+		
+		var cH = ($(this).find('h3').height()) < 40 ? "46%" : "55%"
+		
 		$(this).find('.copy').stop().delay(200).animate({
 			opacity: 1,
-			marginTop: "55%"
+			marginTop: cH
 		}, 300);
 		$(this).find('h3').stop().animate({
 			top: -20
@@ -528,9 +540,6 @@ $(document).ready(function() {
 	}
 	wdetPlayer();
 
-	
-	
-	
 	var width = 0;
 	var which = 3;
 	

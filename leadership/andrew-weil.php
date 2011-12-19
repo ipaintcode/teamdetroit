@@ -77,8 +77,9 @@
 		</ul>
 	</div>
 
-	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Andrew J. Weil</span><span class="segment-leader-title">(Chief Financial Officer)</span></h2>
+	<div class="segment-headline-wrapper clear below-carousel">
+		
+		<h2 class="center min-max"><a href="../aboutus.php?p=leaders" alt="Back to Culture"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Andrew J. Weil</span><span class="segment-leader-title">(Chief Financial Officer)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
