@@ -119,7 +119,7 @@
 				<li class="double">
 					<a href="projects/press-conference.php">
 						<h3>Totally Unexpected<br />Press Conference</h3>
-						<p class="copy">Testimonials were never this enlightening.</p>
+						<p class="copy">Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #31599C;"></div>
