@@ -117,18 +117,18 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Our GLBT community is truly changing the landscape of the city.</p>
+					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
 				</div>
 
 			</aside>
 			
-			<!-- <ul class="secondary-nav">
+			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
 				<li class="secondary-nav-next"><a href="#next">Next</a></li>
-			</ul> -->
+			</ul>
 		
 		</div>
 		
