@@ -310,8 +310,10 @@
 <!-- this is where we put our custom functions -->
 <script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
+<script src="_/js/jquery.flexslider-min.js"></script>
 <script src="_/js/functions_.js"></script>
 <script src="_/js/map.js"></script>
+
 
 <!-- Asynchronous google analytics; this is the official snippet.
 	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.

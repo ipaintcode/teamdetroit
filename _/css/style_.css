@@ -1074,6 +1074,10 @@ footer, footer a {
 	font-family: "ProximaNovaLight", Arial, sans-serif;
 }
 
+nav li a.active-nav {
+	color: black;
+}
+
 /* Print styles!
 -------------------------------------------------------------------------------*/
 @media print {

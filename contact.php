@@ -84,18 +84,19 @@
 	
 	<style type="text/css" media="screen">
 		.google-overlay {
-			position: absolute;
-			width: 100%;
-			top: 460px;
-			left: 618px;
+			position: relative;
+			height: 0;
 			z-index: 10;
 		}
 		
 		.social-map img {
+			position: absolute;
 			height: 600px;
-			width: auto;
 			opacity: .95;
+			top: 30px;
+			right: 0;
 		}
+
 	</style>
 	
 	<div class="google-overlay">

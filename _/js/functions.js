@@ -1,6 +1,140 @@
 // remap jQuery to $
 (function($){})(window.jQuery);
 
+jQuery.cookie = function(key, value, options) {
+
+	var getAnchor = window.location.href.split("=")[1];
+	
+	if(getAnchor == 'leaders') {
+		$('html,body').stop().delay(100).animate({
+			scrollTop: 1630
+		}, 0);
+	}
+
+	// key and at least value given, set cookie...
+	if (arguments.length > 1 && String(value) !== "[object Object]") {
+
+		options = jQuery.extend({}, options);
+
+		if (value === null || value === undefined) {
+			options.expires = -1;
+		}
+
+		if (typeof options.expires === 'number') {
+			var days = options.expires,
+				t = options.expires = new Date();
+			t.setDate(t.getDate() + days);
+		}
+
+		value = String(value);
+
+		return (document.cookie = [
+		encodeURIComponent(key), '=', options.raw ? value : encodeURIComponent(value), options.expires ? '; expires=' + options.expires.toUTCString() : '', // use expires attribute, max-age is not supported by IEoptions.path ? '; path=' + options.path : '',
+		options.domain ? '; domain=' + options.domain : '', options.secure ? '; secure' : ''].join(''));
+	}
+
+	// key and possibly options given, get cookie...
+	options = value || {};
+	var result, decode = options.raw ?
+	function(s) {
+		return s;
+	} : decodeURIComponent;
+	return (result = new RegExp('(?:^|; )' + encodeURIComponent(key) + '=([^;]*)').exec(document.cookie)) ? decode(result[1]) : null;
+};
+
+
+$('.add-stream').css('display', 'none');
+$('.wdet-inner').css('height', 0);
+
+function rollOver() {
+	$('.wdet').stop().animate({
+		height: 138
+	}, 300);
+	$('.billboard, #billboard-spacer').stop().animate({
+		marginTop: 232
+	}, 300);
+	
+	$('.wdet-icon img').stop().animate({
+		top: -254
+	}, 300);
+	$('.wdet-icon img').unbind('mouseover', rollOver);
+	$('.wdet-icon img').unbind('mouseout', rollOut);
+	$('.wdet-inner').stop().animate({
+		height: 134
+	}, 300);
+	$('.add-stream').css('display', 'inline');
+}
+
+function rollOut() {
+	$('.wdet').stop().animate({
+		height: 4
+	}, 300);
+	$('.add-stream').css('display', 'none');
+	$('.billboard, #billboard-spacer').stop().animate({
+		marginTop: 98
+	}, 300);
+	$('.wdet-inner').stop().animate({
+		height: 0
+	}, 300);
+
+	$('.wdet-icon img').stop().animate({
+		top: 0
+	}, 300, function() {
+		$('.wdet-icon img').bind('mouseover', rollOver);
+		$('.wdet-icon img').bind('mouseout', rollOut);
+	});
+}
+
+$('.wdet').css('cursor', 'pointer');
+
+$('.wrapper').stop().delay(500).animate({
+	opacity: 1
+}, 500, function() {
+	$('.wdet, .wdet-icon img').bind('mouseover', rollOver);
+	$('.wdet, .wdet-icon img').bind('mouseout', rollOut);
+	// checkImgSize();
+});
+
+if ($.cookie("wdet") === "undefined" || $.cookie("wdet") === null) {
+	$.cookie("wdet", 0);
+}
+
+$('.wdet').click(function(event) {
+	var val = $.cookie("wdet") === "0" ? 1 : 0;
+	$.cookie("wdet", val);
+	wdetPlayer();
+});
+
+function isiPhone(){
+    return (
+        (navigator.platform.indexOf("iPhone") != -1) ||
+        (navigator.platform.indexOf("iPod") != -1)
+    );
+}
+
+
+var video = document.getElementsByTagName("audio")[0];	
+video.src = "undefined";
+
+function wdetPlayer() {
+	var url = 'http://141.217.119.35:8000/;&amp;topspeed=on;';
+	if ($.cookie("wdet") === "0") {
+		video.src = "undefined";
+		$('.add-stream').css('opacity', 0).text('Start Listening').stop().animate({
+			opacity: 1
+		}, 500);
+	} else {															
+		video.src = url;
+		video.play();
+		$('.add-stream').css('opacity', 0).text('Stop Listening').stop().animate({
+			opacity: 1
+		}, 500);
+	}
+}
+wdetPlayer();
+
+
+
 
 /* trigger when page is ready */
 $(document).ready(function (){

@@ -14,8 +14,6 @@ jQuery.cookie = function(key, value, options) {
 
 	var getAnchor = window.location.href.split("=")[1];
 	
-	console.debug(getAnchor === 'leaders');
-	
 	if(getAnchor == 'leaders') {
 		$('html,body').stop().delay(100).animate({
 			scrollTop: 1630
@@ -325,9 +323,7 @@ $(document).ready(function() {
 		$('.billboard').stop().animate({
 			marginTop: 232
 		}, 300);
-		$('.google-overlay').stop().animate({
-			top: 601
-		}, 300);
+		
 		$('.wdet-icon img').stop().animate({
 			top: -254
 		}, 300);
@@ -350,9 +346,7 @@ $(document).ready(function() {
 		$('.wdet-inner').stop().animate({
 			height: 0
 		}, 300);
-		$('.google-overlay').stop().animate({
-			top: 460
-		}, 300);
+
 		$('.wdet-icon img').stop().animate({
 			top: 0
 		}, 300, function() {
@@ -502,7 +496,7 @@ $(document).ready(function() {
 		//e.preventDefault();
 	});
 
-	if ($.cookie("wdet") === "undefined") {
+	if ($.cookie("wdet") === "undefined" || $.cookie("wdet") === null) {
 		$.cookie("wdet", 0);
 	}
 
