@@ -177,13 +177,14 @@
 
 				<article class="content-info">
 					
-					<h3>Lorem ipsum dolor sit amet</h3>
+					<h3>When real people express opinions, real impressions get made.</h3>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>The working title around the office was “Drive One 3.0.” An accurate description, given that this was to be the third iteration of the ongoing Ford “Drive One” brand campaign. The hallmark of the creative so far? Reactions from both Ford employees and Ford drivers about Ford products. It worked. The brand promise came through genuinely and we got really high metrics and really nice reviews.</p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>So how do you keep doing testimonials in a fresh new way? Easy. You just don’t tell the customers what’s about to happen to them. We engaged Ford owners by asking them to come to a one-on-one market research interview. They’d answer a few questions about their vehicle, get 50 bucks, a cookie and a beverage and be on their way. </p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>Imagine their surprise when they walked into not an ordinary conference room but a full-on, White House briefing-style press conference room. Filled with an imposing legion of reporters, photographers and journalists and a cluster of microphones. As the questions came flying, the answers came thoughtfully.  
+					And entertainingly.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -202,8 +203,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>We’re out to show That Super Duty is the only true heavy work truck.
-						</p>
+					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
 					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
