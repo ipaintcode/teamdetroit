@@ -303,12 +303,18 @@ $(document).ready(function() {
 		$(this).find('p').stop().animate({
 			color: "#ffffff"
 		}, 300);
+		$(this).find('.news').stop().animate({
+			'background-position-y': "-26"
+		}, 300);
 	}, function() {
 		$(this).stop().animate({
 			backgroundColor: "#ffffff"
 		}, 300);
 		$(this).find('p').stop().animate({
 			color: "#383838"
+		}, 300);
+		$(this).find('.news').stop().animate({
+			'background-position-y': "0"
 		}, 300);
 	});
 

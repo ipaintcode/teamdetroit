@@ -1009,9 +1009,22 @@ footer, footer a {
 	font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-.home-social li img {
-	padding-left: 44px;
-	background: none;
+.home-social li .news-nyt {
+	margin-left: 44px;
+	background: url('../img/headlines/nytimes.png') no-repeat top left;
+	width: 176px; height: 26px;
+}
+
+.home-social li .news-dfp {
+	margin-left: 44px;
+	background: url('../img/headlines/detfreepress.png') no-repeat top left;
+	width: 175px; height: 26px;
+}
+
+.home-social li .news-aa {
+	margin-left: 44px;
+	background: url('../img/headlines/adage.png') no-repeat top left;
+	width: 132px; height: 26px;
 }
 
 /* HOMEPAGE BILLBOARD!

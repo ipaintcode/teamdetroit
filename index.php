@@ -204,19 +204,19 @@
 				<li class="single">
 					<a href="#">
 						<p>Selling Ford Around The World, From Detroit.</p>
-						<img src="_/img/headlines/nytimes.png" alt="Nytimes">
+						<div class="news-nyt news"></div>
 					</a>
 				</li>
 				<li class="single vdash-fix">
 					<a href="#">
 						<p>&ldquo;One of Detroit’s 2010 Top 10 Best Places to Work.&rdquo;</p>
-						<img src="_/img/headlines/detfreepress.png" alt="Detfreepress">
+						<div class="news-dfp news"></div>
 					</a>
 				</li>
 				<li class="single vdash-fix">
 					<a href="#">
 						<p>&ldquo;Team Detroit is No. 10 on the Ad Agency A-List.&rdquo;</p>
-						<img src="_/img/headlines/adage.png" alt="Adage">
+						<div class="news-aa news"></div>
 					</a>
 				</li>
 			</ul>
