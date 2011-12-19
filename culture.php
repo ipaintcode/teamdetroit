@@ -178,13 +178,13 @@
 		</ul>
 	</div>
 
-	<div class="segment-headline-wrapper clear below-carousel">
+	<div class="segment-headline-wrapper clear below-carousel below-carousel-culture">
 		<h2 class="center min-max"><span class="segment-header-spacer"></span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
-				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
-				<li class="page-nate"><span class="page-of">1</span> of <span>12</span></li>
-				<li class="next-button"><a href="#next">Next &rarr;</a></li>
+				<li class="prev-button prev-button-stereo"><a href="#prev">&larr; Previous</a></li>
+				<li class="page-nate page-nate-stereo"><span class="page-of">1</span> of <span>12</span></li>
+				<li class="next-button next-button-stereo"><a href="#next">Next &rarr;</a></li>
 			</ul>
 		</div>
 	</div>

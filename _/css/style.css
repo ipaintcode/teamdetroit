@@ -752,6 +752,10 @@ footer, footer a {
 	position: relative;
 	top: -62px;
 }
+
+.carousel-navigation-stereo {
+	background: #1c1c1c;
+}
 .carousel-controller {
 	float: right;
 	height: 65px;
@@ -790,6 +794,14 @@ footer, footer a {
 	height: 65px;
 }
 
+.below-carousel-culture {
+	overflow: hidden;
+	height: 65px;
+	background: #1c1c1c;
+	border-top: 1px dashed #555555;
+	border-bottom: 1px dashed #555555;
+}
+
 .carousel-controller li.prev-button {
 	border-left: 1px dashed #cccccc;
 	border-right: 1px dashed #cccccc;
@@ -798,6 +810,22 @@ footer, footer a {
 .carousel-controller li.next-button {
 	border-left: 1px dashed #cccccc;
 	border-right: 1px dashed #cccccc;
+}
+
+.carousel-controller li.prev-button-stereo {
+	border-left: 1px dashed #555;
+	border-right: 1px dashed #555;
+	background: #1C1C1C;
+}
+
+.carousel-controller li.next-button-stereo {
+	border-left: 1px dashed #555;
+	border-right: 1px dashed #555;
+	background: #1C1C1C;
+}
+
+.carousel-controller .page-nate-stereo {
+	background: #1C1C1C;
 }
 
 
