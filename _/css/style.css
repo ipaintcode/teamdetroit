@@ -789,6 +789,24 @@ footer, footer a {
 	/*border-right: 1px dashed #cccccc;*/
 }
 
+.carousel-controller-culture .page-nate {
+	line-height: 65px;
+	color: #cccccc;
+}
+
+.carousel-controller-culture li a {
+	display: table-cell;
+	vertical-align: middle;
+	height: 65px;
+	width: 100px;
+	text-decoration: none;
+	color: #cccccc;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	/*border-left: 1px dashed #cccccc;*/
+	/*border-right: 1px dashed #cccccc;*/
+}
+
 .below-carousel {
 	overflow: hidden;
 	height: 65px;
@@ -816,12 +834,14 @@ footer, footer a {
 	border-left: 1px dashed #555;
 	border-right: 1px dashed #555;
 	background: #1C1C1C;
+	color: #999999;
 }
 
 .carousel-controller li.next-button-stereo {
 	border-left: 1px dashed #555;
 	border-right: 1px dashed #555;
 	background: #1C1C1C;
+	color: #999999;
 }
 
 .carousel-controller .page-nate-stereo {

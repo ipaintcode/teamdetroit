@@ -295,6 +295,12 @@ $(document).ready(function() {
 			right: 15
 		}, 300);
 	});
+	
+	$('.next-button-stereo, .prev-button-stereo').hover(function() {
+		$(this).find('a').stop().animate({opacity: .5}, 300);
+	}, function() {
+		$(this).find('a').stop().animate({opacity: 1}, 300);
+	});
 
 	$('.home-social li').hover(function() {
 		$(this).stop().animate({
