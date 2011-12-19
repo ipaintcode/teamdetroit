@@ -111,8 +111,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>Dedication and commitment builds great client relationships and outstanding results for the entire Ford team.</p>
+					 	<p class="content-quote-author">&ndash; Bob McClowry</span></p>
 					 </blockquote>
 				
 				</div>

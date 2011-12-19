@@ -113,8 +113,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p>The Park delivers strategically sound design solutions and keen attention to detail through execution.</p>
+					 	<p class="content-quote-author">&ndash; Mike Treppa</span></p>
 					 </blockquote>
 				
 				</div>
