@@ -71,7 +71,6 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/bosch/billboard-1.jpg" alt=""></li>
 			
 			<li class="activeCarousel">
 				<div class="close-video">x</div>
