@@ -108,7 +108,7 @@
 
 	<div class="content-wrapper">
 
-		<div class="content center min-max">
+		<div class="content center min-max clearfix">
 
 			<section class="content-info-wrapper double">
 
