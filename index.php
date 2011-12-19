@@ -128,7 +128,7 @@
 				</li>
 				<li class="single">
 					<a href="projects/focus-doug.php">
-						<h3>Doug<br />the Ford Spokespuppet</h3>
+						<h3>Doug, the Ford<br />Spokespuppet</h3>
 						<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
