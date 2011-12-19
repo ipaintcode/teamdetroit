@@ -87,7 +87,7 @@
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/explorer_live/billboard-1.jpg" alt="">
-				<div class="youtube-video-holder" data="ChbjPhhGLn8"></div>
+				<div class="youtube-video-holder" data="NnxykOAn8B4"></div>
 			</li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-2.jpg" alt=""></li>
 			<li class="">
