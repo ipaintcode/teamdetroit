@@ -71,13 +71,48 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/focus_doug/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/focus_doug/billboard-2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/focus_doug/billboard-3.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/focus_doug/billboard-4.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/focus_doug/billboard-5.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/focus_doug/billboard-6.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/focus_doug/billboard-7.jpg" alt=""></li>													
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_doug/billboard-1.jpg" alt="">
+				<div class="youtube-video-holder" data="iuKUxK7-P7s"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_doug/billboard-2.jpg" alt="">
+				<div class="youtube-video-holder" data="poPz-11vb6s"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_doug/billboard-3.jpg" alt="">
+				<div class="youtube-video-holder" data="ya-RF71JXGA"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_doug/billboard-4.jpg" alt="">
+				<div class="youtube-video-holder" data="ie9RjO7WDGQ"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_doug/billboard-5.jpg" alt="">
+				<div class="youtube-video-holder" data="UUMRNTgqV6Q"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_doug/billboard-6.jpg" alt="">
+				<div class="youtube-video-holder" data="sBHxArQrxIg"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_doug/billboard-7.jpg" alt="">
+				<div class="youtube-video-holder" data="PJ8tvF7ER_k"></div>
+			</li>													
 		</ul>
 	</div>
 

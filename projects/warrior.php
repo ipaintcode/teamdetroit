@@ -72,7 +72,12 @@
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
 			<li class="activeCarousel"><img src="../_/img/projects/warrior/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/warrior/billboard-2.jpg" alt=""></li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/warrior/billboard-2.jpg" alt="">
+				<div class="youtube-video-holder" data="gEznhzPprwg"></div>
+			</li>
 			<li class=""><img src="../_/img/projects/warrior/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/warrior/billboard-4.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/warrior/billboard-5.jpg" alt=""></li>

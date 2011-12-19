@@ -71,8 +71,18 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/carhartt/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/carhartt/billboard-2.jpg" alt=""></li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/carhartt/billboard-1.jpg" alt="">
+				<div class="youtube-video-holder" data="qYSPZ0A6szQ"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/carhartt/billboard-2.jpg" alt="">
+				<div class="youtube-video-holder" data="x1cg899jbQ8"></div>
+			</li>
 			<li class=""><img src="../_/img/projects/carhartt/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/carhartt/billboard-4.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/carhartt/billboard-5.jpg" alt=""></li>

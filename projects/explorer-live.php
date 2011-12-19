@@ -83,13 +83,43 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel"><!-- <img src="../_/img/projects/explorer_live/billboard-1.jpg" alt=""> -->
-			<li class="activeCarousel"><iframe width="679" height="420" src="http://www.youtube.com/embed/NnxykOAn8B4?wmode=opaque" frameborder="0" allowfullscreen></iframe></li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/explorer_live/billboard-1.jpg" alt="">
+				<div class="youtube-video-holder" data="ChbjPhhGLn8"></div>
+			</li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-3.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-4.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-5.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-6.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/explorer_live/billboard-7.jpg" alt=""></li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/explorer_live/billboard-3.jpg" alt="">
+				<div class="youtube-video-holder" data="yzCRM1ayWLM"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/explorer_live/billboard-4.jpg" alt="">
+				<div class="youtube-video-holder" data="f3hBOR0hJ1E"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/explorer_live/billboard-5.jpg" alt="">
+				<div class="youtube-video-holder" data="owmAsmMcS_U"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/explorer_live/billboard-6.jpg" alt="">
+				<div class="youtube-video-holder" data="1-Z_DitNgeQ"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/explorer_live/billboard-7.jpg" alt="">
+				<div class="youtube-video-holder" data="LTpNIwrwgtk"></div>
+			</li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-8.jpg" alt=""></li>
 		</ul>
 	</div>

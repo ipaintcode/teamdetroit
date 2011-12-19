@@ -71,7 +71,36 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/focus_rally/billboard-1.jpg" alt=""></li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_rally/billboard-1.jpg" alt="">
+				<div class="youtube-video-holder" data="paOWbj0O098"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_rally/billboard-2.jpg" alt="">
+				<div class="youtube-video-holder" data="OqXLRPl8MDA"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_rally/billboard-3.jpg" alt="">
+				<div class="youtube-video-holder" data="rNh3N4E4-fI"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_rally/billboard-4.jpg" alt="">
+				<div class="youtube-video-holder" data="G4-1yqEgSbU"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/focus_rally/billboard-5.jpg" alt="">
+				<div class="youtube-video-holder" data="OuQHqTm4NJw"></div>
+			</li>
 			<li class=""><img src="../_/img/projects/focus_rally/billboard-2.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/focus_rally/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/focus_rally/billboard-4.jpg" alt=""></li>

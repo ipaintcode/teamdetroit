@@ -71,8 +71,18 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/fiesta/billboard_1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/fiesta/billboard_2.jpg" alt=""></li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/fiesta/billboard_1.jpg" alt="">
+				<div class="youtube-video-holder" data="oGBWKApIo_U"></div>
+			</li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/fiesta/billboard_2.jpg" alt="">
+				<div class="youtube-video-holder" data="61yknUHf87A"></div>
+			</li>
 			<li class=""><img src="../_/img/projects/fiesta/billboard_3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/fiesta/billboard_4.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/fiesta/billboard_5.jpg" alt=""></li>

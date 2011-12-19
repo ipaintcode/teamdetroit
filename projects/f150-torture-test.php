@@ -71,13 +71,48 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/torture_test/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/torture_test/billboard-2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/torture_test/billboard-3.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/torture_test/billboard-4.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/torture_test/billboard-5.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/torture_test/billboard-6.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/torture_test/billboard-7.jpg" alt=""></li>													
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/torture_test/billboard-1.jpg" alt="">
+				<div class="youtube-video-holder" data="ChbjPhhGLn8"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/torture_test/billboard-2.jpg" alt="">
+				<div class="youtube-video-holder" data="EQGkdGJsDrw"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/torture_test/billboard-3.jpg" alt="">
+				<div class="youtube-video-holder" data="ChbjPhhGLn8"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/torture_test/billboard-4.jpg" alt="">
+				<div class="youtube-video-holder" data="5r6WZZn2TpQ"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/torture_test/billboard-5.jpg" alt="">
+				<div class="youtube-video-holder" data="DZDpToZDz6k"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/torture_test/billboard-6.jpg" alt="">
+				<div class="youtube-video-holder" data="W_-ouiwOrvw"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/torture_test/billboard-7.jpg" alt="">
+				<div class="youtube-video-holder" data="2ZWs8wilgiY"></div>
+			</li>												
 		</ul>
 	</div>
 

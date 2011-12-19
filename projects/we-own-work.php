@@ -71,8 +71,18 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/we_own_work/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/we_own_work/billboard-2.jpg" alt=""></li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/we_own_work/billboard-1.jpg" alt="">
+				<div class="youtube-video-holder" data="gEznhzPprwg"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/we_own_work/billboard-2.jpg" alt="">
+				<div class="youtube-video-holder" data="Hh-xL-6MBy0"></div>
+			</li>
 			<li class=""><img src="../_/img/projects/we_own_work/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/we_own_work/billboard-4.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/we_own_work/billboard-5.jpg" alt=""></li>

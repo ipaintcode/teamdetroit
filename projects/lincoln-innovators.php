@@ -71,10 +71,30 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/lincoln_innovators/billboard-1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-3.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-4.jpg" alt=""></li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/lincoln_innovators/billboard-1.jpg" alt="">
+				<div class="youtube-video-holder" data="s4Zv7TQCdMk"></div>
+			</li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/lincoln_innovators/billboard-2.jpg" alt="">
+				<div class="youtube-video-holder" data="1PN7zzGykFM"></div>
+			</li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/lincoln_innovators/billboard-3.jpg" alt="">
+				<div class="youtube-video-holder" data="M3vYoaR-Efc"></div>
+			</li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/lincoln_innovators/billboard-4.jpg" alt="">
+				<div class="youtube-video-holder" data="91YV21qD9vE"></div>
+			</li>
 			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-5.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-6.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/lincoln_innovators/billboard-7.jpg" alt=""></li>												
