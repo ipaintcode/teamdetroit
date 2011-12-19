@@ -87,16 +87,62 @@
 		<div class="center min-max">
 			
 			<ol class="grid">
+				
 				<li class="single">
-					<a href="projects/lincoln-innovators.php">
-						<h3>Lincoln Innovators</h3>
-						<p class="copy">For Lincoln, it’s all about partnerships: Partnering with people at the top of the design.</p>
+					<a href="projects/sports-authority.php">
+						<h3>Sports Authority</h3>
+						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #86633D;"></div>
-						<img src="_/img/projects/lincoln_innovators/thumb.jpg" alt="">
+						<div class="color-swatch" style="background: #bb0f0f;"></div>
+						<img src="_/img/projects/sports_authority/thumb.jpg" alt="">	
 					</a>
 				</li>
+				
+				<li class="single">
+					<a href="projects/explorer-live.php">
+						<h3>Explorer<br />Live</h3>
+						<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvented the SUV launch.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #1F2322;"></div>
+						<img src="_/img/projects/explorer_live/thumb.jpg" alt="">
+					</a>
+				</li>
+				
+				<li class="single">
+					<a href="projects/we-own-work.php">
+						<h3>We Own Work</h3>
+						<p class="copy">Super Duty is the only true heavy-duty work truck and our customers are proving it to the world.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #1D2122;"></div>
+						<img src="_/img/projects/we_own_work/thumb.jpg" alt="">	
+					</a>
+				</li>
+				
+				<li class="single">
+					<a href="projects/mustang-customizer.php">
+						<h3>Mustang<br />Customizer</h3>
+						<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						 <div class="color-swatch" style="background: #B22E25;"></div>
+						<img src="_/img/projects/mustang_customizer/thumb.jpg" alt="">
+					</a>
+				</li>
+				
+				<li class="single">
+					<a href="projects/f150-torture-test.php">
+						<h3>F-150<br />Torture Test</h3>
+						<p class="copy">Toughness and durability? Pickup truck owners need to see it before they’ll believe it.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #3E2008;"></div>
+						<img src="_/img/projects/torture_test/thumb.jpg" alt="">	
+					</a>
+				</li>
+				
 				<li class="single">
 					<a href="projects/focus-rally.php">
 						<h3>Focus<br />Rally</h3>
@@ -108,86 +154,7 @@
 						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
 				</li>
-				<li class="single">
-					<a href="projects/carhartt.php">
-						<h3>Carhartt</h3>
-						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #333C52;"></div>
-						<img src="_/img/projects/carhartt/thumb.jpg" alt="">	
-					</a>
-				</li>
-				<li class="single">
-					<a href="projects/f150-torture-test.php">
-						<h3>F-150<br />Torture Test</h3>
-						<p class="copy">Toughness and durability? Pickup truck owners need to see it before they’ll believe it.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #3E2008;"></div>
-						<img src="_/img/projects/torture_test/thumb.jpg" alt="">	
-					</a>
-				</li>
-				<li class="single">
-					<a href="projects/bosch.php">
-						<h3>Bosch</h3>
-						<p class="copy">How do you prove that Bosch Icon Wiper Blades will perform when you need them.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #2D402D;"></div>
-						<img src="_/img/projects/bosch/thumb.jpg" alt="">	
-					</a>
-				</li>
-				<li class="single">
-					<a href="projects/ccs.php">
-						<h3>CCS</h3>
-						<p class="copy">The College For Creative Studies is one of the leading art and design colleges in the world.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #5f5347;"></div>
-						<img src="_/img/projects/ccs/thumb.jpg" alt="">
-					</a>
-				</li>
-				<li class="single">
-					<a href="projects/explorer-live.php">
-						<h3>Explorer<br />Live</h3>
-						<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvented the SUV launch.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #1F2322;"></div>
-						<img src="_/img/projects/explorer_live/thumb.jpg" alt="">
-					</a>
-				</li>	
-				<li class="single">
-					<a href="projects/fiesta.php">
-						<h3>Ford<br />Fiesta</h3>
-						<p class="copy">The Ford Fiesta may look small. But between its smart technology and high MPG, it really is a pretty big deal.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #5592AA;"></div>
-						<img src="_/img/projects/fiesta/thumb.jpg" alt="">
-					</a>
-				</li>
-				<li class="single">
-					<a href="projects/mustang-customizer.php">
-						<h3>Mustang<br />Customizer</h3>
-						<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						 <div class="color-swatch" style="background: #B22E25;"></div>
-						<img src="_/img/projects/mustang_customizer/thumb.jpg" alt="">
-					</a>
-				</li>
-				<li class="single">
-					<a href="projects/we-own-work.php">
-						<h3>We Own Work</h3>
-						<p class="copy">Super Duty is the only true heavy-duty work truck and our customers are proving it to the world.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #1D2122;"></div>
-						<img src="_/img/projects/we_own_work/thumb.jpg" alt="">	
-					</a>
-				</li>
+				
 				<li class="single">
 					<a href="projects/focus-doug.php">
 						<h3>Focus<br />Doug</h3>
@@ -198,6 +165,62 @@
 						<img src="_/img/projects/focus_doug/thumb.jpg" alt="">	
 					</a>
 				</li>
+				
+				<li class="single">
+					<a href="projects/mustang.php">
+						<h3>Mustang</h3>
+						<p class="copy">You can give a Ford Mustang better miles per gallon and more smart technology.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #3f546e;"></div>
+						<img src="_/img/projects/mustang/thumb.jpg" alt="">	
+					</a>
+				</li>
+				
+				<li class="single">
+					<a href="projects/ccs.php">
+						<h3>CCS</h3>
+						<p class="copy">The College For Creative Studies is one of the leading art and design colleges in the world.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #5f5347;"></div>
+						<img src="_/img/projects/ccs/thumb.jpg" alt="">
+					</a>
+				</li>
+				
+				<li class="single">
+					<a href="projects/carhartt.php">
+						<h3>Carhartt</h3>
+						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #333C52;"></div>
+						<img src="_/img/projects/carhartt/thumb.jpg" alt="">	
+					</a>
+				</li>
+				
+				<li class="single">
+					<a href="projects/fiesta.php">
+						<h3>Ford<br />Fiesta</h3>
+						<p class="copy">The Ford Fiesta may look small. But between its smart technology and high MPG, it really is a pretty big deal.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #5592AA;"></div>
+						<img src="_/img/projects/fiesta/thumb.jpg" alt="">
+					</a>
+				</li>
+				
+				<li class="single">
+					<a href="projects/lincoln-innovators.php">
+						<h3>Lincoln Innovators</h3>
+						<p class="copy">For Lincoln, it’s all about partnerships: Partnering with people at the top of the design.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #86633D;"></div>
+						<img src="_/img/projects/lincoln_innovators/thumb.jpg" alt="">
+					</a>
+				</li>
+				
 				<li class="single">
 					<a href="projects/press-conference.php">
 						<h3>Press<br />Conference</h3>
@@ -206,16 +229,6 @@
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #5B4F3F;"></div>
 						<img src="_/img/projects/press_conference/thumb.jpg" alt="">	
-					</a>
-				</li>	
-				<li class="single">
-					<a href="projects/warrior.php">
-						<h3>Warrior</h3>
-						<p class="copy">What makes a Manchine? An Alpha male attitude.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #46496a;"></div>
-						<img src="_/img/projects/warrior/thumb.jpg" alt="">	
 					</a>
 				</li>
 				
@@ -231,24 +244,13 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/ford-social.php">
-						<h3>Ford Social</h3>
-						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
+					<a href="projects/bosch.php">
+						<h3>Bosch</h3>
+						<p class="copy">How do you prove that Bosch Icon Wiper Blades will perform when you need them.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #004174;"></div>
-						<img src="_/img/projects/ford_social/thumb.jpg" alt="">	
-					</a>
-				</li>
-			
-				<li class="single">
-					<a href="projects/mustang.php">
-						<h3>Mustang</h3>
-						<p class="copy">You can give a Ford Mustang better miles per gallon and more smart technology.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #3f546e;"></div>
-						<img src="_/img/projects/mustang/thumb.jpg" alt="">	
+						<div class="color-swatch" style="background: #2D402D;"></div>
+						<img src="_/img/projects/bosch/thumb.jpg" alt="">	
 					</a>
 				</li>
 				
@@ -264,18 +266,27 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/sports-authority.php">
-						<h3>Sports Authority</h3>
-						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods.</p>
+					<a href="projects/ford-social.php">
+						<h3>Ford Social</h3>
+						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #bb0f0f;"></div>
-						<img src="_/img/projects/sports_authority/thumb.jpg" alt="">	
+						<div class="color-swatch" style="background: #004174;"></div>
+						<img src="_/img/projects/ford_social/thumb.jpg" alt="">	
 					</a>
 				</li>
-			
-			
-			
+
+				<li class="single">
+					<a href="projects/warrior.php">
+						<h3>Warrior</h3>
+						<p class="copy">What makes a Manchine? An Alpha male attitude.</p>
+						<p class="view-project">View&nbsp;Project</p>
+						<span class="arrow">&rarr;</span>
+						<div class="color-swatch" style="background: #46496a;"></div>
+						<img src="_/img/projects/warrior/thumb.jpg" alt="">	
+					</a>
+				</li>
+
 			</ol>
 		
 		</div>	
