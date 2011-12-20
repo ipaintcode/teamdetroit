@@ -372,7 +372,42 @@ $(document).ready(function (){
 				}
 			}
 		}
-	});	
+	});
+	function goToByScroll(val, speed) {
+		$('html,body').animate({
+			scrollTop: val
+		}, speed || 200);
+	}
+	
+	$('body').prepend('<div id="go-back-up"></div>');
+	$('#go-back-up').css({
+		'background-image': 'url(../_/img/up-arrow.png)',
+		'position': 'fixed',
+		'top': 200,
+		'right': -40,
+		'width': 39,
+		'height': 39,
+		'zIndex': 10000,
+		'cursor': 'pointer'
+	})
+	$(window).scroll(function(event) {
+
+		if ($(window).scrollTop() > 0) {
+			$('#go-back-up').stop().animate({right: 0}, 300);
+		} else {
+			$('#go-back-up').stop().animate({right: -40}, 300);
+		}
+	});
+	
+	$('#go-back-up').click(function(event) {
+		goToByScroll(0, 500);
+	});
+	
+	$('#go-back-up').hover(function() {
+		$(this).stop().animate({opacity: .8}, 300);
+	}, function() {
+		$(this).stop().animate({opacity: 1}, 0);
+	});
 });
 
 

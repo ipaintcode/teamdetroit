@@ -54,6 +54,37 @@ jQuery.cookie = function(key, value, options) {
 /* trigger when page is ready */
 $(document).ready(function() {
 
+	$('body').prepend('<div id="go-back-up"></div>');
+	$('#go-back-up').css({
+		'background-image': 'url(_/img/up-arrow.png)',
+		'position': 'fixed',
+		'top': 200,
+		'right': -40,
+		'width': 39,
+		'height': 39,
+		'zIndex': 10000,
+		'cursor': 'pointer'
+	})
+	$(window).scroll(function(event) {
+
+		if ($(window).scrollTop() > 0) {
+			$('#go-back-up').stop().animate({right: 0}, 300);
+		} else {
+			$('#go-back-up').stop().animate({right: -40}, 300);
+		}
+	});
+	
+	$('#go-back-up').hover(function() {
+		$(this).stop().animate({opacity: .8}, 300);
+	}, function() {
+		$(this).stop().animate({opacity: 1}, 0);
+	});
+	
+	$('#go-back-up').click(function(event) {
+		goToByScroll(0, 500);
+	});
+	
+	
 	function checkImgSize() {
 
 		if ($('.interactive img').height() === 0 || $('.interactive img').height() === "0") {
@@ -161,10 +192,10 @@ $(document).ready(function() {
 		});
 	}
 
-	function goToByScroll(val) {
+	function goToByScroll(val, speed) {
 		$('html,body').animate({
 			scrollTop: val
-		}, 200);
+		}, speed || 200);
 	}
 
 	$('.rows-jobs h6 a').toggle(function(e) {
