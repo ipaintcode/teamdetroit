@@ -89,13 +89,13 @@
 
 				<div class="content-info">
 
-					<h3>Lorem ipsum dolor sit amet</h3>
+					<p>Let&rsquo;s start on a Monday. Over a thousand Detroiters find themselves in one specific place: A four-story building made of the usual stuff (big windows, marble fa&ccedil;ade, steel). Really, it doesn&rsquo;t say much from the outside. There&rsquo;s no neon sign saying &ldquo;open,&rdquo; but the lot is full and the handles on the revolving doors are still warm. 8:56 a.m.</p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>What&rsquo;s the motivation? Why did you come in? Good clients, a paycheck, benefits, a nice cafeteria, clean bathrooms? Maybe all of the above. But that&rsquo;s not very romantic.</p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>You&rsquo;re here because you want to be. You admire the people you work with because they do something better than you. And you do something better than them.</p>
+					
+					<p>You&rsquo;re here because you have an idea. And you&rsquo;re about to make it happen.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>

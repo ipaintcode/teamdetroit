@@ -150,7 +150,7 @@
 						</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						 <div class="color-swatch" style="background: #702107;"></div>
+						 <div class="color-swatch" style="background: #9D7F4F;"></div>
 						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -216,7 +216,7 @@
 						<p class="copy">For Lincoln, it’s all about partnerships: Partnering with people at the top of the design.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #86633D;"></div>
+						<div class="color-swatch" style="background: #A48032;"></div>
 						<img src="_/img/projects/lincoln_innovators/thumb.jpg" alt="">
 					</a>
 				</li>
