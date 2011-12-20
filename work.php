@@ -127,7 +127,7 @@
 						<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						 <div class="color-swatch" style="background: #21201D;"></div>
+						 <div class="color-swatch" style="background: #111111;"></div>
 						<img src="_/img/projects/mustang_customizer/thumb.jpg" alt="">
 					</a>
 				</li>
