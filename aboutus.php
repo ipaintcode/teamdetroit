@@ -170,36 +170,36 @@
 					<img src="_/img/aboutus/capabilities/visual-design.jpg" alt="visual-design">
 				</li>
 				<li class="single vdash-fix">
-					<h5>Copywriting</h5>
-					<img src="_/img/aboutus/capabilities/copywriting.jpg" alt="copywriting">
+					<h5>Brand Content<br />&amp; Alliances</h5>
+					<img src="_/img/aboutus/capabilities/brand_content_alliances.jpg" alt="brand-content-alliances">
 				</li>
 				<li class="single vdash-fix">
-					<h5>Media &amp; Connections</h5>
-					<img src="_/img/aboutus/capabilities/media-connections.jpg" alt="media-connections">
+					<h5>Creative</h5>
+					<img src="_/img/aboutus/capabilities/creative.jpg" alt="creative">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Digital</h5>
-					<img src="_/img/aboutus/capabilities/digital-studio.jpg" alt="digital-studio">
+					<img src="_/img/aboutus/capabilities/digital.jpg" alt="digital">
 				</li>
 				<li class="single vdash-fix">
-					<h5>Production</h5>
-					<img src="_/img/aboutus/capabilities/production.jpg" alt="production">
+					<h5>Strategic Planning</h5>
+					<img src="_/img/aboutus/capabilities/strategic_planning.jpg" alt="strategic-planning">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Media</h5>
+					<img src="_/img/aboutus/capabilities/media.jpg" alt="media">
+				</li>
+				<li class="single vdash-fix">
+					<h5>Analytics</h5>
 					<img src="_/img/aboutus/capabilities/analytics.jpg" alt="analytics">
 				</li>
 				<li class="single vdash-fix">
-					<h5>Interaction Design</h5>
-					<img src="_/img/aboutus/capabilities/interactive-design.jpg" alt="interactive-design">
-				</li>
-				<li class="single vdash-fix">
-					<h5>Mobile Design</h5>
-					<img src="_/img/aboutus/capabilities/mobile-design.jpg" alt="mobile-design">
+					<h5>Account Services</h5>
+					<img src="_/img/aboutus/capabilities/account_sevices.jpg" alt="account-sevices">
 				</li>
 				<li class="single vdash-fix">
 					<h5>Social Media</h5>
-					<img src="_/img/aboutus/capabilities/social-strategy.jpg" alt="social-media">
+					<img src="_/img/aboutus/capabilities/social_media.jpg" alt="social-media">
 				</li>
 			</ul>
 
