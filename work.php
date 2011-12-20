@@ -161,7 +161,7 @@
 						<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
-						<div class="color-swatch" style="background: #5F1006;"></div>
+						<div class="color-swatch" style="background: #C13900;"></div>
 						<img src="_/img/projects/focus_doug/thumb.jpg" alt="">	
 					</a>
 				</li>
