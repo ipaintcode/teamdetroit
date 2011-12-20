@@ -232,7 +232,12 @@ $(document).ready(function() {
 		var tmpText = onText.substr(0, 130);
 		$('.on-now-title').text(tmpText + "...");
 	}
+	
+	$('.home-work .grid li, .home-culture .grid li').each(function(index) {
+		$(this).css('height', $(this).find('img').height);
+		$(this).css('height', 319);
 
+	});
 	$('.home-work .grid li, .home-culture .grid li').hover(function() {
 		$(this).find('.view-project').stop().delay(330).animate({
 			right: 30
