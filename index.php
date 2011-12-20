@@ -58,6 +58,7 @@
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
+<link rel="stylesheet" href="_/css/flexslider.css">
 
 </head>
 
@@ -70,37 +71,57 @@
 	<section class="billboard">
 		<div class="center min-max">
 			
-			<div class="homepage-billboard">
-				<ul>
-					<li id="billboard_1">
-						<img src="_/img/home/billboard_1.png" alt="">
-						<a class="active" href="#billboard_1">&middot;</a>
-						<a href="#billboard_2">&middot;</a>
-						<a href="#billboard_3">&middot;</a>
-						<a href="#billboard_4">&middot;</a>
-					</li>
-					<li id="billboard_2">
-						<img src="_/img/home/billboard.png" alt="">
-						<a href="#billboard_1">&middot;</a>
-						<a href="#billboard_2">&middot;</a>
-						<a href="#billboard_3">&middot;</a>
-						<a href="#billboard_4">&middot;</a>
-					</li>
-					<li id="billboard_3">
-						<img src="_/img/home/billboard-FocusRally.jpg" alt="">
-						<a href="#billboard_1">&middot;</a>
-						<a href="#billboard_2">&middot;</a>
-						<a href="#billboard_3">&middot;</a>
-						<a href="#billboard_4">&middot;</a>
-					</li>
-					<li id="billboard_4">
-						<img src="_/img/home/billboard-CCS.jpg" alt="">
-						<a href="#billboard_1">&middot;</a>
-						<a href="#billboard_2">&middot;</a>
-						<a href="#billboard_3">&middot;</a>
-						<a href="#billboard_4">&middot;</a>
-					</li>
-				</ul>
+			<div class="">
+				<div id="container">
+
+					<div class="flexslider">
+				    <ul class="slides">
+				    	<li>
+				    		<img src="_/img/home/billboard_1.png" />
+				    	</li>
+				    	<li>
+				    		<img src="_/img/home/billboard.png" />
+				    	</li>
+						<li>
+				    		<img src="_/img/home/billboard-FocusRally.jpg" />
+				    	</li>
+						<li>
+				    		<img src="_/img/home/billboard-CCS.jpg" />
+				    	</li>
+				    </ul>
+				  </div>
+
+				</div>
+				<!-- <ul>
+									<li id="billboard_1">
+										<img src="_/img/home/billboard_1.png" alt="">
+										<a class="active" href="#billboard_1">&middot;</a>
+										<a href="#billboard_2">&middot;</a>
+										<a href="#billboard_3">&middot;</a>
+										<a href="#billboard_4">&middot;</a>
+									</li>
+									<li id="billboard_2">
+										<img src="_/img/home/billboard.png" alt="">
+										<a href="#billboard_1">&middot;</a>
+										<a href="#billboard_2">&middot;</a>
+										<a href="#billboard_3">&middot;</a>
+										<a href="#billboard_4">&middot;</a>
+									</li>
+									<li id="billboard_3">
+										<img src="_/img/home/billboard-FocusRally.jpg" alt="">
+										<a href="#billboard_1">&middot;</a>
+										<a href="#billboard_2">&middot;</a>
+										<a href="#billboard_3">&middot;</a>
+										<a href="#billboard_4">&middot;</a>
+									</li>
+									<li id="billboard_4">
+										<img src="_/img/home/billboard-CCS.jpg" alt="">
+										<a href="#billboard_1">&middot;</a>
+										<a href="#billboard_2">&middot;</a>
+										<a href="#billboard_3">&middot;</a>
+										<a href="#billboard_4">&middot;</a>
+									</li>
+								</ul> -->
 			</div>
 
 		</div>
@@ -313,6 +334,15 @@
 <script src="_/js/jquery.flexslider-min.js"></script>
 <script src="_/js/functions_.js"></script>
 <script src="_/js/map.js"></script>
+<script type="text/javascript">
+	$(window).load(function() {
+		$('.flexslider').flexslider({
+			animation: "slide",
+			controlsContainer: ".flex-container",
+			directionNav: false
+		});
+	});
+</script>
 
 
 <!-- Asynchronous google analytics; this is the official snippet.

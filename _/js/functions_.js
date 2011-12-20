@@ -393,120 +393,120 @@ $(document).ready(function() {
 		}
 	});
 
-	var storeAnchors = $('.homepage-billboard ul li:first-child').find('a');
-	$('.homepage-billboard ul').find('a').remove();
-	$('.homepage-billboard').append('<div>');
-	$(storeAnchors).each(function(index) {
-		$('.homepage-billboard div').append(this);
-	});
-
-	$('.homepage-billboard div').css({
-		'position': 'absolute',
-		bottom: -30,
-		"cursor": "pointer"
-	});
-
-	$('.homepage-billboard ul li').css({
-		position: "absolute",
-		top: 0, 
-		left: 0
-	});
-
-	$('.homepage-billboard ul li').css({
-		opacity: 0
-	});
-
-	$('.homepage-billboard ul li:first-child').css({
-		zIndex: 1000,
-		opacity: 1
-	});
-
-	$('.homepage-billboard div').css({
-		zIndex: 1001
-	});
-
-	var divX = ($('.homepage-billboard ul').width()-$('.homepage-billboard div').width())/2;
-	$('.homepage-billboard div').css({
-		left: divX
-	});
-
-	$('.homepage-billboard div a').hover(function() {
-		if($(this).attr('class') !== "active")
-		$(this).stop().animate({color: "#9e0120"}, 300);	
-	}, function() {
-		if($(this).attr('class') !== "active")
-		$(this).stop().animate({color: "#bdbcbc"}, 300);	
-	});
-
-	$('.homepage-billboard div a').click(function(e) {
-		e.preventDefault();
-		clearTimeout(timerCaller);
-		changeMeatBall($(this));
-	});
-	
-	var meatballID = 0;
-	var meatballs = $('.homepage-billboard div a');
-	
-	function changeMeatBall(ele) {
-	
-		meatballID = parseInt($(ele).attr('href').split('_')[1], 10)-1;
-		$('.homepage-billboard div a').each(function(index) {
-			if($(this).attr('class')==="active") {
-				$($(this).attr('href')).animate({opacity: 0}, 200);
-			}
-		});
-
-		$('.homepage-billboard div a').attr('class', 'off').stop().
-		animate({color: "#bdbcbc"}, 300);
-		$(ele).attr('class', 'active');
-		$(ele).stop().stop().animate({color: "#9e0120"}, 300);
-		var idalt = $(ele).attr('href');
-		$(idalt).stop().delay(200).animate({opacity: 1}, 500);
-	}
-	
-	var timerCaller;
-	
-	var delay = function() { 
-		changeMeatBall(meatballs[meatballID]); 
-		timerCaller = setTimeout(autoMeatballs, 10000);	
-	};
-	
-	setTimeout(autoMeatballs, 0);
-	
-	function autoMeatballs() {
-		meatballID+=1;
-		setTimeout(delay, 10000);
-		if(meatballID === 4) {
-			meatballID = 0;
-		}
-	}
-
-	$('.homepage-billboard div a').each(function(index) {
-		if($(this).attr('class') === "active") {
-			$(this).animate({color: "#9e0120"}, 500);
-		}
-	});
-
-	$(document).ready(function() {
-
-	});
-	
-	function checkHomePageBillboard() {
-		if ($('.homepage-billboard ul li img').height() === 0 || $('.homepage-billboard ul li img').height() === "undefined") {
-			setTimeout(checkHomePageBillboard, 100);
-	
-		} else {
-			$('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());		
-		}
-	}
-	
-	checkHomePageBillboard();
-	
-	$('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());
-
-	$('.homepage-billboard div a').click(function(e) {
-		//e.preventDefault();
-	});
+	// var storeAnchors = $('.homepage-billboard ul li:first-child').find('a');
+	// $('.homepage-billboard ul').find('a').remove();
+	// $('.homepage-billboard').append('<div>');
+	// $(storeAnchors).each(function(index) {
+	// 	$('.homepage-billboard div').append(this);
+	// });
+	// 
+	// $('.homepage-billboard div').css({
+	// 	'position': 'absolute',
+	// 	bottom: -30,
+	// 	"cursor": "pointer"
+	// });
+	// 
+	// $('.homepage-billboard ul li').css({
+	// 	position: "absolute",
+	// 	top: 0, 
+	// 	left: 0
+	// });
+	// 
+	// $('.homepage-billboard ul li').css({
+	// 	opacity: 0
+	// });
+	// 
+	// $('.homepage-billboard ul li:first-child').css({
+	// 	zIndex: 1000,
+	// 	opacity: 1
+	// });
+	// 
+	// $('.homepage-billboard div').css({
+	// 	zIndex: 1001
+	// });
+	// 
+	// var divX = ($('.homepage-billboard ul').width()-$('.homepage-billboard div').width())/2;
+	// $('.homepage-billboard div').css({
+	// 	left: divX
+	// });
+	// 
+	// $('.homepage-billboard div a').hover(function() {
+	// 	if($(this).attr('class') !== "active")
+	// 	$(this).stop().animate({color: "#9e0120"}, 300);	
+	// }, function() {
+	// 	if($(this).attr('class') !== "active")
+	// 	$(this).stop().animate({color: "#bdbcbc"}, 300);	
+	// });
+	// 
+	// $('.homepage-billboard div a').click(function(e) {
+	// 	e.preventDefault();
+	// 	clearTimeout(timerCaller);
+	// 	changeMeatBall($(this));
+	// });
+	// 
+	// var meatballID = 0;
+	// var meatballs = $('.homepage-billboard div a');
+	// 
+	// function changeMeatBall(ele) {
+	// 
+	// 	meatballID = parseInt($(ele).attr('href').split('_')[1], 10)-1;
+	// 	$('.homepage-billboard div a').each(function(index) {
+	// 		if($(this).attr('class')==="active") {
+	// 			$($(this).attr('href')).animate({opacity: 0}, 200);
+	// 		}
+	// 	});
+	// 
+	// 	$('.homepage-billboard div a').attr('class', 'off').stop().
+	// 	animate({color: "#bdbcbc"}, 300);
+	// 	$(ele).attr('class', 'active');
+	// 	$(ele).stop().stop().animate({color: "#9e0120"}, 300);
+	// 	var idalt = $(ele).attr('href');
+	// 	$(idalt).stop().delay(200).animate({opacity: 1}, 500);
+	// }
+	// 
+	// var timerCaller;
+	// 
+	// var delay = function() { 
+	// 	changeMeatBall(meatballs[meatballID]); 
+	// 	timerCaller = setTimeout(autoMeatballs, 10000);	
+	// };
+	// 
+	// setTimeout(autoMeatballs, 0);
+	// 
+	// function autoMeatballs() {
+	// 	meatballID+=1;
+	// 	setTimeout(delay, 10000);
+	// 	if(meatballID === 4) {
+	// 		meatballID = 0;
+	// 	}
+	// }
+	// 
+	// $('.homepage-billboard div a').each(function(index) {
+	// 	if($(this).attr('class') === "active") {
+	// 		$(this).animate({color: "#9e0120"}, 500);
+	// 	}
+	// });
+	// 
+	// $(document).ready(function() {
+	// 
+	// });
+	// 
+	// function checkHomePageBillboard() {
+	// 	if ($('.homepage-billboard ul li img').height() === 0 || $('.homepage-billboard ul li img').height() === "undefined") {
+	// 		setTimeout(checkHomePageBillboard, 100);
+	// 
+	// 	} else {
+	// 		$('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());		
+	// 	}
+	// }
+	// 
+	// checkHomePageBillboard();
+	// 
+	// $('.homepage-billboard ul').height($('.homepage-billboard ul li img').height());
+	// 
+	// $('.homepage-billboard div a').click(function(e) {
+	// 	//e.preventDefault();
+	// });
 
 	if ($.cookie("wdet") === "undefined" || $.cookie("wdet") === null) {
 		$.cookie("wdet", 0);
