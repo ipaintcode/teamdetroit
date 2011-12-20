@@ -80,7 +80,7 @@
 				    		<img src="_/img/home/billboard.png" />
 				    	</li>
 				    	<li>
-				    		<img src="_/img/home/billboard-focus_doug.png" />
+				    		<img src="_/img/home/billboard-focus_doug.jpg" />
 				    	</li>
 						<li>
 				    		<img src="_/img/home/billboard-FocusRally.jpg" />
