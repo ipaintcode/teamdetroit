@@ -236,7 +236,7 @@ $(document).ready(function() {
 	$('.home-work .grid li, .home-culture .grid li').each(function(index) {
 		
 		// $(this).css('height', 319);
-		console.debug($(this).width())
+
 		if ($(this).width() > 400) {
 			$(this).find('h3').css('marginTop', '20%');
 			$(this).find('.copy').css('marginTop', '31%');
