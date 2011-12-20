@@ -82,26 +82,35 @@
 		<h2 class="center min-max"><span>Contact</span></h2>
 	</div>
 	
-	<style type="text/css" media="screen">
-		.google-overlay {
-			position: relative;
-			height: 0;
-			z-index: 10;
-		}
-		
-		.social-map img {
-			position: absolute;
-			height: 600px;
-			opacity: .95;
-			top: 30px;
-			right: 0;
-		}
-
-	</style>
-	
 	<div class="google-overlay">
 		<div class="social-map center min-max">
-			<img class="" src="_/img/contact/social_panel.png" alt="Social Panel">
+			<div class="social-map-inner">
+
+				<div>
+					<h5>Team Detroit</h5>
+					<p>550 Town Center Dr</p>
+					<p>Dearborn, MI 48216</p>
+				</div>
+				<section class="clearfix">
+					<h6>Business Opportunities</h6>
+					<a href="mailto:brad.audet@teamdetroit.com">brad.audet@teamdetroit.com</a>
+					<span>(313)615-3159</span>
+				
+					<h6>Business Opportunities</h6>
+					<a href="mailto:brad.audet@teamdetroit.com">brad.audet@teamdetroit.com</a>
+					<span>(313)615-3159</span>
+				
+					<h6>Career Information</h6>
+					<a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
+					<ul class="content-info-social">
+						<li></li>
+						<li class="facebook"><a href="#linkedin">Facebook</a></li>
+						<li class="twitter"><a href="#linkedin">Twitter</a></li>
+						<li class="googleplus"><a href="#linkedin">Google+</a></li>
+						<li class="emailit"><a href="#linkedin">Email</a></li>
+					</ul>
+				</section>
+			</div>
 		</div>
 	</div>
 	<section id="map" class="gmap-ext"></section>
