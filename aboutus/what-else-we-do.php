@@ -89,13 +89,13 @@
 
 				<div class="content-info content-info-alt">
 
-					<h3>Lorem ipsum dolor sit amet</h3>
+					<p>We wouldn’t feel comfortable calling ourselves “Team Detroit” without being one of Detroit’s biggest supporters—and all lot of this work went to benefit the arts, education, non profits and small businesses within the city limits.</p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>In 2011 alone, we produced pro-bono work for:</p>
 
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<p>The Detroit Symphony Orchestra, College for Creative Studies, WDET, The Greening of Detroit, Detroit Children’s Choir, McClure’s Pickles, Cass Corridor Beauty Products, Russell Street Deli, Sugar House, Detroit Dirt, Canine to Five, Tour D’ Troit, Signal Return and more.</p>
+					
+					<p>One of the perks of being large is that you can make more than a small difference at a very local level.</p>
 				
 					<ul class="content-info-social content-info-social-ext">
 						<li>Share &rarr;</li>

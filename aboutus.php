@@ -96,7 +96,7 @@
 				<li class="single">
 					<a href="aboutus/who-we-are.php">
 						<h3 class="culture-title">Who<br />We Are</h3>
-						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+						<p class="copy">Talent comes from all walks of life and all parts of the world. Luckily, they all know where to work.</p>
 						<p class="view-project">Watch&nbsp;Video</p>
 						<span class="arrow" style="opacity: 0">&rarr;</span>
 						<div class="color-swatch" style="background: #A17E7D;"></div>
@@ -106,7 +106,7 @@
 				<li class="single">
 					<a href="aboutus/what-we-do.php">
 						<h3 class="culture-title">What<br />We Do</h3>
-						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+						<p class="copy">It’s hard to capture the magic of what we do in a one-minute video, but we gave it the old college try.</p>
 						<p class="view-project">Watch&nbsp;Video</p>
 						<span class="arrow" style="opacity: 0">&rarr;</span>
 						<div class="color-swatch" style="background: #AE914B;"></div>
@@ -116,7 +116,7 @@
 				<li class="single">
 					<a href="aboutus/what-else-we-do.php">
 						<h3 class="culture-title">What Else<br />We Do</h3>
-						<p class="copy">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+						<p class="copy">While What Else We Do might sound like the leftovers, it’s actually one of our proudest collections of work. It’s what we do locally.</p>
 						<p class="view-project">Watch&nbsp;Video</p>
 						<span class="arrow" style="opacity: 0">&rarr;</span>
 						<div class="color-swatch" style="background: #4576C7;"></div>
