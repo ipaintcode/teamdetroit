@@ -131,7 +131,7 @@ $(document).ready(function() {
 				$('body').css('backgroundColor', '#c80535');
 			});
 			$(window).scrollTop(0);
-			$(window).mousedown(function(e) {
+			$('.friends-list').mousedown(function(e) {
 				$('.friends-list').animate({
 					opacity: 0
 				}, 300, function() {
