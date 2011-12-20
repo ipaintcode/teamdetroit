@@ -260,8 +260,6 @@ $(document).ready(function() {
 		var cH = ($(this).width()) > 400 ? "160" : "180"
 		cH = ($(this).find('h3').height()) < 40 ? "150" : "180"
 		
-		console.log(cH)
-		
 		$(this).find('.copy').stop().delay(200).animate({
 			opacity: 1,
 			marginTop: cH
