@@ -458,6 +458,10 @@ header {
 	padding-left: 60px;
 }
 
+div.content-info-alt p {
+	padding-left: 0;
+}
+
 .content-info a {
 	text-decoration: none;
 	color: #ED1B2E;

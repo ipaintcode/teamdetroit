@@ -87,7 +87,7 @@
 
 			<section class="content-info-wrapper double">
 
-				<div class="content-info">
+				<div class="content-info content-info-alt">
 
 					<p>Let&rsquo;s start on a Monday. Over a thousand Detroiters find themselves in one specific place: A four-story building made of the usual stuff (big windows, marble fa&ccedil;ade, steel). Really, it doesn&rsquo;t say much from the outside. There&rsquo;s no neon sign saying &ldquo;open,&rdquo; but the lot is full and the handles on the revolving doors are still warm. 8:56 a.m.</p>
 

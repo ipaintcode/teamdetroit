@@ -87,7 +87,7 @@
 
 			<section class="content-info-wrapper double">
 
-				<div class="content-info">
+				<div class="content-info content-info-alt">
 
 					<h3>Lorem ipsum dolor sit amet</h3>
 

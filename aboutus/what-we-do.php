@@ -87,7 +87,7 @@
 
 			<section class="content-info-wrapper double">
 
-				<div class="content-info">
+				<div class="content-info content-info-alt">
 
 					<p>The short answer: Look at our client roster. 
 					World-class advertising created—with insane dedication—by over one thousand Detroiters, all under one roof. It’s a full-service agency like no other.</p>
