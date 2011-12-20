@@ -486,6 +486,10 @@ div.content-info-alt p {
 	margin: 60px 0 60px 60px;
 }
 
+.content-info-social-ext {
+	margin: 60px 0 60px 0;
+}
+
 .content-info-social li {
 	height: 60px;
 	display: table-cell;
@@ -502,6 +506,7 @@ div.content-info-alt p {
 .content-quote-wrapper {
 	float: right;
 	margin-top: 36px;
+	margin-bottom: 36px;
 }
 
 .content-quote {
@@ -532,6 +537,7 @@ div.content-info-alt p {
 
 .content-quote-author span {
 	font-size: 10px;
+		margin-bottom: 36px;
 }
 
 /* Secondary Nav

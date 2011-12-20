@@ -97,7 +97,7 @@
 					
 					<p>You&rsquo;re here because you have an idea. And you&rsquo;re about to make it happen.</p>
 				
-					<ul class="content-info-social">
+					<ul class="content-info-social content-info-social-ext">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>
 						<li class="twitter"><a href="#linkedin">Twitter</a></li>
