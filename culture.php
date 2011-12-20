@@ -53,11 +53,12 @@
 		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
 		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
 
-	<!-- CSS: screen, mobile & print are all in the same file -->
+		<!-- CSS: screen, mobile & print are all in the same file -->	
+		<link rel="stylesheet" href="_/css/style_.css">
 		<link rel="stylesheet" href="_/css/style.css">
-	<link rel="stylesheet" href="_/css/style_.css">
 
-
+		<!-- all our JS is at the bottom of the page, except for Modernizr. -->
+		<script src="_/js/modernizr-2.0.6.min.js"></script>
 
 </head>
 
