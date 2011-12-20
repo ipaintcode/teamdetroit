@@ -234,8 +234,13 @@ $(document).ready(function() {
 	}
 	
 	$('.home-work .grid li, .home-culture .grid li').each(function(index) {
-		$(this).css('height', $(this).find('img').height);
-		$(this).css('height', 319);
+		
+		// $(this).css('height', 319);
+		console.debug($(this).width())
+		if ($(this).width() > 400) {
+			$(this).find('h3').css('marginTop', '20%');
+			$(this).find('.copy').css('marginTop', '31%');
+		}
 
 	});
 	$('.home-work .grid li, .home-culture .grid li').hover(function() {
@@ -251,7 +256,11 @@ $(document).ready(function() {
 			// 			}, 1200);
 		});
 		
-		var cH = ($(this).find('h3').height()) < 40 ? "46%" : "55%"
+		
+		var cH = ($(this).width()) > 400 ? "160" : "180"
+		cH = ($(this).find('h3').height()) < 40 ? "150" : "180"
+		
+		console.log(cH)
 		
 		$(this).find('.copy').stop().delay(200).animate({
 			opacity: 1,
