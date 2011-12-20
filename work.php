@@ -113,7 +113,7 @@
 				<li class="single">
 					<a href="projects/we-own-work.php">
 						<h3>We Own Work</h3>
-						<p class="copy">Super Duty is the only true heavy-duty work truck and our customers are proving it to the world.</p>
+						<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #191816;"></div>
