@@ -217,6 +217,7 @@ body {
 
 .double  {
 	width: 66.66%;
+	position: relative;
 }
 
 .full {
