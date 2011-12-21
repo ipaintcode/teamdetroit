@@ -434,8 +434,8 @@ ol.grid-ext-leader li h3 {
 	margin-top: 40%;
 	margin-left: 25px;
 	z-index: 20000;
-	letter-spacing: .8;
-/*	text-shadow: rgba(0,0,0, .01) 1px 1px 3px;*/
+	letter-spacing: .5;
+	text-shadow: rgba(0,0,0, .01) 1px 1px 3px;
 	/*opacity: 0;*/
 	/*font-family: Georgia, "Times New Roman", Times, serif;*/
 }
