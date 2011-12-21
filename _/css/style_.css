@@ -427,14 +427,12 @@ ol.grid-ext-leader li h3 {
 .grid h3 {
 	top: 0; left: 0;
 	margin-left: 3%;
-	vertical-align: center;
 	position: absolute;
 	line-height: 30px;
 	font-size: 35px;
 	margin-top: 40%;
 	margin-left: 25px;
 	z-index: 20000;
-	letter-spacing: .5;
 	text-shadow: rgba(0,0,0, .01) 1px 1px 3px;
 	/*opacity: 0;*/
 	/*font-family: Georgia, "Times New Roman", Times, serif;*/

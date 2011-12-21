@@ -383,7 +383,7 @@ $(document).ready(function (){
 	$('#go-back-up').css({
 		'background-image': 'url(../_/img/up-arrow.png)',
 		'position': 'fixed',
-		'top': 200,
+		'top': '50%',
 		'right': -40,
 		'width': 39,
 		'height': 39,

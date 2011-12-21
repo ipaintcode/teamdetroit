@@ -12,14 +12,6 @@
  */
 jQuery.cookie = function(key, value, options) {
 
-	var getAnchor = window.location.href.split("=")[1];
-	
-	if(getAnchor == 'leaders') {
-		$('html,body').stop().delay(100).animate({
-			scrollTop: 1630
-		}, 0);
-	}
-
 	// key and at least value given, set cookie...
 	if (arguments.length > 1 && String(value) !== "[object Object]") {
 
@@ -53,12 +45,20 @@ jQuery.cookie = function(key, value, options) {
 
 /* trigger when page is ready */
 $(document).ready(function() {
-
+	
+	var getAnchor = window.location.href.split("=")[1];
+	
+	if(getAnchor == 'leaders') {
+		$('html,body').stop().delay(100).animate({
+			scrollTop: 1630
+		}, 0);
+	}
+	
 	$('body').prepend('<div id="go-back-up"></div>');
 	$('#go-back-up').css({
 		'background-image': 'url(_/img/up-arrow.png)',
 		'position': 'fixed',
-		'top': 200,
+		'top': '50%',
 		'right': -40,
 		'width': 39,
 		'height': 39,
