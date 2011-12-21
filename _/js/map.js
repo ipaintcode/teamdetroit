@@ -14,12 +14,16 @@ $(document).ready(function() {
 			rotateControl: false,
 			scaleControl: false,
 			zoomControl: false,
+		  	mapTypeControl: false,
+			streetViewControl: false,
+			overviewMapControl: false,
 			mapTypeControlOptions: {
 				style: google.maps.MapTypeControlStyle.DEFAULT
 			},
 			mapTypeId: google.maps.MapTypeId.ROADMAP
 			
-		};
+		};		
+		
 		// Calling the constructor, thereby initializing the map
 		var map = new google.maps.Map(document.getElementById('map'), options);
 
