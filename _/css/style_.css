@@ -184,6 +184,15 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'ProximaNovaExtraboldItalic';
+	src: url('../fonts/extrabolditalic/ProximaNova-XboldIt-webfont.eot');
+	src: local('☺'), url('../fonts/extrabolditalic/ProximaNova-XboldIt-webfont.woff') format('woff'), url('../fonts/extrabolditalic/ProximaNova-XboldIt-webfont.ttf') format('truetype'), url('../fonts/extrabolditalic/ProximaNova-XboldIt-webfont.svg#webfontjGHdVH2T') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
 /* HERE HERE */
 
 .headline-leader-ext {
@@ -397,7 +406,7 @@ ol.grid-ext-leader li h3 {
 .grid {
 	display: block;
 	overflow: hidden;
-	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+	font-family: 'ProximaNovaExtraboldItalic', Arial, sans-serif;
 }
 
 .grid a {
