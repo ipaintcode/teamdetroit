@@ -92,7 +92,7 @@
 			<ul class="grid">
 				<li class="single">
 					<a href="culture/people_mover.php">
-						<h3 class="culture-title">People Mover Project.</h3>
+						<h3 class="culture-title">People Mover</h3>
 						<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>

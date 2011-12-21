@@ -38,7 +38,7 @@
 				<h5>Culture</h5>
 				<ul class="large">
 					<li><a href="#">Warriors in Pink</a></li>
-					<li><a href="#">People Mover Project</a></li>
+					<li><a href="#">People Mover</a></li>
 					<li><a href="#">Greening of Detroit</a></li>
 					<li><a href="#">Movember</a></li>
 					<li><a href="#">Team Detroit Idol</a></li>
