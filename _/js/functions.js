@@ -384,6 +384,7 @@ $(document).ready(function (){
 		'background-image': 'url(../_/img/up-arrow.png)',
 		'position': 'fixed',
 		'top': '50%',
+		'marginTop': -40,
 		'right': -40,
 		'width': 39,
 		'height': 39,
