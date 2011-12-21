@@ -83,7 +83,7 @@
 				    		<img src="_/img/home/billboard-focus_doug.jpg" />
 				    	</li>
 						<li>
-				    		<img src="_/img/home/billboard-FocusRally.jpg" />
+				    		<img src="_/img/home/billboard_focus_rally.jpg" />
 				    	</li>
 						<li>
 				    		<img src="_/img/home/billboard-CCS.jpg" />
