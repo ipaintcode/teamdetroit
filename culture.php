@@ -103,7 +103,7 @@
 				<li class="single">
 					<a href="culture/love_detroit.php">
 						<h3 class="culture-title">Love,<br />Detroit</h3>
-						<p class="copy">Celebrate the season with free, streamed Holiday tunes from independent Detroit artists.</p>
+						<p class="copy">Celebrate the season with free, streaming and downloadable Holiday tunes from Detroit artists.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #D57F57;"></div>
@@ -133,7 +133,7 @@
 				<li class="single">
 					<a href="culture/motorcity_pride.php">
 						<h3 class="culture-title">Motorcity<br />Pride</h3>
-						<p class="copy">Detroit is a city that truly appreciates your contributions and having you here.</p>
+						<p class="copy">Our Motor City Pride film highlights a few faces of Detroit's vibrant GLBT community.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #3F74D2;"></div>

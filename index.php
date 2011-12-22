@@ -96,7 +96,7 @@
 	</section>
 
     <div class="headline-wrapper">
-	    <h2 class="center min-max"><span>Work</span><span class="headline-special"><a href="work.php">view more work &rarr;</a></span></h2>
+	    <h2 class="center min-max"><span>Work</span><span class="headline-special"><a href="work.php">View more work &rarr;</a></span></h2>
 	</div>
 
 	<section class="home-work">
@@ -108,7 +108,7 @@
 				<li class="double">
 					<a href="projects/press-conference.php">
 						<h3>Totally Unexpected<br />Press Conference</h3>
-						<p class="copy">Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly</p>
+						<p class="copy">Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #31599C;"></div>
@@ -148,7 +148,7 @@
 				<li class="single">
 					<a href="projects/focus-rally.php">
 						<h3>Focus Rally</h3>
-						<p class="copy">We rallied around the all-new Focus and had the ultimate interactive, cross-country road race.</p>
+						<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #2A4B76;"></div>
@@ -191,7 +191,7 @@
 
 			<ul class="grid">
 				<li class="single">
-					<a href="#">
+					<a href="http://www.nytimes.com/2010/11/12/business/media/12adco.html?scp=2&sq=team%20detroit&st=cse">
 						<p>Selling Ford Around The World, From Detroit.</p>
 						<div class="news-nyt news"></div>
 					</a>
@@ -223,7 +223,7 @@
 
 		<div class="center min-max">
 			
-			<ul class="grid">
+			<ul class="grid">  
 				<li class="single">
 					<a href="culture/movember.php">
 						<h3 class="culture-title">Our Epic<br />Movember</h3>

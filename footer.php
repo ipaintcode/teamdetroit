@@ -18,38 +18,47 @@
 			<li class="twentyfive">
 				<h5>Work</h5>
 				<ul class="large">
-					<li><a href="#">Unexpected Press Conference</a></li>
-					<li><a href="#">Go Do</a></li>
-					<li><a href="#">Focus Rally</a></li>
-					<li><a href="#">CCS</a></li>
-					<li><a href="#">WDET 101.2</a></li>
+					<li><a href="/projects/sports-authority.php">Sports Authority</a></li>
+					<li><a href="/projects/explorer-live.php">Explorer Live</a></li>
+					<li><a href="/projects/we-own-work.php">We Own Work</a></li>
+					<li><a href="/projects/mustang-customizer.php">Mustang Customizer</a></li>
+					<li><a href="/projects/f150-torture-test.php">F150 Torture Test</a></li>
+					<li><a href="/projects/focus-rally.php">Focus Rally</a></li>
+					<li><a href="/projects/focus-doug.php">Doug, the Ford Spokespuppet</a></li>
+					<li><a href="/projects/mustang.php">Mustang</a></li>
 				</ul>
 			</li>
 			<li class="twentyfive">
 				<h5>About Us</h5>
 				<ul class="large">
-					<li><a href="#">Who We Are</a></li>
-					<li><a href="#">What We Do</a></li>
-					<li><a href="#">How We Do It</a></li>
-					<li><a href="#">Privacy Policy</a></li>
+					<li><a href="/aboutus/who-we-are.php">Who We Are</a></li>
+					<li><a href="/aboutus/what-we-do.php">What We Do</a></li>
+					<li><a href="/aboutus/what-else-we-do.php">How We Do It</a></li>
+					<li><a href="/aboutus.php?p=leaders">Leadership</a></li>
+					<li><a href="/aboutus.php?p=leaders">Privacy Policy</a></li>
 				</ul>
 			</li>
 			<li class="twentyfive">
 				<h5>Culture</h5>
 				<ul class="large">
-					<li><a href="#">Warriors in Pink</a></li>
-					<li><a href="#">People Mover</a></li>
-					<li><a href="#">Greening of Detroit</a></li>
-					<li><a href="#">Movember</a></li>
-					<li><a href="#">Team Detroit Idol</a></li>
+					<li><a href="/culture/people_mover.php">People Mover</a></li>
+					<li><a href="/culture/love_detroit.php">Love, Detroit</a></li>
+					<li><a href="/culture/greening_of_detroit.php">Greening of Detroit</a></li>
+					<li><a href="/culture/movember.php">Our Epic Movember</a></li>
+					<li><a href="/culture/motorcity_pride.php">Motorcity Pride</a></li>
+					<li><a href="/culture/signal_return.php">Signal Return</a></li>
+					<li><a href="/culture.php">Stereo 550</a></li>
 				</ul>
 			</li>
 			<li class="twentyfive">
 				<h5>Contact</h5>
 				<ul class="large">
-					<li><a href="#">550 Town Center Dr</a></li>
-					<li><a href="#">Deaborn, MI 48216</a></li>
-					<li><a href="#">313-615-2000</a></li>
+					<li><a href="mailto:andrea.scott@teamdetroit.com">Public Relations</a></li>
+					<li><a href="mailto:brad.audet@teamdetroit.com">Business Opportunity</a></li>
+					<li><a href="mailto:human.resources@teamdetroit.com">Career Information</a></li>
+					<li><a href="http://www.facebook.com/?sk=fl_1768452991467">Facebook</a></li>
+					<li><a href="#">Twitter</a></li>
+					<li><a href="#">Google+</a></li>
 				</ul>
 			</li>
 		</ul>
