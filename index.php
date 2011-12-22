@@ -69,8 +69,7 @@
 	<?php include 'header.php'; ?>
 
 	<section class="billboard">
-		<div class="center min-max">
-			
+		<div class="center min-max">	
 			<div class="">
 				<div id="container">
 
@@ -90,38 +89,7 @@
 				    	</li>
 				    </ul>
 				  </div>
-
 				</div>
-				<!-- <ul>
-									<li id="billboard_1">
-										<img src="_/img/home/billboard_1.png" alt="">
-										<a class="active" href="#billboard_1">&middot;</a>
-										<a href="#billboard_2">&middot;</a>
-										<a href="#billboard_3">&middot;</a>
-										<a href="#billboard_4">&middot;</a>
-									</li>
-									<li id="billboard_2">
-										<img src="_/img/home/billboard.png" alt="">
-										<a href="#billboard_1">&middot;</a>
-										<a href="#billboard_2">&middot;</a>
-										<a href="#billboard_3">&middot;</a>
-										<a href="#billboard_4">&middot;</a>
-									</li>
-									<li id="billboard_3">
-										<img src="_/img/home/billboard-FocusRally.jpg" alt="">
-										<a href="#billboard_1">&middot;</a>
-										<a href="#billboard_2">&middot;</a>
-										<a href="#billboard_3">&middot;</a>
-										<a href="#billboard_4">&middot;</a>
-									</li>
-									<li id="billboard_4">
-										<img src="_/img/home/billboard-CCS.jpg" alt="">
-										<a href="#billboard_1">&middot;</a>
-										<a href="#billboard_2">&middot;</a>
-										<a href="#billboard_3">&middot;</a>
-										<a href="#billboard_4">&middot;</a>
-									</li>
-								</ul> -->
 			</div>
 
 		</div>
@@ -238,12 +206,13 @@
 					<a href="#">
 						<p>&ldquo;Team Detroit is No. 10 on the Ad Agency A-List.&rdquo;</p>
 						<div class="news-aa news"></div>
+
 					</a>
 				</li>
 			</ul>
 
 		</div>
-
+		<p>&amp;</p>
 	</section>
 
 	<div class="headline-wrapper">
