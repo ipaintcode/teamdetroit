@@ -367,7 +367,7 @@
 			<img src="_/img/aboutus/policy.png" alt="policy">
 			<div class="policy-verbage">
 				<p class="policy-title">Team Detroit Privacy Policy</p>
-				<p class="policy-body">Gone are the days of group heads who are passive figureheads. Or group heads who only do one thing well. Team Detroit honchos are multi-tool players.</p>
+				<p class="policy-body">As a communications agency, our most important message is that we value your privacy. View our policy here.</p>
 				<p class="policy-arrow">&darr;</p>
 				<p><a href="#">Download Privacy Policy (.pdf 45k)</a></p>
 			</div>

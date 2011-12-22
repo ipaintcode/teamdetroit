@@ -278,7 +278,7 @@
 				<li class="single">
 					<a href="projects/warrior.php">
 						<h3>Warrior</h3>
-						<p class="copy">What makes a Manchine? A downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt®.</p>
+						<p class="copy">What makes a Manchine? A downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt&reg;.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #46496a;"></div>

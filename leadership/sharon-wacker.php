@@ -112,10 +112,10 @@
 
 				<div class="content-quote">
 
-					 <blockquote>
+					 {!-- <blockquote>
 					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
 					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
-					 </blockquote>
+					 </blockquote> --}
 				
 				</div>
 
