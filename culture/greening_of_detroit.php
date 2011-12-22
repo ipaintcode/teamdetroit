@@ -108,10 +108,13 @@
 					
 					<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land. And our involvement doesn’t stop there. We continue to affect long term planning for greening and revitalization in Detroit by lending a hand and offering our expertise to government agencies and corporations throughout the city.</p>
 				
-					<!-- <ul class="content-info-social">
-						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul> -->
+					<ul class="content-info-social">
+						<li>Share &rarr;</li>
+						<li class="facebook"><a href="#linkedin">Facebook</a></li>
+						<li class="twitter"><a href="#linkedin">Twitter</a></li>
+						<li class="googleplus"><a href="#linkedin">Google+</a></li>
+						<li class="emailit"><a href="#linkedin">Email</a></li>
+					</ul>
 
 				</article>
 				

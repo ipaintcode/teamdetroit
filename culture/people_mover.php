@@ -111,35 +111,13 @@
 
 					<p>Team Detroit created &lsquo;People Mover&rsquo; to showcase the many talented individuals who make Detroit such a special place to live and work.&nbsp;&nbsp;This short film captures 24 local artists, cooks, thinkers and musicians who came together one day in April and turned the People Mover train into an art venue that circled the city they call &#x27;home&#x27;.</p>
 					
-					<ul class="content-list">
-						<li><h3>Featured Artists:</h3></li>
-						<li>Sean Mann</li>
-						<li>Stevie Ansara</li>
-						<li>Stephanie Schult and Frances Mackey</li>
-						<li>Jessica Hernandez and the Deltas</li>
-						<li>Cedric Tai and Rachel Yezbick Rick Robinson and Hong-Yi Mo (of the DSO)</li>
-						<li>Cold Men Young</li>
-						<li>Miguel Baptista</li>
-						<li>Rachel Harkai</li>
-						<li>Black Tia</li>
-						<li>Ray Domzalski</li>
-						<li>Charlie Slick</li>
-						<li>Marsden Berger</li>
-						<li>Steve Martin</li>
-						<li>hygenic dress league</li>
-						<li>Dave Mancini and Grant Lancaster</li>
-						<li>Prussia</li>
-						<li>Deep River Choir</li>
-						<li>Bill Snellings</li>
-						<li>Mexican Knifes</li>
-						<li>Detroit Party Marching Band</li>
+					<ul class="content-info-social">
+						<li>Share &rarr;</li>
+						<li class="facebook"><a href="#linkedin">Facebook</a></li>
+						<li class="twitter"><a href="#linkedin">Twitter</a></li>
+						<li class="googleplus"><a href="#linkedin">Google+</a></li>
+						<li class="emailit"><a href="#linkedin">Email</a></li>
 					</ul>
-					
-					
-					<!-- <ul class="content-info-social">
-						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul> -->
 
 				</article>
 				

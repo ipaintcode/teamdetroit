@@ -109,10 +109,14 @@
 					<p class="content-italic">"Detroit is a city that truly appreciates your contributions and having you here."</p>
 					
 					<p>Our Motor City Pride film highlights a few of the faces of Detroit's vibrant GLBT community. Enjoy.</p>
-					<!-- <ul class="content-info-social">
-						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul> -->
+					
+					<ul class="content-info-social">
+						<li>Share &rarr;</li>
+						<li class="facebook"><a href="#linkedin">Facebook</a></li>
+						<li class="twitter"><a href="#linkedin">Twitter</a></li>
+						<li class="googleplus"><a href="#linkedin">Google+</a></li>
+						<li class="emailit"><a href="#linkedin">Email</a></li>
+					</ul>
 
 				</article>
 				

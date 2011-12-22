@@ -109,12 +109,15 @@
 
 					<p>Team Detroit presents a blending of holiday tunes from independent Detroit music artists in honor of a season dedicated to love and giving. Available now to stream for free, follow the Listen link for a festive fusion of urban talent. To find out more about each artist, click a track for their bio. Want to add these tracks to your seasonal collection? Here is your chance to not only support local talent, but also give back something extra during this spirited time of year.</p>
 					
-					<p>Happy Holidays!
-						</p>
-					<!-- <ul class="content-info-social">
-						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul> -->
+					<p>Happy Holidays!</p>
+					
+					<ul class="content-info-social">
+						<li>Share &rarr;</li>
+						<li class="facebook"><a href="#linkedin">Facebook</a></li>
+						<li class="twitter"><a href="#linkedin">Twitter</a></li>
+						<li class="googleplus"><a href="#linkedin">Google+</a></li>
+						<li class="emailit"><a href="#linkedin">Email</a></li>
+					</ul>
 
 				</article>
 				
