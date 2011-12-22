@@ -145,6 +145,7 @@
 						<img src="_/img/projects/carhartt/thumb.jpg" alt="">
 					</a>
 				</li>
+				
 				<li class="single">
 					<a href="projects/focus-rally.php">
 						<h3>Focus Rally</h3>
