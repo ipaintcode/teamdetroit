@@ -326,9 +326,9 @@
 				</li>
 				<li>
 					<a href="leadership/michelle-silvestri.php">
-						<h3>Michelle Silvestri</h3>
+						<h3>Michele Silvestri</h3>
 						<div class="color-swatch-leader color-swatch"></div>
-						<img src="_/img/leadership/michelle_silvestri_thumb.jpg" alt="">
+						<img src="_/img/leadership/michele_silvestri_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
