@@ -102,7 +102,7 @@
 
 				<article class="content-info">
 
-					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission to guide and inspire others to create a ‘greener’ Detroit through planting and educational programs environmental leadership, advocacy, and by building community capacity.</p>
+					<p>The Greening of Detroit is a 501(c) (3) not “for” profit organization established in 1989 to guide and inspire the reforestation of Detroit. In 2006, a new vision was established, expanding The Greening’s mission is to guide and inspire others to create a ‘greener’ Detroit: through planting, educational programs, environmental leadership, advocacy, and by building community capacity.</p>
 
 					<p>Green Infrastructure is a term used to describe the network of planned and managed green spaces which work together to benefit a community’s social, economic and environmental health.  Our Green Infrastructure programming began with organized tree and shrub planting projects in parks and along city streets and grew to include broad scale projects specifically designed to maximize benefits to the people living in the neighborhoods where we work.</p>
 					
@@ -123,9 +123,9 @@
 			<aside class="content-quote-wrapper single">
 
 				<div class="content-quote">
-
+					
 					 <blockquote>
-					 	<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and create useful landscapes from vacant land</p>
+					 	<p>We work with hundreds of community partners in Detroit, Hamtramck and Highland Park to improve parks, beautify neighborhoods and we create useful landscapes from vacant land</p>
 					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
