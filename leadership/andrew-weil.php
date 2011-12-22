@@ -71,7 +71,7 @@
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="../_/img/leadership/michelle_silvestri.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/michele_silvestri.jpg" alt=""></li>
 			<li><img src="../_/img/leadership/andrew_weil.jpg" alt=""></li>
 			<li><img src="../_/img/leadership/bob_mcclowry.jpg" alt=""></li>
 		</ul>

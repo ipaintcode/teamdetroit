@@ -73,7 +73,7 @@
 		<ul>
 			<li><img src="../_/img/leadership/scott_lange.jpg" alt=""></li>
 			<li><img src="../_/img/leadership/mike_treppa.jpg" alt=""></li>
-			<li><img src="../_/img/leadership/michelle_silvestri.jpg" alt=""></li>
+			<li><img src="../_/img/leadership/michele_silvestri.jpg" alt=""></li>
 		</ul>
 	</div>
 
