@@ -127,7 +127,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Our GLBT community is truly changing the landscape of the city.</p>
+					 	<p>Our GLBT community is truly changing landscape of the city.</p>
 					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
