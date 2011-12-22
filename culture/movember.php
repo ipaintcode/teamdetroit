@@ -125,14 +125,6 @@
 					
 					<p>Plus they looked really, really good.</p>
 					
-					<h3><p>The Movember Mission:</p></h3>
-					
-					<p class="content-italic">&ldquo;Since its humble beginnings in Melbourne Australia, Movember has grown to become a truly global movement inspiring more than 1.1 Million Mo Bros and Mo Sistas to participate with formal campaigns in Australia, New Zealand, the US, Canada, the UK, Finland, the Netherlands, Spain, South Africa and Ireland. In addition, Movember is aware of Mo Bros and Mo Sistas supporting the campaign and men&rsquo;s health cause across the globe, from Russia to Dubai, Hong Kong to Antarctica, Rio de Janeiro to Mumbai, and everywhere in between.</p>
-					
-					<p class="content-italic">No matter the country or city, Movember will continue to work to change established habits and attitudes men have about their health, to educate men about the health risks they face, and to act on that knowledge, thereby increasing the chances of early detection, diagnosis and effective treatment.</p>
-					
-					<p class="content-italic">In 2010, over 64,500 US Mo Bros and Mo Sistas got on board, raising $7.5 million USD.&rdquo;</p>
-					
 					<p>To donate, please visit:</p>
 					
 					<p><a href="#">Us.movember.com</a></p>
@@ -154,7 +146,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Movember will continue to work to change established habits and attitudes men have about their health.</p>
+					 	<p>Through the month they groomed, trimmed, and waxed their way into the annals of fine moustachery.</p>
 					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				
