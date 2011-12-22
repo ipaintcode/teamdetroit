@@ -74,6 +74,7 @@
 			<li><img src="../_/img/aboutus/who_we_are.jpg" alt=""></li>
 			<li><img src="../_/img/aboutus/what_we_do.jpg" alt=""></li>
 			<li><img src="../_/img/aboutus/what_else_we_do.jpg" alt=""></li>
+			{!-- http://www.youtube.com/watch?v=S25Isin35i4&feature=youtu.be --}
 		</ul>
 	</div>
 
@@ -117,10 +118,10 @@
 
 				<div class="content-quote">
 
-					 <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
-					 </blockquote>
+					 {!-- <blockquote>
+					 	<p></p>
+					 	<p class="content-quote-author"></span></p>
+					 </blockquote> --}
 				
 				</div>
 

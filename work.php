@@ -102,7 +102,7 @@
 				<li class="single">
 					<a href="projects/explorer-live.php">
 						<h3>Explorer<br />Live</h3>
-						<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvented the SUV launch.</p>
+						<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvent the SUV launch.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #1F2322;"></div>
@@ -124,7 +124,7 @@
 				<li class="single">
 					<a href="projects/mustang-customizer.php">
 						<h3>Mustang<br />Customizer</h3>
-						<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like.</p>
+						<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like. We created a tool—and a battleground—for them to see it come to life.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						 <div class="color-swatch" style="background: #111111;"></div>
@@ -135,7 +135,7 @@
 				<li class="single">
 					<a href="projects/f150-torture-test.php">
 						<h3>F-150<br />Torture Test</h3>
-						<p class="copy">Toughness and durability? Pickup truck owners need to see it before they’ll believe it.</p>
+						<p class="copy">We took one F-150 EcoBoost engine and subjected it to a slasher movie-style world of pain to prove it’s Built Ford Tough.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #3E2008;"></div>
@@ -146,8 +146,7 @@
 				<li class="single">
 					<a href="projects/focus-rally.php">
 						<h3>Focus<br />Rally</h3>
-						<p class="copy">We rallied around the all-new Focus and had the ultimate interactive, cross-country road race.
-						</p>
+						<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						 <div class="color-swatch" style="background: #9D7F4F;"></div>
@@ -180,7 +179,7 @@
 				<li class="single">
 					<a href="projects/ccs.php">
 						<h3>CCS</h3>
-						<p class="copy">The College For Creative Studies is one of the leading art and design colleges in the world.</p>
+						<p class="copy">Our work for Detroit’s College for Creative Studies proved you can still reach today’s teenagers using low-tech communication.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #5f5347;"></div>
@@ -191,7 +190,7 @@
 				<li class="single">
 					<a href="projects/carhartt.php">
 						<h3>Carhartt</h3>
-						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good.</p>
+						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #333C52;"></div>
@@ -202,7 +201,7 @@
 				<li class="single">
 					<a href="projects/fiesta.php">
 						<h3>Ford<br />Fiesta</h3>
-						<p class="copy">The Ford Fiesta may look small. But between its smart technology and high MPG, it really is a pretty big deal.</p>
+						<p class="copy">The Ford Fiesta may look small. But between its smart technology and high MPG, it’s actually a pretty big deal.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #5592AA;"></div>
@@ -213,7 +212,7 @@
 				<li class="single">
 					<a href="projects/lincoln-innovators.php">
 						<h3>Lincoln Innovators</h3>
-						<p class="copy">For Lincoln, it’s all about partnerships: Partnering with people at the top of the design.</p>
+						<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #A48032;"></div>
@@ -224,7 +223,7 @@
 				<li class="single">
 					<a href="projects/press-conference.php">
 						<h3>Press<br />Conference</h3>
-						<p class="copy">Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly</p>
+						<p class="copy">Real talk. It’s what you get when Ford owners suddenly find themselves in the midst of a press conference—answering questions on the fly.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #5B4F3F;"></div>
@@ -235,7 +234,7 @@
 				<li class="single">
 					<a href="projects/scotts.php">
 						<h3>Scotts</h3>
-						<p class="copy">Independent retailers helped put Scotts on the map. So to show those retailers some love.</p>
+						<p class="copy">Independent retailers helped put Scotts on the map. So to return the love, Scotts released an entire line of products exclusively for them.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #426907;"></div>
@@ -257,7 +256,7 @@
 				<li class="single">
 					<a href="projects/ohio-art.php">
 						<h3>Ohio Art</h3>
-						<p class="copy">We say the bigger you get, the smaller your blocks should be.</p>
+						<p class="copy">We say the bigger you get, the smaller your blocks should be. Micro-sized Nanoblocks have the magic to return you to childhood.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #a38c43;"></div>
@@ -279,7 +278,7 @@
 				<li class="single">
 					<a href="projects/warrior.php">
 						<h3>Warrior</h3>
-						<p class="copy">What makes a Manchine? An Alpha male attitude.</p>
+						<p class="copy">What makes a Manchine? A downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt®.</p>
 						<p class="view-project">View&nbsp;Project</p>
 						<span class="arrow">&rarr;</span>
 						<div class="color-swatch" style="background: #46496a;"></div>

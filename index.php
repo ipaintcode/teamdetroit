@@ -191,13 +191,13 @@
 
 			<ul class="grid">
 				<li class="single">
-					<a href="http://www.nytimes.com/2010/11/12/business/media/12adco.html?scp=2&sq=team%20detroit&st=cse">
+					<a href="http://www.nytimes.com/2010/11/12/business/media/12adco.html?scp=2&amp;sq=team%20detroit&amp;st=cse">
 						<p>Selling Ford Around The World, From Detroit.</p>
 						<div class="news-nyt news"></div>
 					</a>
 				</li>
 				<li class="single vdash-fix">
-					<a href="#">
+					<a href="http://adage.com/article/special-report-agency-alist/team-detroit-10-ad-age-agency-a-list/148377/">
 						<p>&ldquo;One of Detroit’s 2010 Top 10 Best Places to Work.&rdquo;</p>
 						<div class="news-dfp news"></div>
 					</a>
