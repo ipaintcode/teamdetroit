@@ -173,7 +173,7 @@
 			<li class=""><img src="_/img/culture/carousel/Minus_The_Bear_11.1.11.jpg" alt=""></li>
 			<li class=""><img src="_/img/culture/carousel/Super_Grass_11.1.11.jpg" alt=""></li>
 			<li class=""><img src="_/img/culture/carousel/The Juliets_10.31.11.jpg" alt=""></li>
-			<li class=""><img src="_/img/culture/carousel/VV_Brown_10.31.11.jpg" alt=""></li>												
+			<li class=""><img src="_/img/culture/carousel/VV_Brown_10.31.11.jpg" alt=""></li>
 		</ul>
 	</div>
 

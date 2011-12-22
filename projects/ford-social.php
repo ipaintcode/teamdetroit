@@ -123,10 +123,10 @@
 
 				<div class="content-quote">
 
-					 <blockquote>
+					 {!-- <blockquote>
 					 	<p>Viewers engaged with competitors—even affecting the outcome to create the first interactive reality web series.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
-					 </blockquote>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote> --}
 				
 				</div>
 

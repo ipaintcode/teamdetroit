@@ -130,10 +130,10 @@
 
 				<div class="content-quote">
 
-					 <blockquote>
+					 {!-- <blockquote>
 					 	<p>We built a program with richer, more complex, more intense uses of social media than had ever been used in a launch.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
-					 </blockquote>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote> --}
 				
 				</div>
 

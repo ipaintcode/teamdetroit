@@ -92,8 +92,8 @@
 					<p>Dearborn, MI 48216</p>
 				</div>
 				<section class="clearfix">
-					<h6>Business Opportunities</h6>
-					<a href="mailto:brad.audet@teamdetroit.com">brad.audet@teamdetroit.com</a>
+					<h6>Public Relations</h6>
+					<a href="mailto:andrea.scott@teamdetroit.com">andrea.scott@teamdetroit.com</a>
 					<span>(313)615-3159</span>
 				
 					<h6>Business Opportunities</h6>

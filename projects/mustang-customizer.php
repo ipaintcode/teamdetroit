@@ -122,8 +122,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Customers love to make Mustang their own, one that suits their taste; this is the perfect way to let them test out their design and imagine what's possible.</p>
-					 	<p class="content-quote-author">&ndash; Jim Owens <span>(Mustang marketing manager)</span></p>
+					 	<p>Just downloaded mustang customizer app for iPad...my life is over. Going to sit in airport for 4 hours...and build. Putting cars in battle</p>
+					 	<p class="content-quote-author">&ndash; John Cena <span>"professional wrestler"</span></p>
 					 </blockquote>
 				
 				</div>

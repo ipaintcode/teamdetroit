@@ -78,7 +78,7 @@
 			<li class=""><img src="../_/img/projects/scotts/billboard_5.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/scotts/billboard_6.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/scotts/billboard_7.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/scotts/billboard_8.jpg" alt=""></li>												
+			<li class=""><img src="../_/img/projects/scotts/billboard_8.jpg" alt=""></li>
 		</ul>
 	</div>
 
@@ -126,10 +126,10 @@
 
 				<div class="content-quote">
 
-					 <blockquote>
+					 {!-- <blockquote>
 					 	<p>Pickup truck owners have liked V6 engines about as much as they like man purses.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
-					 </blockquote>
+					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
+					 </blockquote> --}
 				
 				</div>
 

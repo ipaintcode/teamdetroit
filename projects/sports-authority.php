@@ -85,7 +85,7 @@
 			</li>
 			<li class=""><img src="../_/img/projects/sports_authority/billboard-3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/sports_authority/billboard-4.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/sports_authority/billboard-5.jpg" alt=""></li>												
+			<li class=""><img src="../_/img/projects/sports_authority/billboard-5.jpg" alt=""></li>
 		</ul>
 	</div>
 

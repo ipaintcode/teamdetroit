@@ -132,7 +132,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>At 11 seconds in, we get the surprise, which is fairly bracing and well-done … Best of all, the ad has a point, too: That Carhartt jackets are strong enough to withstand whatever nature throws at them, including a pack of hungry wolves.</p>
+					 	<p>Best of all, the ad has a point, too: That Carhartt jackets are strong enough to withstand whatever nature throws at them, including a pack of hungry wolves.</p>
 					 	<p class="content-quote-author">&ndash; Brand Freak</p>
 					 </blockquote>
 				

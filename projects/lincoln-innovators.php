@@ -127,7 +127,7 @@
 
 					<p>The who&rsquo;s who: Renowned jeweler and home lighting designer Karen Erickson, culinary designer and pioneer of molecular gastronomy Richard Blais, and clothing designer Kevin Stewart were all featured in a series of webisodes and advertorials to showcase Lincoln&rsquo;s reinventions of luxury craftsmanship.</p>
 
-					<p>All mediums drove to a microsite that gave visitors a chance to win a custom prize from each celebrity: A dinner, a custom-designed shirt or custom-made jewelry.</p>
+					<p>All media drove to a microsite that gave visitors a chance to win a custom prize from each celebrity: A dinner, a custom-designed shirt or custom-made jewelry.</p>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -146,7 +146,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Driving a Lincoln is an extension of the individual, and we create luxury by giving people personal experiences that transcend just driving an automobile &ndash; much like crafting jewelry, food or men&#x27;s shirts.</p>
+					 	<p>We create luxury by giving people personal experiences that transcend just driving an automobile.</p>
 					 	<p class="content-quote-author">&ndash; Max Wolff <span>(Lincoln Director of Design)</span></p>
 					 </blockquote>
 				

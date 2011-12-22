@@ -83,7 +83,7 @@
 			<li class=""><img src="../_/img/projects/ohio_art/billboard-5.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/ohio_art/billboard-6.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/ohio_art/billboard-7.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ohio_art/billboard-8.jpg" alt=""></li>											
+			<li class=""><img src="../_/img/projects/ohio_art/billboard-8.jpg" alt=""></li>
 		</ul>
 	</div>
 	
@@ -130,8 +130,8 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Japanese toys may be the next bastion of Detroit creativity. Team Detroit Pulse created this fun spot promoting Japanese Toy Brand nanoblocks, which recently launched in the States.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(CREATIVITY)</span></p>
+					 	<p>Japanese toys may be the next bastion of Detroit CREATIVITY.</p>
+					 	<p class="content-quote-author">&ndash; CREATIVITY <span></span></p>
 					 </blockquote>
 				
 				</div>

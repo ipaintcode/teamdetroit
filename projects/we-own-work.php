@@ -142,10 +142,10 @@
 
 				<div class="content-quote">
 
-					 <blockquote>
+					 {!-- <blockquote>
 					 	<p>Now, the new Super Duty joins the assault in a comprehensive launch that’s befitting its status as the backbone of the Built Ford Tough franchise.</p>
 					 	<p class="content-quote-author">&ndash; Steve Lyons <span>(Ford Division President)</span></p>
-					 </blockquote>
+					 </blockquote> --}
 				
 				</div>
 

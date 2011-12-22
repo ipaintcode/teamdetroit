@@ -332,7 +332,7 @@
 	</section>
 	
 	<div class="headline-wrapper">
- 	    <h2 class="center min-max">Team Detroit Facts</h2>
+ 	    <h2 class="center min-max">Reasons Why We Love It</h2>
  	</div>
  	
 	<div class="billboard-wrapper billboard-ext-carousel">
@@ -341,7 +341,7 @@
 			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_2.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_3.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_4.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_5.jpg" alt="Billboard Bands"></li>												
+			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_5.jpg" alt="Billboard Bands"></li>
 		</ul>
 	</div>
 
