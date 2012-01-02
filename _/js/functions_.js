@@ -46,6 +46,12 @@ jQuery.cookie = function(key, value, options) {
 /* trigger when page is ready */
 $(document).ready(function() {
 	
+	$('.view-more-work').hover(function() {
+		$(this).stop().animate({color: "black"}, 300);
+	}, function() {
+		$(this).stop().animate({color: "#990000"}, 300);
+	});
+	
 	var getAnchor = window.location.href.split("=")[1];
 	
 	if(getAnchor == 'leaders') {

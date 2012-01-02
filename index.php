@@ -96,7 +96,7 @@
 	</section>
 
     <div class="headline-wrapper">
-	    <h2 class="center min-max"><span>Work</span><span class="headline-special"><a href="work.php">View more work &rarr;</a></span></h2>
+	    <h2 class="center min-max"><span>Work</span><span class="headline-special"><a class="view-more-work" href="work.php">View more work &rarr;</a></span></h2>
 	</div>
 
 	<section class="home-work">
