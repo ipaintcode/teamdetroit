@@ -932,6 +932,7 @@ footer, footer a {
 }
 
 .close-video {
+	display: block;
 	background: url('../img/close.png') no-repeat top left;
 	width: 30px; height: 30px;
 	text-indent: -9999px;
