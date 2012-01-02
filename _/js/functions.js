@@ -145,7 +145,7 @@ wdetPlayer();
 /* trigger when page is ready */
 $(document).ready(function (){
 	
-	$('.gridbox').hover(function() {
+	$('.gridbox, .close-video').hover(function() {
 		$(this).stop().animate({opacity: .5}, 300);
 	}, function() {
 		$(this).stop().animate({opacity: 1}, 300);
@@ -405,7 +405,7 @@ $(document).ready(function (){
 	});
 	
 	$('#go-back-up').hover(function() {
-		$(this).stop().animate({opacity: .8}, 300);
+		$(this).stop().animate({opacity: .7}, 300);
 	}, function() {
 		$(this).stop().animate({opacity: 1}, 0);
 	});
