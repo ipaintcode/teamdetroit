@@ -76,16 +76,16 @@
 					<div class="flexslider">
 				    <ul class="slides">
 				    	<li>
-				    		<img src="_/img/home/billboard.png" />
+				    		<a href="#"><img src="_/img/home/billboard.png" /></a>
 				    	</li>
 				    	<li>
-				    		<img src="_/img/home/billboard-focus_doug.jpg" />
+							<a href="#"><img src="_/img/home/billboard-focus_doug.jpg" /></a>
 				    	</li>
 						<li>
-				    		<img src="_/img/home/billboard_focus_rally.jpg" />
+							<a href="#"><img src="_/img/home/billboard_focus_rally.jpg" /></a>
 				    	</li>
 						<li>
-				    		<img src="_/img/home/billboard-CCS.jpg" />
+							<a href="#"><img src="_/img/home/billboard-CCS.jpg" /></a>
 				    	</li>
 				    </ul>
 				  </div>
