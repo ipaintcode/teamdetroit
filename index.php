@@ -79,13 +79,13 @@
 				    		<a href="#"><img src="_/img/home/billboard.png" /></a>
 				    	</li>
 				    	<li>
-							<a href="#"><img src="_/img/home/billboard-focus_doug.jpg" /></a>
+							<a href="projects/focus-doug.php"><img src="_/img/home/billboard-focus_doug.jpg" /></a>
 				    	</li>
 						<li>
-							<a href="#"><img src="_/img/home/billboard_focus_rally.jpg" /></a>
+							<a href="projects/focus-rally.php"><img src="_/img/home/billboard_focus_rally.jpg" /></a>
 				    	</li>
 						<li>
-							<a href="#"><img src="_/img/home/billboard-CCS.jpg" /></a>
+							<a href="projects/ccs.php"><img src="_/img/home/billboard-CCS.jpg" /></a>
 				    	</li>
 				    </ul>
 				  </div>
