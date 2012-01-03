@@ -295,7 +295,8 @@
 <script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions_.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="_/js/jquery.fluidCarousel.0.1.js"></script>
+
 
 
 <!-- Asynchronous google analytics; this is the official snippet.

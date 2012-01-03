@@ -140,7 +140,7 @@
     						<h5>Assistant Account Executive<span>Location: Dearborn</span></h5>
     						<h6>November 11th, 2011<a href="#">Read More</a></h6>
     						<div class="job-content">
-    							<p>The Assistant Account Executive (AAE) works with agency Account Executive and/or Sr. Acct Executive in directing and coordinating assigned projects. In this role, the AAE, initiates all jobs – advertising, direct marketing and other related materials – sets schedules and follows up constantly to keep jobs moving toward timely completion.  There are several positions open at this level.</p><p>?	Bachelor’s Degree or equivalent experience</p><p>?	Minimum 1 year agency experience, preferably as an Account or Traffic Coordinator</p><p>?	Emerging knowledge of Agency production processes</p><p>?	Demonstrates entrepreneurial spirit</p><p>Please submit your resume to: human.resources@teamdetroit.com</p>
+    							<p>The Assistant Account Executive (AAE) works with agency Account Executive and/or Sr. Acct Executive in directing and coordinating assigned projects. In this role, the AAE, initiates all jobs – advertising, direct marketing and other related materials – sets schedules and follows up constantly to keep jobs moving toward timely completion.  There are several positions open at this level.</p><p>?	Bachelor’s Degree or equivalent experience</p><p>?	Minimum 1 year agency experience, preferably as an Account or Traffic Coordinator</p><p>?	Emerging knowledge of Agency production processes</p><p>?	Demonstrates entrepreneurial spirit</p><p>Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a></p>
     						</div>
     					</div>
     				</li>
@@ -168,7 +168,7 @@
     							&bull; Demonstrates entrepreneurial spirit and enthusiasm for supporting the process in development of new break-through ideas
     							</p>
     							<p>
-    								Please submit your resume to: human.resources@teamdetroit.com
+    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
     							</p>
     						</div>
     					</div>
@@ -197,7 +197,7 @@
     							&bull; Demonstrates entrepreneurial spirit to participate in the development of new break-through ideas
     							</p>
     							<p>
-    								Please submit your resume to: human.resources@teamdetroit.com
+    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
     							</p>
     						</div>
     					</div>
@@ -229,7 +229,7 @@
     							&bull; Demonstrates entrepreneurial spirit; leads and encourages new break-through ideas
     							</p>
     							<p>
-    								Please submit your resume to: human.resources@teamdetroit.com
+    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
     							</p>
     						</div>
     					</div>
@@ -261,7 +261,7 @@
     							&bull; Demonstrates entrepreneurial spirit; leads and encourages new break-through ideas
     							</p>
     							<p>
-    								Please submit your resume to: human.resources@teamdetroit.com
+    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
     							</p>
     						</div>
     					</div>
@@ -293,7 +293,7 @@
     							&bull; Demonstrates entrepreneurial spirit; leads and encourages new break-through ideas
     							</p>
     							<p>
-    								Please submit your resume to: human.resources@teamdetroit.com
+    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
     							</p>
     						</div>
     					</div>
@@ -322,7 +322,7 @@
     							&bull; Work with delivery services to maintain schedules and ensuring timely completion of projects
     							</p>
     							<p>
-    								Please submit your resume to: human.resources@teamdetroit.com
+    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
     							</p>
     						</div>
     					</div>
@@ -372,7 +372,8 @@
 <!-- this is where we put our custom functions -->
 <script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions.js"></script>
+<script src="_/js/functions_.js"></script>
+<script src="_/js/jquery.fluidCarousel.0.1.js"></script>
 
 
 <!-- Asynchronous google analytics; this is the official snippet.

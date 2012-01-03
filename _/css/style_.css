@@ -932,6 +932,13 @@ footer, footer a {
 	padding-right: 18px;
 }
 
+.job-content a {
+	text-decoration: none;
+	color: #990000;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 .content {
 	overflow: hidden;
 }
