@@ -384,7 +384,7 @@ $(document).ready(function() {
 
 	function rollOut() {
 		$('.wdet').stop().animate({
-			height: 4
+			height: 0
 		}, 300);
 		$('.add-stream').css('display', 'none');
 		$('.billboard').stop().animate({

@@ -315,6 +315,7 @@ header {
 	z-index: 50000;
 	width: 100%;
 	top: 0;
+	border-top: 4px solid #383838;
 	border-bottom: 1px dashed #cecece;
 }
 
@@ -704,7 +705,7 @@ div.headline-wrapper > h2 > span {
 
 .wdet-inner {
 	height: 0;
-	margin-bottom: 4px;
+	margin-bottom: 0;
 	background: url('../../_/img/wdet-player.png') no-repeat top left;
 	width: 960px;
 	position: relative;
