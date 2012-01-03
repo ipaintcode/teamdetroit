@@ -95,30 +95,33 @@
 			<ul class="grid">
 				<li class="single">
 					<a href="aboutus/who-we-are.php">
-						<h3 class="culture-title">Who<br />We Are</h3>
-						<p class="copy">Talent comes from all walks of life and all parts of the world. Luckily, they all know where to work.</p>
-						<p class="view-project">Watch&nbsp;Video</p>
-						<span class="arrow" style="opacity: 0">&rarr;</span>
+						<div class="grid-copy">
+							<h3 class="culture-title">Who<br />We Are</h3>
+							<p class="copy">Talent comes from all walks of life and all parts of the world. Luckily, they all know where to work.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #A17E7D;"></div>
 						<img src="_/img/aboutus/who_we_are_thumb.jpg" alt="Bus">
 					</a>
 				</li>
 				<li class="single">
 					<a href="aboutus/what-we-do.php">
-						<h3 class="culture-title">What<br />We Do</h3>
-						<p class="copy">It’s hard to capture the magic of what we do in a one-minute video, but we gave it the old college try.</p>
-						<p class="view-project">Watch&nbsp;Video</p>
-						<span class="arrow" style="opacity: 0">&rarr;</span>
+						<div class="grid-copy">
+							<h3 class="culture-title">What<br />We Do</h3>
+							<p class="copy">It’s hard to capture the magic of what we do in a one-minute video, but we gave it the old college try.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #AE914B;"></div>
 						<img src="_/img/aboutus/what_we_do_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
 					<a href="aboutus/what-else-we-do.php">
-						<h3 class="culture-title">What Else<br />We Do</h3>
-						<p class="copy">While What Else We Do might sound like the leftovers, it’s actually one of our proudest collections of work. It’s what we do locally.</p>
-						<p class="view-project">Watch&nbsp;Video</p>
-						<span class="arrow" style="opacity: 0">&rarr;</span>
+						<div class="grid-copy">
+							<h3 class="culture-title">What Else<br />We Do</h3>
+							<p class="copy">While What Else We Do might sound like the leftovers, it’s actually one of our proudest collections of work. It’s what we do locally.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #4576C7;"></div>
 						<img src="_/img/aboutus/what_else_we_do_thumb.jpg" alt="">
 					</a>
@@ -129,39 +132,11 @@
 
 	</section>
 
-	<!-- <div class="headline-wrapper">
-
-		<hgroup class="hgroup-wrapper center min-max">
-			<h2 class="single"><span class="space-h2-fix"></span>Who We Are</h2>
-			<h2 class="single vdash-fix"><span class="space-h2-fix"></span>What We Do</h2>
-			<h2 class="single vdash-fix"><span class="space-h2-fix"></span>How We Do It</h2>
-		</hgroup>
-
-	</div> -->
-
-	<!-- <section class="">
-		<div class="center min-max">
-
-			<ul class="grid">
-				<li class="single vdash-fix">
-					<img src="_/img/aboutus/1.jpg" alt="">
-				</li>
-				<li class="single vdash-fix">
-					<img src="_/img/aboutus/2.jpg" alt="">
-				</li>
-				<li class="single vdash-fix">
-					<img src="_/img/aboutus/3.jpg" alt="">
-				</li>
-			</ul>
-
-		</div>
-	</section> -->
-
 	<div class="headline-wrapper">
 	    <h2 class="center min-max"><span>Departments + Capabilties</span></h2>
 	</div>
 
-	<section class="departments">
+	<section class="departments clearfix">
 		<div class="center min-max">
 
 			<ul class="grid photo-list">
