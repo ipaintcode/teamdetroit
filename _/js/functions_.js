@@ -403,7 +403,7 @@ $(document).ready(function() {
 	}
 
 	$('.wdet').css('cursor', 'pointer');
-	
+
 	$('.wrapper').stop().delay(500).animate({
 		opacity: 1
 	}, 500, function() {
