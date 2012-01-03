@@ -244,7 +244,7 @@
 				<li class="double grid-over">
 					<a href="culture/signal_return.php">
 						<div class="grid-copy">
-							<h3 class="culture-title">Signal<br />Return</h3>
+							<h3 class="culture-title">Signal Return</h3>
 							<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>

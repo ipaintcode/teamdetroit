@@ -241,20 +241,23 @@ $(document).ready(function() {
 	}
 	
 	$('.home-work .grid li, .home-culture .grid li').each(function(index) {
-
-		// $(this).css('height', 319);
-
-	
-			var liTagH = $(this).height();
-			var hTagH = $(this).find('h3').height();
-			
-			console.debug(liTagH)
-			console.debug(hTagH)
-			
-			$('.grid-copy').css({
-			  marginTop: ((liTagH-hTagH)/2)-20
-			})
-	
+		
+		var liTagH = $(this).height();
+		var hTagH = $(this).find('h3').height();
+		var val = ((liTagH-hTagH)/2)-20;
+		
+		$(this).find('.grid-copy').css({
+		  marginTop: val
+		});
+		$(this).find('.grid-copy').attr({
+			offValue: val,
+			overValue: ((liTagH-$(this).find('.grid-copy').height())/2)
+		});
+		console.log(val)
+		$(this).find('.copy').css({
+			opacity: 0,
+			marginTop: 50
+		});
 	});
 	$('.home-work .grid li, .home-culture .grid li').hover(function() {
 		$(this).find('.view-project').stop().delay(330).animate({
@@ -268,17 +271,13 @@ $(document).ready(function() {
 			// 				boxShadow: '0 0 30px'
 			// 			}, 1200);
 		});
-				
-
-		var cH = ($(this).width()) > 400 ? "160" : "180"
-		cH = ($(this).find('h3').height()) < 40 ? "150" : "180"
-
+		
 		$(this).find('.copy').stop().delay(200).animate({
 			opacity: 1,
-			marginTop: 10
+			marginTop: 5
 		}, 300);
-		$(this).find('h3').stop().animate({
-			top: -20
+		$(this).find('.grid-copy').stop().animate({
+			marginTop: $(this).find('.grid-copy').attr('overValue')-10
 		}, 400);
 		$(this).find('.arrow').stop().animate({
 			right: -60
@@ -297,8 +296,8 @@ $(document).ready(function() {
 			opacity: 0,
 			marginTop: 50
 		}, 300);
-		$(this).find('h3').stop().animate({
-			top: 0
+		$(this).find('.grid-copy').stop().animate({
+			marginTop: $(this).find('.grid-copy').attr('offValue')
 		}, 300);
 		$(this).find('.arrow').stop().delay(200).animate({
 			right: 15
