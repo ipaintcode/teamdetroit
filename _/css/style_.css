@@ -1108,7 +1108,6 @@ nav li a.active-nav {
 
 .social-map-inner {
 	width: 300px;
-	overflow: hidden;
 	opacity: .95;
 	color: #FFFFFF;
 	font-family: 'ProximaNovaRegular', Arial, sans-serif;
@@ -1140,6 +1139,7 @@ nav li a.active-nav {
 	padding: 30px 0 30px 30px;
 	border-top: 1px dashed #cccccc;
 	border-bottom: 1px dashed #cccccc;
+	overflow: hidden;
 }
 
 .social-map-inner h6 {
