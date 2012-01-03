@@ -240,7 +240,22 @@ $(document).ready(function() {
 		$('.on-now-title').text(tmpText + "...");
 	}
 	
+	$('.home-work .grid li, .home-culture .grid li').each(function(index) {
 
+		// $(this).css('height', 319);
+
+	
+			var liTagH = $(this).height();
+			var hTagH = $(this).find('h3').height();
+			
+			console.debug(liTagH)
+			console.debug(hTagH)
+			
+			$('.grid-copy').css({
+			  marginTop: ((liTagH-hTagH)/2)-20
+			})
+	
+	});
 	$('.home-work .grid li, .home-culture .grid li').hover(function() {
 		$(this).find('.view-project').stop().delay(330).animate({
 			right: 30
@@ -280,7 +295,7 @@ $(document).ready(function() {
 		});
 		$(this).find('.copy').stop().animate({
 			opacity: 0,
-			marginTop: "80%"
+			marginTop: 50
 		}, 300);
 		$(this).find('h3').stop().animate({
 			top: 0

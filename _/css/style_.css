@@ -410,6 +410,7 @@ ol.grid-ext-leader li h3 {
 .grid li {
 	float: left;
 	position: relative;
+	overflow: hidden;
 
 }
 .grid li img {
@@ -450,12 +451,12 @@ ol.grid-ext-leader li h3 {
 }
 .grid li .grid-copy {
 	position: absolute;
-	top: 20px; left: 20px;
+	top: 0; left: 20px;
 	height: 100%;
 	z-index: 2;
 }
 .grid li h3 {
-	
+	margin-top: 20px;
 }
 .grid li .copy {
 	margin-top: 10px;
