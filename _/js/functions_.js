@@ -222,8 +222,7 @@ $(document).ready(function() {
 		$(this).css('opacity', 0).text("Close").stop().animate({
 			opacity: 1
 		}, 500);
-		console.log(jQuery.data())
-		console.log($(this).data('lastToggle10'))
+
 		goToByScroll($(this).parent().parent().parent().attr('val'));
 	}, function(e) {
 	
