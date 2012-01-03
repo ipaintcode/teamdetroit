@@ -240,16 +240,7 @@ $(document).ready(function() {
 		$('.on-now-title').text(tmpText + "...");
 	}
 	
-	$('.home-work .grid li, .home-culture .grid li').each(function(index) {
-		
-		// $(this).css('height', 319);
 
-		if ($(this).width() > 400) {
-			$(this).find('h3').css('marginTop', '20%');
-			$(this).find('.copy').css('marginTop', '31%');
-		}
-
-	});
 	$('.home-work .grid li, .home-culture .grid li').hover(function() {
 		$(this).find('.view-project').stop().delay(330).animate({
 			right: 30
@@ -262,14 +253,14 @@ $(document).ready(function() {
 			// 				boxShadow: '0 0 30px'
 			// 			}, 1200);
 		});
-		
-		
+				
+
 		var cH = ($(this).width()) > 400 ? "160" : "180"
 		cH = ($(this).find('h3').height()) < 40 ? "150" : "180"
-		
+
 		$(this).find('.copy').stop().delay(200).animate({
 			opacity: 1,
-			marginTop: cH
+			marginTop: 10
 		}, 300);
 		$(this).find('h3').stop().animate({
 			top: -20
@@ -385,7 +376,7 @@ $(document).ready(function() {
 		$('.billboard').stop().animate({
 			marginTop: 232
 		}, 300);
-		
+
 		$('.wdet-icon img').stop().animate({
 			top: -254
 		}, 300);
@@ -439,7 +430,7 @@ $(document).ready(function() {
 				});
 			}
 		}else {
-			
+
 		}
 	});
 

@@ -103,74 +103,80 @@
 
 		<div class="center min-max">
 
-			<!-- <a class="view-all-work" href="work.html">View all work &rarr;</a> -->
 			<ol class="grid">
-				<li class="double">
+				<li class="double grid-over">
 					<a href="projects/press-conference.php">
-						<h3>Totally Unexpected<br />Press Conference</h3>
-						<p class="copy">Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Totally Unexpected<br />Press Conference</h3>
+							<p class="copy">Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #31599C;"></div>
 						<img src="_/img/projects/press_conference/thumb_large.jpg" alt="">
 					</a>
 				</li>
-				<li class="single">
+				<li class="single grid-over">
 					<a href="projects/focus-doug.php">
-						<h3>Doug, the Ford<br />Spokespuppet</h3>
-						<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
-						 <div class="color-swatch" style="background: #BF441B;"></div>
+						<div class="grid-copy">
+							<h3>Doug, the Ford<br />Spokespuppet</h3>
+							<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
+						<div class="color-swatch" style="background: #BF441B;"></div>
 						<img src="_/img/projects/focus_doug/thumb.jpg" alt="">
 					</a>
 				</li>
-				<li class="single">
+				<li class="single grid-over">
 					<a href="projects/lincoln-innovators.php">
-						<h3>Lincoln<br />Innovators</h3>
-						<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Lincoln<br />Innovators</h3>
+							<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #8F6B39;"></div>
 						<img src="_/img/projects/lincoln_innovators/thumb.jpg" alt="">
 					</a>
 				</li>
-				<li class="single">
+				<li class="single grid-over">
 					<a href="projects/carhartt.php">
-						<h3>Carhartt</h3>
-						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Carhartt</h3>
+							<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #2F322B;"></div>
 						<img src="_/img/projects/carhartt/thumb.jpg" alt="">
 					</a>
 				</li>
-				<li class="single">
+				<li class="single grid-over">
 					<a href="projects/focus-rally.php">
-						<h3>Focus Rally</h3>
-						<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Focus Rally</h3>
+							<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #2A4B76;"></div>
 						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
 				</li>
-				<li class="single">
+				<li class="single grid-over">
 					<a href="projects/we-own-work.php">
-						<h3>We Own Work</h3>
-						<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>We Own Work</h3>
+							<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #4C4E4A;"></div>
 						<img src="_/img/projects/we_own_work/thumb.jpg" alt="">
 					</a>
 				</li>
-				<li class="double">
+				<li class="double grid-over">
 					<a href="projects/sports-authority.php">
-						<h3>These shoes<br />are Magic.</h3>
-						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>These shoes<br />are Magic.</h3>
+							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #257698;"></div>
 						<img src="_/img/projects/sports_authority/thumb_large.jpg" alt="">
 					</a>
