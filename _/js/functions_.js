@@ -250,7 +250,7 @@ $(document).ready(function() {
 			$(this).stop().animate({right: 35, opacity: 1}, 300)
 		});
 		$(this).find('.color-swatch').stop().animate({
-			height: "100.5%",
+			height: "102%",
 			opacity: ".9"
 		}, 300);
 		
@@ -466,12 +466,17 @@ $(document).ready(function() {
 
 	var width = 0;
 	var which = 3;
-
+	
+	$('.home-work .grid li, .home-culture .grid li').each(function(index) {
+		$(this).find('.grid-copy').css({
+		  opacity: 0
+		});
+	});
 });
 
 $(window).load(function() {
 	$('.home-work .grid li, .home-culture .grid li').each(function(index) {
-
+		
 		var liTagH = $(this).height();
 		var hTagH = $(this).find('h3').height();
 		var val = ((liTagH-hTagH)/2)-20;
@@ -488,6 +493,9 @@ $(window).load(function() {
 			opacity: 0,
 			marginTop: 50
 		});
+		$(this).find('.grid-copy').animate({
+		  opacity: 1
+		}, 300);
 	});
 });
 
