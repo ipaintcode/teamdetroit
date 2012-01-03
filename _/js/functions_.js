@@ -204,6 +204,8 @@ $(document).ready(function() {
 			scrollTop: val
 		}, speed || 200);
 	}
+	
+	var clickedJob = undefined;
 
 	$('.rows-jobs h6 a').toggle(function(e) {
 		if (wasFired === false) {
@@ -220,12 +222,11 @@ $(document).ready(function() {
 		$(this).css('opacity', 0).text("Close").stop().animate({
 			opacity: 1
 		}, 500);
-
-		$('.rows-jobs h6 a').data('lastToggle4', 2);
-		$(this).data('lastToggle4', 1);
+		console.log(jQuery.data())
+		console.log($(this).data('lastToggle10'))
 		goToByScroll($(this).parent().parent().parent().attr('val'));
 	}, function(e) {
-		$(this).data('lastToggle4', 2);
+
 		$(this).parent().parent().parent().stop().animate({
 			'height': 40
 		}, 300);
@@ -249,6 +250,7 @@ $(document).ready(function() {
 			$(this).css('opacity', 0)
 			$(this).stop().animate({right: 35, opacity: 1}, 300)
 		});
+		
 		$(this).find('.color-swatch').stop().animate({
 			height: "102%",
 			opacity: ".9"
@@ -258,6 +260,7 @@ $(document).ready(function() {
 			opacity: 1,
 			marginTop: 5
 		}, 300);
+		
 		$(this).find('.grid-copy').stop().animate({
 			marginTop: $(this).find('.grid-copy').attr('overValue')-10
 		}, 400);
