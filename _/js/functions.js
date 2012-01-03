@@ -129,7 +129,7 @@ function wdetPlayer() {
 		$('.add-stream').css('opacity', 0).text('Start Listening').stop().animate({
 			opacity: 1
 		}, 500);
-	} else {															
+	} else {
 		video.src = url;
 		video.play();
 		$('.add-stream').css('opacity', 0).text('Stop Listening').stop().animate({

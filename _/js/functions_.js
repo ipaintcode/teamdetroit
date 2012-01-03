@@ -404,13 +404,25 @@ $(document).ready(function() {
 
 	$('.wdet').css('cursor', 'pointer');
 
-	$('.wrapper').stop().delay(500).animate({
-		opacity: 1
-	}, 500, function() {
+	if($.browser.msie === true) {
+		$('.wrapper').stop().delay(500).animate({
+			opacity: 1
+		}, 500, function() {
+			$('.wdet, .wdet-icon img').bind('mouseover', rollOver);
+			$('.wdet, .wdet-icon img').bind('mouseout', rollOut);
+		});
+	} else {
+		$('.wrapper').css('opacity', 1);
 		$('.wdet, .wdet-icon img').bind('mouseover', rollOver);
 		$('.wdet, .wdet-icon img').bind('mouseout', rollOut);
-		// checkImgSize();
-	});
+	}
+	// $('.wrapper').stop().delay(500).animate({
+	// 	opacity: 1
+	// }, 500, function() {
+	// 	$('.wdet, .wdet-icon img').bind('mouseover', rollOver);
+	// 	$('.wdet, .wdet-icon img').bind('mouseout', rollOut);
+	// 	// checkImgSize();
+	// });
 
 	$('a').click(function(ele) {
 		ele.preventDefault();
