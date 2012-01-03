@@ -411,18 +411,16 @@ $(document).ready(function() {
 	});
 
 	$('a').click(function(ele) {
-		if($(this).attr('href').indexOf("#billboard_") !== 0) {
-			ele.preventDefault();
-			var url = $(this).attr('href');
-			if (url.indexOf("#") === -1) {
-				$('.wrapper').stop().animate({
-					opacity: 0
-				}, 500, function() {
-					window.location.href = url;
-				});
-			}
-		}else {
-
+		ele.preventDefault();
+		var url = $(this).attr('href');
+		if (url.indexOf("#") === -1 && url.indexOf("mailto") === -1) {
+			$('.wrapper').stop().animate({
+				opacity: 0
+			}, 500, function() {
+				window.location.href = url;
+			});
+		} else if(url.indexOf("mailto") === 0) {
+			window.location.href = url;
 		}
 	});
 

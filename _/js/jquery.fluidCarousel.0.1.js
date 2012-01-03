@@ -5,26 +5,7 @@ $(document).ready(function (){
 	}, function() {
 		$(this).stop().animate({opacity: 1}, 300);
 	});
-	
-	$('.wrapper').stop().delay(500).animate({
-		opacity: 1
-	}, 500);
 
-	$('a').click(function(ele) {
-		if($(this).attr('href').indexOf("#billboard_") !== 0) {
-			ele.preventDefault();
-			var url = $(this).attr('href');
-			if (url.indexOf("#") === -1) {
-				$('.wrapper').stop().animate({
-					opacity: 0
-				}, 500, function() {
-					window.location.href = url;
-				});
-			}
-		}else {
-			
-		}
-	});
 	
 	var width = 0;
 	var which = 3;
