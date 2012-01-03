@@ -449,9 +449,12 @@ ol.grid-ext-leader li h3 {
 	filter:alpha(opacity=1);
 	margin-left: 15px;
 	display: none;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
 }
 .grid li .arrow {
-	background: url('_/img/circle-arrow.png') no-repeat top left;
+	background: url('../img/circle-arrow.png') no-repeat top left;
 	text-indent: -9999px;
 	display: inline-block;
 	height: 50px;

@@ -260,9 +260,14 @@ $(document).ready(function() {
 		});
 	});
 	$('.home-work .grid li, .home-culture .grid li').hover(function() {
-		$(this).find('.view-project').stop().delay(330).animate({
-			right: 30
-		}, 300);
+		$(this).find('.view-project').stop().animate({
+			right: -80
+		}, 300, function() {
+			$(this).find('.arrow').css('display', 'none')
+			$(this).find('.view-project-text').css('display', 'block');
+			$(this).css('opacity', 0)
+			$(this).stop().animate({right: 35, opacity: 1}, 300)
+		});
 		$(this).find('.color-swatch').stop().animate({
 			height: "100%",
 			opacity: ".9"
@@ -279,13 +284,14 @@ $(document).ready(function() {
 		$(this).find('.grid-copy').stop().animate({
 			marginTop: $(this).find('.grid-copy').attr('overValue')-10
 		}, 400);
-		$(this).find('.arrow').stop().animate({
-			right: -60
-		}, 300);
 	}, function() {
 		$(this).find('.view-project').stop().animate({
-			"right": -100
-		}, 300);
+			right: -80
+		}, 300, function() {
+			$(this).find('.arrow').css('display', 'block')
+			$(this).find('.view-project-text').css('display', 'none');
+			$(this).stop().animate({right: 15}, 300)
+		});
 		$(this).find('.color-swatch').stop().animate({
 			// boxShadow: '0 0 0',
 			opacity: 0
@@ -298,9 +304,6 @@ $(document).ready(function() {
 		}, 300);
 		$(this).find('.grid-copy').stop().animate({
 			marginTop: $(this).find('.grid-copy').attr('offValue')
-		}, 300);
-		$(this).find('.arrow').stop().delay(200).animate({
-			right: 15
 		}, 300);
 	});
 
