@@ -146,15 +146,19 @@ wdetPlayer();
 $(document).ready(function (){
 	
 	$('.gridbox, .close-video').hover(function() {
-		$(this).stop().animate({opacity: .5}, 300);
+		$(this).stop().animate({opacity: ".5"}, 300);
 	}, function() {
 		$(this).stop().animate({opacity: 1}, 300);
 	});
 	
-	alert($.browser.msie)
-	$('.wrapper').stop().delay(500).animate({
-		opacity: 1
-	}, 500);
+	if($.browser.msie === true) {
+		$('.wrapper').stop().delay(500).animate({
+			opacity: 1
+		}, 500);
+	} else {
+		$('.wrapper').css('opacity', 1);
+	}
+		
 
 	$('a').click(function(ele) {
 		if($(this).attr('href').indexOf("#billboard_") !== 0) {
