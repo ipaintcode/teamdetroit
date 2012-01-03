@@ -223,7 +223,7 @@ $(document).ready(function() {
 			opacity: 1
 		}, 500);
 
-		goToByScroll($(this).parent().parent().parent().attr('val')-4);
+		goToByScroll($(this).parent().parent().parent().attr('val'), 300);
 	}, function(e) {
 	
 		$(this).parent().parent().parent().stop().animate({
