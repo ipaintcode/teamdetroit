@@ -218,7 +218,7 @@
 			</ul>
 
 		</div>
-		<p>&amp;</p>
+
 	</section>
 
 	<div class="headline-wrapper">
