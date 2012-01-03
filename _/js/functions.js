@@ -151,6 +151,7 @@ $(document).ready(function (){
 		$(this).stop().animate({opacity: 1}, 300);
 	});
 	
+	alert(navigator.platform.indexOf("IE"))
 	$('.wrapper').stop().delay(500).animate({
 		opacity: 1
 	}, 500);
