@@ -90,10 +90,11 @@
 				
 				<li class="single">
 					<a href="projects/sports-authority.php">
-						<h3>Sports Authority</h3>
-						<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Sports Authority</h3>
+							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #bb0f0f;"></div>
 						<img src="_/img/projects/sports_authority/thumb.jpg" alt="">	
 					</a>
@@ -101,10 +102,11 @@
 				
 				<li class="single">
 					<a href="projects/explorer-live.php">
-						<h3>Explorer<br />Live</h3>
-						<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvent the SUV launch.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Explorer<br />Live</h3>
+							<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvent the SUV launch.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #1F2322;"></div>
 						<img src="_/img/projects/explorer_live/thumb.jpg" alt="">
 					</a>
@@ -112,10 +114,11 @@
 				
 				<li class="single">
 					<a href="projects/we-own-work.php">
-						<h3>We Own Work</h3>
-						<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>We Own Work</h3>
+							<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #191816;"></div>
 						<img src="_/img/projects/we_own_work/thumb.jpg" alt="">	
 					</a>
@@ -123,10 +126,11 @@
 				
 				<li class="single">
 					<a href="projects/mustang-customizer.php">
-						<h3>Mustang<br />Customizer</h3>
-						<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like. We created a tool—and a battleground—for them to see it come to life.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Mustang<br />Customizer</h3>
+							<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like. We created a tool—and a battleground—for them to see it come to life.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						 <div class="color-swatch" style="background: #111111;"></div>
 						<img src="_/img/projects/mustang_customizer/thumb.jpg" alt="">
 					</a>
@@ -134,10 +138,11 @@
 				
 				<li class="single">
 					<a href="projects/f150-torture-test.php">
-						<h3>F-150<br />Torture Test</h3>
-						<p class="copy">We took one F-150 EcoBoost engine and subjected it to a slasher movie-style world of pain to prove it’s Built Ford Tough.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>F-150<br />Torture Test</h3>
+							<p class="copy">We took one F-150 EcoBoost engine and subjected it to a slasher movie-style world of pain to prove it’s Built Ford Tough.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #3E2008;"></div>
 						<img src="_/img/projects/torture_test/thumb.jpg" alt="">	
 					</a>
@@ -145,10 +150,11 @@
 				
 				<li class="single">
 					<a href="projects/focus-rally.php">
-						<h3>Focus<br />Rally</h3>
-						<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Focus<br />Rally</h3>
+							<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						 <div class="color-swatch" style="background: #9D7F4F;"></div>
 						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
@@ -156,10 +162,11 @@
 				
 				<li class="single">
 					<a href="projects/focus-doug.php">
-						<h3>Doug, the Ford<br />Spokespuppet</h3>
-						<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Doug, the Ford<br />Spokespuppet</h3>
+							<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #C13900;"></div>
 						<img src="_/img/projects/focus_doug/thumb.jpg" alt="">	
 					</a>
@@ -167,10 +174,11 @@
 				
 				<li class="single">
 					<a href="projects/mustang.php">
-						<h3>Mustang</h3>
-						<p class="copy">Go ahead. Give the Ford Mustang better miles-per-gallon and even smarter technology. It’ll still make your heart race.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Mustang</h3>
+							<p class="copy">Go ahead. Give the Ford Mustang better miles-per-gallon and even smarter technology. It’ll still make your heart race.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #3f546e;"></div>
 						<img src="_/img/projects/mustang/thumb.jpg" alt="">	
 					</a>
@@ -178,10 +186,11 @@
 				
 				<li class="single">
 					<a href="projects/ccs.php">
-						<h3>CCS</h3>
-						<p class="copy">Our work for Detroit’s College for Creative Studies proved you can still reach today’s teenagers using low-tech communication.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>CCS</h3>
+							<p class="copy">Our work for Detroit’s College for Creative Studies proved you can still reach today’s teenagers using low-tech communication.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #5f5347;"></div>
 						<img src="_/img/projects/ccs/thumb.jpg" alt="">
 					</a>
@@ -189,10 +198,11 @@
 				
 				<li class="single">
 					<a href="projects/carhartt.php">
-						<h3>Carhartt</h3>
-						<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Carhartt</h3>
+							<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #333C52;"></div>
 						<img src="_/img/projects/carhartt/thumb.jpg" alt="">	
 					</a>
@@ -200,10 +210,11 @@
 				
 				<li class="single">
 					<a href="projects/fiesta.php">
-						<h3>Ford<br />Fiesta</h3>
-						<p class="copy">The Ford Fiesta may look small. But between its smart technology and high MPG, it’s actually a pretty big deal.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Ford<br />Fiesta</h3>
+							<p class="copy">The Ford Fiesta may look small. But between its smart technology and high MPG, it’s actually a pretty big deal.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #5592AA;"></div>
 						<img src="_/img/projects/fiesta/thumb.jpg" alt="">
 					</a>
@@ -211,10 +222,11 @@
 				
 				<li class="single">
 					<a href="projects/lincoln-innovators.php">
-						<h3>Lincoln Innovators</h3>
-						<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Lincoln Innovators</h3>
+							<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #A48032;"></div>
 						<img src="_/img/projects/lincoln_innovators/thumb.jpg" alt="">
 					</a>
@@ -222,10 +234,11 @@
 				
 				<li class="single">
 					<a href="projects/press-conference.php">
-						<h3>Press<br />Conference</h3>
-						<p class="copy">Real talk. It’s what you get when Ford owners suddenly find themselves in the midst of a press conference—answering questions on the fly.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Press<br />Conference</h3>
+							<p class="copy">Real talk. It’s what you get when Ford owners suddenly find themselves in the midst of a press conference—answering questions on the fly.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #5B4F3F;"></div>
 						<img src="_/img/projects/press_conference/thumb.jpg" alt="">	
 					</a>
@@ -233,10 +246,11 @@
 				
 				<li class="single">
 					<a href="projects/scotts.php">
-						<h3>Scotts</h3>
-						<p class="copy">Independent retailers helped put Scotts on the map. So to return the love, Scotts released an entire line of products exclusively for them.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Scotts</h3>
+							<p class="copy">Independent retailers helped put Scotts on the map. So to return the love, Scotts released an entire line of products exclusively for them.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #426907;"></div>
 						<img src="_/img/projects/scotts/thumb.jpg" alt="">	
 					</a>
@@ -244,10 +258,11 @@
 				
 				<li class="single">
 					<a href="projects/bosch.php">
-						<h3>Bosch</h3>
-						<p class="copy">To prove Bosch Icon Wiper Blades can endure insane weather, we teamed up with the fearless crew from Discovery Channel’s Storm Chasers.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Bosch</h3>
+							<p class="copy">To prove Bosch Icon Wiper Blades can endure insane weather, we teamed up with the fearless crew from Discovery Channel’s Storm Chasers.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #2D402D;"></div>
 						<img src="_/img/projects/bosch/thumb.jpg" alt="">	
 					</a>
@@ -255,10 +270,11 @@
 				
 				<li class="single">
 					<a href="projects/ohio-art.php">
-						<h3>Ohio Art</h3>
-						<p class="copy">We say the bigger you get, the smaller your blocks should be. Micro-sized Nanoblocks have the magic to return you to childhood.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Ohio Art</h3>
+							<p class="copy">We say the bigger you get, the smaller your blocks should be. Micro-sized Nanoblocks have the magic to return you to childhood.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #a38c43;"></div>
 						<img src="_/img/projects/ohio_art/thumb.jpg" alt="">	
 					</a>
@@ -266,10 +282,11 @@
 				
 				<li class="single">
 					<a href="projects/ford-social.php">
-						<h3>Ford Social</h3>
-						<p class="copy">We tapped into a group of people who had good vibes about Ford. The more they talked, the more we wanted to listen. To engage. And socialize.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Ford Social</h3>
+							<p class="copy">We tapped into a group of people who had good vibes about Ford. The more they talked, the more we wanted to listen. To engage. And socialize.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #004174;"></div>
 						<img src="_/img/projects/ford_social/thumb.jpg" alt="">	
 					</a>
@@ -277,10 +294,11 @@
 
 				<li class="single">
 					<a href="projects/warrior.php">
-						<h3>Warrior</h3>
-						<p class="copy">What makes a Manchine? A downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt&reg;.</p>
-						<p class="view-project">View&nbsp;Project</p>
-						<span class="arrow">&rarr;</span>
+						<div class="grid-copy">
+							<h3>Warrior</h3>
+							<p class="copy">What makes a Manchine? A downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt&reg;.</p>
+						</div>
+						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #46496a;"></div>
 						<img src="_/img/projects/warrior/thumb.jpg" alt="">	
 					</a>
@@ -295,7 +313,7 @@
 	    <h2 class="center min-max"><span>Clients</span></h2>
 	</div>
 	
-	<section class="clients">
+	<section class="clients clearfix">
 		<div class="center min-max">
 			
 			<ul class="grid client-list">
