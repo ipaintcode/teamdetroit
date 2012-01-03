@@ -129,7 +129,7 @@ function wdetPlayer() {
 		$('.add-stream').css('opacity', 0).text('Start Listening').stop().animate({
 			opacity: 1
 		}, 500);
-	} else {
+	} else {															
 		video.src = url;
 		video.play();
 		$('.add-stream').css('opacity', 0).text('Stop Listening').stop().animate({
@@ -151,14 +151,9 @@ $(document).ready(function (){
 		$(this).stop().animate({opacity: 1}, 300);
 	});
 	
-	if($.browser.msie === true) {
-		$('.wrapper').stop().delay(500).animate({
-			opacity: 1
-		}, 500);
-	} else {
-		$('.wrapper').css('opacity', 1);
-	}
-		
+	$('.wrapper').stop().delay(500).animate({
+		opacity: 1
+	}, 500);
 
 	$('a').click(function(ele) {
 		if($(this).attr('href').indexOf("#billboard_") !== 0) {
