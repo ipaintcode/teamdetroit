@@ -291,6 +291,7 @@ $(document).ready(function() {
 		$(this).find('.color-swatch').stop().animate({
 			height: 0
 		}, 300);
+		
 		$(this).find('.copy').stop().animate({
 			opacity: 0,
 			marginTop: 30
