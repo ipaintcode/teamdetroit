@@ -269,13 +269,9 @@ $(document).ready(function() {
 			$(this).stop().animate({right: 35, opacity: 1}, 300)
 		});
 		$(this).find('.color-swatch').stop().animate({
-			height: "100%",
+			height: "100.5%",
 			opacity: ".9"
-		}, 300, function() {
-			// $(this).stop().delay(100).animate({
-			// 				boxShadow: '0 0 30px'
-			// 			}, 1200);
-		});
+		}, 300);
 		
 		$(this).find('.copy').stop().delay(200).animate({
 			opacity: 1,
@@ -290,17 +286,14 @@ $(document).ready(function() {
 		}, 300, function() {
 			$(this).find('.arrow').css('display', 'block')
 			$(this).find('.view-project-text').css('display', 'none');
-			$(this).stop().animate({right: 15}, 300)
+			$(this).stop().animate({right: 15}, 300);
 		});
 		$(this).find('.color-swatch').stop().animate({
-			// boxShadow: '0 0 0',
-			opacity: 0
-		}, 300, function() {
-			$(this).css('height', 0);
-		});
+			height: 0
+		}, 300);
 		$(this).find('.copy').stop().animate({
 			opacity: 0,
-			marginTop: 50
+			marginTop: 30
 		}, 300);
 		$(this).find('.grid-copy').stop().animate({
 			marginTop: $(this).find('.grid-copy').attr('offValue')
