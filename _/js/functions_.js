@@ -270,8 +270,8 @@ $(document).ready(function() {
 			$(this).stop().animate({right: 15}, 300);
 		});
 		$(this).find('.color-swatch').stop().animate({
-			height: 0
-		}, 300);
+			opacity: 0
+		}, 300).animate({height: 0}, 0)
 		
 		$(this).find('.copy').stop().animate({
 			opacity: 0,
