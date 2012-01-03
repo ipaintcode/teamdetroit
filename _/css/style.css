@@ -441,8 +441,8 @@ header {
 	margin-bottom: 30px;
 	padding-left: 60px;
 	font-size: 16px;
-	font-weight: 900;
-	font-family: "Helvetica" "Arial" sans-serif;
+	font-weight: bold;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 .content-info h3 span {
@@ -451,7 +451,7 @@ header {
 	font-size: 14px;
 	font-style: italic;
 	font-weight: normal;
-	font-family: "Helvetica" "Arial" sans-serif;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 .content-info p {
