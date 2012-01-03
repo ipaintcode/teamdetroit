@@ -91,11 +91,11 @@
 
 					<p>Born in Liverpool, Paul spent his formative years in West Africa, where his experience of coups and civil wars was to prove useful training for his career in advertising.</p>
 
-					<p>Today, Paul serves as President, Client Services, Global Team Ford. In that position, he is responsible for leading and coordination the marketing communications for Ford on a global scale. Before his current position, Paul was the President of Team Detroit-Y&amp;R, developing marketing communications for Lincoln, Mercury, Ford Motor Credit and Lincoln Mercury Dealers’ Association.</p>
+					<p>Today, Paul serves as President, Client Services, Global Team Ford. In this position, he leads Global Team Ford&rsquo;s Detroit based team as it creates global strategic platforms and creative executions to support Ford&rsquo;s global product launches.</p>
 
-					<p>Prior to his role with Y&R Team Detroit, Paul was WPP’s Director of Strategy on the Ford Motor Company account. Before that, Paul spent many years working for Y&amp;R in London, where he was the Managing Partner in charge of Ford of Britain and Land Rover.</p>
+					<p>Paul has worked with Ford for nearly twenty years and has held a diverse number of senior roles including: Managing Director, Team Ford at Y&amp;R in London, global roles working with Land Rover and Jaguar and most recently, President Y&amp;R and Wunderman, Detroit.</p>
 
-					<p>Paul is a graduate of the University of Sussex and currently lives in Bloomfield Hills, Michigan with the four women in his life: wife Vickie, daughters Charlotte and Isabel: and dog Millie.</p>
+					<p>Paul is a graduate of the University of Sussex in the UK. His passions outside the business of cars and communications are his wife Vickie, his four children and the arcane world of good stereo equipment and vinyl records (yes, they still sell them).</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>
@@ -110,10 +110,10 @@
 
 				<div class="content-quote">
 
-					 {!-- <blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
-					 </blockquote> --}
+					 <blockquote>
+					 	<p>Speed and courage. These two words must define our approach in the digital age &ndash; without them competitive advantage will be difficult, if not impossible to sustain.</p>
+					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 </blockquote>
 				
 				</div>
 
