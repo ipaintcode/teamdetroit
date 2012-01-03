@@ -335,16 +335,17 @@
  	    <h2 class="center min-max">Reasons Why We Love It</h2>
  	</div>
  	
+
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
 			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/Billboard_1.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_2.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_3.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_4.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_5.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_5.jpg" alt="Billboard Bands"></li>											
 		</ul>
 	</div>
-
+		
 	<div class="segment-headline-wrapper clear below-carousel">
 		<h2 class="center min-max"><span class="segment-header-spacer"></span></h2>
 		<div class="carousel-navigation center min-max">
@@ -371,8 +372,7 @@
 <!-- this is where we put our custom functions -->
 <script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
-<script src="_/js/functions_.js"></script>
-<script src="_/js/jquery.fluidCarousel.0.1.js"></script>
+<script src="_/js/functions.js"></script>
 
 
 <!-- Asynchronous google analytics; this is the official snippet.
