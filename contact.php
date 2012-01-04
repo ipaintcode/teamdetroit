@@ -34,11 +34,11 @@
 
 	<section class="billboard">
 		<div class="center min-max">
-			<div class="inter-holder">
-				<ul>
-					<li><img src="_/img/contact/reach.png" alt="Billboard 1"></li>
-				</ul>
-			</div>
+
+			<ul class="ind">
+				<a href="#work">See Down Below!</a>
+				<li><img src="_/img/contact/reach.png" alt=""></li>
+			</ul>
 
 		</div>
 	</section>
