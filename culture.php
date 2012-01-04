@@ -141,15 +141,39 @@
 
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="_/img/culture/carousel/Dressy_Bessy_11.1.11.jpg" alt=""></li>
-			<li class=""><img src="_/img/culture/carousel/Frontier_Ruckus_12.6.11.jpg" alt=""></li>
-			<li class=""><img src="_/img/culture/carousel/Los_Lonely_Boys_11.1.11.jpg" alt=""></li>
-			<li class=""><img src="_/img/culture/carousel/Minus_The_Bear_11.1.11.jpg" alt=""></li>
-			<li class=""><img src="_/img/culture/carousel/Super_Grass_11.1.11.jpg" alt=""></li>
-			<li class=""><img src="_/img/culture/carousel/The Juliets_10.31.11.jpg" alt=""></li>
-			<li class=""><img src="_/img/culture/carousel/VV_Brown_10.31.11.jpg" alt=""></li>
+			<li class="activeCarousel"><img src="_/img/culture/carousel/01_Minus_The_Bear_October12_2011.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/02_JT_Hodges_-September20_2011.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/03_Hot_Chelle_Rae_September7_2011.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/04_Frontier_Ruckus_May3_2010.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/05_Third_Eye_Blind_June15_2010.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/06_The_Juliets_-July20_2010-1.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/07_VV_Brown_August5_2010.jpg" alt=""></li>
+
+			<li class=""><img src="_/img/culture/carousel/08_Tokoyo_Police_Club_September21_2010-1.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/09_Tokoyo_Police_Club_September21_2010-2.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/10_Supergrass_July21_2008-1.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/11_Supergrass_July21_2008-2.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/12_The_Wedding_Present_October2_2008.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/13_Los_Lonely_Boys_October14_2008.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/14_Dressy_Bessy_November7_2008.jpg" alt=""></li>
 		</ul>
 	</div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	<div class="segment-headline-wrapper clear below-carousel below-carousel-culture">
 		<h2 class="center min-max"><span class="segment-header-spacer"></span></h2>
@@ -265,16 +289,11 @@
 <script src="_/js/functions_.js"></script>
 <script src="_/js/jquery.fluidCarousel.0.1.js"></script>
 
-
-
-<!-- Asynchronous google analytics; this is the official snippet.
-	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.
-
 <script>
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-XXXXXX-XX']);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageview', 'teamdetroit:culture'])
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -283,7 +302,6 @@
   })();
 
 </script>
--->
 
 </body>
 </html>
