@@ -14,7 +14,10 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Mustang Customizer</title>
+	<!-- Project meta - description : content -->
+	<meta name="description" content="We could have created a forum for people to talk about that Mustang they've always dreamed about, but instead we created the ultimate tool for them to build it." />
+	
+	<title>Mustang Customizer | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">

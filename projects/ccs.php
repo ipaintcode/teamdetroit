@@ -14,7 +14,10 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>CCS</title>
+	<!-- Project meta - description : content -->
+	<meta name="description" content="When Detroit's iconic art and design school, the College for Creative Studies, asked us to create a campaign for them, we knew outspending the competition wasn't an option." />
+	
+	<title>College for Creative Studies | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">

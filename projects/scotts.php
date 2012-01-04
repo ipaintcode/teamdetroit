@@ -14,7 +14,10 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Scotts</title>
+	<!-- Project meta - description : content -->
+	<meta name="description" content="This campaign is meant to raise awareness in the Independent garden centers and hardware stores and show them that Scotts is offering products to help their business succeed." />
+
+	<title>Scotts Independent Retailer Print | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">

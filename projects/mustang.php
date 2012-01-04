@@ -14,7 +14,10 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Mustang</title>
+	<!-- Project meta - description : content -->
+	<meta name="description" content="The goal here was to show Mustang enthusiasts that making a car more fuel-efficient doesn't mean you have to slow it down any. " />
+	
+	<title>Mustang | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">

@@ -14,6 +14,9 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
+	<!-- Project meta - description : content -->
+	<meta name="description" content="The working title around the office was “Drive One 3.0.”." />
+
 	<title>Totally Unexpected Press Conference</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->

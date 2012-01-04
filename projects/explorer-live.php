@@ -14,7 +14,10 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Explorer Live</title>
+	<!-- Project meta - description : content -->
+	<meta name="description" content="Explorer Live gave us a 24/7 line of communication, allowing us to build excitement around the first public reveal of Explorer. It was the first live-on-Facebook introduction of an SUV." />
+	
+	<title>Explorer Live | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">

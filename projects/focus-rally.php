@@ -14,7 +14,10 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Focus Rally</title>
+	<!-- Project meta - description : content -->
+	<meta name="description" content="To introduce the 2012 Ford Focus we put a spin on the classic reality web series, turning it into the first ever interactive reality web series, allowing viewers to engage with competitors." />
+	
+	<title>Focus Rally | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">

@@ -14,7 +14,10 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>F-150 Torture Test</title>
+	<!-- Project meta - description : content -->
+	<meta name="description" content="How did we prove EcoBoost was Built Ford tough? We tortured the living daylights out of it." />
+	
+	<title>F-150 Torture Test | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">

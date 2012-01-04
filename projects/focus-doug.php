@@ -14,7 +14,10 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>Focus Doug</title>
+	<!-- Project meta - description : content -->
+	<meta name="description" content="So how do we start a conversation with them about the all-new 2012 Focus? Who could convince them this small car from Ford was worth a look?" />
+	
+	<title>Focus Doug | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">
