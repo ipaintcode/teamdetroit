@@ -450,6 +450,8 @@ $(document).ready(function() {
 			$(this).find('.grid-copy').animate({
 				opacity: 1
 			}, 300);
+
+			$('.grid li h3').animate({opacity: 1}, 200);
 		});
 
 			$('.home-work .grid li, .home-culture .grid li').hover(function() {

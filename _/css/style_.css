@@ -429,6 +429,9 @@ ol.grid-ext-leader li h3 {
 	font-size: 28px;
 	font-family: 'ProximaNovaExtraboldItalic';
 	line-height: 30px;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
 }
 .grid li .copy {
 	margin-top: 5px;
@@ -474,12 +477,12 @@ ol.grid-ext-leader li h3 {
 	display: block;
 	overflow: hidden;
 }
-.grid .grid-over:hover .color-swatch {
+/*.grid .grid-over:hover .color-swatch {
 	opacity: .8;
 }
 .grid .grid-over:hover .copy {
 	opacity: 1;
-}
+}*/
 .addShadow {
 	/*text-shadow: 2px 4px 0 rgba(0,0,0,.15);*/
 }
