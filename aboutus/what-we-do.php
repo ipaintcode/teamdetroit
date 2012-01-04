@@ -92,15 +92,17 @@
 
 					<p>The short answer: Look at our client roster. 
 					World-class advertising created—with insane dedication—by over one thousand Detroiters, all under one roof. It’s a full-service agency like no other.</p>
-
-					<p>Creative</p>
-					<p>Account</p>
-					<p>Production</p>
-					<p>Strategy</p>
-					<p>Human Resources</p>
-					<p>Engineering</p>
-					<p>QA</p>
-					<p>And everything in between.</p>
+					<ul>
+						<li>Creative</li>
+						<li>Account</li>
+						<li>Production</li>
+						<li>Strategy</li>
+						<li>Human Resources</li>
+						<li>Engineering</li>
+						<li>QA</li>
+						<li>And everything in between.</li>
+					</ul><!-- / -->
+					
 				
 					<ul class="content-info-social content-info-social-ext">
 						<li>Share &rarr;</li>
@@ -118,10 +120,10 @@
 
 				<div class="content-quote">
 
-					 {!-- <blockquote>
+					 <blockquote>
 					 	<p></p>
 					 	<p class="content-quote-author"></span></p>
-					 </blockquote> --}
+					 </blockquote>
 				
 				</div>
 

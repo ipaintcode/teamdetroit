@@ -461,6 +461,13 @@ header {
 	padding-left: 60px;
 }
 
+.content ul li {
+	margin-bottom: 5px;
+	font-weight: 200;
+	font-size: 13px;
+	font-family: Helvetica, "Arial", sans-serif;
+}
+
 div.content-info-alt p {
 	padding-left: 0;
 }
