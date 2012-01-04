@@ -445,9 +445,6 @@ ol.grid-ext-leader li h3 {
 	line-height: 50px;
 }
 .grid li .view-project-text {
-	opacity: 1;
-	-moz-opacity: 1;
-	filter:alpha(opacity=1);
 	margin-left: 15px;
 	display: none;
 	font-style: italic;
