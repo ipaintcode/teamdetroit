@@ -93,8 +93,8 @@
 			</aside>
 			
 			<ul class="secondary-nav">
-				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
-				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+				<li class="secondary-nav-prev"><a href="who-we-are.php">Previous</a></li>
+				<li class="secondary-nav-next"><a href="what-else-we-do.php">Next</a></li>
 			</ul>
 		
 		</div>
