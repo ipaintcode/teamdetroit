@@ -488,7 +488,7 @@ $(window).load(function() {
 			offValue: val,
 			overValue: ((liTagH-$(this).find('.grid-copy').height())/2)
 		});
-		console.log(val);
+
 		$(this).find('.copy').css({
 			opacity: 0,
 			marginTop: 50
