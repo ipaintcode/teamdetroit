@@ -91,8 +91,8 @@
 			</aside>
 			
 			<ul class="secondary-nav">
-				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
-				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+				<li class="secondary-nav-prev"><a href="michele-silvestri.php">Previous</a></li>
+				<li class="secondary-nav-next"><a href="bob-mcclowry.php">Next</a></li>
 			</ul>
 		
 		</div>

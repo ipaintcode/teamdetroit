@@ -90,7 +90,7 @@
 			</aside>
 			
 			<ul class="secondary-nav">
-				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
+				<li class="secondary-nav-prev"><a href="bob-mcclowry.php">Previous</a></li>
 				<li class="secondary-nav-next"><a href="toby-barlow.php">Next</a></li>
 			</ul>
 		

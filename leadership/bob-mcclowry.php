@@ -88,8 +88,8 @@
 			</aside>
 			
 			<ul class="secondary-nav">
-				<li class="secondary-nav-prev"><a href="#previous">Previous</a></li>
-				<li class="secondary-nav-next"><a href="#next">Next</a></li>
+				<li class="secondary-nav-prev"><a href="andrew-weil.php">Previous</a></li>
+				<li class="secondary-nav-next"><a href="satish-korde.php">Next</a></li>
 			</ul>
 		
 		</div>
