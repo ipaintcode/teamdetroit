@@ -147,8 +147,8 @@
 			<li class=""><img src="_/img/culture/carousel/04_Frontier_Ruckus_May3_2010.jpg" alt=""></li>
 			<li class=""><img src="_/img/culture/carousel/05_Third_Eye_Blind_June15_2010.jpg" alt=""></li>
 			<li class=""><img src="_/img/culture/carousel/06_The_Juliets_-July20_2010-1.jpg" alt=""></li>
+			<li class=""><img src="_/img/culture/carousel/06_The_Juliets_-July20_2010-2.jpg" alt=""></li>
 			<li class=""><img src="_/img/culture/carousel/07_VV_Brown_August5_2010.jpg" alt=""></li>
-
 			<li class=""><img src="_/img/culture/carousel/08_Tokoyo_Police_Club_September21_2010-1.jpg" alt=""></li>
 			<li class=""><img src="_/img/culture/carousel/09_Tokoyo_Police_Club_September21_2010-2.jpg" alt=""></li>
 			<li class=""><img src="_/img/culture/carousel/10_Supergrass_July21_2008-1.jpg" alt=""></li>
@@ -158,22 +158,6 @@
 			<li class=""><img src="_/img/culture/carousel/14_Dressy_Bessy_November7_2008.jpg" alt=""></li>
 		</ul>
 	</div>
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 	<div class="segment-headline-wrapper clear below-carousel below-carousel-culture">
 		<h2 class="center min-max"><span class="segment-header-spacer"></span></h2>
