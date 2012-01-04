@@ -97,7 +97,7 @@
 							<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #78B9BA;"></div>
+						<div class="color-swatch" style="background: #07A5D2;"></div>
 						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
 					</a>
 				</li>
@@ -108,7 +108,7 @@
 							<p class="copy">Celebrate the season with free, streaming and downloadable Holiday tunes from Detroit artists.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #D57F57;"></div>
+						<div class="color-swatch" style="background: #711677;"></div>
 						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
 					</a>
 				</li>
@@ -119,14 +119,14 @@
 							<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #2D6F2F;"></div>
+						<div class="color-swatch" style="background: #08BC94;"></div>
 						<img src="_/img/culture/greening_of_detroit/button-greening.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
 					<a href="culture/movember.php">
 						<div class="grid-copy">
-							<h3 class="culture-title">Movember</h3>
+							<h3 class="culture-title">Our Epic<br />Movember</h3>
 							<p class="copy">United for the cause of men’s health, the men of Team Detroit sported a little upper crust during the month of November.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
@@ -152,7 +152,7 @@
 							<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #5C5B53;"></div>
+						<div class="color-swatch" style="background: #CC1A69;"></div>
 						<img src="_/img/culture/signal_return/button-SignalReturn.jpg" alt="Pink">
 					</a>
 				</li>

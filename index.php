@@ -111,7 +111,7 @@
 							<p class="copy">Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #31599C;"></div>
+						<div class="color-swatch" style="background: #8204A1;"></div>
 						<img src="_/img/projects/press_conference/thumb_large.jpg" alt="">
 					</a>
 				</li>
@@ -122,7 +122,7 @@
 							<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #BF441B;"></div>
+						<div class="color-swatch" style="background: #F3A214;"></div>
 						<img src="_/img/projects/focus_doug/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -133,7 +133,7 @@
 							<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #8F6B39;"></div>
+						<div class="color-swatch" style="background: #9E0120;"></div>
 						<img src="_/img/projects/lincoln_innovators/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -144,7 +144,7 @@
 							<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #2F322B;"></div>
+						<div class="color-swatch" style="background: #08BC94;"></div>
 						<img src="_/img/projects/carhartt/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -155,7 +155,7 @@
 							<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #2A4B76;"></div>
+						<div class="color-swatch" style="background: #04D9DB;"></div>
 						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -166,7 +166,7 @@
 							<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #4C4E4A;"></div>
+						<div class="color-swatch" style="background: #E12355;"></div>
 						<img src="_/img/projects/we_own_work/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -177,7 +177,7 @@
 							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #257698;"></div>
+						<div class="color-swatch" style="background: #07A5D2;"></div>
 						<img src="_/img/projects/sports_authority/thumb_large.jpg" alt="">
 					</a>
 				</li>
@@ -248,7 +248,7 @@
 							<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #5C5B53;"></div>
+						<div class="color-swatch" style="background: #CC1A69;"></div>
 						<img src="_/img/culture/signal_return/Button5_large.jpg" alt="Pink">
 					</a>
 				</li>
@@ -259,7 +259,7 @@
 							<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #78b9ba;"></div>
+						<div class="color-swatch" style="background: #07A5D2;"></div>
 						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
 					</a>
 				</li>
@@ -270,7 +270,7 @@
 							<p class="copy">Celebrate the season with free, streaming and downloadable Holiday tunes from Detroit artists.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #d57f57;"></div>
+						<div class="color-swatch" style="background: #711677;"></div>
 						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
 					</a>
 				</li>
@@ -281,7 +281,7 @@
 							<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #2D6F2F;"></div>
+						<div class="color-swatch" style="background: #08BC94;"></div>
 						<img src="_/img/culture/greening_of_detroit/button-greening.jpg" alt="">
 					</a>
 				</li>			
