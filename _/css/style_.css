@@ -407,6 +407,7 @@ ol.grid-ext-leader li h3 {
 .grid { 
 	width: 100%;
 	list-style: none;
+	overflow: hidden;
 }
 .grid li {
 	float: left;
@@ -421,6 +422,7 @@ ol.grid-ext-leader li h3 {
 	position: absolute;
 	top: 0; left: 20px;
 	z-index: 2;
+	overflow: hidden;
 }
 .grid li h3 {
 	margin-top: 20px;
