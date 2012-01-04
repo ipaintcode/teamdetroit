@@ -11,7 +11,7 @@ jQuery.cookie = function(key, value, options) {
 		}, 0);
 	}
 	
-	$('.content-info-social li').hover(function() {
+	$('.content-info-social li, .secondary-nav li').hover(function() {
 		if($(this).text() !== "Share →") {
 			$(this).stop().animate({opacity: ".5"}, 300);
 		}
