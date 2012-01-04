@@ -251,7 +251,7 @@ $(document).ready(function() {
 		});
 		
 		$(this).find('.color-swatch').stop().animate({
-			height: "102%",
+			height: $(this).find('img').height()+5,
 			opacity: ".9"
 		}, 300);
 		
@@ -472,31 +472,31 @@ $(document).ready(function() {
 			opacity: 0
 		});
 	});
-});
+	$(window).load(function() {
+		$('.home-work .grid li, .home-culture .grid li').each(function(index) {
+			
+			var liTagH = $(this).height();
+			var hTagH = $(this).find('h3').height();
+			var val = ((liTagH-hTagH)/2)-20;
 
-$(window).load(function() {
-	$('.home-work .grid li, .home-culture .grid li').each(function(index) {
-		
-		var liTagH = $(this).height();
-		var hTagH = $(this).find('h3').height();
-		var val = ((liTagH-hTagH)/2)-20;
+			$(this).find('.grid-copy').css({
+				marginTop: val
+			});
+			$(this).find('.grid-copy').attr({
+				offValue: val,
+				overValue: ((liTagH-$(this).find('.grid-copy').height())/2)
+			});
 
-		$(this).find('.grid-copy').css({
-			marginTop: val
+			$(this).find('.copy').css({
+				opacity: 0,
+				marginTop: 50
+			});
+			$(this).find('.grid-copy').animate({
+				opacity: 1
+			}, 300);
 		});
-		$(this).find('.grid-copy').attr({
-			offValue: val,
-			overValue: ((liTagH-$(this).find('.grid-copy').height())/2)
-		});
-
-		$(this).find('.copy').css({
-			opacity: 0,
-			marginTop: 50
-		});
-		$(this).find('.grid-copy').animate({
-			opacity: 1
-		}, 300);
 	});
+
 });
 
 /* optional triggers
