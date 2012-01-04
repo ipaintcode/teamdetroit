@@ -466,11 +466,13 @@ ol.grid-ext-leader li h3 {
 	z-index: 1;
 	position: absolute;
 	top: 0; left: 0;
+	overflow: hidden;
 }
 .grid li img {
 	width: 100%;
 	height: auto;
 	display: block;
+	overflow: hidden;
 }
 .grid .grid-over:hover .color-swatch {
 	opacity: .8;
