@@ -11,6 +11,15 @@ jQuery.cookie = function(key, value, options) {
 		}, 0);
 	}
 	
+	$('.content-info-social li').hover(function() {
+		if($(this).text() !== "Share →") {
+			$(this).stop().animate({opacity: ".5"}, 300);
+		}
+		
+	}, function() {
+		$(this).stop().animate({opacity: 1}, 300);
+	});
+
 	if ($('.on-now-title').text().length > 130) {
 		var onText = $('.on-now-title').text();
 		var tmpText = onText.substr(0, 130);
