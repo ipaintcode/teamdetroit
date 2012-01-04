@@ -14,45 +14,13 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
-	<title>Careers</title>
-	
-	<meta name="title" content="">
-	<meta name="description" content="">
-	<!-- Google will often use this as its description of your page/site. Make it good. -->
-	
-	<meta name="google-site-verification" content="">
-	<!-- Speaking of Google, don't forget to set your site up: http://google.com/webmasters -->
-	
-	<meta name="author" content="Team Detroit">
-	<meta name="Copyright" content="Copyright Team Detroit Here 2011. All Rights Reserved.">
+    <!-- Main meta - description : content -->
+    <meta name="description" content="Recognized by Advertising Age as one of the 10 best, Team Detroit provides a fulfilling, dynamic, and fun environment for employees who are looking to contribute." />
 
-	<!-- Dublin Core Metadata : http://dublincore.org/ -->
-	<meta name="DC.title" content="Project Name">
-	<meta name="DC.subject" content="What you're about.">
-	<meta name="DC.creator" content="Who made this site.">
-	
-	<!--  Mobile Viewport Fix
-	j.mp/mobileviewport & davidbcalhoun.com/2010/viewport-metatag 
-	device-width : Occupy full width of the screen in its current orientation
-	initial-scale = 1.0 retains dimensions instead of zooming out if page height > device height
-	maximum-scale = 1.0 retains dimensions instead of zooming in if page width < device width
-	-->
-	<!-- Uncomment to use; use thoughtfully!
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-	-->
+	<title>Team Detroit Careers | Current Jobs &amp; Career Opportunities | TeamDetroit.com</title>
 
 	<link rel="shortcut icon" href="/teamdetroit/_/img/favicon.ico">
-	<!-- This is the traditional favicon.
-		 - size: 16x16 or 32x32
-		 - transparency is OK
-		 - see wikipedia for info on browser support: http://mky.be/favicon/ -->
-		 
-	<link rel="apple-touch-icon" href="_/img/apple-touch-icon.png">
-	<!-- The is the icon for iOS's Web Clip.
-		 - size: 57x57 for older iPhones, 72x72 for iPads, 114x114 for iPhone4's retina display (IMHO, just go ahead and use the biggest one)
-		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
-		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
-	
+
 	<!-- CSS: screen, mobile & print are all in the same file -->	
 	<link rel="stylesheet" href="_/css/style_.css">
 	<link rel="stylesheet" href="_/css/style.css">
@@ -64,7 +32,7 @@
 
 <body>
 
-<div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
+<div class="wrapper">
  	
  	<?php include 'header.php'; ?>
  	

@@ -16,43 +16,6 @@
 
 	<title>Ford Social</title>
 
-	<meta name="title" content="">
-	<meta name="description" content="">
-	<!-- Google will often use this as its description of your page/site. Make it good. -->
-
-	<meta name="google-site-verification" content="">
-	<!-- Speaking of Google, don't forget to set your site up: http://google.com/webmasters -->
-
-	<meta name="author" content="Team Detroit">
-	<meta name="Copyright" content="Copyright Team Detroit Here 2011. All Rights Reserved.">
-
-	<!-- Dublin Core Metadata : http://dublincore.org/ -->
-	<meta name="DC.title" content="Project Name">
-	<meta name="DC.subject" content="What you're about.">
-	<meta name="DC.creator" content="Who made this site.">
-
-	<!--  Mobile Viewport Fix
-	j.mp/mobileviewport & davidbcalhoun.com/2010/viewport-metatag
-	device-width : Occupy full width of the screen in its current orientation
-	initial-scale = 1.0 retains dimensions instead of zooming out if page height > device height
-	maximum-scale = 1.0 retains dimensions instead of zooming in if page width < device width
-	-->
-	<!-- Uncomment to use; use thoughtfully!
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
-	-->
-
-	<link rel="shortcut icon" href="../_/img/favicon.ico">
-	<!-- This is the traditional favicon.
-		 - size: 16x16 or 32x32
-		 - transparency is OK
-		 - see wikipedia for info on browser support: http://mky.be/favicon/ -->
-
-	<link rel="apple-touch-icon" href="../_/img/apple-touch-icon.png">
-	<!-- The is the icon for iOS's Web Clip.
-		 - size: 57x57 for older iPhones, 72x72 for iPads, 114x114 for iPhone4's retina display (IMHO, just go ahead and use the biggest one)
-		 - To prevent iOS from applying its styles to the icon name it thusly: apple-touch-icon-precomposed.png
-		 - Transparency is not recommended (iOS will put a black BG behind the icon) -->
-
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">
 
@@ -63,7 +26,7 @@
 
 <body>
 
-<div class="wrapper"><!-- not needed? up to you: http://camendesign.com/code/developpeurs_sans_frontieres -->
+<div class="wrapper">
 
 	<?php include '../header.php'; ?>
 	
@@ -123,10 +86,10 @@
 
 				<div class="content-quote">
 
-					 {!-- <blockquote>
+					 <!--<blockquote>
 					 	<p>Viewers engaged with competitors—even affecting the outcome to create the first interactive reality web series.</p>
 					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
-					 </blockquote> --}
+					 </blockquote>-->
 				
 				</div>
 
