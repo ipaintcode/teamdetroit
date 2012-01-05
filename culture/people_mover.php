@@ -103,7 +103,7 @@
 			</aside>
 			
 			<ul class="secondary-nav">
-				<li class="secondary-nav-prev"><a href="signal-return.php">Previous</a></li>
+				<li class="secondary-nav-prev"><a href="signal_return.php">Previous</a></li>
 				<li class="secondary-nav-next"><a href="love_detroit.php">Next</a></li>
 			</ul>
 		
