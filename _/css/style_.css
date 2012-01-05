@@ -341,26 +341,42 @@ header {
 	float: left;
 }
 
-.color-swatch-leader {
+ol.color-swatch-leader {
 	background: #d31e4e;
-	box-shadow: inset 0 0 0 rgb(144,20,53);
+/*	box-shadow: inset 0 0 0 rgb(144,20,53);*/
+			z-index: 101;
 }
 
 .grid-ext-leader .color-swatch-leader:nth-child(even) {
 	background: #b0002f;
-	box-shadow: inset 0 0 0 rgb(50,1	0,23);
+/*	box-shadow: inset 0 0 0 rgb(50,1	0,23);*/
+}
+
+ol.grid-ext-leader li {
+	height: 120px;
+}
+
+ol.grid-ext-leader img {
+	position: absolute;
+	top: 0;
+	left: 0;
 }
 
 ol.grid-ext-leader li h3 {
-	line-height: 18px;
+	position: absolute;
+	text-align: left;
+	z-index: 1000;
 	width: 80px;
+	line-height: 20px;
+	font-family: ;
+	font-size: 18px;
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
 	opacity: 0;
 	-moz-opacity: 0;
+	left: 15px;
+	top: 60px;
 	filter:alpha(opacity=0);
-	font-size: 16px;
-	text-align: center;
-	left: -5px;
-	text-shadow: rgba(0, 0, 0, .1) 3px 3px 0;
+/*	text-shadow: rgba(0, 0, 0, .1) 3px 3px 0;*/
 }
 
 .main-nav li a {

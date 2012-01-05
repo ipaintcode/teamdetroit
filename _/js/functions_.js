@@ -162,15 +162,20 @@ $(document).ready(function() {
 			});
 
 			$('.friends-list').css('opacity', 0);
-			$('.friends-list').html('<img src="_/img/aboutus/friends-list.png" alt="Friends List">');
-			$('.friends-list').animate({
-				opacity: 1
-			}, 600, function() {
-				$('body').css('backgroundColor', '#c80535');
+			
+			
+			$('body').stop().animate({
+				'backgroundColor': '#C80535'
+			}, 300, function() {
+				$('.friends-list').html('<img src="_/img/aboutus/friends-list.png" alt="Friends List">');
+				$('.friends-list').stop().animate({
+					opacity: 1
+				}, 500);
 			});
+			
 			$(window).scrollTop(0);
 			$('.friends-list').mousedown(function(e) {
-				$('.friends-list').animate({
+				$('.friends-list').stop().animate({
 					opacity: 0
 				}, 300, function() {
 					$('.friends-list').html('');
@@ -268,11 +273,11 @@ $(document).ready(function() {
 
 		$(this).find('.copy').stop().delay(200).animate({
 			opacity: 1,
-			marginTop: "55%"
+			top: 40
 		}, 300);
 		$(this).find('h3').stop().animate({
 			opacity: 1,
-			top: -10
+			top: 18
 		}, 300).addClass('addShadow');
 		$(this).find('.arrow').stop().animate({
 			right: -60
@@ -281,8 +286,7 @@ $(document).ready(function() {
 		$(this).find('.view-project').stop().animate({
 			"right": -100
 		}, 300);
-		$(this).find('.color-swatch').stop().animate({
-			boxShadow: '0 0 0',
+		$(this).find('.color-swatch-leader').stop().animate({
 			opacity: 0
 		}, 300, function() {
 			$(this).css('height', 0);
@@ -293,7 +297,7 @@ $(document).ready(function() {
 		}, 300);
 		$(this).find('h3').stop().animate({
 			opacity: 0,
-			top: 20
+			top: 60
 		}, 300).removeClass('addShadow');
 		$(this).find('.arrow').stop().delay(200).animate({
 			right: 15
@@ -487,7 +491,7 @@ $(document).ready(function() {
 				marginTop: $(this).find('.grid-copy').attr('offValue')
 			}, 300);
 		});
-
+			$('ol.grid-ext-leader li h3').css({opacity: 0});
 	$(window).load(function() {
 		$('.home-work .grid li, .home-culture .grid li').each(function(index) {
 			
@@ -512,7 +516,7 @@ $(document).ready(function() {
 			}, 300);
 
 			$('.grid li h3').stop().animate({opacity: 1}, 200, function() {
-				
+			$('ol.grid-ext-leader li h3').css({opacity: 0});
 			});
 		});
 	});
