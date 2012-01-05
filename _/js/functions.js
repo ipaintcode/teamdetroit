@@ -279,6 +279,7 @@ $(document).ready(function (){
 		$(document).on("mouseover", ".activeCarousel h4", playBtnOver);
 		$(document).on("mouseout", ".activeCarousel h4", playBtnOut);
 		$(document).on("click", ".activeCarousel h4", playVideo);
+		$(document).on( "touchstart", ".activeCarousel h4", playVideo);
 		
 		function playBtnOver() {
 			$(this).animate({opacity: .5}, 300);
