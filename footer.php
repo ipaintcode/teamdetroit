@@ -1,5 +1,6 @@
 <footer class="footer fade-second">
 	<div class="center min-max">
+
 		<aside class="teamdetroit-facts-box single">
 			<!-- <div class="logo-white-headline">Team Detorit</div> -->
 			<!-- <ul>
@@ -9,7 +10,11 @@
 							<li>rotate goodies about TDi</li>
 							<li>rotate goodies about TDi</li>
 						</ul> -->
-			<img src="/teamdetroit/_/img/facts.png" alt="Facts" style="display: block;">
+			<h6 style="">Team Detroit</h6>
+			<img src="/teamdetroit/_/img/footer/01_footer_billboards.jpg" alt="Facts" style="display: block;">
+			<div class="footer-bottom">
+				
+			</div><!-- / -->
 			<!-- <span class="est-time">2:35<sup>am</sup></span>
 			<span class="est-weather-temp">72&deg;</span>
 			<span class="est-weather-icon"></span> -->

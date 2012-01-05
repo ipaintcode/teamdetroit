@@ -149,6 +149,31 @@ a:link {-webkit-tap-highlight-color: #fcd700;}
 ins {background-color: #fcd700; color: #000; text-decoration: none;}
 mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: bold;}
 
+footer .teamdetroit-facts-box {
+
+}
+
+.teamdetroit-facts-box h6 {
+	background: #1F1F1F url("/teamdetroit/_/img/teamdetroit_alt.png") no-repeat center left;
+	background-position-x: 20px; 
+	width: 305px; height: 45px;
+	border-bottom: 1px dashed #999999;
+	padding-top: 19px;
+	margin-right: 20px;
+	text-indent: -9999px;
+}
+
+.footer-bottom {
+		width: 305px; 
+	border-top: 1px dashed #999999;
+	padding-bottom: 20px;
+	background: #1F1F1F;
+}
+
+.teamdetroit-facts-box img {
+	width: 305px;
+}
+
 /* @font-face styles!
 -------------------------------------------------------------------------------*/
 
