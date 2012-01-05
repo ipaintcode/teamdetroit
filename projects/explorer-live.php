@@ -174,14 +174,11 @@
 <script src="../_/js/jquery.easing.1.3.js"></script>
 <script src="../_/js/functions.js"></script>
 
-<!-- Asynchronous google analytics; this is the official snippet.
-	 Replace UA-XXXXXX-XX with your site's ID and uncomment to enable.
-
 <script>
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-XXXXXX-XX']);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageview', 'teamdetroit:work:Explorer Live']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -190,7 +187,6 @@
   })();
 
 </script>
--->
 
 </body>
 </html>
