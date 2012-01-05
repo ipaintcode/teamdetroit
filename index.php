@@ -44,7 +44,7 @@
 					<div class="flexslider">
 				    <ul class="slides">
 				    	<li>
-				    		<a href="/teamdetroit"><img src="_/img/home/billboard.png" /></a>
+				    		<a href="aboutus/who-we-are.php"><img src="_/img/home/billboard.png" /></a>
 				    	</li>
 				    	<li>
 							<a href="projects/focus-doug.php"><img src="_/img/home/billboard-focus_doug.jpg" /></a>
