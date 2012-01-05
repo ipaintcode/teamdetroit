@@ -11,6 +11,12 @@ jQuery.cookie = function(key, value, options) {
 		}, 0);
 	}
 	
+	if(getAnchor == 'weloveit') {
+		$('html,body').stop().delay(100).animate({
+			scrollTop: 1630
+		}, 0);
+	}
+	
 	$('.content-info-social li, .secondary-nav li').hover(function() {
 		if($(this).text() !== "Share →") {
 			$(this).stop().animate({opacity: ".5"}, 300);
@@ -148,13 +154,10 @@ function wdetPlayer() {
 }
 wdetPlayer();
 
-
-
-
 /* trigger when page is ready */
 $(document).ready(function (){
 	
-	$('.gridbox, .close-video').hover(function() {
+	$('.gridbox, .close-video, .content-quote a').hover(function() {
 		$(this).stop().animate({opacity: ".5"}, 300);
 	}, function() {
 		$(this).stop().animate({opacity: 1}, 300);

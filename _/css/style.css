@@ -539,6 +539,18 @@ div.content-info-alt p {
 	font-size: 26px;
 }
 
+.content-quote img {
+	display: block;
+}
+
+.content-quote a {
+	display: block;
+	margin-top: 8px;
+	text-indent: -9999px;
+	background: url('../img/aboutus/black_arrow.png') no-repeat scroll top left;
+	width: 88px; height: 88px;
+}
+
 .content-quote-author {
 	margin-top: 15px;
 	line-height: 14px;

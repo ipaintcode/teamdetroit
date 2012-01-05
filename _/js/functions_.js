@@ -204,6 +204,19 @@ $(document).ready(function() {
 			scrollTop: val
 		}, speed || 200);
 	}
+	var getAnchor = window.location.href.split("=")[1];
+	
+	if(getAnchor == 'leaders') {
+		$('html,body').stop().delay(100).animate({
+			scrollTop: 1630
+		}, 0);
+	}
+	
+	if(getAnchor == 'weloveit') {
+		$('html,body').stop().delay(100).animate({
+			scrollTop: 1031
+		}, 0);
+	}
 	
 	var clickedJob = "undefined";
 

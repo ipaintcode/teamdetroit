@@ -68,7 +68,7 @@
 							<p class="copy">Talent comes from all walks of life and all parts of the world. Luckily, they all know where to work.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #A17E7D;"></div>
+						<div class="color-swatch" style="background: #9E0120;"></div>
 						<img src="_/img/aboutus/who_we_are_thumb.jpg" alt="Bus">
 					</a>
 				</li>
@@ -79,7 +79,7 @@
 							<p class="copy">It’s hard to capture the magic of what we do in a one-minute video, but we gave it the old college try.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #AE914B;"></div>
+						<div class="color-swatch" style="background: #08BC94;"></div>
 						<img src="_/img/aboutus/what_we_do_thumb.jpg" alt="">
 					</a>
 				</li>
@@ -90,7 +90,7 @@
 							<p class="copy">While What Else We Do might sound like the leftovers, it’s actually one of our proudest collections of work. It’s what we do locally.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #4576C7;"></div>
+						<div class="color-swatch" style="background: #8204A1;"></div>
 						<img src="_/img/aboutus/what_else_we_do_thumb.jpg" alt="">
 					</a>
 				</li>
