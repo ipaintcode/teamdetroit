@@ -35,7 +35,7 @@
 	<section class="billboard">
 		<div class="center min-max">
 
-			<ul class="ind">
+			<ul>
 				<a href="#work">See Down Below!</a>
 				<li><img src="_/img/contact/reach.png" alt=""></li>
 			</ul>

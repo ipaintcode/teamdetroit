@@ -46,6 +46,18 @@ jQuery.cookie = function(key, value, options) {
 /* trigger when page is ready */
 $(document).ready(function() {
 	
+	$('a[href="#work"]').hover(function() {
+		$(this).stop().animate({opacity: ".5"}, 300);
+	}, function() {
+		$(this).stop().animate({opacity: 1}, 300);
+	});
+	$('a[href="#work"]').click(function(event) {
+		var tAnchor = $(this).offset().top;
+		$('html,body').stop().delay(100).animate({
+			scrollTop: tAnchor-58
+		}, 300);
+	});
+
 	$('.view-more-work').hover(function() {
 		$(this).stop().animate({color: "black"}, 300);
 	}, function() {
