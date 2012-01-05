@@ -304,13 +304,14 @@ $(document).ready(function (){
 			if (w === undefined) {
 				w = $('.activeCarousel img').width();
 			}
-			
-			$('.activeCarousel .youtube-video-holder').html('<iframe id="ytplayer" width="'+w+'" height="420" src="http://www.youtube.com/embed/'+$('.activeCarousel .youtube-video-holder').attr('data')+'?wmode=opaque&autoplay=1&autohide=1&showinfo=0&disablekb=1" frameborder="0" allowfullscreen></iframe>');
-			
+
+			var yt = "http://www.youtube.com/embed/"+$('.activeCarousel .youtube-video-holder').attr("data").toString();
+			$('.activeCarousel .youtube-video-holder').html('<iframe id="ytplayer" width="'+w+'" height="420" src="'+yt+'?wmode=opaque&autoplay=1&autohide=1&showinfo=0&disablekb=1" frameborder="0" allowfullscreen></iframe>');
+			_gaq.push(['_trackEvent', 'teamdetroit', 'video', yt]);
 		}
 		
 		$('.next-button, .prev-button, .next-button-stereo, .prev-button-stereo').hover(function() {
-			$(this).find('a').stop().animate({opacity: .5}, 300);
+			$(this).find('a').stop().animate({opacity: ".5"}, 300);
 		}, function() {
 			$(this).find('a').stop().animate({opacity: 1}, 300);
 		});

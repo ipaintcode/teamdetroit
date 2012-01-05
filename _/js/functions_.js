@@ -404,7 +404,9 @@ $(document).ready(function() {
 			$('.wrapper').stop().animate({
 				opacity: 0
 			}, 500, function() {
+				_gaq.push(['_trackEvent','teamdetroit','exits', window.location);
 				window.location.href = url;
+
 			});
 		} else if(url.indexOf("mailto") === 0) {
 			window.location.href = url;
