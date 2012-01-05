@@ -43,19 +43,19 @@
 				<img src="../_/img/projects/lincoln_innovators/billboard-1.jpg" alt="">
 				<div class="youtube-video-holder" data="s4Zv7TQCdMk"></div>
 			</li>
-			<li class="activeCarousel">
+			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/lincoln_innovators/billboard-2.jpg" alt="">
 				<div class="youtube-video-holder" data="1PN7zzGykFM"></div>
 			</li>
-			<li class="activeCarousel">
+			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/lincoln_innovators/billboard-3.jpg" alt="">
 				<div class="youtube-video-holder" data="M3vYoaR-Efc"></div>
 			</li>
-			<li class="activeCarousel">
+			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/lincoln_innovators/billboard-4.jpg" alt="">

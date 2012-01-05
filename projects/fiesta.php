@@ -43,7 +43,7 @@
 				<img src="../_/img/projects/fiesta/billboard_1.jpg" alt="">
 				<div class="youtube-video-holder" data="oGBWKApIo_U"></div>
 			</li>
-			<li class="activeCarousel">
+			<li class="">
 				<div class="close-video">x</div>
 				<h4></h4>
 				<img src="../_/img/projects/fiesta/billboard_2.jpg" alt="">
