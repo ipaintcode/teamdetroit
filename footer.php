@@ -2,6 +2,16 @@
 	<div class="center min-max">
 
 		<aside class="teamdetroit-facts-box single">
+			<div class="facts-inner">
+				
+				<h6>Team Detroit</h6>
+				<ul>
+					<li><img src="/teamdetroit/_/img/footer/01_footer_billboards.jpg" alt="Facts" style="display: block;"></li>
+		<!-- 			<li><img src="/teamdetroit/_/img/footer/02_footer_billboards.jpg" alt="Facts" style="display: block;"></li>
+					<li><img src="/teamdetroit/_/img/footer/03_footer_billboards.jpg" alt="Facts" style="display: block;"></li>
+					<li><img src="/teamdetroit/_/img/footer/04_footer_billboards.jpg" alt="Facts" style="display: block;"></li> -->
+				<ul>
+			</div><!-- / -->
 			<!-- <div class="logo-white-headline">Team Detorit</div> -->
 			<!-- <ul>
 							<li>rotate goodies about TDi</li>
@@ -10,11 +20,8 @@
 							<li>rotate goodies about TDi</li>
 							<li>rotate goodies about TDi</li>
 						</ul> -->
-			<h6 style="">Team Detroit</h6>
-			<img src="/teamdetroit/_/img/footer/01_footer_billboards.jpg" alt="Facts" style="display: block;">
-			<div class="footer-bottom">
-				
-			</div><!-- / -->
+			<!-- <h6 style="">Team Detroit</h6>
+			<img src="/teamdetroit/_/img/footer/01_footer_billboards.jpg" alt="Facts" style="display: block;"> -->
 			<!-- <span class="est-time">2:35<sup>am</sup></span>
 			<span class="est-weather-temp">72&deg;</span>
 			<span class="est-weather-icon"></span> -->
