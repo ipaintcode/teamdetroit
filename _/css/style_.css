@@ -843,7 +843,7 @@ footer .facts-inner ul li img {
 footer .facts-prev {
 	position: absolute;
 	left: 10px;
-	top: 54%;
+	top: 47%;
 	font-size: 15px;
 	z-index: 100;
 }
@@ -851,7 +851,7 @@ footer .facts-prev {
 footer .facts-next {
 	position: absolute;
 	right: 10px;
-	top: 54%;
+	top: 47%;
 	font-size: 15px;
 	z-index: 100;
 }
