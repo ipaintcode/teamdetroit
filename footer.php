@@ -4,10 +4,10 @@
 		<aside class="teamdetroit-facts-box single">
 			<div class="facts-inner">
 				
-				<h6>Team Detroit</h6>
-				<div class="facts-prev">&larr;</div>
-				<div class="facts-next">&rarr;</div>
-				<div class="facts-holder">
+				<h6 onselectstart="return false;" ondragstart="return false;">Team Detroit</h6>
+				<div onselectstart="return false;" ondragstart="return false;" class="facts-prev">&larr;</div>
+				<div onselectstart="return false;" ondragstart="return false;" class="facts-next">&rarr;</div>
+				<div onselectstart="return false;" ondragstart="return false;" class="facts-holder">
 					<ul>
 						<li><img src="/teamdetroit/_/img/footer/01_footer_billboards.jpg" alt="Facts"></li>
 						<li><img src="/teamdetroit/_/img/footer/02_footer_billboards.jpg" alt="Facts"></li>
