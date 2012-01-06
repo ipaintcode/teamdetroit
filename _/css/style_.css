@@ -990,6 +990,7 @@ footer .facts-next {
 	font-size: 33px;
 	font-family: "ProximaNovaBold";
 	padding-bottom: 10px;
+	color: #DBDADA;
 }
 
 .est-weather-temp {
@@ -997,10 +998,14 @@ footer .facts-next {
 	font-size: 33px;
 	font-family: "ProximaNovaBold";
 	float: right;
+	color: #DBDADA;
 }
 
 span.condition {
 	font-size: 15px;
+	background: url(../img/footer/weather-icon.png) no-repeat center left;
+	width: 37px; height: 30px;
+	display: inline-block;
 }
 
 .rows-jobs li {

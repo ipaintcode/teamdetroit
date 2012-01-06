@@ -34,7 +34,7 @@ $information = $xml->xpath("/xml_api_reply/weather/forecast_information");
 $current = $xml->xpath("/xml_api_reply/weather/current_conditions");
 $forecast_list = $xml->xpath("/xml_api_reply/weather/forecast_conditions");
 ?>
-            <?= $current[0]->temp_f['data'] ?>&deg; F
+            <?= $current[0]->temp_f['data'] ?>&deg;
             <span class="condition"></span>
             <!-- <?= $current[0]->condition['data'] ?> -->
            </span>
