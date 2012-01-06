@@ -32,16 +32,29 @@
 	
 	<div id="billboard-spacer"></div>
 	
-	<div class="billboard-wrapper billboard-ext-leaders">
-		<ul>
-			<li><img src="../_/img/aboutus/what_we_do.jpg" alt=""></li>
-			<li><img src="../_/img/aboutus/what_else_we_do.jpg" alt=""></li>
-			<li><img src="../_/img/aboutus/who_we_are.jpg" alt=""></li>
+	<div class="billboard-wrapper billboard-ext-carousel">
+		<ul class="fluidCarousel">
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/aboutus/what_else_we_do/billboard_1.jpg" alt="">
+				<div class="youtube-video-holder" data="TLOUsMu-GBo"></div>
+			</li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard_2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard_3.jpg" alt=""></li>
 		</ul>
 	</div>
 
-	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">What Else We Do</span></h2>
+	<div class="segment-headline-wrapper clear below-carousel">
+		
+		<h2 class="center min-max"><a href="../work.php" alt="Back to Work"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">What Else We Do</span></h2>
+		<div class="carousel-navigation center min-max">
+			<ul class="carousel-controller">
+				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
+				<li class="page-nate"><span class="page-of">1</span> of <span>12</span></li>
+				<li class="next-button"><a href="#next">Next &rarr;</a></li>
+			</ul>
+		</div>
 	</div>
 
 	<div class="content-wrapper">
