@@ -424,7 +424,7 @@ $(document).ready(function (){
 			$('.facts-holder ul').stop().animate({
 				left: parseInt((factsAt*259)*-1, 10),
 				opacity: ".99"
-			}, 300);	
+			}, 300);
 		} else {
 			factsAt += 1;
 			if (factsAt === 4) {
