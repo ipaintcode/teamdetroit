@@ -798,6 +798,7 @@ footer .facts-inner {
 	padding: 0 20px;
 	margin-right: 20px;
 	height: 100%;
+	position: relative;
 }
 
 footer .facts-inner h6 {
@@ -806,14 +807,53 @@ footer .facts-inner h6 {
 	text-indent: -9999px;
 }
 
-footer .facts-inner ul {
+footer .facts-holder {
 	position: relative;
 	border-top: 1px dashed #777777;
-	padding-bottom: 10px;
+	border-bottom: 1px dashed #777777;
+	margin-bottom: 80px;
+	height: 230px;
+	width: 259px;
+	overflow: hidden;
+}
+
+footer .facts-holder:after {
+	position: absolute;
+	content: url("../img/footer/right.png");
+	right: 0px;
+}
+
+footer .facts-holder ul {
+	position: absolute;
+	left: 0;
+	height: 230px;
+
 }
 
 footer .facts-inner ul li {
+	position: absolute;
+	top: 0; left: 0;height: 230px;
+}
 
+footer .facts-inner ul li img {
+	height: 230px;
+}
+
+
+footer .facts-prev {
+	position: absolute;
+	left: 10px;
+	top: 54%;
+	font-size: 15px;
+	z-index: 100;
+}
+
+footer .facts-next {
+	position: absolute;
+	right: 10px;
+	top: 54%;
+	font-size: 15px;
+	z-index: 100;
 }
 
 /*.
