@@ -9,10 +9,10 @@
 				<div onselectstart="return false;" ondragstart="return false;" class="facts-next">&rarr;</div>
 				<div onselectstart="return false;" ondragstart="return false;" class="facts-holder">
 					<ul>
-						<li><img src="/teamdetroit/_/img/footer/01_footer_billboards.jpg" alt="Facts"></li>
+						<li><img src="/teamdetroit/_/img/footer/04_footer_billboards.jpg" alt="Facts"></li>
 						<li><img src="/teamdetroit/_/img/footer/02_footer_billboards.jpg" alt="Facts"></li>
 						<li><img src="/teamdetroit/_/img/footer/03_footer_billboards.jpg" alt="Facts"></li>
-						<li><img src="/teamdetroit/_/img/footer/04_footer_billboards.jpg" alt="Facts"></li>
+						<li><img src="/teamdetroit/_/img/footer/01_footer_billboards.jpg" alt="Facts"></li>
 					<ul>
 				</div>
 				<span class="est-time"><?php

@@ -818,11 +818,11 @@ footer .facts-holder {
 	overflow: hidden;
 }
 
-footer .facts-holder:after {
+/*footer .facts-holder:after {
 	position: absolute;
 	content: url("../img/footer/right.png");
 	right: 0px;
-}
+}*/
 
 footer .facts-holder ul {
 	position: absolute;
