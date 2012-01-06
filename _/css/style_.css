@@ -387,9 +387,9 @@ ol.grid-ext-leader li h3 {
 	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
 }
 
-.main-nav li a:hover {
+/*.main-nav li a:hover {
 	color: black;
-}
+}*/
 
 /* billboard
 -------------------------------------------------------------------------------*/
@@ -783,6 +783,7 @@ footer, footer a {
 	color: #999;
 	text-decoration: none;
 	background: #383838;
+	font-weight: bold;
 }
 
 .client-list li {
@@ -938,11 +939,12 @@ footer .facts-next {
 .footer a {
 	color: white;
 	font-size: 10px;
+	font-weight: bold;
 }
 
-.footer a:hover {
+/*.footer a:hover {
 	color: black;
-}
+}*/
 
 .footer > div {
 	overflow: hidden;

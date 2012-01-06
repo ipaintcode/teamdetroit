@@ -45,6 +45,19 @@ jQuery.cookie = function(key, value, options) {
 
 /* trigger when page is ready */
 $(document).ready(function() {
+	$('.footer a').hover(function() {
+		$(this).stop().animate({color: "#ED1B2E"}, 200);
+	}, function() {
+		$(this).stop().animate({color: "#DBDADA"}, 200);
+	});
+
+	$('.main-nav li a').hover(function() {
+		$(this).stop().animate({color: "black"}, 200);
+	}, function() {
+		if($(this).attr('class') !== "active-nav") {
+			$(this).stop().animate({color: "#939598"}, 200);
+		}
+	});
 
 	var factsAt = 0;
 

@@ -16,7 +16,21 @@ jQuery.cookie = function(key, value, options) {
 			scrollTop: 1630
 		}, 0);
 	}
-	
+
+	$('.footer a').hover(function() {
+		$(this).stop().animate({color: "#ED1B2E"}, 200);
+	}, function() {
+		$(this).stop().animate({color: "#DBDADA"}, 200);
+	});
+
+	$('.main-nav li a').hover(function() {
+		$(this).stop().animate({color: "black"}, 200);
+	}, function() {
+		if($(this).attr('class') !== "active-nav") {
+			$(this).stop().animate({color: "#939598"}, 200);
+		}
+	});
+
 	$('.content-info-social li, .secondary-nav li').hover(function() {
 		if($(this).text() !== "Share →") {
 			$(this).stop().animate({opacity: ".5"}, 300);

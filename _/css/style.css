@@ -652,11 +652,12 @@ div.content-info-alt p {
 .footer a {
 	color: white;
 	font-size: 10px;
+	font-weight: bold;
 }
 
-.footer a:hover {
+/*.footer a:hover {
 	color: black;
-}
+}*/
 
 .footer > div {
 	overflow: hidden;
