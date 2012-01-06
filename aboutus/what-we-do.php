@@ -34,9 +34,9 @@
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="../_/img/aboutus/who_we_are.jpg" alt=""></li>
-			<li><img src="../_/img/aboutus/what_we_do.jpg" alt=""></li>
-			<li><img src="../_/img/aboutus/what_else_we_do.jpg" alt=""></li>
+			<li><img src="../_/img/aboutus/who_we_are/who_we_are.jpg" alt=""></li>
+			<li><img src="../_/img/aboutus/what_we_do/what_we_do.jpg" alt=""></li>
+			<li><img src="../_/img/aboutus/what_else_we_do/billboard_1.jpg" alt=""></li>
 			<!--http://www.youtube.com/watch?v=S25Isin35i4&feature=youtu.be-->
 		</ul>
 	</div>

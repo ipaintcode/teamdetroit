@@ -69,7 +69,7 @@
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #9E0120;"></div>
-						<img src="_/img/aboutus/who_we_are_thumb.jpg" alt="Bus">
+						<img src="_/img/aboutus/who_we_are/thumb.jpg" alt="Bus">
 					</a>
 				</li>
 				<li class="single">
@@ -80,7 +80,7 @@
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #08BC94;"></div>
-						<img src="_/img/aboutus/what_we_do_thumb.jpg" alt="">
+						<img src="_/img/aboutus/what_we_do/thumb.jpg" alt="">
 					</a>
 				</li>
 				<li class="single">
@@ -91,7 +91,7 @@
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #8204A1;"></div>
-						<img src="_/img/aboutus/what_else_we_do_thumb.jpg" alt="">
+						<img src="_/img/aboutus/what_else_we_do/thumb.jpg" alt="">
 					</a>
 				</li>
 			</ul>
