@@ -14,11 +14,33 @@
 						<li><img src="/teamdetroit/_/img/footer/03_footer_billboards.jpg" alt="Facts"></li>
 						<li><img src="/teamdetroit/_/img/footer/04_footer_billboards.jpg" alt="Facts"></li>
 					<ul>
-				</div><!-- / -->
+				</div>
+				<span class="est-time"><?php
+					date_default_timezone_set("America/Detroit"); 
+
+									echo date("g");
+		
+				 ?>:<?php
+					date_default_timezone_set("America/Detroit"); 
+									echo date("i");
+		
+				 ?><sup><?php
+					date_default_timezone_set("America/Detroit"); 
+					echo date("a");
+				?></sup></span>
+				<span class="est-weather-temp"><?
+$xml = simplexml_load_file('http://www.google.com/ig/api?weather=detroit');
+$information = $xml->xpath("/xml_api_reply/weather/forecast_information");
+$current = $xml->xpath("/xml_api_reply/weather/current_conditions");
+$forecast_list = $xml->xpath("/xml_api_reply/weather/forecast_conditions");
+?>
+            <?= $current[0]->temp_f['data'] ?>&deg; F
+            <span class="condition"></span>
+            <!-- <?= $current[0]->condition['data'] ?> -->
+           </span>
+				<span class="est-weather-icon"></span>
 			</div>
-			<!-- <span class="est-time">2:35<sup>am</sup></span>
-			<span class="est-weather-temp">72&deg;</span>
-			<span class="est-weather-icon"></span> -->
+			
 		</aside>
 		<ul class="footer-nav double">
 			<li class="twentyfive">

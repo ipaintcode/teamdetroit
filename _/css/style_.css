@@ -811,7 +811,7 @@ footer .facts-holder {
 	position: relative;
 	border-top: 1px dashed #777777;
 	border-bottom: 1px dashed #777777;
-	margin-bottom: 80px;
+	margin-bottom: 20px;
 	height: 230px;
 	width: 259px;
 	overflow: hidden;
@@ -983,6 +983,24 @@ footer .facts-next {
 
 .twentyfive ul li:first-child {
 	margin-top: 7px;
+}
+
+.est-time {
+	display: inline-block;
+	font-size: 33px;
+	font-family: "ProximaNovaBold";
+	padding-bottom: 10px;
+}
+
+.est-weather-temp {
+	display: inline-block;
+	font-size: 33px;
+	font-family: "ProximaNovaBold";
+	float: right;
+}
+
+span.condition {
+	font-size: 15px;
 }
 
 .rows-jobs li {
