@@ -386,6 +386,44 @@ $(document).ready(function (){
 
 	});
 
+		var factsAt = 0;
+
+	$('.facts-inner ul li').each(function(index) {
+		$(this).css('left', index*259)
+	});
+
+	$('.facts-prev, .facts-next').css({"cursor": "pointer"})
+	.hover(function() {
+		$(this).stop().animate({opacity: ".5"}, 300);
+	}, function() {
+		$(this).stop().animate({opacity: 1}, 300);
+	});
+
+	$('.facts-prev, .facts-next').click(function(event) {
+		var way = ($(this).attr('class'));
+		if (way === "facts-next") {
+			factsAt += 1;
+			if (factsAt === 4) {
+				factsAt = 0;
+			}
+			$('.facts-holder ul').stop().animate({
+				left: parseInt((factsAt*259)*-1)
+			}, 300);
+			
+		} else {
+		
+			factsAt -= 1;
+			if (factsAt === -1) {
+				factsAt = 3;
+			}
+			
+			$('.facts-holder ul').stop().animate({
+				left: parseInt((factsAt*259)*-1)
+			}, 300);
+			
+		}
+	});
+
 	function goToByScroll(val, speed) {
 		$('html,body').animate({
 			scrollTop: val
