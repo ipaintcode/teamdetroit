@@ -40,14 +40,14 @@
 			
 			<li class="activeCarousel">
 				<div class="close-video">x</div>
-				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<h4></h4>
 				<img src="../_/img/projects/bosch/billboard-1.jpg" alt="">
 				<div class="youtube-video-holder" data="DImCDcr6OM4"></div>
 			</li>
 			
 			<li class="">
 				<div class="close-video">x</div>
-				<h4>Text overlay layer, Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
+				<h4></h4>
 				<img src="../_/img/projects/bosch/billboard-2.jpg" alt="">
 				<div class="youtube-video-holder" data="-Upqz1WvBNc"></div>
 			</li>

@@ -37,14 +37,15 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/scotts/billboard_1.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/scotts/billboard_2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/scotts/billboard_3.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/scotts/billboard_4.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/scotts/billboard_5.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/scotts/billboard_6.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/scotts/billboard_7.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/scotts/billboard_8.jpg" alt=""></li>
+			<li class="activeCarousel"><img src="../_/img/projects/scotts/billboard-1.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/scotts/billboard-2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/scotts/billboard-3.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/scotts/billboard-4.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/scotts/billboard-5.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/scotts/billboard-6.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/scotts/billboard-7.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/scotts/billboard-8.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/scotts/billboard-8.jpg" alt=""></li>
 		</ul>
 	</div>
 
