@@ -79,8 +79,12 @@
 					
 					<p>NFL Play 60 is a movement to get kids active for 60 minutes a day. Problem is, some kids don’t have the appropriate clothing or gear to play sports. Sports Authority started a program where people could donate used equipment and get a $10 cash card to use toward new gear.</p>
 
-					<p>We took an anthemic approach to promoting the program. The spot was going to run during the Super Bowl, after all. The result was a single-file line of children doing what’s right and donating their gear. Future Hall of Famer Michael Strahan spread the word and star running back Adrian Peterson even contributed some cleats to the cause.</p>	
-				
+					<p>We took an anthemic approach to promoting the program. The spot was going to run during the Super Bowl, after all. The result was a single-file line of children doing what’s right and donating their gear. Future Hall of Famer Michael Strahan spread the word and star running back Adrian Peterson even contributed some cleats to the cause.</p>
+					
+					<ul class="content-links">Sports Authority
+						<li><a href="http://www.sportsauthority.com/">http://www.sportsauthority.com/</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>

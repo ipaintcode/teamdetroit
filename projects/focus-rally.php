@@ -73,8 +73,7 @@
 			<li class=""><img src="../_/img/projects/focus_rally/billboard-5.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/focus_rally/billboard-6.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/focus_rally/billboard-7.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/focus_rally/billboard-8.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/focus_rally/billboard-9.jpg" alt=""></li>													
+			<li class=""><img src="../_/img/projects/focus_rally/billboard-8.jpg" alt=""></li>												
 		</ul>
 	</div>
 
