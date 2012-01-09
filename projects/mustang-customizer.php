@@ -39,7 +39,10 @@
 		<ul class="fluidCarousel">
 			<li class="activeCarousel"><img src="../_/img/projects/mustang_customizer/billboard-1.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-3.jpg" alt=""></li>												
+			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-3.jpg" alt=""></li>	
+			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-4.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-5.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-6.jpg" alt=""></li>											
 		</ul>
 	</div>
 
