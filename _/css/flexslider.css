@@ -6,7 +6,7 @@
  * Free to use under the MIT license.
  * http://www.opensource.org/licenses/mit-license.php
  */
- #container {width: 960px; height: 336px; margin: 0 auto;}
+ #container {width: 1440px; height: 336px; margin: 0 auto;}
 /* Browser Resets */
 .flex-container a:active,
 .flexslider a:active {outline: none;}
