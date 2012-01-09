@@ -306,7 +306,7 @@
 
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/01_23_game_win.jpg.jpg" alt="Billboard Bands"></li>
+			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/01_23_game_win.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/02_yelp.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/03_change.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/04_better.jpg" alt="Billboard Bands"></li>
