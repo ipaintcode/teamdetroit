@@ -45,7 +45,7 @@
 			<li class=""><img src="../_/img/projects/scotts/billboard-6.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/scotts/billboard-7.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/scotts/billboard-8.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/scotts/billboard-8.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/scotts/billboard-9.jpg" alt=""></li>
 		</ul>
 	</div>
 
