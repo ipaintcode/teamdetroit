@@ -306,14 +306,24 @@
 
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/Billboard_1.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_2.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_3.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_4.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/Billboard_5.jpg" alt="Billboard Bands"></li>											
+			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/01_23_game_win.jpg.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/02_yelp.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/03_change.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/04_better.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/05_play_field.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/06_Luchadors.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/07_truck.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/08_free_mags.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/09_chairs.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/10_plates.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/11_bands_01.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/12_bands_02.jpg" alt="Billboard Bands"></li>											
+			<li class=""><img src="_/img/careers/reason_we_love_it/13_draw.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/14_summer.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/15_foursquare.jpg" alt="Billboard Bands"></li>
 		</ul>
 	</div>
-		
+
 	<div class="segment-headline-wrapper clear below-carousel">
 		<h2 class="center min-max"><span class="segment-header-spacer"></span></h2>
 		<div class="carousel-navigation center min-max">
