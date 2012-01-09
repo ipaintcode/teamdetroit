@@ -65,7 +65,7 @@
 
 					<p>Since her return Sharon has blazed a trail to the top. Prior to her current position at Team Detroit, she worked in Strategic Planning and on the Events and Alliances Team before moving over to Account management. It was there that she lead the Ford Truck business to new heights, made notable by the fact that this was accomplished during one of the lowest points in automotive sales history. Her current role sees her helping to lead Ford to a greater foothold in the American marketplace.</p>
 
-					<p>Sharon lives in Grosse Pointe (as if there was any doubt) with her 16-year-old daughter and 9-year-old son. When not working, she can be often be found recruiting one of her neighbors’ kids to get into the auto business.</p>
+					<p>Sharon lives in Grosse Pointe (as if there was any doubt) with her 17-year-old daughter and 10-year-old son. When not working, she can often be found recruiting one of her neighbors’ kids to get into the auto business.</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>
