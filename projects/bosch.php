@@ -57,6 +57,8 @@
 			<li class=""><img src="../_/img/projects/bosch/billboard-5.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/bosch/billboard-6.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/bosch/billboard-7.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/bosch/billboard-8.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/bosch/billboard-9.jpg" alt=""></li>
 			
 		</ul>
 	</div>
