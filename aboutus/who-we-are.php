@@ -41,7 +41,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Who We are</span></h2>
+		<h2 class="center min-max"><span class="segment-header-spacer">Who We Are</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -52,7 +52,7 @@
 
 				<div class="content-info content-info-alt">
 
-					<p>Let&rsquo;s start on a Monday. Over a thousand Detroiters find themselves in one specific place: A four-story building made of the usual stuff (big windows, marble fa&ccedil;ade, steel). Really, it doesn&rsquo;t say much from the outside. There&rsquo;s no neon sign saying &ldquo;open,&rdquo; but the lot is full and the handles on the revolving doors are still warm. 8:56 a.m.</p>
+					<p>Let&rsquo;s start on a Monday. Over a thousand Detroiters find themselves in one specific place: A four-story building made of the usual stuff (big windows, marble fa&ccedil;ade, steel). Really, it doesn&rsquo;t say much from the outside. There&rsquo;s no neon sign saying &ldquo;open,&rdquo; but the lot is full and the handles on the revolving doors are still warm at 8:56 a.m.</p>
 
 					<p>What&rsquo;s the motivation? Why did you come in? Good clients, a paycheck, benefits, a nice cafeteria, clean bathrooms? Maybe all of the above. But that&rsquo;s not very romantic.</p>
 

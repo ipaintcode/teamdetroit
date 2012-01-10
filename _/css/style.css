@@ -279,8 +279,8 @@ body {
 .segment-headline-wrapper h2 a[alt]{
 	position:absolute;
 	text-decoration: none;
-		display: inline-block;
-		z-index: 1001;
+	display: inline-block;
+	z-index: 1001;
 }
 .segment-headline-wrapper h2 a[alt]:after{
 	content:attr(alt);
