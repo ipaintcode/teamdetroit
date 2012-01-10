@@ -414,20 +414,21 @@ $(document).ready(function (){
 	});
 
 	$('.facts-prev, .facts-next, .facts-inner ul li').click(function(event) {
+		var len = ($('.facts-inner ul li').length)
 		var way = ($(this).attr('class'));
 		if (way === "facts-prev") {
 			factsAt -= 1;
 			if (factsAt === -1) {
-				factsAt = 3;
+				factsAt = len-1;
 			}
 			
 			$('.facts-holder ul').stop().animate({
 				left: parseInt((factsAt*259)*-1, 10),
 				opacity: ".99"
-			}, 300);
+			}, 300);	
 		} else {
 			factsAt += 1;
-			if (factsAt === 4) {
+			if (factsAt === len) {
 				factsAt = 0;
 			}
 			$('.facts-holder ul').stop().animate({

@@ -37,11 +37,19 @@
 			<li class="activeCarousel">
 				<div class="close-video">x</div>
 				<h4></h4>
-				<img src="../_/img/aboutus/what_else_we_do/billboard_1.jpg" alt="">
+				<img src="../_/img/aboutus/what_else_we_do/billboard-1.jpg" alt="">
 				<div class="youtube-video-holder" data="TLOUsMu-GBo"></div>
 			</li>
-			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard_2.jpg" alt=""></li>
-			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard_3.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-2.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-3.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-4.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-5.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-6.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-7.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-8.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-9.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-10.jpg" alt=""></li>
+			<li class=""><img src="../_/img/aboutus/what_else_we_do/billboard-11.jpg" alt=""></li>
 		</ul>
 	</div>
 
