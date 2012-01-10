@@ -37,12 +37,19 @@
 	
 	<div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
-			<li class="activeCarousel"><img src="../_/img/projects/mustang_customizer/billboard-1.jpg" alt=""></li>
+			<li class="activeCarousel">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/mustang_customizer/billboard-7.jpg" alt="">
+				<div class="youtube-video-holder" data="al2SLdxSTxE"></div>
+			</li>
+			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-1.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-2.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-3.jpg" alt=""></li>	
 			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-4.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-5.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-6.jpg" alt=""></li>											
+			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-6.jpg" alt=""></li>
+			<li class=""><img src="../_/img/projects/mustang_customizer/billboard-8.jpg" alt=""></li>											
 		</ul>
 	</div>
 

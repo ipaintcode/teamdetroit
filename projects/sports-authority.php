@@ -40,6 +40,12 @@
 			<li class="activeCarousel">
 				<div class="close-video">x</div>
 				<h4></h4>
+				<img src="../_/img/projects/sports_authority/billboard-6.jpg" alt="">
+				<div class="youtube-video-holder" data="RBD2AtFTOFs"></div>
+			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
 				<img src="../_/img/projects/sports_authority/billboard-1.jpg" alt="">
 				<div class="youtube-video-holder" data="uGEm4sAmLm8"></div>
 			</li>

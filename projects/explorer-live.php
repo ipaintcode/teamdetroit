@@ -86,6 +86,12 @@
 				<img src="../_/img/projects/explorer_live/billboard-7.jpg" alt="">
 				<div class="youtube-video-holder" data="LTpNIwrwgtk"></div>
 			</li>
+			<li class="">
+				<div class="close-video">x</div>
+				<h4></h4>
+				<img src="../_/img/projects/explorer_live/billboard-9.jpg" alt="">
+				<div class="youtube-video-holder" data="iKOiQF18eLQ"></div>
+			</li>
 			<li class=""><img src="../_/img/projects/explorer_live/billboard-8.jpg" alt=""></li>
 		</ul>
 	</div>
