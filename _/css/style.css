@@ -468,6 +468,8 @@ header {
 
 .content-info .content-links li {
 	margin-top: 10px;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .content-info .content-links li a:hover {
