@@ -44,7 +44,7 @@
 	</section>
 
 	<div class="headline-wrapper">
-		<h2 class="center min-max"><span>Contact</span></h2>
+		<h2 class="center min-max"><span>Our Location</span></h2>
 	</div>
 	
 	<div class="google-overlay">
