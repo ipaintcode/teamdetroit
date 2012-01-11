@@ -96,8 +96,10 @@
 						<li><a href="http://www.facebook.com/BoschAutoParts">http://www.facebook.com/BoschAutoParts</a></li>
 					</ul>
 					
-					<ul class="content-links">iOS app
-						<li><a href="http://itunes.apple.com/us/app/bosch-light-em-up-dyno/id361276412?mt=8">http://itunes.apple.com/</a></li>
+					<ul class="content-links">Related Links
+						<li><a href="http://www.lightemup.com/">Check out the site</a></li>
+						<li><a href="http://www.facebook.com/BoschAutoParts">Check us out on facebook</a></li>
+						<li><a href="http://itunes.apple.com/us/app/bosch-light-em-up-dyno/id361276412?mt=8">Download the iPhone app</a></li>
 					</ul>
 					
 					<ul class="content-info-social">
