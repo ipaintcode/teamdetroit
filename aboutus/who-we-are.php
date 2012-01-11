@@ -34,14 +34,14 @@
 	
 	<div class="billboard-wrapper billboard-ext-leaders">
 		<ul>
-			<li><img src="../_/img/aboutus/what_else_we_do/billboard_2.jpg" alt=""></li>
 			<li><img src="../_/img/aboutus/who_we_are/who_we_are.jpg" alt=""></li>
-			<li><img src="../_/img/aboutus/what_we_do/what_we_do.jpg" alt=""></li>
+			<li><img src="../_/img/aboutus/who_we_are/who_we_are.jpg" alt=""></li>
+			<li><img src="../_/img/aboutus/who_we_are/who_we_are.jpg" alt=""></li>
 		</ul>
 	</div>
 
-	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><span class="segment-header-spacer">Who We Are</span></h2>
+	<div class="segment-headline-wrapper clear below-carousel">
+		<h2 class="center min-max"><a href="../aboutus.php" alt="Back to About Us"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Who We Do</span></h2>
 	</div>
 
 	<div class="content-wrapper">

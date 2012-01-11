@@ -481,8 +481,9 @@ header {
 	font-family: Helvetica, "Arial", sans-serif;
 }
 
-div.content-info-alt p {
-	padding-left: 0;
+div.content-info-alt p,
+div.content-info-alt ul {
+	padding-left: 60px;
 }
 
 .content-info a {
