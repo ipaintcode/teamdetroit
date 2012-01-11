@@ -106,7 +106,7 @@
 					
 					<p>Ford came to us with a totally reinvented Focus, but the challenge was overcoming a perception – especially among the young and socially connected – that it was nothing more than an econobox. </p>
 
-					<p>We knew your typical spokesperson couldn’t break through to this audience, so we collaborated with writers and directors from shows like The Office and The Simpsons to create characters who could. </p>
+					<p>We knew your typical spokesperson couldn’t break through to this audience, so we collaborated with writers and directors from shows like The Office and The Simpsons to create characters who could.</p>
 
 					<p>Doug, because he’s a puppet, could say and do almost anything he wanted, which ultimately earned him credibility among the naysayers. And if Doug ever strayed too far, John, the Ford Marketing Specialist, was always there to try to correct him.</p>
 

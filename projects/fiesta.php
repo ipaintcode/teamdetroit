@@ -101,7 +101,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>A grin from ear to ear. It&#x27;s so unabashedly happy, fun to watch and just so well choreographed--music, dancers, images and all.</p>
+					 	<p>I just had a chance to see the latest 2011 Ford Fiesta ad and it left me with a huge smile on my face. A grin from ear to ear.</p>
 					 	<p class="content-quote-author">&ndash; The Car Connection</p>
 					 </blockquote>
 				

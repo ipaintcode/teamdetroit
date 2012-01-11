@@ -63,7 +63,7 @@
 
 					<p>Toby joined JWT New York in early 2003 overseeing work on accounts as varied as HSBC, De Beers, Kimberly Clark and the Sundance Channel.</p>
 
-					<p>In 2006, Toby co-created and creative-directed the Bold Moves documentary, which captured Ford beginning its transition at a critical time. Intrigued by what he saw as a culture of change, Toby agreed to move to Detroit and become a part of Ford’s turnaround.</p>
+					<p>In 2006, Toby co-created and creative-directed the Bold Moves documentary, which captured Ford beginning its transition at a critical time. Intrigued by what he saw as a culture of change, Toby agreed to move to Detroit and become a part of the Ford turnaround.</p>
 
 					<p>In the past two years, Toby has been nominated for a Webby, been included in Communication Arts’ interactive annual, their design annual and their advertising annual. He has also won three One Show Pencils and a Cannes Lion. His favorite piece of advertising was the one that got him written up in the National Enquirer. But that’s a long story.</p>
 				

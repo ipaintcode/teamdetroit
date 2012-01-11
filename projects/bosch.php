@@ -85,7 +85,7 @@
 					
 					<h3>Nothing says road worthy like a tornado test.</h3>
 
-					<p>How do you prove that Bosch Icon Wiper Blades will perform when you need them, in even the worst rain, sleet and snow? Well, one way would be to prove they perform in the worst weather conditions on the planet.</p>
+					<p>How do you prove that Bosch Icon Wiper Blades will perform when you need them, in even the world&rsquo;s worst weather conditions? We teamed up with the gonzo meteorologists from The Discovery Channel&rsquo;s Storm Chasers.</p>
 
 					<p>And so that’s what we did. We put the Icon Wipers through the ultimate torture test. In 2010, TDI teamed up with the crew from the Storm Chasers, The Discovery Channel’s hit show about fearless meteorologists who pursue the world’s worst storms in a specially armored vehicle called The Dominator. As it turned out it was a Branded Content idea made in heaven. Or at least in the upper atmosphere. The partnership resulted in a truly exciting TV commercial, webisodes and a dedicated website. It also led to a rather exciting webpage takeover. Hey, can a tornado taking over a page being anything but dramatic?</p>
 					

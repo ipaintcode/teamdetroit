@@ -17,7 +17,7 @@
 	<!-- Leadership meta - description : content -->
 	<meta name="description" content="Sharon's current role sees her helping to lead Ford to a greater foothold in the American marketplace." />
 
-	<title>Sharon Wacker | Managing Director, Ford U.S. Business | Team Detroit</title>
+	<title>Sharon McGann Wacker | Managing Director, Ford U.S. Business | Team Detroit</title>
 
 	<link rel="shortcut icon" href="../_/img/favicon.ico">
 
@@ -46,7 +46,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><a href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Sharon Wacker</span><span class="segment-leader-title">(Managing Director, Ford U.S. Business)</span></h2>
+		<h2 class="center min-max"><a href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Sharon McGann Wacker</span><span class="segment-leader-title">(Managing Director, Ford U.S. Business)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -80,10 +80,10 @@
 
 				<div class="content-quote">
 
-					 <!--<blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
-					 </blockquote>-->
+					 <blockquote>
+					 	<p>Team Detroit and Ford have a strong partnership based in trust, respect and a passion for what we do. With that foundation, great things will be achieved.</p>
+					 	<p class="content-quote-author">&ndash; Sharon McGann Wacker<span></span></p>
+					 </blockquote>
 				
 				</div>
 

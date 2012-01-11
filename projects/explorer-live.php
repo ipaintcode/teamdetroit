@@ -118,7 +118,7 @@
 					
 					<h3>A 24/7, rapid-response reveal of an SUV. <span>(With celebrities to boot.)</span></h3>
 					
-					<p>Ford was completely reinventing the SUV to be greener and smarter, with a stunning suite of technology, spectacular fuel economy and a sleek, &ldquo;ripped&rdquo; physique. So we needed to reinvent the SUV launch.</p>
+					<p>Ford was completely reinventing the SUV to be greener and smarter, with a stunning suite of technology, excellent fuel economy and a sleek, &ldquo;ripped&rdquo; physique. So we needed to reinvent the SUV launch.</p>
 					
 					<p>Our first step? Dial up the social media. We built a program with richer, more complex, more intense uses of social media than had ever been used in a launch.</p>
 					
