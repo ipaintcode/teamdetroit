@@ -80,7 +80,7 @@
 
 					 <blockquote>
 					 	<p>Speed and courage. These two words must define our approach in the digital age &ndash; without them competitive advantage will be difficult, if not impossible to sustain.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<p class="content-quote-author">&ndash; Paul Venn <span></span></p>
 					 </blockquote>
 				
 				</div>
