@@ -22,7 +22,7 @@ $(document).ready(function() {
 			},
 			mapTypeId: google.maps.MapTypeId.ROADMAP
 			
-		};		
+		};
 		
 		// Calling the constructor, thereby initializing the map
 		var map = new google.maps.Map(document.getElementById('map'), options);

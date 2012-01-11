@@ -87,8 +87,8 @@
 
 					<p>We took an anthemic approach to promoting the program. The spot was going to run during the Super Bowl, after all. The result was a single-file line of children doing what’s right and donating their gear. Future Hall of Famer Michael Strahan spread the word and star running back Adrian Peterson even contributed some cleats to the cause.</p>
 					
-					<ul class="content-links">Sports Authority
-						<li><a href="http://www.sportsauthority.com/">http://www.sportsauthority.com/</a></li>
+					<ul class="content-links">Related Links
+						<li><a href="http://www.sportsauthority.com/">Check out the site</a></li>
 					</ul>
 					
 					<ul class="content-info-social">
