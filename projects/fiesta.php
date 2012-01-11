@@ -83,7 +83,11 @@
 					<p>We knew Ford was reaching out to Generation Y with the new Fiesta. The problem is most Gen Y-ers have grown tired of the song and dance they get from most advertisers. So, we created a campaign that gave them more song and dance. Literally. The commercials showed the many features of the Fiesta by choreographing them to a track from Edwin Sharpe and the Magnetic Zeroes.</p>
 					
 					<p>And the jaded, anti-commercial Gen Y-ers? Well, they paid attention to it. The campaign tapped into their emotions. They’re car ads that are simply unlike any other car ad you’ve ever seen.</p>
-				
+					
+					<ul class="content-links">Related Links
+						<li><a href="http://www.ford.com/cars/fiesta/">Check out the site</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>

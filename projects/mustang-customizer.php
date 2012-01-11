@@ -80,7 +80,14 @@
 					<p>The new Ford Mustang Customizer presented users with a base design for the V6, GT, Boss 302 or Shelby GT500 and let them run wild with it. From color to hood design to stripes and decals, we gave enthusiasts more ways than ever to make it their own.</p>
 					
 					<p>And because it’s not the type of car you hide, we made it easy for fans to connect through Facebook to share and store all of their customized Mustang models and encourage others to join in the fun. We also created a battle mode so they could compete against friends for bragging rights and opened it up to voting to let the people decide on the ultimate customized Mustang. Customizer apps for iPhone and Android allowed fans to build a dream Mustang on the go and ensured that no matter where you were at, you’d never have to back down from a battle.</p>
-				
+					
+					<ul class="content-links">Related Links
+						<li><a href="http://www.ford.com/cars/mustang/customizer/">Check out the site</a></li>
+						<li><a href="http://www.facebook.com/fordmustang?C5=fv-ext-a1b07c16d000721e14f12g03h14j11k22m4n0p20110607">Visit us on facebook</a></li>
+						<li><a href="http://itunes.apple.com/us/app/mustang-customizer/id466530587?ls=1&mt=8">Download the iPhone app</a></li>
+						<li><a href="https://market.android.com/details?id=com.ford.mustangcustomizer">Download the Android app</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>

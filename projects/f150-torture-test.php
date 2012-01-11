@@ -113,7 +113,11 @@
 					<p>Like 150,000 punishing miles on the dyno. 55 tons of timber hauled up a steep mountain grade. 11,300 pounds towed for 24 hours at full throttle. 1000 miles across the Baja desert. And a full-on throw-down against larger V8s in a grueling uphill race.</p>
 					
 					<p>In the end, Engine 448AA absorbed 165,000 miles of abuse, yet held to cross nearly every state line. We fried it, we froze it, we gave it hell. We beat ourselves to a pulp trying to kill it, but it just laughed in our face.</p>
-				
+					
+					<ul class="content-links">Related Links
+						<li><a href="http://www.ford.com/trucks/f150/experiencef150/">Check ou the site</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>

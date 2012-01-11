@@ -71,7 +71,9 @@
 
 					<p>But like Ford itself, Ford Social has way more good stuff to come. So whether it’s special events, contests, games, insider info or more, you’ll know that the world of Ford Social isn’t just a place to land, but a place to experience. Again and again.</p>
 					
-					<p>Welcome to <a href="http://social.ford.com/">social.ford.com</a></p>
+					<ul class="content-links">Related Links
+						<li><a href="http://social.ford.com/">Check out the site</a></li>
+					</ul>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>

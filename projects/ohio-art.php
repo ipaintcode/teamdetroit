@@ -78,7 +78,11 @@
 					<p>They’re called Nano Blocks. Tiny little building blocks that instantly cause grown adults to crumble into excited little kids. Stick ‘em together with a little imagination and you’d be surprised at what you can build.</p>
 					
 					<p>We wanted to show how much fun is crammed into those itty, bitty blocks. And this video captures it pretty well. A whimsical music track. Playful graphics. Lighthearted copy. It all added up to be way more than what our Ohio Art clients were looking for. And exactly what they needed.</p>
-				
+					
+					<ul class="content-links">Related Links
+						<li><a href="http://www.mynanoblock.com/site/">Check out the site</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>

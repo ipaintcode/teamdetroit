@@ -129,7 +129,12 @@
 					<p>Once we revealed the sheet metal, we knew the questions would ramp up. So Explorer Live got amped with a Rapid-Response “answer man” brought in to continue the conversation. Imagine: a giant automaker answering individual fans’ questions with text, photos even videos, sometimes within 48 hours of the question being asked.</p>
 					
 					<p>To generate even more buzz, we enlisted TV stars, musicians, and other celebrities to help us answer the barrage of questions. This drove almost a million people to watch the Explorer live content online, and each time they watched, they learned something new.</p>
-				
+					
+					<ul class="content-links">Related Links
+						<li><a href="http://www.facebook.com/#!/FordExplorer">Check us out on facebook</a></li>
+						<li><a href="http://www.youtube.com/user/Explorer?feature=watch">Watch us on youtube</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>

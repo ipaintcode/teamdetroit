@@ -83,7 +83,11 @@
 					<p>When Ford redesigned the Mustang, they didn’t completely change it. Sure, the new model got much better gas mileage than before, and was filled with more smart technology. But at the center of it all was the same adrenaline-inducing car that America fell in love with in 1964.</p>
 					
 					<p>The goal here was to show Mustang enthusiasts that making a car more fuel-efficient doesn’t mean you have to slow it down any.  And what better way to illustrate that than showing the Mustang do all the things that made it legendary? The work put a spotlight on the car’s performance, both on the track and at the pump.</p>
-				
+					
+					<ul class="content-links">Related Links
+						<li><a href="http://www.youtube.com/user/FordMustang">Check it out on youtube</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>

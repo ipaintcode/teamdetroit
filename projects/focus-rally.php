@@ -103,7 +103,11 @@
 					<p>Teams competed in varies challenges and tasks in hope of winning $100,000 and a brand-new 2012 Focus. </p>
 
 					<p>Audience members were encouraged to pick a team and become virtual teammates. Along the way, we picked up over 30,000 Focus followers that participated in live chats with competitor, voted on upgrades to award their team and roadblocks to hamper the competition. Gameplay was awarded with points, badges, unique experiences and the ultimate prize: a new Focus for themselves. </p>
-				
+					
+					<ul class="content-links">Related Links
+						<li><a href="http://focusrally.com/">Check out the site</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>

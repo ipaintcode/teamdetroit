@@ -81,6 +81,11 @@
 					<p>When Detroit&rsquo;s iconic art and design school, the College for Creative Studies, asked us to create a campaign for them, we knew outspending the competition wasn&rsquo;t an option. So, we decided to outthink them instead.  Our key insight came when we saw a group of our interns huddled next to our bulletin board looking at flyers. After realizing they all were CCS students, we put two and two together and realized it was possible to reach our tech-savvy target with one of the world&rsquo;s oldest forms of communication &mdash; posters.</p>
 				
 					<p>After we created this series of low-tech posters, something amazing happened. They went viral. People started sharing them though blogs, Facebook and Twitter.  People chuckled, then passed them along to their friends. Who knew you could blow up the Internet with a campaign full of print material?</p>
+					
+					<ul class="content-links">Related Links
+						<li><a href="http://www.insideccs.com/">Check out the site</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>
