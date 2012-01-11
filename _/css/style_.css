@@ -1229,7 +1229,6 @@ nav li a.active-nav {
 	position: relative;
 	height: 0;
 	z-index: 10;
-	background: red;
 }
 
 .social-map {

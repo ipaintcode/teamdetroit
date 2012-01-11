@@ -14,7 +14,10 @@
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<title>What Else We Do</title>
+	<!-- Leadership meta - description : content -->
+	<meta name="description" content="Team Detroit supports the city of Detroit by doing pro-bono work to benefit the arts, education, non profits and small businesses within the city limits." />
+
+	<title>Supporting Detroit - Team Detroit Pro-Bono Work | TeamDetroit.com</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">

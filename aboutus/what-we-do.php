@@ -13,8 +13,11 @@
 
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-	<title>What We Do</title>
+	
+	<!-- Aboutus meta - description : content -->
+	<meta name="description" content="What does Team Detroit do? The short answer: Look at our client roster. World-class advertising created, with insane dedication, by over one thousand Detroiters, all under one roof." />
+	
+	<title>Team Detroit Clients - What We Do | TeamDetroit.com</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">

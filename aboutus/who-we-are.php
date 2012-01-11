@@ -13,8 +13,11 @@
 
 	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-
-	<title>Who We Are</title>
+	
+	<!-- Aboutus meta - description : content -->
+	<meta name="description" content="You're here because you want to be. You admire the people you work with because they do something better than you. And you do something better than them." />
+	
+	<title>Who We Are | TeamDetroit.com</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">
