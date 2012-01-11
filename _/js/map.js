@@ -1,9 +1,9 @@
 // Need to create a Module Pattern called; GMAPS and only init it on pages that have map
 $(document).ready(function() {
 	
-	function buildMap() {
+	function buildMap(img, nLng) {
 		var lat = 42.315118;
-		var lng = -83.212001;
+		var lng = nLng;
 		var latlng = new google.maps.LatLng(lat, lng);
 		// Creating an object literal containing the properties we want to pass to the map
 		var options = {
@@ -32,14 +32,17 @@ $(document).ready(function() {
 			map: map,
 			title: 'Team Detroit',
 			clickable: true,
-			icon: '_/img/tdi-map-icon.png'
+			icon: img
 		});
 
 		$(window).resize(function(event) {
 			map.setCenter(latlng, 15);
 		});
 	}
-	buildMap();
+	
+	var img = ($('#map').attr('data') === "small") ? "_/img/tdi-map-icon-small.png" : "_/img/tdi-map-icon.png";
+	var nLng = ($('#map').attr('data') === "small") ? "-83.216801" : "-83.212001";
+	buildMap(img, nLng);
 });
 
 // var GMAPs = (function() {

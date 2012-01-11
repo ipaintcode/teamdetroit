@@ -78,7 +78,7 @@
 			</div>
 		</div>
 	</div>
-	<section id="map" class="gmap-ext"></section>
+	<section id="map" class="gmap-ext" data="small"></section>
 
 	<?php include 'footer.php'; ?>
 
