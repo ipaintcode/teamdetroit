@@ -45,7 +45,7 @@ $final = $parts[count($parts) - 1];
 			</div>
 
 			<div class="player">
-				<div class="player-holder"><audio controls autoplay="autoplay" src=""></audio></div>
+				<div class="player-holder"></div>
 			</div>
 
 		</div>
