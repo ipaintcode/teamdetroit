@@ -91,7 +91,10 @@
 
 					<p>We’re reviewing all the truck cards to choose appropriate work stories that we’ll feature in future videos. In some cases, Mike Rowe will appear in the video to help tell these stories of real people and the work they do with their Super Duty.</p>
 					
-				
+					<ul class="content-links">Related Links
+						<li><a href="http://www.ford.com/trucks/superduty/weownwork/">Check out the site</a></li>
+					</ul>
+					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#linkedin">Facebook</a></li>

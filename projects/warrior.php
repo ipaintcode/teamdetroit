@@ -79,6 +79,10 @@
 					<p>From the laboratory to the field and, in this case, into the woods, Manchine’s alpha male attitude continues to resonate with Warrior Lacrosse players. Warrior represents and equips the leaders of lacrosse and hockey. For TV, we combined the intensity of the game with Warrior’s alpha male attitude to create the Manchine campaign.</p>
 					
 					<p>&ldquo;Manchine&rdquo; became part of the player’s vernacular, and Warrior Lacrosse became a brand worth talking about.</p>
+					
+					<ul class="content-links">Related Links
+						<li><a href="http://www.warrior.com/">Check out the site</a></li>
+					</ul>
 				
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
