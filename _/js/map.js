@@ -2,8 +2,8 @@
 $(document).ready(function() {
 	
 	function buildMap() {
-		var lat = 42.315718;
-		var lng = -83.216801;
+		var lat = 42.315118;
+		var lng = -83.212001;
 		var latlng = new google.maps.LatLng(lat, lng);
 		// Creating an object literal containing the properties we want to pass to the map
 		var options = {
