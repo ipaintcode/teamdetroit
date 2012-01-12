@@ -115,7 +115,7 @@
 			
 			<ul class="secondary-nav">
 				<li class="secondary-nav-prev"><a href="focus-doug.php">Previous</a></li>
-				<li class="secondary-nav-next"><a href="css.php">Next</a></li>
+				<li class="secondary-nav-next"><a href="ccs.php">Next</a></li>
 			</ul>
 		
 		</div>

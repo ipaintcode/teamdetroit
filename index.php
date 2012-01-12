@@ -17,7 +17,7 @@
 	<!-- Main meta - description : content -->
 	<meta name="description" content="Team Detroit is a WPP owned U.S. ad agency recognized by Advertising Age as being one of the 10 best." />
 
-	<title>Team Detroit | Global Interactive Ad Agency | TeamDetroit.com</title>
+	<title>Team Detroit</title>
 
 	<link rel="shortcut icon" href="/teamdetroit/_/img/favicon.ico">
 
