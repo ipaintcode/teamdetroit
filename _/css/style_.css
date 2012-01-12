@@ -1225,10 +1225,76 @@ nav li a.active-nav {
 	color: black;
 }
 
+.contacts-grid li {
+	border-left: 1px dashed #c8c8c8;
+}
+
+.contacts-grid li.lastli {
+	width: 32%;
+	border-right: 1px dashed #c8c8c8;
+}
+
+.contacts-grid h5 {
+	padding-left: 30px;
+	font-size: 15px;
+	margin-top: 30px;
+	margin-bottom: 15px;
+	font-family: "ProximaNovaSemiBold", Arial, sans-serif;
+}
+
+.contacts-grid h6 {
+	padding-left: 30px;
+	font-size: 13px;
+	font-weight: bold;
+	font-style: italic;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.contacts-grid h6 span {
+	font-weight: normal;
+	display: block;
+	font-size: 12px;
+	margin-bottom: 15px;
+}
+
+ul.contacts-grid a {
+	color: #981D27;
+	padding-left: 30px;
+	display: block;
+	margin-bottom: 15px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+ul.contacts-grid a:before {
+	display: block;
+	content: url('../img/contact/email-icon.png');
+}
+
+.contacts-grid p {
+	color: #981D27;
+	padding-left: 30px;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin-bottom: 30px;
+}
+
+ul.contacts-grid p:before {
+	display: block;
+	content: url('../img/contact/phone-icon.png');
+}
+
 .google-overlay {
 	position: relative;
 	height: 0;
 	z-index: 10;
+}
+
+.gmap-extra {
+	border-top: 1px dashed #c8c8c8;
+	border-bottom: 1px dashed #c8c8c8;
 }
 
 .social-map {

@@ -44,10 +44,39 @@
 	</section>
 
 	<div class="headline-wrapper">
-		<h2 class="center min-max"><span>Our Location</span></h2>
+		<h2 class="center min-max"><span>Contacts</span></h2>
 	</div>
 	
-	<div class="google-overlay">
+	<section class="home-culture home-work">
+
+		<div class="center min-max">
+			
+			<ul class="grid contacts-grid">
+				<li class="single">
+					<h5>Press &amp; Media Relations</h5>
+					<h6>Andrea Scott <span>Integrated Communications Specialist</span></h6>
+					<a href="mailto:andrea.scott@teamdetroit.com">andrea.scott@teamdetroit.com</a>
+					<p>(313) 615 - 3159</p>
+				</li>
+				<li class="single">
+					<h5>Business Development</h5>
+					<h6>Brad Audet <span>Managing Director, Business Development</span></h6>
+					<a href="mailto:brad.audet@teamdetroit.com">brad.audet@teamdetroit.com</a>
+					<p>(313) 615 - 3016</p>
+				</li>
+				<li class="single lastli">
+					<h5>Recruitment</h5>
+					<h6>Lisbeth Keast <span>SVP, Director of Talent Acquisition</span></h6>
+					<a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
+					<p>(313) 615 - 3835</p>
+				</li>
+			</ul>
+
+		</div>
+
+	</section>
+	
+	<!-- <div class="google-overlay">
 		<div class="social-map center min-max">
 			<div class="social-map-inner">
 
@@ -77,8 +106,9 @@
 				</section>
 			</div>
 		</div>
-	</div>
-	<section id="map" class="gmap-ext" data="small"></section>
+	</div> -->
+	
+	<section id="map" class="gmap gmap-extra"></section>
 
 	<?php include 'footer.php'; ?>
 
