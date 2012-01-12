@@ -136,7 +136,7 @@
 	
 	<section class="happenings-headline">
 	    <h4 class="center min-max">Team Detroit Stereo 550</h4>
-		<p class="center min-max">Maybe Stephan Jenkins of Third Eye Blind put it best: &ldquo;Team Detroit is the greatest rock and roll audience in the world!&rdquo; Other bands were equally blown away after they played our intimate venue. Us? We&rsquo;re just thrilled to be able to host such talented performers and brag to our family and friends about who just dropped by for some tunes and conversation. Check out our Stereo 550 guest list so far&hellip;</p>
+		<p class="center min-max">Maybe Stephan Jenkins of Third Eye Blind put it best: &ldquo;Team Detroit is the greatest rock and roll audience in the world!&rdquo; Other bands were equally blown away after they played our intimate venue. Us? We&rsquo;re just thrilled to be able to host such talented performers and brag to our family and friends about who just dropped by for some tunes and conversation. Check out some of our distinguished Stereo 550 performers:</p>
 	</section>
 
 	<div class="billboard-wrapper billboard-ext-carousel">
