@@ -263,7 +263,7 @@
 		<h2 class="min-max center"><span>Contact</span></h2>
 	</div>
 
-	<section id="map" class="gmap large"></section>
+	<section id="map" class="gmap large" delay="true"></section>
 
 	<?php include 'footer.php'; ?>
 
