@@ -78,10 +78,10 @@
 
 				<div class="content-quote">
 
-					 <!--<blockquote>
-					 	<p>When you don’t script people, you get the honesty and credibility you just can’t get from a traditional ad.</p>
-					 	<p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p>
-					 </blockquote>-->
+					 <blockquote>
+					 	<p>Keep the people at Team Detroit by training and nurturing their specific skills</p>
+					 	<p class="content-quote-author">&ndash; Linda Taylor</p>
+					 </blockquote>
 				
 				</div>
 

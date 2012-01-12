@@ -82,7 +82,7 @@
 
 					 <blockquote>
 					 	<p>Where there's a will, there's a way</p>
-					 	<p class="content-quote-author">&ndash; Monik Sanghvi <span>(Ford U.S. Marketing Director)</span></p>
+					 	<p class="content-quote-author">&ndash; Monik Sanghvi</p>
 					 </blockquote>
 				
 				</div>

@@ -80,7 +80,7 @@
 
 					 <blockquote>
 					 	<p>Dedication and commitment builds great client relationships and outstanding results for the entire Ford team.</p>
-					 	<p class="content-quote-author">&ndash; Bob McClowry</span></p>
+					 	<p class="content-quote-author">&ndash; Bob McClowry</p>
 					 </blockquote>
 				
 				</div>

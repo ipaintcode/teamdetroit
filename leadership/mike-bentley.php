@@ -80,7 +80,7 @@
 
 					 <blockquote>
 					 	<p>Never throw the first punch, always the last.</p>
-					 	<p class="content-quote-author">&ndash; Mike Bentley</span></p>
+					 	<p class="content-quote-author">&ndash; Mike Bentley</p>
 					 </blockquote>
 				
 				</div>

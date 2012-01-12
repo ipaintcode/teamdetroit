@@ -82,7 +82,7 @@
 
 					 <blockquote>
 					 	<p>Team Detroit and Ford have a strong partnership based in trust, respect and a passion for what we do. With that foundation, great things will be achieved.</p>
-					 	<p class="content-quote-author">&ndash; Sharon McGann Wacker<span></span></p>
+					 	<p class="content-quote-author">&ndash; Sharon McGann Wacker</p>
 					 </blockquote>
 				
 				</div>

@@ -82,7 +82,7 @@
 
 					 <blockquote>
 					 	<p>The Park delivers strategically sound design solutions and keen attention to detail through execution.</p>
-					 	<p class="content-quote-author">&ndash; Mike Treppa</span></p>
+					 	<p class="content-quote-author">&ndash; Mike Trepp</p>
 					 </blockquote>
 				
 				</div>
