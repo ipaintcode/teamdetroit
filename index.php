@@ -44,7 +44,7 @@
 					<div class="flexslider">
 				    <ul class="slides">
 				    	<li>
-				    		<a href="aboutus/aboutus.php"><img src="_/img/home/billboard.png" /></a>
+				    		<a href="/aboutus.php"><img src="_/img/home/billboard.png" /></a>
 				    	</li>
 						<li>
 							<a href="projects/focus-rally.php"><img src="_/img/home/02_focus_billboard.jpg" /></a>
