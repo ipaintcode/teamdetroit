@@ -101,7 +101,7 @@
 						<li>Share &rarr;</li>
 						<li class="facebook"><a href="#social-url">Facebook</a></li>
 						<li class="twitter"><a href="#social-url">Twitter</a></li>
-						<li class="googleplus"><a href="#social-url">Google+</a></li>
+						<li class="googleplus"><a href="#social-url">Share to Google+</a></li>
 						<li class="emailit"><a href="#social-link">Email</a></li>
 					</ul>
 

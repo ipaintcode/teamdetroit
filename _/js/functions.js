@@ -149,6 +149,15 @@ $(document).ready(function (){
 	    );
 	}
 	
+	// function googlePlus(){
+	//     var w=480;var h=380;
+	//     var x=Number((window.screen.width-w)/2);
+	//     var y=Number((window.screen.height-h)/2);
+	//     window.open('https://plusone.google.com/_/+1/confirm?hl=en&url='+encodeURIComponent(location.href)+'
+	//       &title='+encodeURIComponent(document.title),'','width='+w+',height='+h+',left='+x+',top='+y+',
+	//       scrollbars=no');
+	// };
+	
 	function wdetPlayer() {
 		var audio = '<audio controls autoplay="autoplay" src="http://141.217.119.35:8000/;&amp;topspeed=on"></audio>';
 		var flash = "<embed src='http://www.shoutcast.com/media/popupPlayer_V19.swf?stationid=http://yp.shoutcast.com/sbin/tunein-station.pls?id=307298&play_status=1' quality='high' bgcolor='#ffffff' width='398' height='104' name='popupPlayer_V19' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http://www.adobe.com/go/getflashplayer' ></embed>"
@@ -193,12 +202,18 @@ $(document).ready(function (){
 				}, 500, function() {
 					window.location.href = url;
 				});
+			} else if (url === "#social-links") {
+				var social = ($(this).parent().attr('class'));
+				if (social === "facebook") {
+					window.open("http://www.facebook.com/sharer/sharer.php?u="+location.href, '_blank');
+				} else if (social === "twitter") {
+					window.open("https://twitter.com/intent/tweet?original_referer="+location.href, '_blank');
+					
+				}
 			}
-		}else {
-			
 		}
 	});
-	
+
 	var width = 0;
 	var which = 3;
 	

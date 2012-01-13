@@ -44,7 +44,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear below-carousel">
-		<h2 class="center min-max"><a href="../aboutus.php" alt="Back to About Us"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Who We Do</span></h2>
+		<h2 class="center min-max"><a href="../aboutus.php" alt="Back to About Us"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Who We Are</span></h2>
 	</div>
 
 	<div class="content-wrapper">
