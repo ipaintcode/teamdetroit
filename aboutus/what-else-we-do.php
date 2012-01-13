@@ -105,8 +105,7 @@
 					 	<p class="content-quote-author"></span></p>
 					 </blockquote>-->
 					
-					<img src="../_/img/aboutus/why_we_love_it.png" alt="Why We Love It">
-					<a href="../careers.php?p=weloveit" >&rarr;</a>
+					<a href="../careers.php?p=weloveit" ><img src="../_/img/aboutus/why_we_love_it.png" alt="Why We Love It"></a>
 				
 				</div>
 
