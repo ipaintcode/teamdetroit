@@ -557,13 +557,14 @@ div.content-info-alt ul {
 
 .content-quote img {
 	display: block;
+	margin-left: 50px;
 }
 
 .content-quote a {
 	display: block;
 	margin-top: 8px;
 	text-indent: -9999px;
-	background: url('../img/aboutus/black_arrow.png') no-repeat scroll top left;
+/*	background: url('../img/aboutus/black_arrow.png') no-repeat scroll top left;*/
 }
 
 .content-quote-author {
