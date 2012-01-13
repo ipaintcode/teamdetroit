@@ -93,7 +93,7 @@
 					
 					<p>To donate, please visit:</p>
 					
-					<p><a href="#">Us.movember.com</a></p>
+					<p><a href="http://us.movember.com">Us.movember.com</a></p>
 					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
