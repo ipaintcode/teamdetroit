@@ -65,10 +65,10 @@
 
 					<p>Married, with two children, Linda loves boating, traveling and theater.</p>
 				
-					<ul class="content-info-social">
+					<!-- <ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul>
+						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
+					</ul> -->
 
 				</div>
 				

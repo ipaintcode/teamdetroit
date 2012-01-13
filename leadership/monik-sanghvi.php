@@ -67,10 +67,10 @@
 
 					<p>Monik lives in suburban Detroit with his wife and two children. He reminds his kids of that Journey song all the time &mdash; after all, it is entitled &ldquo;Don’t Stop Believing.&rdquo;</p>
 				
-					<ul class="content-info-social">
+					<!-- <ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul>
+						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
+					</ul> -->
 
 				</div>
 				

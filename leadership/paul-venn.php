@@ -65,10 +65,10 @@
 
 					<p>Paul is a graduate of the University of Sussex in the UK. His passions outside the business of cars and communications are his wife Vickie, his four children and the arcane world of good stereo equipment and vinyl records (yes, they still sell them).</p>
 				
-					<ul class="content-info-social">
+					<!-- <ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul>
+						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
+					</ul> -->
 
 				</div>
 				

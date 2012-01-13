@@ -65,10 +65,10 @@
 
 					<p>Mike is married with one daughter. He won’t say if they call it “soccer” or “football”.</p>
 				
-					<ul class="content-info-social">
+					<!-- <ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul>
+						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
+					</ul> -->
 
 				</div>
 				

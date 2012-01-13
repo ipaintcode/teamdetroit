@@ -67,10 +67,10 @@
 
 					<p>On a personal note, Michele loves eating, drinking great wine,  earned a Black Belt (which reserves her the right to claim to ninja when necessary) and that her serious shoe obsession is genetic. Her proudest accomplishment? Motherhood to the coolest little boy on the planet.</p>
 				
-					<ul class="content-info-social">
+					<!-- <ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul>
+						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
+					</ul> -->
 
 				</div>
 				

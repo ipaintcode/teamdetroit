@@ -63,10 +63,10 @@
 
 					<p>He didn’t just walk into this role. Brad used to run the Mullen Detroit office servicing several General Motors businesses. He also helped open Frankel’s Detroit office to provide brand activation support for General Motors. But it all started at Ross Roy, where he worked on Kmart, Builders Square, OfficeMax and AT&amp;T.</p>
 				
-					<ul class="content-info-social">
+					<!-- <ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#linkedin">LinkedIn</a></li>
-					</ul>
+						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
+					</ul> -->
 
 				</div>
 				
