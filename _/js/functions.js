@@ -468,7 +468,7 @@ $(document).ready(function (){
 		'position': 'fixed',
 		'top': '50%',
 		'marginTop': -40,
-		'right': -40,
+		'right': -45,
 		'width': 39,
 		'height': 39,
 		'zIndex': 10000,
@@ -480,18 +480,20 @@ $(document).ready(function (){
 		if ($(window).scrollTop() > 0) {
 			$('#go-back-up').stop().animate({right: 0}, 300);
 		} else {
-			$('#go-back-up').stop().animate({right: -40}, 300);
+			$('#go-back-up').stop().animate({right: "-40"}, 300);
 		}
 	});
 	
 	$('#go-back-up').click(function(event) {
+		$(this).stop().animate({opacity: 0, right: "-46"}, 0);
+		
 		goToByScroll(0, 500);
 	});
 	
 	$('#go-back-up').hover(function() {
-		$(this).stop().animate({opacity: ".7"}, 300);
+		$(this).stop().animate({opacity: ".7", right: 5}, 100);
 	}, function() {
-		$(this).stop().animate({opacity: 1}, 0);
+		$(this).stop().animate({opacity: 1, right: 0}, 100);
 	});
 });
 
