@@ -294,7 +294,7 @@
 				<p class="leader-text-title">We lead by example</p>
 				<p class="leader-text-sub-title">When you build a completely different kind of ad agency, you populate it with a completely different kind of leader. </p>
 				<p class="leader-text-body">Gone are the days of group heads who are passive figureheads. Or group heads who only do one thing well. Team Detroit honchos are multi-tool players. Highly skilled at their own jobs, yet completely integrated with this strange and wonderful new agency universe around them. The leadership at Team Detroit champions the idea of being well-versed in all disciplines.</p>
-				<p class="leader-text-footer">Not by talking the talk, but by walking the walk. Meet the people who challenge and empower everyone here to think bigger, wider and deeper.</p>
+				<p class="leader-text-footer">Not by talking the talk, but by walking the walk.</p>
 			</aside>
 
 		</div>
