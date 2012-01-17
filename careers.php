@@ -324,7 +324,7 @@
 			<li class=""><img src="_/img/careers/reason_we_love_it/12_bands_02.jpg" alt="Billboard Bands"></li>											
 			<li class=""><img src="_/img/careers/reason_we_love_it/13_draw.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/14_summer.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/15_foursquare.jpg" alt="Billboard Bands"></li>
+			<!-- <li class=""><img src="_/img/careers/reason_we_love_it/15_foursquare.jpg" alt="Billboard Bands"></li> -->
 		</ul>
 	</div>
 
