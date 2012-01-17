@@ -951,6 +951,14 @@ footer .facts-next {
 .below-carousel-culture {
 	overflow: hidden;
 	height: 65px;
+	background: #70A7B7;
+	border-top: 1px dashed #C4C4C4;
+	border-bottom: 1px dashed #C4C4C4;
+}
+
+.below-carousel-careers {
+	overflow: hidden;
+	height: 65px;
 	background: #1c1c1c;
 	border-top: 1px dashed #555555;
 	border-bottom: 1px dashed #555555;
@@ -980,8 +988,26 @@ footer .facts-next {
 	color: #999999;
 }
 
+.carousel-controller li.next-button-reasons a {
+
+	background: #70A7B7;
+	color: #ffffff;
+}
+
+.carousel-controller li.prev-button-reasons a {
+
+	background: #70A7B7;
+	color: #ffffff;
+}
+
+
 .carousel-controller .page-nate-stereo {
 	background: #1C1C1C;
+}
+
+.carousel-controller .page-nate-reasons {
+	background: #70A7B7;
+	color: #ffffff;
 }
 
 

@@ -303,8 +303,42 @@
  	    <h2 class="center min-max">Reasons Why We Love It</h2>
  	</div>
  	
+	<section class="happenings-headline happenings-headline-careers">
+	    <h4 class="center min-max">Why We Love Team Detroit</h4>
+		<p class="center min-max">Maybe Stephan Jenkins of Third Eye Blind put it best: &ldquo;Team Detroit is the greatest rock and roll audience in the world!&rdquo; Other bands were equally blown away after they played our intimate venue. Us? We&rsquo;re just thrilled to be able to host such talented performers and brag to our family and friends about who just dropped by for some tunes and conversation. Check out some of our distinguished Stereo 550 performers:</p>
+	</section>
 
 	<div class="billboard-wrapper billboard-ext-carousel">
+		<ul class="fluidCarousel">
+			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/01_23_game_win.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/02_yelp.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/03_change.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/04_better.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/05_play_field.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/06_Luchadors.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/07_truck.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/08_free_mags.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/09_chairs.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/10_plates.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/11_bands_01.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/12_bands_02.jpg" alt="Billboard Bands"></li>											
+			<li class=""><img src="_/img/careers/reason_we_love_it/13_draw.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/14_summer.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/15_foursquare.jpg" alt="Billboard Bands"></li>
+		</ul>
+	</div>
+
+	<div class="segment-headline-wrapper clear below-carousel below-carousel-culture">
+		<h2 class="center min-max"><span class="segment-header-spacer"></span></h2>
+		<div class="carousel-navigation center min-max">
+			<ul class="carousel-controller carousel-controller-culture">
+				<li class="prev-button prev-button-reasons"><a href="#prev">&larr; Previous</a></li>
+				<li class="page-nate page-nate-reasons"><span class="page-of">1</span> of <span>12</span></li>
+				<li class="next-button next-button-reasons"><a href="#next">Next &rarr;</a></li>
+			</ul>
+		</div>
+	</div>
+	<!-- <div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
 			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/01_23_game_win.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/02_yelp.jpg" alt="Billboard Bands"></li>
@@ -333,7 +367,7 @@
 				<li class="next-button"><a href="#next">Next &rarr;</a></li>
 			</ul>
 		</div>
-	</div>
+	</div> -->
 	
 	<?php include 'footer.php'; ?>
 	

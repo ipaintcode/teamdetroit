@@ -1202,6 +1202,18 @@ span.condition {
 	border-bottom: 1px dashed #555555;
 }
 
+
+.happenings-headline-careers {
+	background: #5FA8B6;
+	border-bottom: 1px dashed #C4C4C4;
+}
+
+section.happenings-headline-careers h4 {
+	color: white;
+	padding-bottom: 10px;
+	font-size: 65px;
+}
+
 .happenings-headline h4 {
 	padding-top: 39px;
 	padding-bottom: 20px;
