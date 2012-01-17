@@ -464,12 +464,12 @@ $(document).ready(function (){
 	
 	$('body').prepend('<div id="go-back-up"></div>');
 	$('#go-back-up').css({
-		'background-image': 'url(/teamdetroit/_/img/up-arrow.png)',
+		'background-image': 'url(/teamdetroit/_/img/up-arrow.png) no-repeat',
 		'position': 'fixed',
 		'top': '50%',
 		'marginTop': -40,
-		'right': -45,
-		'width': 39,
+		'right': -44,
+		'width': 44,
 		'height': 39,
 		'zIndex': 10000,
 		'cursor': 'pointer'
@@ -480,18 +480,17 @@ $(document).ready(function (){
 		if ($(window).scrollTop() > 0) {
 			$('#go-back-up').stop().animate({right: 0}, 300);
 		} else {
-			$('#go-back-up').stop().animate({right: "-40"}, 300);
+			$('#go-back-up').stop().animate({right: "-50"}, 0);
 		}
 	});
 	
 	$('#go-back-up').click(function(event) {
-		$(this).stop().animate({opacity: 0, right: "-46"}, 0);
 		
 		goToByScroll(0, 500);
 	});
 	
 	$('#go-back-up').hover(function() {
-		$(this).stop().animate({opacity: ".7", right: 5}, 100);
+		$(this).stop().animate({opacity: ".7", right: 0}, 100);
 	}, function() {
 		$(this).stop().animate({opacity: 1, right: 0}, 100);
 	});

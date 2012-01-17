@@ -57,9 +57,9 @@
 
 				<div class="content-info">
 
-					<p>When the band Journey was filling stadiums in the ’80s singing about &ldquo;a city boy, born and raised in south Detroit…&rdquo; they probably weren’t referring to Monik Sanghvi. But, any geography buff knows that &ldquo;south Detroit&rdquo; is actually Windsor, Canada – and, by being born and raised there, Monik lays claim to those lyrics.</p>
+					<p>When the band Journey was singing about &quot;a city boy, born and raised in south Detroit...&quot; they probably weren&#x27;t referring to Monik Sanghvi. But, any geography buff knows that &quot;south Detroit&quot; is actually Windsor, Canada - and, by being born and raised there, Monik lays claim to those lyrics.</p>
 
-					<p>The son of an auto industry family, Monik was brought up in a car buff household where ever-present magazines like Automotive News, Car &amp; Driver and Road &amp; Track ignited his passion for the automotive industry. Living in and around Detroit through the late 70’s and ‘80s galvanized his purpose to help put Detroit back on the map.</p>
+					<p>Monik grew up a car buff, surrounded by magazines like Automotive News, Car &amp; Driver and Road &amp; Track, which ignited his passion for the automotive industry. Living in and around Detroit through the late 70&#x27;s and &#x27;80s also galvanized his purpose to help put Detroit back on the map.</p>
 
 					<p>So after graduating from the University of Michigan and Harvard Business School, Monik brought his talents back to Detroit. Serving clients at firms like McKinsey &amp; Company, Organic, AOL and Digitas helped build Monik’s expertise in strategic planning, CRM and digital marketing. This foundation is critical to his current mission at Team Detroit.</p>
 

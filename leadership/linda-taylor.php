@@ -59,7 +59,7 @@
 
 					<p>What do you say about the head of a Human Resources department that looks out for more than 1,000 people? Whatever it is, you better be on your best behavior. This is HR, after all.</p>
 
-					<p>But Linda Taylor has made a career out of not making a visit to HR feel like a visit to the principle’s office. With over a decade in the business at agencies as varied as Cambell-Ewald, JWT and Leo Burnett, Linda has attracted and retained some of the leading talent all over the world, from working on the development and staffing of JWT Digital in the late ’90s to media, traditional and everything else in between.</p>
+					<p>But Linda Taylor has made a career out of not making a visit to HR feel like a visit to the principal&#x27;s office. With over a decade in the business at agencies as varied as Cambell-Ewald, JWT and Leo Burnett, Linda has attracted and retained some of the leading talent all over the world. She&#x27;s done it in every aspect of the marketing and advertising world, from working on the development and staffing of digital in the late &#x27;90s to media, traditional and everything else in between.</p>
 
 					<p>More than bringing new employees in to satisfy a job opening, Linda has found a way to keep those people here by training them and nurturing their specific skills. It’s not an easy job. So it’s impressive that through it all, Linda has found a way to remain kind, diplomatic and focused on keeping the employees of Team Detroit happy.</p>
 
@@ -79,7 +79,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Keep the people at Team Detroit by training and nurturing their specific skills</p>
+					 	<p>Team Detroit's culture is about passion, creativity, innovation and collaboration. We provide our employees not with a "job" but with an experience that will last a lifetime.</p>
 					 	<p class="content-quote-author">&ndash; Linda Taylor</p>
 					 </blockquote>
 				
