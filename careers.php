@@ -300,7 +300,7 @@
 	</section>
 	
 	<div class="headline-wrapper">
- 	    <h2 class="center min-max">Reasons Why We Love It</h2>
+ 	    <h2 class="center min-max">The Reasons</h2>
  	</div>
  	
 	<section class="happenings-headline happenings-headline-careers">
