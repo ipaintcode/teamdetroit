@@ -80,7 +80,7 @@
 
 					<p>In 2011 alone, we produced pro-bono work for:</p>
 
-					<p>The Detroit Symphony Orchestra, College for Creative Studies, WDET, The Greening of Detroit, Detroit Children’s Choir, McClure’s Pickles, Cass Corridor Beauty Products, Russell Street Deli, Sugar House, Detroit Dirt, Canine to Five, Tour D’ Troit, Signal Return and more.</p>
+					<p>The Detroit Symphony Orchestra, College for Creative Studies, WDET, The Greening of Detroit, Detroit Children’s Choir, McClure’s Pickles, Cass Corridor Beauty Products, Russell Street Deli, Sugar House, Detroit Dirt, Canine to Five, Tour de Troit, Signal Return and more.</p>
 					
 					<p>One of the perks of being large is that you can make more than a small difference at a very local level.</p>
 				
@@ -105,7 +105,7 @@
 					 	<p class="content-quote-author"></span></p>
 					 </blockquote>-->
 					
-					<a class="anchor-tdi" href="../careers.php?p=weloveit" ><img src="../_/img/aboutus/why_we_love_it.png" alt="Why We Love It"></a>
+					<a  	class="anchor-tdi" href="../careers.php?p=weloveit" ><img src="../_/img/aboutus/why_we_love_it.png" alt="Why We Love It"></a>
 				
 				</div>
 
