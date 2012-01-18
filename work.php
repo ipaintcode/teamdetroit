@@ -298,9 +298,9 @@
 				<li class="vdash-fix"><img src="_/img/clients/carhartt.jpg" alt="carhartt"></li>
 				<li class=""><img src="_/img/clients/unitedway.jpg" alt="unitedway"></li>
 				
-				<li class="vdash-fix"><img src="_/img/clients/varta.png" alt="varta"></li>
-				<li class="vdash-fix"><img src="_/img/clients/ccs.png" alt="unitedway"></li>
-				<li class="vdash-fix"><img src="_/img/clients/optima.png" alt="optima"></li>
+				<li class="vdash-fi"><img src="_/img/clients/varta.png" alt="varta"></li>
+				<li class="vdash-fi"><img src="_/img/clients/ccs.png" alt="unitedway"></li>
+				<li class="vdash-fi"><img src="_/img/clients/optima.png" alt="optima"></li>
 				<li class=""><img src="_/img/clients/brine.png" alt="brine"></li>
 				
 			</ul>
