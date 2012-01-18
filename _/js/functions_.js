@@ -469,7 +469,7 @@ $(document).ready(function() {
 				} else if (social === "googleplus") {
 					window.open("https://plusone.google.com/_/+1/confirm?hl=en&url="+location.href, '_blank');
 				} else if (social === "emailit") {
-					window.location.href = "mailto:?subject=Check out this Team Detroit link&body="+location.href;
+					window.location.href = "mailto:?subject=Check it out: "+$("title").text()+"&body="+location.href;
 				}
 			} else if(url.indexOf("mailto") === 0) {
 				window.location.href = url;
