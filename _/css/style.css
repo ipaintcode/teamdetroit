@@ -355,6 +355,10 @@ header {
 	color: black;
 }
 
+nav li a.active-nav {
+	color: black;
+}
+
 /* Billboards
 -------------------------------------------------------------------------------*/
 

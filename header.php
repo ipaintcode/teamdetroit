@@ -5,8 +5,8 @@ $html = file_get_html('http://wdetfm.org/listenlive/');
 
 ?>
 <?php
-$currentFile = $_SERVER["PHP_SELF"];
-$parts = Explode('/', $currentFile);
+$page = $_SERVER["REQUEST_URI"];
+$parts = Explode('/', $page);
 $final = $parts[count($parts) - 1];
 $subfinal = $parts[count($parts) - 2];
 ?>
@@ -73,15 +73,15 @@ $subfinal = $parts[count($parts) - 2];
 				<?php
 				echo '<ul>';
 
-				echo ($final == 'work.php' || $subfinal == "projects") ? 
+				echo ($final == 'work.php' || $subfinal == 'projects') ? 
 				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/work.php">Work</a></li>' :
 				'<li><a class="none anchor-tdi" href="/teamdetroit/work.php">Work</a></li>';
 
-				echo ($final == 'aboutus.php') ? 
+				echo ($final == 'aboutus.php' || $subfinal == 'aboutus' || $subfinal == 'leadership') ? 
 				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/aboutus.php">About Us</a></li>' :
 				'<li><a class="none anchor-tdi" href="/teamdetroit/aboutus.php">About Us</a></li>';
 
-				echo ($final == 'culture.php') ? 
+				echo ($final == 'culture.php' || $subfinal == 'culture') ? 
 				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/culture.php">Culture</a></li>' :
 				'<li><a class="none anchor-tdi" href="/teamdetroit/culture.php">Culture</a></li>';
 
