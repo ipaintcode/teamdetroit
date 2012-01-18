@@ -54,7 +54,8 @@ $(document).ready(function() {
 	$('.main-nav li a').hover(function() {
 		$(this).stop().animate({color: "black"}, 200);
 	}, function() {
-		if($(this).attr('class') !== "active-nav") {
+		if($(this).hasClass('active-nav')) {
+		} else {
 			$(this).stop().animate({color: "#939598"}, 200);
 		}
 	});
