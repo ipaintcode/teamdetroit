@@ -17,7 +17,7 @@
 	<!-- Project meta - description : content -->
 	<meta name="description" content="We wanted to show how much fun is crammed into those itty, bitty blocks. And this video captures it pretty well." />
 	
-	<title>Nano Blocks "Anthem" | Team Detroit</title>
+	<title>Nanoblocks "Anthem" | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">
@@ -55,7 +55,7 @@
 	
 	<div class="segment-headline-wrapper clear below-carousel">
 		
-		<h2 class="center min-max"><a class="anchor-tdi" href="../work.php" alt="Back to Work"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Nano Blocks &ldquo;Anthem&rdquo;</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../work.php" alt="Back to Work"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Nanoblocks &ldquo;Anthem&rdquo;</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
 				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
@@ -73,7 +73,7 @@
 
 				<article class="content-info">
 					
-					<h3>The Nano Blocks &ldquo;Anthem.&rdquo;</h3>
+					<h3>The Nanoblocks &ldquo;Anthem.&rdquo;</h3>
 					
 					<p>Say hello to Nanoblocks, the newest technology in time travel. These tiny blocks aren’t designed for little kids. But they can somehow turn adults back into little kids.</p>
 					
