@@ -99,9 +99,9 @@
 					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
-						<li class="facebook"><a href="#social-url">Facebook</a></li>
-						<li class="twitter"><a href="#social-url">Twitter</a></li>
-						<li class="googleplus"><a href="#social-url">Share to Google+</a></li>
+						<li class="facebook"><a href="#social-link">Facebook</a></li>
+						<li class="twitter"><a href="#social-link">Twitter</a></li>
+						<li class="googleplus"><a href="#social-link">Google+</a></li>
 						<li class="emailit"><a href="#social-link">Email</a></li>
 					</ul>
 
