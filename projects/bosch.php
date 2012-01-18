@@ -92,9 +92,9 @@
 					<p>Not surprisingly, sales of Icon Wiper blades took off through the roof. And even less surprisingly, Bosch was fired up to let the Storm Chasers take the Icon Blades out for another round with Mother Nature.</p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.lightemup.com/">Check out the site</a></li>
-						<li><a href="http://www.facebook.com/BoschAutoParts">Check us out on facebook</a></li>
-						<li><a href="http://itunes.apple.com/us/app/bosch-light-em-up-dyno/id361276412?mt=8">Download the iPhone app</a></li>
+						<li><a href="http://www.lightemup.com/">Check out the Bosch site</a></li>
+						<li><a href="http://www.facebook.com/BoschAutoParts">Check out Bosch on Facebook</a></li>
+						<li><a href="http://itunes.apple.com/us/app/bosch-light-em-up-dyno/id361276412?mt=8">Download the Bosch iPhone App</a></li>
 					</ul>
 					
 					<ul class="content-info-social">

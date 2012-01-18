@@ -115,7 +115,7 @@
 					<p>In the midst of all the entertaining, we put a spotlight on the brand in a fresh, innovative way, earning the campaign recognition in articles from Ad Age and The Wall Street journal. It was also named one of the most innovative viral videos ads of 2011 by Mashable. Most importantly, Doug helped bring new fans to the brand, some even going as far as saying they would buy a Focus because of him.</p>					
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.youtube.com/user/focusdoug?feature=watch">Watch focus doug on youtube</a></li>
+						<li><a href="http://www.youtube.com/user/focusdoug?feature=watch">Watch Doug the Ford, Spokespuppet on YouTube</a></li>
 					</ul>
 					
 					<ul class="content-info-social">

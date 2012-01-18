@@ -96,7 +96,7 @@
 					<p>All media drove to a microsite that gave visitors a chance to win a custom prize from each celebrity: A dinner, a custom-designed shirt or custom-made jewelry.</p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.youtube.com/user/lincoln">Check it out on youtube</a></li>
+						<li><a href="http://www.youtube.com/user/lincoln">Watch Lincoln Innovators on YouTube</a></li>
 					</ul>
 					
 					<ul class="content-info-social">

@@ -82,7 +82,7 @@
 					<p>So how do you follow up a success like &ldquo;Wolves?&rdquo; It not easy, but it appears this year&rsquo;s &ldquo;Hands&rdquo; TV spot is well on the way. It&rsquo;s an ode to workingmen and women and to the values and traditions they embody. Since Carhartt is a Michigan company, &ldquo;Hands&rdquo; is also a tip of the hat to the state known for its hard-working men and women. The music for &ldquo;Hands&rdquo; was composed by a professor at the University of Michigan. The voice on the commercial is  Mickey Redmond,  the &ldquo;Voice of the Red Wings.&rdquo; It was our way of giving back to the state and to the values that have given us so much.</p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.carhartt.com/">Check out the site</a></li>
+						<li><a href="http://www.carhartt.com/">Check out the Carhartt site</a></li>
 					</ul>
 					
 					<ul class="content-info-social">

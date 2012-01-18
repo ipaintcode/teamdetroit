@@ -105,7 +105,7 @@
 					<p>Audience members were encouraged to pick a team and become virtual teammates. Along the way, we picked up over 30,000 Focus followers that participated in live chats with competitor, voted on upgrades to award their team and roadblocks to hamper the competition. Gameplay was awarded with points, badges, unique experiences and the ultimate prize: a new Focus for themselves. </p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://focusrally.com/">Check out the site</a></li>
+						<li><a href="http://focusrally.com/">Check out the Focus Rally site</a></li>
 					</ul>
 					
 					<ul class="content-info-social">

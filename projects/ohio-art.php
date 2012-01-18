@@ -80,7 +80,7 @@
 					<p>It&rsquo;s all about that magical feeling you get when you make your own creations. So we didn&rsquo;t just build a TV commercial, we built our dreams with Nanoblocks and filmed the whole dang thing. It could well be the most awesome product demo we&rsquo;ve ever done. Blah blah blah!</p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.mynanoblock.com/site/">Check out the site</a></li>
+						<li><a href="http://www.mynanoblock.com/site/">Check out the Nanoblock site</a></li>
 					</ul>
 					
 					<ul class="content-info-social">

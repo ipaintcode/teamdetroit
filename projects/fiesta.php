@@ -85,7 +85,7 @@
 					<p>And the jaded, anti-commercial Gen Y-ers? Well, they paid attention to it. The campaign tapped into their emotions. They’re car ads that are simply unlike any other car ad you’ve ever seen.</p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.ford.com/cars/fiesta/">Check out the site</a></li>
+						<li><a href="http://www.ford.com/cars/fiesta/">Check out the Fiesta</a></li>
 					</ul>
 					
 					<ul class="content-info-social">

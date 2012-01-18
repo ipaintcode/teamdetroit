@@ -83,7 +83,7 @@
 					<p>After we created this series of low-tech posters, something amazing happened. They went viral. People started sharing them though blogs, Facebook and Twitter.  People chuckled, then passed them along to their friends. Who knew you could blow up the Internet with a campaign full of print material?</p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.insideccs.com/">Check out the site</a></li>
+						<li><a href="http://www.insideccs.com/">Check out the Inside CCS site</a></li>
 					</ul>
 					
 					<ul class="content-info-social">

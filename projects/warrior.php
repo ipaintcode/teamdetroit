@@ -81,7 +81,7 @@
 					<p>&ldquo;Manchine&rdquo; became part of the player’s vernacular, and Warrior Lacrosse became a brand worth talking about.</p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.warrior.com/">Check out the site</a></li>
+						<li><a href="http://www.warrior.com/">Check out the We Own Work site</a></li>
 					</ul>
 				
 					<ul class="content-info-social">
