@@ -208,7 +208,7 @@ $(document).ready(function (){
 			} else if (url === "#social-link") {
 				var social = ($(this).parent().attr('class'));
 				if (social === "facebook") {
-					window.open("http://www.facebook.com/sharer/sharer.php?u="+location.href, '_blank');
+				window.open("http://www.facebook.com/sharer/sharer.php?u="+location.href, '_blank');
 				} else if (social === "twitter") {
 					window.open("https://twitter.com/intent/tweet?original_referer="+location.href, '_blank');
 					

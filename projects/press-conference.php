@@ -8,6 +8,10 @@
 <!-- the "no-js" class is for Modernizr. -->
 
 <head id="www-sitename-com" data-template-set="html5-reset">
+	
+	<meta property="og:title" content="Totally Unexpected Press Conference">
+	<meta property="og:description" content="Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly.">
+	<meta property="og:image" content="http://love-detroit.com/2011/_/img/lovedetroit_albumart.jpg">
 
 	<meta charset="utf-8">
 
