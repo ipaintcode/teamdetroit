@@ -466,7 +466,10 @@ $(document).ready(function() {
 					window.open("http://www.facebook.com/sharer/sharer.php?u="+location.href, '_blank');
 				} else if (social === "twitter") {
 					window.open("https://twitter.com/intent/tweet?original_referer="+location.href, '_blank');
-					
+				} else if (social === "googleplus") {
+					window.open("https://plusone.google.com/_/+1/confirm?hl=en&url="+location.href, '_blank');
+				} else if (social === "emailit") {
+					window.location.href = "mailto:?subject=Check out this Team Detroit link&body="+location.href;
 				}
 			} else if(url.indexOf("mailto") === 0) {
 				window.location.href = url;
