@@ -395,7 +395,7 @@ $(document).ready(function() {
 			opacity: 0
 		}, 100, function() {
 			$(this).stop().animate({
-				'background-position-y': "-46"
+				'background-position-y': "-44"
 			}, 0, function() {
 				$(this).stop().animate({opacity: 1}, 100);
 			});
