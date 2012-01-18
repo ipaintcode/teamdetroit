@@ -3,50 +3,6 @@
 
 jQuery.cookie = function(key, value, options) {
 
-	var getAnchor = window.location.href.split("=")[1];
-	
-	if(getAnchor == 'leaders') {
-		$('html,body').stop().delay(100).animate({
-			scrollTop: 1630
-		}, 0);
-	}
-	
-	if(getAnchor == 'weloveit') {
-		$('html,body').stop().delay(100).animate({
-			scrollTop: 1630
-		}, 0);
-	}
-
-	$('.footer a').hover(function() {
-		$(this).stop().animate({color: "#ED1B2E"}, 200);
-	}, function() {
-		$(this).stop().animate({color: "#DBDADA"}, 200);
-	});
-
-	$('.main-nav li a').hover(function() {
-		$(this).stop().animate({color: "black"}, 200);
-	}, function() {
-		if($(this).hasClass('active-nav')) {
-		} else {
-			$(this).stop().animate({color: "#939598"}, 200);
-		}
-	});
-
-	$('.content-info-social li, .secondary-nav li').hover(function() {
-		if($(this).text() !== "Share →") {
-			$(this).stop().animate({opacity: ".5"}, 300);
-		}
-		
-	}, function() {
-		$(this).stop().animate({opacity: 1}, 300);
-	});
-
-	if ($('.on-now-title').text().length > 130) {
-		var onText = $('.on-now-title').text();
-		var tmpText = onText.substr(0, 130);
-		$('.on-now-title').text(tmpText + "...");
-	}
-
 	// key and at least value given, set cookie...
 	if (arguments.length > 1 && String(value) !== "[object Object]") {
 
@@ -80,6 +36,51 @@ jQuery.cookie = function(key, value, options) {
 
 /* trigger when page is ready */
 $(document).ready(function (){
+	
+	var getAnchor = window.location.href.split("=")[1];
+	
+	if(getAnchor == 'leaders') {
+		$('html,body').stop().delay(100).animate({
+			scrollTop: 1630
+		}, 0);
+	}
+	
+	if(getAnchor == 'weloveit') {
+		$('html,body').stop().delay(100).animate({
+			scrollTop: 1630
+		}, 0);
+	}
+
+	$('.footer a').hover(function() {
+		$(this).stop().animate({color: "#ED1B2E"}, 200);
+	}, function() {
+		$(this).stop().animate({color: "#DBDADA"}, 200);
+	});
+
+	$('.main-nav li a').hover(function() {
+		$(this).stop().animate({color: "black"}, 200);
+	}, function() {
+		if($(this).hasClass('active-nav')) {
+			$(this).stop().animate({color: "black"}, 200);
+		} else {
+			$(this).stop().animate({color: "#939598"}, 200);
+		}
+	});
+
+	$('.content-info-social li, .secondary-nav li').hover(function() {
+		if($(this).text() !== "Share →") {
+			$(this).stop().animate({opacity: ".5"}, 300);
+		}
+		
+	}, function() {
+		$(this).stop().animate({opacity: 1}, 300);
+	});
+
+	if ($('.on-now-title').text().length > 130) {
+		var onText = $('.on-now-title').text();
+		var tmpText = onText.substr(0, 130);
+		$('.on-now-title').text(tmpText + "...");
+	}
 	
 	$('.add-stream').css('display', 'none');
 	$('.wdet-inner').css('height', 0);

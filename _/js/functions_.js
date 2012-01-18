@@ -55,6 +55,7 @@ $(document).ready(function() {
 		$(this).stop().animate({color: "black"}, 200);
 	}, function() {
 		if($(this).hasClass('active-nav')) {
+			$(this).stop().animate({color: "black"}, 200);
 		} else {
 			$(this).stop().animate({color: "#939598"}, 200);
 		}
