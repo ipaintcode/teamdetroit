@@ -31,8 +31,13 @@ $(document).ready(function() {
 			position: new google.maps.LatLng(lat, lng),
 			map: map,
 			title: 'Team Detroit',
+			url: "http://maps.google.com/maps/place?cid=1602833711551361867",
 			clickable: true,
 			icon: img
+		});
+		
+		google.maps.event.addListener(marker, 'click', function() {
+			window.open(marker.url, '_blank');
 		});
 
 		$(window).resize(function(event) {
