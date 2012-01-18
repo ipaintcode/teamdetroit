@@ -8,7 +8,7 @@ $html = file_get_html('http://wdetfm.org/listenlive/');
 $currentFile = $_SERVER["PHP_SELF"];
 $parts = Explode('/', $currentFile);
 $final = $parts[count($parts) - 1];
-$subfinal = $parts[count($parts) - 1];
+// $subfinal = $parts[count($parts) - 1];
 ?>
 
 <header>
