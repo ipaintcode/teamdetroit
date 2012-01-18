@@ -154,7 +154,7 @@
 
 	    	<div class="full-list min-max margin-center">
 	    		<ul>
-	    			<li>Broadcast Production</li>
+	    			<li>Integrated Production</li>
 	    			<li>Online Advertising</li>
 	    			<li>Relationship Marketing</li>
 	    		</ul>
