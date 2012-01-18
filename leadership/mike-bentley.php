@@ -57,13 +57,15 @@
 
 				<div class="content-info">
 
-					<p>In a sense, Mike is the most senior trainee at Team Detroit. Technically, we don’t hand out an office, a nice parking spot and those types of perks to traditional trainees, but Mike says that because he learns something new everyday, he still qualifies as one. It’s that curious nature which has helped him rise to become Team Detroit’s Chief Strategy Officer.</p>
+					<p>Mike has lived in Michigan for over eleven years and is very happy to call it home.</p>
 
-					<p>It’s a career he fell into – quite literally. After starting his professional life as a rock climber, Mike broke his back during a fall and had to turn to his fall-back career: thinking about thinking.</p>
+					<p>He came to the US &lsquo;for a couple of years&rsquo; to re-launch the Cadillac brand in 2001, developing the successful &ldquo; Break Through&rdquo; campaign that turned around the brand&rsquo;s fortunes.</p>
 
-					<p>Once in the strategy field, Mike has worked on brands including Sega, BT, Orange, Carling Black Label, Kronenbourg1664, The Scottish Office, Quaker Oats, Sugar Puffs, The Labour Party, Cadbury’s and a number of car brands, including Cadillac. It was there that he helped re-launch the brand with its successful “Break Through” campaign. If you’re noticing a heavy foreign emphasis in his work, it’s because Mike hails from the other side of the pond. That’s also why he still maintains his allegiance to the Liverpool Football Club – even after being in the States since 2001. After nearly a decade, he still refuses to call the sport “soccer:.</p>
+					<p>Prior to that , he had held several Planning Directorships and worked on brands including Sega, BT, Orange, Carling Black Label, Kronenbourg1664, The Scottish Office, Quaker Oats, Sugar Puffs, The Labour Party, Cadbury&rsquo;s and a number of car brands. If you&rsquo;re noticing a heavy international emphasis in his work, it&rsquo;s because Mike hails from the other side of the pond.</p>
 
-					<p>Mike is married with one daughter. He won’t say if they call it “soccer” or “football”.</p>
+					<p>After twenty three years in the business, he is more enthusiastic about working in the industry than ever before. He has always been fascinated by what people think and what they do and is beginning to suspect he always will be.</p>
+					
+					<p>Enacting the intellectual rigor to understand the exact nature of a client&rsquo;s problem and developing a bespoke solution keeps him deeply engaged in the work.</p>
 				
 					<!-- <ul class="content-info-social">
 						<li>Network &rarr;</li>
