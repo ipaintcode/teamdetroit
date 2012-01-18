@@ -384,6 +384,9 @@ $(document).ready(function() {
 		$(this).find('.news').stop().animate({
 			'background-position-y': "-26"
 		}, 300);
+		$(this).find('.news-ext').stop().animate({
+			'background-position-y': "-46"
+		}, 300);
 	}, function() {
 		$(this).stop().animate({
 			backgroundColor: "#ffffff"
@@ -391,7 +394,7 @@ $(document).ready(function() {
 		$(this).find('p').stop().animate({
 			color: "#383838"
 		}, 300);
-		$(this).find('.news').stop().animate({
+		$(this).find('.news, .news-ext').stop().animate({
 			'background-position-y': "0"
 		}, 300);
 	});

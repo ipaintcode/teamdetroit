@@ -1147,8 +1147,9 @@ span.condition {
 
 .home-social li .news-dfp {
 	margin-left: 44px;
-	background: url('../img/headlines/detfreepress.png') no-repeat top left;
-	width: 175px; height: 26px;
+	margin-top: -5px;
+	background: url('../img/headlines/curbed_logo.png') no-repeat top left;
+	width: 175px; height: 46px;
 }
 
 .home-social li .news-aa {

@@ -161,17 +161,18 @@
 
 			<ul class="grid">
 				<li class="single">
+					<a href="http://detroit.curbed.com/archives/2012/01/team-detroits-dearborn-hq-wins-a-leed-silver-certificate-1.php" target="_blank">
+						<p>Team Detroit wins a LEED Silver Certificate.</p>
+						<div class="news-dfp news-ext"></div>
+					</a>
+				</li>
+				<li class="single vdash-fix">
 					<a href="http://www.nytimes.com/2010/11/12/business/media/12adco.html?scp=2&amp;sq=team%20detroit&amp;st=cse" target="_blank">
 						<p>Selling Ford Around The World, From Detroit.</p>
 						<div class="news-nyt news"></div>
 					</a>
 				</li>
-				<li class="single vdash-fix">
-					<a href="http://www.freep.com/article/20111113/BUSINESS06/111130436/Best-workplaces-put-priority-satisfaction-their-employees" target="_blank">
-						<p>&ldquo;One of Detroit’s 2010 Top 10 Best Places to Work.&rdquo;</p>
-						<div class="news-dfp news"></div>
-					</a>
-				</li>
+				
 				<li class="single vdash-fix">
 					<a href="http://adage.com/article/special-report-agency-alist/team-detroit-10-ad-age-agency-a-list/148377/">
 						<p>&ldquo;Team Detroit is No. 10 on the Ad Agency A-List.&rdquo;</p>
