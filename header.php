@@ -1,7 +1,7 @@
 <?php
 # create and load the HTML
-// include('simple_html_dom.php');
-// $html = file_get_html('http://wdetfm.org/listenlive/');
+include('simple_html_dom.php');
+$html = file_get_html('http://wdetfm.org/listenlive/');
 
 ?>
 <?php
@@ -22,24 +22,24 @@ $subfinal = $parts[count($parts) - 1];
 				<p class="on-now-show">
 				<?php
 
-				// Print it!
-				// $items = $html->find('span');
-				// 				
-				// 				foreach($items as $post) {
-				// 					echo $post->innertext;
-				// 				}
+				Print it!
+				$items = $html->find('span');
+								
+				foreach($items as $post) {
+					echo $post->innertext;
+				}
 
 				?>
 				</p>
 				<p class="on-now-title">
 					<?php
 
-					// Print it!
-					// $items = $html->find('p');
-					// 					
-					// 					foreach($items as $post) {
-					// 						echo $post->innertext;
-					// 					}
+					Print it!
+					$items = $html->find('p');
+										
+					foreach($items as $post) {
+						echo $post->innertext;
+					}
 
 					?>
 				</p>
