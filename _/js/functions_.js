@@ -382,11 +382,25 @@ $(document).ready(function() {
 			color: "#ffffff"
 		}, 300);
 		$(this).find('.news').stop().animate({
-			'background-position-y': "-26"
-		}, 300);
+			opacity: 0
+		}, 100, function() {
+			$(this).stop().animate({
+				'background-position-y': "-26"
+			}, 0, function() {
+				$(this).stop().animate({opacity: 1}, 100);
+			});
+			
+		});
 		$(this).find('.news-ext').stop().animate({
-			'background-position-y': "-46"
-		}, 300);
+			opacity: 0
+		}, 100, function() {
+			$(this).stop().animate({
+				'background-position-y': "-46"
+			}, 0, function() {
+				$(this).stop().animate({opacity: 1}, 100);
+			});
+			
+		});
 	}, function() {
 		$(this).stop().animate({
 			backgroundColor: "#ffffff"
@@ -395,8 +409,14 @@ $(document).ready(function() {
 			color: "#383838"
 		}, 300);
 		$(this).find('.news, .news-ext').stop().animate({
-			'background-position-y': "0"
-		}, 300);
+			opacity: 0
+		}, 100, function() {
+			$(this).stop().animate({
+				'background-position-y': "0"
+			}, 0, function() {
+				$(this).stop().animate({opacity: 1}, 200);
+			});
+		});
 	});
 
 
