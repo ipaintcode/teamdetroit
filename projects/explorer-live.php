@@ -131,8 +131,8 @@
 					<p>To generate even more buzz, we enlisted TV stars, musicians, and other celebrities to help us answer the barrage of questions. This drove almost a million people to watch the Explorer live content online, and each time they watched, they learned something new.</p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.facebook.com/#!/FordExplorer">Check us out on facebook</a></li>
-						<li><a href="http://www.youtube.com/user/Explorer?feature=watch">Watch us on youtube</a></li>
+						<li><a href="http://www.facebook.com/#!/FordExplorer">Check out Explorer Live on facebook</a></li>
+						<li><a href="http://www.youtube.com/user/Explorer?feature=watch">Watch Explorer Live on youtube</a></li>
 					</ul>
 					
 					<ul class="content-info-social">
