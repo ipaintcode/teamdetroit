@@ -210,7 +210,7 @@ $(document).ready(function (){
 				if (social === "facebook") {
 				window.open("http://www.facebook.com/sharer/sharer.php?u="+location.href, '_blank');
 				} else if (social === "twitter") {
-					window.open("https://twitter.com/intent/tweet?original_referer="+location.href, '_blank');	
+					window.open("https://twitter.com/intent/tweet?original_referer=http://www.teamdetroit.com/&text="+$("title").text()+"+&url="+location.href+"/&hashtags=teamdetroit", '_blank');	
 				} else if (social === "googleplus") {
 					window.open("https://plusone.google.com/_/+1/confirm?hl=en&url="+location.href, '_blank');
 				} else if (social === "emailit") {
