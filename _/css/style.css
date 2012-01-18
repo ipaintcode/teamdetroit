@@ -951,17 +951,17 @@ footer .facts-next {
 .below-carousel-culture {
 	overflow: hidden;
 	height: 65px;
-	background: #1e999e;
-	border-top: 1px dashed #C4C4C4;
-	border-bottom: 1px dashed #C4C4C4;
+	background: #1C1C1C;
+	border-top: 1px dashed #555555;
+	border-bottom: 1px dashed #555555;
 }
 
 .below-carousel-careers {
 	overflow: hidden;
 	height: 65px;
-	background: #1c1c1c;
-	border-top: 1px dashed #555555;
-	border-bottom: 1px dashed #555555;
+	background: #1e999e;
+	border-top: 1px dashed #c3c3c3;
+	border-bottom: 1px dashed #c3c3c3;
 }
 
 .carousel-controller li.prev-button {
