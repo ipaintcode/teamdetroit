@@ -8,12 +8,13 @@ $html = file_get_html('http://wdetfm.org/listenlive/');
 $currentFile = $_SERVER["PHP_SELF"];
 $parts = Explode('/', $currentFile);
 $final = $parts[count($parts) - 1];
-// $subfinal = $parts[count($parts) - 1];
+$subfinal = $parts[count($parts) - 2];
 ?>
 
 <header>
 	<script type="text/javascript" charset="utf-8">
 		var whatever = "<?= $final ?>";
+		var sub = "<?= $subfinal ?>";
 	</script>
 	<div class="wdet">
 		<div class="min-max center wdet-inner">
@@ -22,7 +23,7 @@ $final = $parts[count($parts) - 1];
 				<p class="on-now-show">
 				<?php
 
-				Print it!
+				// Print it!
 				$items = $html->find('span');
 								
 				foreach($items as $post) {
@@ -34,7 +35,7 @@ $final = $parts[count($parts) - 1];
 				<p class="on-now-title">
 					<?php
 
-					Print it!
+					// Print it!
 					$items = $html->find('p');
 										
 					foreach($items as $post) {
@@ -72,7 +73,7 @@ $final = $parts[count($parts) - 1];
 				<?php
 				echo '<ul>';
 
-				echo ($final == 'work.php') ? 
+				echo ($final == 'work.php' || $subfinal == "projects") ? 
 				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/work.php">Work</a></li>' :
 				'<li><a class="none anchor-tdi" href="/teamdetroit/work.php">Work</a></li>';
 
