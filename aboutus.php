@@ -62,7 +62,7 @@
 			
 			<ul class="grid">
 				<li class="single">
-					<a href="aboutus/who-we-are.php">
+					<a class="anchor-tdi" href="aboutus/who-we-are.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">Who<br />We Are</h3>
 							<p class="copy">Talent comes from all walks of life and all parts of the world. Luckily, they all know where to work.</p>
@@ -73,7 +73,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="aboutus/what-we-do.php">
+					<a class="anchor-tdi" href="aboutus/what-we-do.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">What<br />We Do</h3>
 							<p class="copy">It’s hard to capture the magic of what we do in a one-minute video, but we gave it the old college try.</p>
@@ -84,7 +84,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="aboutus/what-else-we-do.php">
+					<a class="anchor-tdi" href="aboutus/what-else-we-do.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">What Else<br />We Do</h3>
 							<p class="copy">While What Else We Do might sound like the leftovers, it’s actually one of our proudest collections of work. It’s what we do locally.</p>
@@ -185,104 +185,104 @@
 
 			<ol class="grid grid-ext-leader">
 				<li>
-					<a href="leadership/satish-korde.php">
+					<a class="anchor-tdi" href="leadership/satish-korde.php">
 						<h3>Satish Korde</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/satish_korde_thumb.jpg" alt="">
 					</a>
 				</li>
 	            <li>
-	                <a href="leadership/toby-barlow.php">
+	                <a class="anchor-tdi" href="leadership/toby-barlow.php">
 						<h3>Toby Barlow</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 	                	<img src="_/img/leadership/toby_barlow_thumb.jpg" alt="">
 					</a>
 	            </li>
 				<li>
-					<a href="leadership/mike-bentley.php">
+					<a class="anchor-tdi" href="leadership/mike-bentley.php">
 						<h3>Mike Bentley</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/mike_bentley_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/brad-audet.php">
+					<a class="anchor-tdi" href="leadership/brad-audet.php">
 						<h3>Brad Audet</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/brad_audet_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/scott-lange.php">
+					<a class="anchor-tdi" href="leadership/scott-lange.php">
 						<h3>Scott Lange</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/scott_lange_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/monik-sanghvi.php">
+					<a class="anchor-tdi" href="leadership/monik-sanghvi.php">
 						<h3>Monik Sanghvi</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/monik_sanghvi_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/sharon-wacker.php">
+					<a class="anchor-tdi" href="leadership/sharon-wacker.php">
 						<h3>Sharon Wacker</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/sharon_wacker_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/paul-venn.php">
+					<a class="anchor-tdi" href="leadership/paul-venn.php">
 						<h3>Paul Venn</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/paul_venn_thumb.jpg" alt=""></a>
 				</li>
 				<li>
-					<a href="leadership/linda-taylor.php">
+					<a class="anchor-tdi" href="leadership/linda-taylor.php">
 						<h3>Linda Taylor</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/linda_taylor_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/greg-braun.php">
+					<a class="anchor-tdi" href="leadership/greg-braun.php">
 						<h3>Greg Braun</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/greg_braun_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/andy-prakken.php">
+					<a class="anchor-tdi" href="leadership/andy-prakken.php">
 						<h3>Andy Prakken</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/andy_prakken_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/mike-treppa.php">
+					<a class="anchor-tdi" href="leadership/mike-treppa.php">
 						<h3>Mike Treppa</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/mike_treppa_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/michele-silvestri.php">
+					<a class="anchor-tdi" href="leadership/michele-silvestri.php">
 						<h3>Michele Silvestri</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/michele_silvestri_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/andrew-weil.php">
+					<a class="anchor-tdi" href="leadership/andrew-weil.php">
 						<h3>Andrew J. Weil</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/andrew_weil_thumb.jpg" alt="">
 					</a>
 				</li>
 				<li>
-					<a href="leadership/bob-mcclowry.php">
+					<a class="anchor-tdi" href="leadership/bob-mcclowry.php">
 						<h3>Bob McClowry</h3>
 						<div class="color-swatch-leader color-swatch"></div>
 						<img src="_/img/leadership/bob_mcclowry_thumb.jpg" alt="">
@@ -331,10 +331,9 @@
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions_.js"></script>
 

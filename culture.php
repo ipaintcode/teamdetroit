@@ -59,7 +59,7 @@
 			
 			<ul class="grid">
 				<li class="single">
-					<a href="culture/people_mover.php">
+					<a class="anchor-tdi" href="culture/people_mover.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">People Mover</h3>
 							<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
@@ -70,7 +70,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture/love_detroit.php">
+					<a class="anchor-tdi" href="culture/love_detroit.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">Love,<br />Detroit</h3>
 							<p class="copy">Celebrate the season with free, streaming and downloadable Holiday tunes from Detroit artists.</p>
@@ -81,7 +81,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture/greening_of_detroit.php">
+					<a class="anchor-tdi" href="culture/greening_of_detroit.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">Greening of<br />Detroit</h3>
 							<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
@@ -92,7 +92,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture/movember.php">
+					<a class="anchor-tdi" href="culture/movember.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">Our Epic<br />Movember</h3>
 							<p class="copy">United for the cause of men’s health, the men of Team Detroit sported a little upper crust during the month of November.</p>
@@ -103,7 +103,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture/motorcity_pride.php">
+					<a class="anchor-tdi" href="culture/motorcity_pride.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">Motorcity<br />Pride</h3>
 							<p class="copy">Our Motor City Pride film highlights a few faces of Detroit's vibrant GLBT community.</p>
@@ -114,7 +114,7 @@
 					</a>
 				</li>
 				<li class="single">
-					<a href="culture/signal_return.php">
+					<a class="anchor-tdi" href="culture/signal_return.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">Signal<br />Return</h3>
 							<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
@@ -182,7 +182,6 @@
 <script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions_.js"></script>
 <script src="_/js/jquery.fluidCarousel.0.1.js"></script>

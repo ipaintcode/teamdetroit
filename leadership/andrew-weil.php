@@ -47,7 +47,7 @@
 
 	<div class="segment-headline-wrapper clear below-carousel">
 		
-		<h2 class="center min-max"><a href="../aboutus.php?p=leaders" alt="Back to Culture"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Andrew J. Weil</span><span class="segment-leader-title">(Chief Financial Officer)</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Culture"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Andrew J. Weil</span><span class="segment-leader-title">(Chief Financial Officer)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -91,8 +91,8 @@
 			</aside>
 			
 			<ul class="secondary-nav">
-				<li class="secondary-nav-prev"><a href="michele-silvestri.php">Previous</a></li>
-				<li class="secondary-nav-next"><a href="bob-mcclowry.php">Next</a></li>
+				<li class="secondary-nav-prev"><a href="michele-silvestri.php" class="anchor-tdi">Previous</a></li>
+				<li class="secondary-nav-next"><a href="bob-mcclowry.php" class="anchor-tdi">Next</a></li>
 			</ul>
 		
 		</div>
@@ -108,7 +108,7 @@
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='../_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
 <script src="../_/js/jquery.shadow-animation.min.js"></script>

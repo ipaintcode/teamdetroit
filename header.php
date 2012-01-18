@@ -1,13 +1,14 @@
 <?php
 # create and load the HTML
-include('simple_html_dom.php');
-$html = file_get_html('http://wdetfm.org/listenlive/');
+// include('simple_html_dom.php');
+// $html = file_get_html('http://wdetfm.org/listenlive/');
 
 ?>
 <?php
 $currentFile = $_SERVER["PHP_SELF"];
 $parts = Explode('/', $currentFile);
 $final = $parts[count($parts) - 1];
+$subfinal = $parts[count($parts) - 1];
 ?>
 
 <header>
@@ -22,11 +23,11 @@ $final = $parts[count($parts) - 1];
 				<?php
 
 				// Print it!
-				$items = $html->find('span');
-				
-				foreach($items as $post) {
-					echo $post->innertext;
-				}
+				// $items = $html->find('span');
+				// 				
+				// 				foreach($items as $post) {
+				// 					echo $post->innertext;
+				// 				}
 
 				?>
 				</p>
@@ -34,11 +35,11 @@ $final = $parts[count($parts) - 1];
 					<?php
 
 					// Print it!
-					$items = $html->find('p');
-					
-					foreach($items as $post) {
-						echo $post->innertext;
-					}
+					// $items = $html->find('p');
+					// 					
+					// 					foreach($items as $post) {
+					// 						echo $post->innertext;
+					// 					}
 
 					?>
 				</p>
@@ -58,7 +59,7 @@ $final = $parts[count($parts) - 1];
 	</div>
 
 	<div class="main-nav min-max center">
-		<h1 class="teamdetroit"><a href="/teamdetroit">Team Detroit</a></h1>
+		<h1 class="teamdetroit"><a class="anchor-tdi" href="/teamdetroit">Team Detroit</a></h1>
 
 		<nav>
 
@@ -72,24 +73,24 @@ $final = $parts[count($parts) - 1];
 				echo '<ul>';
 
 				echo ($final == 'work.php') ? 
-				'<li><a class="active-nav" href="/teamdetroit/work.php">Work</a></li>' :
-				'<li><a class="none" href="/teamdetroit/work.php">Work</a></li>';
+				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/work.php">Work</a></li>' :
+				'<li><a class="none anchor-tdi" href="/teamdetroit/work.php">Work</a></li>';
 
 				echo ($final == 'aboutus.php') ? 
-				'<li><a class="active-nav" href="/teamdetroit/aboutus.php">About Us</a></li>' :
-				'<li><a class="none" href="/teamdetroit/aboutus.php">About Us</a></li>';
+				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/aboutus.php">About Us</a></li>' :
+				'<li><a class="none anchor-tdi" href="/teamdetroit/aboutus.php">About Us</a></li>';
 
 				echo ($final == 'culture.php') ? 
-				'<li><a class="active-nav" href="/teamdetroit/culture.php">Culture</a></li>' :
-				'<li><a class="none" href="/teamdetroit/culture.php">Culture</a></li>';
+				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/culture.php">Culture</a></li>' :
+				'<li><a class="none anchor-tdi" href="/teamdetroit/culture.php">Culture</a></li>';
 
 				echo ($final == 'careers.php') ? 
-				'<li><a class="active-nav" href="/teamdetroit/careers.php">Careers</a></li>' :
-				'<li><a class="none" href="/teamdetroit/careers.php">Careers</a></li>';
+				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/careers.php">Careers</a></li>' :
+				'<li><a class="none anchor-tdi" href="/teamdetroit/careers.php">Careers</a></li>';
 
 				echo ($final == 'contact.php') ? 
-				'<li><a class="active-nav" href="/teamdetroit/contact.php">Contact</a></li>' :
-				'<li><a class="none" href="/teamdetroit/contact.php">Contact</a></li>';
+				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/contact.php">Contact</a></li>' :
+				'<li><a class="none anchor-tdi" href="/teamdetroit/contact.php">Contact</a></li>';
 
 				echo '</ul>';
 				?>

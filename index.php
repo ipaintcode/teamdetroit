@@ -38,28 +38,24 @@
 
 	<section class="billboard">
 		<div class="center min-max">	
-			<div class="">
-				<div id="container">
-
-					<div class="flexslider">
-				    <ul class="slides">
+			<div id="container">
+				<div class="flexslider">
+			    	<ul class="slides">
 				    	<li>
-				    		<a href="aboutus.php"><img src="_/img/home/billboard.png" /></a>
+				    		<a class="anchor-tdi" href="aboutus.php"><img src="_/img/home/billboard.png" /></a>
 				    	</li>
 						<li>
-							<a href="projects/focus-rally.php"><img src="_/img/home/02_focus_billboard.jpg" /></a>
+							<a class="anchor-tdi" href="projects/focus-rally.php"><img src="_/img/home/02_focus_billboard.jpg" /></a>
 				    	</li>
 				    	<li>
-							<a href="projects/focus-doug.php"><img src="_/img/home/01_doug_billboard.jpg" /></a>
+							<a class="anchor-tdi" href="projects/focus-doug.php"><img src="_/img/home/01_doug_billboard.jpg" /></a>
 				    	</li>
 						<li>
-							<a href="projects/ccs.php"><img src="_/img/home/03_ccs_billboard.jpg" /></a>
+							<a class="anchor-tdi" href="projects/ccs.php"><img src="_/img/home/03_ccs_billboard.jpg" /></a>
 				    	</li>
 				    </ul>
-				  </div>
 				</div>
 			</div>
-
 		</div>
 	</section>
 
@@ -73,7 +69,7 @@
 
 			<ol class="grid">
 				<li class="double grid-over">
-					<a href="projects/press-conference.php">
+					<a class="anchor-tdi" href="projects/press-conference.php">
 						<div class="grid-copy">
 							<h3>Totally Unexpected<br />Press Conference</h3>
 							<p class="copy">Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly.</p>
@@ -84,7 +80,7 @@
 					</a>
 				</li>
 				<li class="single grid-over">
-					<a href="projects/focus-doug.php">
+					<a class="anchor-tdi" href="projects/focus-doug.php">
 						<div class="grid-copy">
 							<h3>Doug, the Ford<br />Spokespuppet</h3>
 							<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
@@ -95,7 +91,7 @@
 					</a>
 				</li>
 				<li class="single grid-over">
-					<a href="projects/lincoln-innovators.php">
+					<a class="anchor-tdi" href="projects/lincoln-innovators.php">
 						<div class="grid-copy">
 							<h3>Lincoln<br />Innovators</h3>
 							<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
@@ -106,7 +102,7 @@
 					</a>
 				</li>
 				<li class="single grid-over">
-					<a href="projects/carhartt.php">
+					<a class="anchor-tdi" href="projects/carhartt.php">
 						<div class="grid-copy">
 							<h3>Carhartt</h3>
 							<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
@@ -117,7 +113,7 @@
 					</a>
 				</li>
 				<li class="single grid-over">
-					<a href="projects/focus-rally.php">
+					<a class="anchor-tdi" href="projects/focus-rally.php">
 						<div class="grid-copy">
 							<h3>Focus Rally</h3>
 							<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
@@ -128,7 +124,7 @@
 					</a>
 				</li>
 				<li class="single grid-over">
-					<a href="projects/we-own-work.php">
+					<a class="anchor-tdi" href="projects/we-own-work.php">
 						<div class="grid-copy">
 							<h3>We Own Work</h3>
 							<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
@@ -139,7 +135,7 @@
 					</a>
 				</li>
 				<li class="double grid-over">
-					<a href="projects/sports-authority.php">
+					<a class="anchor-tdi" href="projects/sports-authority.php">
 						<div class="grid-copy">
 							<h3>These shoes<br />are Magic.</h3>
 							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>

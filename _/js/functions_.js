@@ -448,18 +448,30 @@ $(document).ready(function() {
 	});
 
 	$('a').click(function(ele) {
-		ele.preventDefault();
-		var url = $(this).attr('href');
-		if (url.indexOf("#") === -1 && url.indexOf("mailto") === -1) {
-			$('.wrapper').stop().animate({
-				opacity: 0
-			}, 500, function() {
-				_gaq.push(['_trackEvent','teamdetroit','exits', window.location]);
+		if($(this).attr('href').indexOf("#billboard_") !== 0) {
+			ele.preventDefault();
+			var url = $(this).attr('href');
+			if ($(this).hasClass('anchor-tdi')) {
+				$('.wrapper').stop().animate({
+					opacity: 0
+				}, 500, function() {
+					_gaq.push(['_trackEvent','teamdetroit','exits', window.location]);
+					window.location.href = url;
+				});
+			} else if (url === "#social-link") {
+				var social = ($(this).parent().attr('class'));
+				if (social === "facebook") {
+					window.open("http://www.facebook.com/sharer/sharer.php?u="+location.href, '_blank');
+				} else if (social === "twitter") {
+					window.open("https://twitter.com/intent/tweet?original_referer="+location.href, '_blank');
+					
+				}
+			} else if(url.indexOf("mailto") === 0) {
 				window.location.href = url;
-
-			});
-		} else if(url.indexOf("mailto") === 0) {
-			window.location.href = url;
+			} else if(url.indexOf("#") < 0) {
+				_gaq.push(['_trackEvent','teamdetroit','exits', window.location]);
+				window.open(url, '_blank');
+			}
 		}
 	});
 

@@ -63,7 +63,7 @@
 
 	<div class="segment-headline-wrapper clear below-carousel">
 		
-		<h2 class="center min-max"><a href="../culture.php" alt="Back to Culture"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Movember</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../culture.php" alt="Back to Culture"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Movember</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
 				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
@@ -121,8 +121,8 @@
 			</aside>
 			
 			<ul class="secondary-nav">
-				<li class="secondary-nav-prev"><a href="greening_of_detroit.php">Previous</a></li>
-				<li class="secondary-nav-next"><a href="motorcity_pride.php">Next</a></li>
+				<li class="secondary-nav-prev"><a href="greening_of_detroit.php" class="anchor-tdi">Previous</a></li>
+				<li class="secondary-nav-next"><a href="motorcity_pride.php" class="anchor-tdi">Next</a></li>
 			</ul>
 		
 		</div>
@@ -138,7 +138,7 @@
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='../_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
 <script src="../_/js/jquery.shadow-animation.min.js"></script>

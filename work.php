@@ -57,7 +57,7 @@
 			<ol class="grid">
 				
 				<li class="single">
-					<a href="projects/sports-authority.php">
+					<a class="anchor-tdi" href="projects/sports-authority.php">
 						<div class="grid-copy">
 							<h3>Sports Authority</h3>
 							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
@@ -69,7 +69,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/explorer-live.php">
+					<a class="anchor-tdi" href="projects/explorer-live.php">
 						<div class="grid-copy">
 							<h3>Explorer<br />Live</h3>
 							<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvent the SUV launch.</p>
@@ -81,7 +81,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/we-own-work.php">
+					<a class="anchor-tdi" href="projects/we-own-work.php">
 						<div class="grid-copy">
 							<h3>We Own Work</h3>
 							<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
@@ -93,7 +93,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/mustang-customizer.php">
+					<a class="anchor-tdi" href="projects/mustang-customizer.php">
 						<div class="grid-copy">
 							<h3>Mustang<br />Customizer</h3>
 							<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like. We created a tool—and a battleground—for them to see it come to life.</p>
@@ -105,7 +105,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/f150-torture-test.php">
+					<a class="anchor-tdi" href="projects/f150-torture-test.php">
 						<div class="grid-copy">
 							<h3>F-150<br />Torture Test</h3>
 							<p class="copy">We took one F-150 EcoBoost engine and subjected it to a slasher movie-style world of pain to prove it’s Built Ford Tough.</p>
@@ -117,7 +117,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/focus-rally.php">
+					<a class="anchor-tdi" href="projects/focus-rally.php">
 						<div class="grid-copy">
 							<h3>Focus<br />Rally</h3>
 							<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
@@ -129,7 +129,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/focus-doug.php">
+					<a class="anchor-tdi" href="projects/focus-doug.php">
 						<div class="grid-copy">
 							<h3>Doug, the Ford<br />Spokespuppet</h3>
 							<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
@@ -141,7 +141,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/mustang.php">
+					<a class="anchor-tdi" href="projects/mustang.php">
 						<div class="grid-copy">
 							<h3>Mustang</h3>
 							<p class="copy">Go ahead. Give the Ford Mustang better miles-per-gallon and even smarter technology. It’ll still make your heart race.</p>
@@ -153,7 +153,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/ccs.php">
+					<a class="anchor-tdi" href="projects/ccs.php">
 						<div class="grid-copy">
 							<h3>CCS</h3>
 							<p class="copy">Our work for Detroit’s College for Creative Studies proved you can still reach today’s teenagers using low-tech communication.</p>
@@ -165,7 +165,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/carhartt.php">
+					<a class="anchor-tdi" href="projects/carhartt.php">
 						<div class="grid-copy">
 							<h3>Carhartt</h3>
 							<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
@@ -177,7 +177,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/fiesta.php">
+					<a class="anchor-tdi" href="projects/fiesta.php">
 						<div class="grid-copy">
 							<h3>Ford<br />Fiesta</h3>
 							<p class="copy">The Ford Fiesta may look small. But between its smart technology and high MPG, it’s actually a pretty big deal.</p>
@@ -189,7 +189,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/lincoln-innovators.php">
+					<a class="anchor-tdi" href="projects/lincoln-innovators.php">
 						<div class="grid-copy">
 							<h3>Lincoln Innovators</h3>
 							<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
@@ -201,7 +201,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/press-conference.php">
+					<a class="anchor-tdi" href="projects/press-conference.php">
 						<div class="grid-copy">
 							<h3>Press<br />Conference</h3>
 							<p class="copy">Real talk. It’s what you get when Ford owners suddenly find themselves in the midst of a press conference—answering questions on the fly.</p>
@@ -213,7 +213,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/scotts.php">
+					<a class="anchor-tdi" href="projects/scotts.php">
 						<div class="grid-copy">
 							<h3>Scotts</h3>
 							<p class="copy">Independent retailers helped put Scotts on the map. So to return the love, Scotts released an entire line of products exclusively for them.</p>
@@ -225,7 +225,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/bosch.php">
+					<a class="anchor-tdi" href="projects/bosch.php">
 						<div class="grid-copy">
 							<h3>Bosch</h3>
 							<p class="copy">To prove Bosch Icon Wiper Blades can endure insane weather, we teamed up with the fearless crew from Discovery Channel’s Storm Chasers.</p>
@@ -237,7 +237,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/ohio-art.php">
+					<a class="anchor-tdi" href="projects/ohio-art.php">
 						<div class="grid-copy">
 							<h3>Ohio Art</h3>
 							<p class="copy">We say the bigger you get, the smaller your blocks should be. Micro-sized Nanoblocks have the magic to return you to childhood.</p>
@@ -249,7 +249,7 @@
 				</li>
 				
 				<li class="single">
-					<a href="projects/ford-social.php">
+					<a class="anchor-tdi" href="projects/ford-social.php">
 						<div class="grid-copy">
 							<h3>Ford Social</h3>
 							<p class="copy">We tapped into a group of people who had good vibes about Ford. The more they talked, the more we wanted to listen. To engage. And socialize.</p>
@@ -261,7 +261,7 @@
 				</li>
 
 				<li class="single">
-					<a href="projects/warrior.php">
+					<a class="anchor-tdi" href="projects/warrior.php">
 						<div class="grid-copy">
 							<h3>Warrior</h3>
 							<p class="copy">What makes a Manchine? A downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt&reg;.</p>
@@ -298,9 +298,9 @@
 				<li class="vdash-fix"><img src="_/img/clients/carhartt.jpg" alt="carhartt"></li>
 				<li class=""><img src="_/img/clients/unitedway.jpg" alt="unitedway"></li>
 				
-				<li class="vdash-fi"><img src="_/img/clients/varta.png" alt="varta"></li>
-				<li class="vdash-fi"><img src="_/img/clients/ccs.png" alt="unitedway"></li>
-				<li class="vdash-fi"><img src="_/img/clients/optima.png" alt="optima"></li>
+				<li class="vdash-fix"><img src="_/img/clients/varta.png" alt="varta"></li>
+				<li class="vdash-fix"><img src="_/img/clients/ccs.png" alt="unitedway"></li>
+				<li class="vdash-fix"><img src="_/img/clients/optima.png" alt="optima"></li>
 				<li class=""><img src="_/img/clients/brine.png" alt="brine"></li>
 				
 			</ul>
@@ -318,12 +318,11 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.6.4.min.js'>\x3C/script>")</script>
+<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
-<script src="_/js/jquery.shadow-animation.min.js"></script>
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions_.js"></script>
 	 
