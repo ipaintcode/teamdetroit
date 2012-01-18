@@ -78,9 +78,9 @@
 					<p>This campaign increased confidence in Independent Retailers and strengthened their relationship with Scotts.</p>
 					
 					<ul class="content-links">Related Links
-						<li><a href="http://www.scotts.com/smg/home/home4.jsp">Check out the site</a></li>
-						<li><a href="http://itunes.apple.com/us/app/my-scotts-lawn/id372269879?mt=8">Download the iPhone app</a></li>
-						<li><a href="https://market.android.com/details?id=com.scotts&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5zY290dHMiXQ">Download the Android app</a></li>
+						<li><a href="http://www.scotts.com/smg/home/home4.jsp">Check out the Scotts site</a></li>
+						<li><a href="http://itunes.apple.com/us/app/my-scotts-lawn/id372269879?mt=8">Download the Scotts iPhone App</a></li>
+						<li><a href="https://market.android.com/details?id=com.scotts&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5zY290dHMiXQ">Download the Scotts Android App</a></li>
 					</ul>
 					
 					<ul class="content-info-social">
