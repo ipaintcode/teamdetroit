@@ -37,6 +37,15 @@ jQuery.cookie = function(key, value, options) {
 /* trigger when page is ready */
 $(document).ready(function (){
 	
+	function updateTime() {
+		$.get('time.php', function(data) {
+			$('.est-time').html(data)
+		});
+		setTimeout(updateTime, 5000);
+	}
+	
+	updateTime();
+	
 	var getAnchor = window.location.href.split("=")[1];
 	
 	if(getAnchor == 'leaders') {

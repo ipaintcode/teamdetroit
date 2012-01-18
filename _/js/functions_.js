@@ -45,6 +45,16 @@ jQuery.cookie = function(key, value, options) {
 
 /* trigger when page is ready */
 $(document).ready(function() {
+	
+	function updateTime() {
+		$.get('time.php', function(data) {
+			$('.est-time').html(data)
+		});
+		setTimeout(updateTime, 5000);
+	}
+	
+	updateTime();
+	
 	$('.footer a').hover(function() {
 		$(this).stop().animate({color: "#ED1B2E"}, 200);
 	}, function() {

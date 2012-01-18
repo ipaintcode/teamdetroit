@@ -3,7 +3,6 @@
 
 		<aside class="teamdetroit-facts-box single">
 			<div class="facts-inner">
-				
 				<h6 onselectstart="return false;" ondragstart="return false;">Team Detroit</h6>
 				<div onselectstart="return false;" ondragstart="return false;" class="facts-prev">&larr;</div>
 				<div onselectstart="return false;" ondragstart="return false;" class="facts-next">&rarr;</div>
@@ -16,19 +15,8 @@
 						<li><img src="/teamdetroit/_/img/footer/05_footer_billboards.jpg" alt="Facts"></li>
 					<ul>
 				</div>
-				<span class="est-time"><?php
-					date_default_timezone_set("America/Detroit"); 
+				<span class="est-time"></span>
 
-									echo date("g");
-		
-				 ?>:<?php
-					date_default_timezone_set("America/Detroit"); 
-									echo date("i");
-		
-				 ?><sup><?php
-					date_default_timezone_set("America/Detroit"); 
-					echo date("a");
-				?></sup></span>
 				<span class="est-weather-temp">
 				<?
 $xml = simplexml_load_file('http://www.google.com/ig/api?weather=detroit');
