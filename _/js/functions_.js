@@ -336,7 +336,7 @@ $(document).ready(function() {
 		$(this).find('.view-project').stop().delay(330).animate({
 			right: 30
 		}, 300);
-		$(this).find('.color-swatch').stop().animate({
+		$(this).find('.color-swatch, .color-swatch-leader').stop().animate({
 			height: "100%",
 			opacity: ".9"
 		}, 200, function() {
