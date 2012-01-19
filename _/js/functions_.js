@@ -333,7 +333,7 @@ $(document).ready(function() {
 	}
 
 	$('ol.grid-ext-leader li').hover(function() {
-		$(this).find('img').stop().animate({opacity: .2}, 300)	
+		$(this).find('img').stop().animate({opacity: .1}, 300)	
 		$(this).find('.color-swatch-leader').stop().animate({
 			height: "100%",
 			opacity: ".9"
