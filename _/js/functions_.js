@@ -342,7 +342,10 @@ $(document).ready(function() {
 		}, 200, function() {
 			$(this).css('height', '100%')
 		});
-
+		$(this).find('.color-swatch-leader').css({
+		  height: '100%',
+		  width: '100%'
+		})
 		$(this).find('.copy').stop().delay(200).animate({
 			opacity: 1,
 			top: 40
