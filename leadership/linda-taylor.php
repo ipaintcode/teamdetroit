@@ -116,7 +116,7 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-XXXXXX-XX']);
-  _gaq.push(['_trackPageview', 'teamdetroit:about:Linda-Taylor']);
+  _gaq.push(['_trackPageview', 'teamdetroit:about:Linda_Taylor']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;

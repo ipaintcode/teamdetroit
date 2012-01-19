@@ -128,7 +128,7 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-XXXXXX-XX']);
-  _gaq.push(['_trackPageview', 'teamdetroit:culture:Greening-of-Detroit']);
+  _gaq.push(['_trackPageview', 'teamdetroit:culture:Greening_of_Detroit']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;

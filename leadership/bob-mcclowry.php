@@ -116,7 +116,7 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-XXXXXX-XX']);
-  _gaq.push(['_trackPageview', 'teamdetroit:about:Bob-McClowry']);
+  _gaq.push(['_trackPageview', 'teamdetroit:about:Bob_McClowry']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
