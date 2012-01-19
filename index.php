@@ -24,16 +24,6 @@
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="_/css/style_.css">
 
-	  <style>
-	    div#map img{
-	      margin-top: -1px;
-	      margin-left: -1px;
-	width: 355px;
-			
-	    }
-	  </style>
-
-
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
 <link rel="stylesheet" href="_/css/flexslider.css">
