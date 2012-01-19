@@ -47,7 +47,7 @@ jQuery.cookie = function(key, value, options) {
 $(document).ready(function() {
 	
 	function updateTime() {
-		$.post('/teamdetroit/time.php', function(data) {
+		$.post('/teamdetroit/time.php?ts='+new Date().getMilliseconds(), function(data) {
 			$('.est-time').html(data)
 		});
 		setTimeout(updateTime, 5000);
