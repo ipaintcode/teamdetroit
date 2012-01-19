@@ -340,9 +340,7 @@ $(document).ready(function() {
 			height: "100%",
 			opacity: ".9"
 		}, 200, function() {
-			$(this).stop().delay(100).animate({
-				boxShadow: '0 0 30px'
-			}, 1200);
+			$(this).css('height', '100%')
 		});
 
 		$(this).find('.copy').stop().delay(200).animate({
