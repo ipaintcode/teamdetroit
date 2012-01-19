@@ -333,7 +333,6 @@ $(document).ready(function() {
 	}
 
 	$('ol.grid-ext-leader li').hover(function() {
-		alert($(this))
 		$(this).find('.view-project').stop().delay(330).animate({
 			right: 30
 		}, 300);
