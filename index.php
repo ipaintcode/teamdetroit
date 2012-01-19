@@ -23,6 +23,15 @@
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="_/css/style_.css">
+	
+	<!--[if IE]>
+	  <style>
+	    section#map img{
+	      margin-top: -1px;
+	      margin-left: -1px;
+	    }
+	  </style>
+	<![endif]-->
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
