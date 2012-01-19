@@ -59,8 +59,8 @@
 				<li class="single">
 					<a class="anchor-tdi" href="projects/sports-authority.php">
 						<div class="grid-copy">
-							<h3>Sports Authority</h3>
-							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
+							<h3>The Sports Authority</h3>
+							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who needed them.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #8204A1;"></div>
@@ -84,7 +84,7 @@
 					<a class="anchor-tdi" href="projects/we-own-work.php">
 						<div class="grid-copy">
 							<h3>We Own Work</h3>
-							<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
+							<p class="copy">The stats were in. Ford Super Duty<sup>&reg;</sup> trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #04D9DB;"></div>
@@ -96,7 +96,7 @@
 					<a class="anchor-tdi" href="projects/mustang-customizer.php">
 						<div class="grid-copy">
 							<h3>Mustang<br />Customizer</h3>
-							<p class="copy">Most Mustang fans have dreamed of what their ultimate pony would look like. We created a tool—and a battleground—for them to see it come to life.</p>
+							<p class="copy">Most Mustang fans have dreamed of what their dream pony car would look like. We created a tool—and a battleground—for them to see it come to life.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						 <div class="color-swatch" style="background: #E13255;"></div>
@@ -168,7 +168,7 @@
 					<a class="anchor-tdi" href="projects/carhartt.php">
 						<div class="grid-copy">
 							<h3>Carhartt</h3>
-							<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
+							<p class="copy">When an iconic American brand does its first TV commercial in more that 10 years, it'd better be good. It better grab you. And we definitely made sure it would grab you.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #8204A1;"></div>
@@ -180,7 +180,7 @@
 					<a class="anchor-tdi" href="projects/fiesta.php">
 						<div class="grid-copy">
 							<h3>Ford<br />Fiesta</h3>
-							<p class="copy">The Ford Fiesta may look small. But between its smart technology and high MPG, it’s actually a pretty big deal.</p>
+							<p class="copy">The Ford Fiesta may look small. But between its smart technology and high mpg, it’s actually a pretty big deal.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #04D9DB;"></div>
@@ -228,7 +228,7 @@
 					<a class="anchor-tdi" href="projects/bosch.php">
 						<div class="grid-copy">
 							<h3>Bosch</h3>
-							<p class="copy">To prove Bosch Icon Wiper Blades can endure insane weather, we teamed up with the fearless crew from Discovery Channel’s Storm Chasers.</p>
+							<p class="copy">To prove Bosch Icon&trade; Wiper Blades can endure obscene weather, we teamed up with the fearless crew from Discovery Channel’s Storm Chasers.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #9E0120;"></div>
@@ -264,7 +264,7 @@
 					<a class="anchor-tdi" href="projects/warrior.php">
 						<div class="grid-copy">
 							<h3>Warrior</h3>
-							<p class="copy">What makes a Manchine? A downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt&reg;.</p>
+							<p class="copy">What makes a Manchine? A downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt<sup>&reg;</sup>.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #8204A1;"></div>

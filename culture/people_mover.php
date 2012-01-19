@@ -75,7 +75,7 @@
 
 					<p>For decades, the mainstream media has colored Detroit as dangerous and decaying. The truth is Detroit right now is just this vast, enormous canvas where anything imaginable can be accomplished. The city is teeming with local and international artists, creators, writers, and entrepreneurs who are finding their inspiration in Detroit.</p>
 
-					<p>Team Detroit created &lsquo;People Mover&rsquo; to showcase the many talented individuals who make Detroit such a special place to live and work.&nbsp;&nbsp;This short film captures 24 local artists, cooks, thinkers and musicians who came together one day in April and turned the People Mover train into an art venue that circled the city they call &#x27;home&#x27;.</p>
+					<p>Team Detroit createde the "People Mover" art show to showcase the many talented individuals who make Detroit such a special place to live and work.&nbsp;&nbsp;This short film captures 24 local artists, cooks, thinkers and musicians who came together one day in April and turned the People Mover train into an art venue that circled the city they call &#x27;home&#x27;.</p>
 					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -94,7 +94,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Team Detroit created &lsquo;People Mover&rsquo; to showcase the many talented individuals who make Detroit such a special place to live and work.</p>
+					 	<p>Team Detroit created the "People Mover" art show to showcase the many talented individuals who make Detroit such a special place to live and work.</p>
 					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				

@@ -232,7 +232,7 @@
 					<a href="culture/love_detroit.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">Love,<br />Detroit</h3>
-							<p class="copy">Celebrate the season with free, streaming and downloadable Holiday tunes from Detroit artists.</p>
+							<p class="copy">Celebrate the season with free, streaming and downloadable holiday tunes from Detroit artists.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #711677;"></div>

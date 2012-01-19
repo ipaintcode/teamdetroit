@@ -73,7 +73,7 @@
 					<a class="anchor-tdi" href="culture/love_detroit.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">Love,<br />Detroit</h3>
-							<p class="copy">Celebrate the season with free, streaming and downloadable Holiday tunes from Detroit artists.</p>
+							<p class="copy">Celebrate the season with free, streaming and downloadable holiday tunes from Detroit artists.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #711677;"></div>
@@ -105,8 +105,8 @@
 				<li class="single">
 					<a class="anchor-tdi" href="culture/motorcity_pride.php">
 						<div class="grid-copy">
-							<h3 class="culture-title">Motorcity<br />Pride</h3>
-							<p class="copy">Our Motor City Pride film highlights a few faces of Detroit's vibrant GLBT community.</p>
+							<h3 class="culture-title">Motor City<br />Pride</h3>
+							<p class="copy">Our Motor City Pride film highlights a few faces of Detroit's vibrant LGBT community.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #3F74D2;"></div>

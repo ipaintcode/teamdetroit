@@ -61,11 +61,11 @@
 
 					<p>After growing up in India’s largest city (formerly known as Bombay), Satish earned a degree in chemical engineering from IIT-Bombay before getting a business management degree from the University of Minnesota. But instead of signing on with a traditional company where chemical engineering degrees come in handy, Satish steered his career into advertising.</p>
 
-					<p>Satish caught on at agencies such as Leo Burnett and Young & Rubicam before taking the helm as the President of Ford at WPP. It was in this role that he fulfilled his vision of creating the singular Team Detroit from five different agencies. Because of its success, Satish then became the Global Client Director for WPP. In this position he helped WPP CEO Sir Martin Sorrell establish Team Detroit’s model for our 30 largest global clients, including HSBC, Vodafone, P&G, Allianz, Shell, Kimberly-Clark and Ford.</p>
+					<p>Satish caught on at agencies such as Leo Burnett and Young &amp; Rubicam before taking the helm as the President of Ford at WPP. It was in this role that he fulfilled his vision of creating the singular Team Detroit from five different agencies. Because of its success, Satish then became the Global Client Director for WPP. In this position he helped WPP CEO Sir Martin Sorrell establish Team Detroit&rsquo;s model for our 30 largest global clients, including HSBC, Vodafone, P&amp;G, Allianz, Shell, Kimberly-Clark and Ford.</p>
 
-					<p>Now he’s back. In Dearborn. At the helm. And he’s using the knowledge gleaned from his global experiences to take Team Detroit to the next level. Yes, it’s certainly been a long journey from Mumbai to Dearborn but if there’s anyone who can bring out the right combination of talent, skill and hard work from all the Team Detroit employees, he’s again sitting in the corner office here.</p>
+					<p>Now he’s back. In Dearborn. At the helm. And he’s using the knowledge gleaned from his global experiences to take Team Detroit to the next level. Yes, it’s certainly been a long journey from Mumbai to Dearborn but if there’s anyone who can bring out the right combination of talent, skill and hard work from all of the Team Detroit employees, he can.</p>
 
-					<p>Mixing different parts of agencies together? Finding the right formula? Delivering the best results? Being the catalyst of it all. Maybe that chemical engineering degree will come in handy.</p>
+					<p>Mixing different parts of agencies together? Finding the right formula? Delivering the best results? Being the catalyst of it all? Maybe that chemical engineering degree will come in handy.</p>
 				
 					<!-- <ul class="content-info-social">
 						<li>Network &rarr;</li>

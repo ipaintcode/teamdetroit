@@ -69,9 +69,9 @@
 
 				<article class="content-info">
 
-					<p>Motor City Pride is the state's largest event celebrating the lives of Michigan's Gay, Lesbian, Bisexual and Transgender. The weekend-long event is packed with activities including a Family Picnic, Golf Outing and Commitment Ceremony.</p>
+					<p>Motor City Pride is the state's largest event celebrating the lives of Michigan's Gay, Lesbian, Bisexual and Transgender. The weekend-long event is packed with activities including a family picnic, golf outing and commitment ceremony.</p>
 
-					<p>In 2011 the event was moved out of a Detroit suburb and into Downtown. Team Detroit wanted to celebrate the move and show our appreciation for all that the GLBT community contributes to Detroit. Whether through activism, business ownership, historic preservation, or as cultural curators, our GLBT community is truly changing the landscape of the city.</p>
+					<p>In 2011 the event was moved out of a Detroit suburb and into Downtown. Team Detroit wanted to celebrate the move and show our appreciation for all that the LGBT community contributes to Detroit. Whether through activism, business ownership, historic preservation, or as cultural curators, members of GLBT community are truly changing the landscape of the city.</p>
 					<p class="content-italic">"Detroit is a city that truly appreciates your contributions and having you here."</p>
 					
 					<p>Our Motor City Pride film highlights a few of the faces of Detroit's vibrant GLBT community. Enjoy.</p>

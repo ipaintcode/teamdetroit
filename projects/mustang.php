@@ -80,9 +80,9 @@
 					
 					<h3>Keep the raw power. Up the ante on efficiency.</h3>
 
-					<p>When Ford redesigned the Mustang, they didn’t completely change it. Sure, the new model got much better gas mileage than before, and was filled with more smart technology. But at the center of it all was the same adrenaline-inducing car that America fell in love with in 1964.</p>
+					<p>When Ford redesigned the Mustang, they didn&rsquo;t completely change it. Sure, the new model got much better gas mileage than before, and was filled with more smart technology. But at the center of it all was the same adrenaline-inducing car that America fell in love with in 1964.</p>
 					
-					<p>The goal here was to show Mustang enthusiasts that making a car more fuel-efficient doesn’t mean you have to slow it down any.  And what better way to illustrate that than showing the Mustang do all the things that made it legendary? The work put a spotlight on the car’s performance, both on the track and at the pump.</p>
+					<p>The goal here was to show Mustang enthusiasts that making a car more fuel-efficient doesn’t mean you have to slow it down any. And what better way to illustrate that than by showing the Mustang doing all the things that made it legendary? The work put a spotlight on the car’s performance, both on the track and at the pump.</p>
 					
 					<ul class="content-links">Related Links
 						<li><a href="http://www.youtube.com/user/FordMustang">Check it out on youtube</a></li>
@@ -107,6 +107,7 @@
 					 <blockquote>
 					 	<p>It&rsquo;s a record for being the first 300+ hp vehicle to be officially rated at 30 mpg or more. Wow, think about that. It&#x27;s never been done before.</p>
 					 	<p class="content-quote-author">&ndash; Autoblog</p>
+						<p class="content-quote-author">*EPA estimated 31 hwy mpg, V6 coupe automatic.</p>
 					 </blockquote>
 				
 				</div>

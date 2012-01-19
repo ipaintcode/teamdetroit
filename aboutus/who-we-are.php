@@ -15,7 +15,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	
 	<!-- Aboutus meta - description : content -->
-	<meta name="description" content="You're here because you want to be. You admire the people you work with because they do something better than you. And you do something better than them." />
+	<meta name="description" content="You're here because you want to be. You admire the people you work with because they do something better than you do. And you do something better than they do." />
 	
 	<title>Who We Are | TeamDetroit.com</title>
 
@@ -59,7 +59,7 @@
 
 					<p>What&rsquo;s the motivation? Why did you come in? Good clients, a paycheck, benefits, a nice cafeteria, clean bathrooms? Maybe all of the above. But that&rsquo;s not very romantic.</p>
 
-					<p>You&rsquo;re here because you want to be. You admire the people you work with because they do something better than you. And you do something better than them.</p>
+					<p>You&rsquo;re here because you want to be. You admire the people you work with because they do something better than you do. And you do something better than they do.</p>
 					
 					<p>You&rsquo;re here because you have an idea. And you&rsquo;re about to make it happen.</p>
 				

@@ -78,11 +78,13 @@
 					
 					<h3>How we developed a really big idea for a really small car</h3>
 
-					<p>For the longest time when it came to cars, bigger was better. Small cars? Well, that’s what you bought as your first car before graduating into a full-sized sedan. But with gas prices rising and more young adults living in urban settings, people were interested in a small car like the Ford Fiesta that gets great gas mileage and is easy to park on crowded city streets.</p>
+					<p>For the longest time when it came to cars, bigger was better. Small cars? Well, that’s what you bought as your first car before graduating into a full-size sedan. But with gas prices rising and more young adults living in urban settings, people were interested in a small car like the Ford Fiesta that gets great gas mileage and is easy to park on crowded city streets.</p>
 					
 					<p>We knew Ford was reaching out to Generation Y with the new Fiesta. The problem is most Gen Y-ers have grown tired of the song and dance they get from most advertisers. So, we created a campaign that gave them more song and dance. Literally. The commercials showed the many features of the Fiesta by choreographing them to a track from Edwin Sharpe and the Magnetic Zeroes.</p>
 					
-					<p>And the jaded, anti-commercial Gen Y-ers? Well, they paid attention to it. The campaign tapped into their emotions. They’re car ads that are simply unlike any other car ad you’ve ever seen.</p>
+					<p>And the jaded, anti-commercial Gen Y-ers? Well, they paid attention to it. The campaign tapped into their emotions. These are car ads that are simply unlike any other car ad you’ve ever seen.</p>
+					
+					<p class="tiny-text">*EPA-estimated 29 city/39 hwy/33 combined, automatic</p>
 					
 					<ul class="content-links">Related Links
 						<li><a href="http://www.ford.com/cars/fiesta/">Check out the Fiesta</a></li>

@@ -70,13 +70,13 @@
 
 				<article class="content-info">
 
-					<p>Signal-Return seeks to connect the community to traditional + emergent forms of printing as well as offer a resource for entrepreneurial artists + designers to produce for retail clients.</p>
+					<p>Signal-Return seeks to connect the community to traditional and+ emergent forms of printing as well as offer a resource for entrepreneurial artists and+ designers to produce for retail clients.</p>
 
 					<p>Signal-Return is a creative enterprise at the intersection of art and commerce that combines the back-end production process with a front-end retail store and gallery. Intermingling academics, curation and preservation with apprenticeship, the venue will stand as a multi-use center for fine art, design, craft and literary arts.</p>
 					
 					<p> Our overarching goal is to create a hive for dynamic visual production. By tipping over the barrier that often separates print production from the public eye, process is here made apparent, from composing and proofing, to running an edition and clipping fresh prints to dry on a line.</p>
 					
-					<p>The collaborative spirit of Signal-Return will motivate participants to stretch their reach, as they expand their toolkits, vocabularies and means of production.</p>
+					<p>The collaborative spirit of Signal-Return will motivate participants to stretch their reach as they expand their toolkits, vocabularies and means of production.</p>
 					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>

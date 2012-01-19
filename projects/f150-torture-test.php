@@ -104,15 +104,17 @@
 					
 					<h3>Truck owners have liked V6 engines about as much as they like man purses.</h3>
 
-					<p>Ford introduced a radical new V6 that could tow more, haul more and get better fuel economy than any V8. All we had to do was convince truck guys that this V6 was tough enough for them. Convince skeptical truck guys who told us they need to &ldquo;see it before they&rsquo;ll believe it.&rdquo;</p>
+					<p>Ford introduced a radical new V6 that could tow more, haul more and get better fuel economy* than any V8. All we had to do was convince truck guys that this V6 was tough enough for them. Convince skeptical truck guys who told us they'd need to &ldquo;see it before they&rsquo;ll believe it.&rdquo;</p>
 					
 					<p>So how did we prove EcoBoost was Built Ford tough? We tortured the living daylights out of it.</p>
 					
-					<p>We dreamed up six sick and twisted episodic videos created exclusively for the web. Collectively, they document the journey of one randomly selected EcoBoost engine as it endures over 160,000 miles of torture:</p>
+					<p>We dreamed up six sick and twisted episodic videos created exclusively for the Web. Collectively, they document the journey of one randomly selected EcoBoost engine as it endures over 165,000 miles of torture:</p>
 					
 					<p>Like 150,000 punishing miles on the dyno. 55 tons of timber hauled up a steep mountain grade. 11,300 pounds towed for 24 hours at full throttle. 1000 miles across the Baja desert. And a full-on throw-down against larger V8s in a grueling uphill race.</p>
 					
 					<p>In the end, Engine 448AA absorbed 165,000 miles of abuse, yet held to cross nearly every state line. We fried it, we froze it, we gave it hell. We beat ourselves to a pulp trying to kill it, but it just laughed in our face.</p>
+					
+					<p class="tiny-text">*EPA-estimated 16 city/22 hwy/18 combined mpg, 3.5L V6 4x2</p>
 					
 					<ul class="content-links">Related Links
 						<li><a href="http://www.ford.com/trucks/f150/experiencef150/">Check out the Torture Test site</a></li>
@@ -136,7 +138,7 @@
 
 					 <blockquote>
 					 	<p>Best of all, 42% of all new F-150 buyers upgraded their engine to the EcoBoost. Well over the sales goal of 25%.</p>
-					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
+					 	<!-- <p class="content-quote-author"></span></p> -->
 					 </blockquote>
 				
 				</div>

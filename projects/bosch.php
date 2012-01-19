@@ -85,11 +85,11 @@
 					
 					<h3>Nothing says road worthy like a tornado test.</h3>
 
-					<p>How do you prove that Bosch Icon&trade; Wiper Blades will perform when you need them, in even the world&rsquo;s worst weather conditions? We teamed up with the gonzo meteorologists from The Discovery Channel&rsquo;s Storm Chasers.</p>
+					<p>How do you prove that Bosch Icon<sup>&trade;</sup> Wiper Blades will perform when you need them, in even the world&rsquo;s worst weather conditions? We teamed up with the gonzo meteorologists from The Discovery Channel&rsquo;s Storm Chasers.</p>
 
-					<p>We installed Bosch Icon&trade; Blades on The Dominator, the Storm Chasers&rsquo; heavily armored vehicle. Then we told Reed Timmer and his intrepid crew to go find the nastiest weather out there. The partnership created a media storm: A TV spot, no-holds-barred webisodes, a dedicated website and likely the very first webpage takeover by a tornado.</p>
+					<p>We installed Bosch Icon<sup>&trade;</sup> Blades on The Dominator, the Storm Chasers&rsquo; heavily armored vehicle. Then we told Reed Timmer and his intrepid crew to go find the nastiest weather out there. The partnership created a media storm: A TV spot, no-holds-barred webisodes, a dedicated website and likely the very first webpage takeover by a tornado.</p>
 					
-					<p>Not surprisingly, sales of Icon&trade; Wiper blades took off through the roof. And even less surprisingly, Bosch was fired up to let the Storm Chasers take the Icon Blades out for another round with Mother Nature.</p>
+					<p>Not surprisingly, sales of Icon<sup>&trade;</sup> Wiper blades took off through the roof. And even less surprisingly, Bosch was fired up to let the Storm Chasers take the Icon Blades out for another round with Mother Nature.</p>
 					
 					<ul class="content-links">Related Links
 						<li><a href="http://www.lightemup.com/">Check out the Bosch site</a></li>
@@ -114,7 +114,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>The new spots really gave us the opportunity to communicate not only the Bosch brand, but also the specific technical features that make ICON&trade; the most advanced blade available in the aftermarket.</p>
+					 	<p>The new spots really gave us the opportunity to communicate not only the Bosch brand, but also the specific technical features that make ICON<sup>&trade;</sup> the most advanced blade available in the aftermarket.</p>
 					 	<p class="content-quote-author">&ndash; Pam Krebs <span>(Director of Advertising and Sales Promotion for Bosch)</span></p>
 					 </blockquote>
 				

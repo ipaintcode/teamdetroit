@@ -98,11 +98,11 @@
 				<article class="content-info">
 					
 					<h3>Cross-country… and winning all the way.</h3>
-					<p>To introduce the 2012 Ford Focus we put a spin on the classic reality web series, turning it into the first ever interactive reality web series, allowing viewers to engage with competitors—even affecting the outcome. We took six teams of two, on a 52 day, 3,500 mile road race across America with Olympic gold medalist, Jonny Moseley as the host.</p>
+					<p>To introduce the 2012 Ford Focus we put a spin on the classic reality Web series, turning it into the first ever interactive reality Web series, allowing viewers to engage with competitors—even affecting the outcome. We took six teams of two, on a 52 day, 3,500 mile road race across America with Olympic gold medalist, Jonny Moseley as the host.</p>
 
-					<p>Teams competed in varies challenges and tasks in hope of winning $100,000 and a brand-new 2012 Focus. </p>
+					<p>Teams competed in various challenges and tasks in hope of winning $100,000 and a brand-new 2012 Focus. </p>
 
-					<p>Audience members were encouraged to pick a team and become virtual teammates. Along the way, we picked up over 30,000 Focus followers that participated in live chats with competitor, voted on upgrades to award their team and roadblocks to hamper the competition. Gameplay was awarded with points, badges, unique experiences and the ultimate prize: a new Focus for themselves. </p>
+					<p>Audience members were encouraged to pick a team and become virtual teammates. Along the way, we picked up some 30,000 Focus followers that participated in live chats with competitors, voted on upgrades to award their teams and roadblocks to hamper the competition. Gameplay was rewarded with points, badges, unique experiences and the ultimate prize: a new Focus for one lucky follower.</p>
 					
 					<ul class="content-links">Related Links
 						<li><a href="http://focusrally.com/">Check out the Focus Rally site</a></li>

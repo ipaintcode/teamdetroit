@@ -77,9 +77,9 @@
 					
 					<p>We could have created a forum for people to talk about that Mustang they’ve always dreamed about, but instead we created the ultimate tool for them to build it.</p>
 					
-					<p>The new Ford Mustang Customizer presented users with a base design for the V6, GT, Boss 302 or Shelby GT500 and let them run wild with it. From color to hood design to stripes and decals, we gave enthusiasts more ways than ever to make it their own.</p>
+					<p>The new Ford Mustang Customizer presented users with a base design for the V6, GT, Boss 302<sup>&reg;</sup> or Shelby GT500<sup>&trade;</sup> and let them run wild with it. From color to hood design to stripes and decals, we gave enthusiasts more ways than ever to make it their own.</p>
 					
-					<p>And because it’s not the type of car you hide, we made it easy for fans to connect through Facebook to share and store all of their customized Mustang models and encourage others to join in the fun. We also created a battle mode so they could compete against friends for bragging rights and opened it up to voting to let the people decide on the ultimate customized Mustang. Customizer apps for iPhone and Android allowed fans to build a dream Mustang on the go and ensured that no matter where you were at, you’d never have to back down from a battle.</p>
+					<p>And because it’s not the type of car you hide, we made it easy for fans to connect through Facebook to share and store all of their customized Mustang models and encourage others to join in the fun. We also created a battle mode so they could compete against friends for bragging rights and opened it up to voting to let the people decide on the ultimate customized Mustang. Customizer apps for iPhone and Android allowed fans to build a dream Mustang on the go and ensured that no matter where the fans was at, he or she would never have to back down from a battle.</p>
 					
 					<ul class="content-links">Related Links
 						<li><a href="http://www.ford.com/cars/mustang/customizer/">Check out the Mustang Customizer site</a></li>

@@ -59,13 +59,13 @@
 
 					<p>When the band Journey was singing about &quot;a city boy, born and raised in south Detroit...&quot; they probably weren&#x27;t referring to Monik Sanghvi. But, any geography buff knows that &quot;south Detroit&quot; is actually Windsor, Canada - and, by being born and raised there, Monik lays claim to those lyrics.</p>
 
-					<p>Monik grew up a car buff, surrounded by magazines like Automotive News, Car &amp; Driver and Road &amp; Track, which ignited his passion for the automotive industry. Living in and around Detroit through the late 70&#x27;s and &#x27;80s also galvanized his purpose to help put Detroit back on the map.</p>
+					<p>Monik grew up a car buff, surrounded by magazines like Automotive News, Car and Driver and Road &amp; Track, which ignited his passion for the automotive industry. Living in and around Detroit through the late &#x27;70s and &#x27;80s also galvanized his purpose to help put Detroit back on the map.</p>
 
 					<p>So after graduating from the University of Michigan and Harvard Business School, Monik brought his talents back to Detroit. Serving clients at firms like McKinsey &amp; Company, Organic, AOL and Digitas helped build Monik’s expertise in strategic planning, CRM and digital marketing. This foundation is critical to his current mission at Team Detroit.</p>
 
 					<p>As the Chief Digital and Integration Officer, Monik is charged with leading the agency’s digital marketing services as well as its continual evolution as an industry-leading, fully integrated marketing communications firm. It may be a tall task, but one that Monik embraces with the zeal of a man focused on helping Detroit to thrive once again.</p>
 
-					<p>Monik lives in suburban Detroit with his wife and two children. He reminds his kids of that Journey song all the time &mdash; after all, it is entitled &ldquo;Don’t Stop Believing.&rdquo;</p>
+					<p>Monik lives in suburban Detroit with his wife and two children. He reminds their kids of that Journey song all the time &mdash; after all, it is entitled &ldquo;Don’t Stop Believin'.&rdquo;</p>
 				
 					<!-- <ul class="content-info-social">
 						<li>Network &rarr;</li>

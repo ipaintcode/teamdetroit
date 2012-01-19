@@ -76,7 +76,7 @@
 					
 					<h3>Why we used posters to talk to tech-savvy teenagers</h3>
 
-					<p>Every year, colleges and universities compete against each other to bring the brightest students to their campus.  As eighteen-year-olds have gotten more and more technologically advanced, so have the messages that schools use to reach them. These days, colleges spend thousands of dollars per prospective student to reach their target audience.</p>
+					<p>Every year, colleges and universities compete with each other to bring the brightest students to their campus.  As 18-year-olds have gotten more and more technologically advanced, so have the messages that schools use to reach them. These days, colleges spend thousands of dollars per prospective student to reach their target audience.</p>
 					
 					<p>When Detroit&rsquo;s iconic art and design school, the College for Creative Studies, asked us to create a campaign for them, we knew outspending the competition wasn&rsquo;t an option. So, we decided to outthink them instead.  Our key insight came when we saw a group of our interns huddled next to our bulletin board looking at flyers. After realizing they all were CCS students, we put two and two together and realized it was possible to reach our tech-savvy target with one of the world&rsquo;s oldest forms of communication &mdash; posters.</p>
 				

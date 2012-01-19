@@ -58,7 +58,7 @@
 
 				<div class="content-info">
 
-					<p>Andy is the numbers guy. The kind of person who scoffs at the TurboTax programs of the world. The kind of person who was always on the edge of his seat during Economics classes. The kind of person most people envied and admired in school. Which is exactly the type of person you want running the financial department of such a large and diverse organization like Team Detroit.</p>
+					<p>Andy is the numbers guy. The kind of person who scoffs at the TurboTax programs of the world. The kind of person who was always on the edge of his seat during Economics classes. The kind of person most people envied and admired in school. These traits make him exactly the type of person you want running the financial department of such a large and diverse organization like Team Detroit.</p>
 
 					<p>Andy is responsible for the financial management of Team Detroit and was instrumental in the establishment of Team Detroit as a single business unit. In addition to Finance, Andy is responsible for the IT, Facilities and Quality Functions.</p>
 

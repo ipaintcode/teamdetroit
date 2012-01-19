@@ -93,7 +93,7 @@
 
 					<p>The who&rsquo;s who: Renowned jeweler and home lighting designer Karen Erickson, culinary designer and pioneer of molecular gastronomy Richard Blais, and clothing designer Kevin Stewart were all featured in a series of webisodes and advertorials to showcase Lincoln&rsquo;s reinventions of luxury craftsmanship.</p>
 
-					<p>All media drove to a microsite that gave visitors a chance to win a custom prize from each celebrity: A dinner, a custom-designed shirt or custom-made jewelry.</p>
+					<p>All media drove to a microsite that gave visitors a chance to win a custom prize from each celebrity: A dinner, custom-made jewelry or a custom-designed shirt.</p>
 					
 					<ul class="content-links">Related Links
 						<li><a href="http://www.youtube.com/user/lincoln">Watch Lincoln Innovators on YouTube</a></li>

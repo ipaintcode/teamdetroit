@@ -57,9 +57,9 @@
 
 				<div class="content-info">
 
-					<p>If your goal is to take over the country, Bob is your guy. He’s been there and done that. And then some. He’s the guy on the front lines working face-to-face with Ford dealers on a regular basis. Whether that means opening the Salt Lake City office for Ford dealers in Utah, Idaho, Nevada, Oregon and Wyoming or heading up the dealer group in Detroit, Bob knows how to forge relationships all over the country.</p>
+					<p>If your goal is to take over the country, Bob is your guy. He’s been there and done that. And then some. He’s the guy on the front lines working face-to-face with Ford Dealers on a regular basis. Whether that means opening the Salt Lake City office for Ford Dealers in Utah, Idaho, Nevada, Oregon and Wyoming or heading up the dealer group in Detroit, Bob knows how to forge relationships all over the country.</p>
 
-					<p>That’s because Bob doesn’t treat this as just a job. This is genuinely his career. He’s been working with Ford and Lincoln Mercury dealers his entire professional life so he’s able to bring a level of dedication and experience that few can. That, combined with everything else, makes Bob among the most valued members of Team Detroit.</p>
+					<p>That’s because Bob doesn’t treat this as just a job. This is genuinely his career. He’s been working with Ford and Lincoln Mercury Dealers his entire professional life, so he’s able to bring a level of dedication and experience that few can. That, combined with everything else, makes Bob among the most valued members of Team Detroit.</p>
 
 					<p>One of the advantages to seeing the country on Ford’s dime is that Bob has been able to indulge his love of golf by playing some of the country’s finest courses. He maintains that every round was strictly for business purposes.</p>
 

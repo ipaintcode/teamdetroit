@@ -71,9 +71,9 @@
 					
 					<h3>Scotts Independent Retailer Print</h3>
 					
-					<p>Scotts has had a long relationship with Independent Retailers throughout its history. It was the Independents that helped make Scotts what it is today. So in order to show those retailers how important they are to the company, Scotts released a line of products exclusively for Independent Retailers. Products that will never make it to the shelves of Big Box stores.</p>
+					<p>Scotts has had a long relationship with independent retailers throughout its history. It was the independents who helped make Scotts what it is today. So in order to show those retailers how important they are to the company, Scotts released a line of products exclusively for Independent Retailers. Products that will never make it to the shelves of big box stores.</p>
 					
-					<p>This campaign is meant to raise awareness in the Independent garden centers and hardware stores and show them that Scotts is offering products to help their business succeed. That because of these exclusive products, customers will be going to them instead of the bigger, chain stores.</p>
+					<p>This campaign is meant to raise awareness in the Independent garden centers and hardware stores and show them that Scotts is offering products to help their businesses succeed. That because of these exclusive products, customers will be going to them instead of the bigger, chain stores.</p>
 					
 					<p>This campaign increased confidence in Independent Retailers and strengthened their relationship with Scotts.</p>
 					

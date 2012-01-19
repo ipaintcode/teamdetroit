@@ -108,11 +108,11 @@
 
 					<p>We knew your typical spokesperson couldn’t break through to this audience, so we collaborated with writers and directors from shows like The Office and The Simpsons to create characters who could.</p>
 
-					<p>Doug, because he’s a puppet, could say and do almost anything he wanted, which ultimately earned him credibility among the naysayers. And if Doug ever strayed too far, John, the Ford Marketing Specialist, was always there to try to correct him.</p>
+					<p>Doug, because he’s a puppet, could say and do almost anything he wanted, which ultimately earned him credibility among the naysayers. And if Doug ever strayed too far, John, the Ford marketing specialist, was always there to try to correct him.</p>
 
 					<p>To keep people engaged we released new videos each week and dedicated a team of writers to respond to fans nearly 24/7 on Doug and John’s Facebook and Twitter pages.</p>
 
-					<p>In the midst of all the entertaining, we put a spotlight on the brand in a fresh, innovative way, earning the campaign recognition in articles from Ad Age and The Wall Street journal. It was also named one of the most innovative viral videos ads of 2011 by Mashable. Most importantly, Doug helped bring new fans to the brand, some even going as far as saying they would buy a Focus because of him.</p>					
+					<p>In the middle of all the entertaining, we put a spotlight on the brand in a fresh, innovative way, earning the campaign recognition in articles from Ad Age and The Wall Street Journal. It was also named one of the most innovative viral videos ads of 2011 by Mashable. Most important, Doug helped bring new fans to the brand, some even going as far as saying they would buy a Focus because of him.</p>					
 					
 					<ul class="content-links">Related Links
 						<li><a href="http://www.youtube.com/user/focusdoug?feature=watch">Watch Doug the Ford, Spokespuppet on YouTube</a></li>

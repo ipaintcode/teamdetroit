@@ -81,15 +81,15 @@
 
 				<article class="content-info">
 
-					<p>Each November, the men of Team Detroit put their razors down and grow glorious, enviable mustaches on behalf of Movember &ndash; a global, month-long fundraising endeavor that aims to raise vital funds and awareness for men&rsquo;s health, specifically prostate cancer and other cancers that affect men.</p>
+					<p>Each November, the men of Team Detroit put their razors down and grow glorious, enviable mustaches on behalf of Movember &ndash; a global, month-long fund-raising endeavor that aims to raise vital funds and awareness for men&rsquo;s health, specifically prostate cancer and other cancers that affect men.</p>
 
-					<p>This year, twenty-eight agency members, or &quot;Mo Bros&rdquo;, formed a Movember fundraising team inspired by their mustache icon called &ldquo;The Ron Swansons&rdquo;. Through the month they groomed, trimmed, and waxed their way into the annals of fine moustachery.</p>
+					<p>This year, 28 agency members, or &quot;Mo Bros&rdquo;, formed a Movember fundraising team inspired by their mustache icon called &ldquo;The Ron Swansons&rdquo;. Through the month they groomed, trimmed, and waxed their way into the annals of fine moustachery.</p>
 					
-					<p>By month’s end, “The Ron Swansons” mustache growing efforts raised upwards of $8,762 for the cause and the team was ranked among the top 185 nationally.</p>
+					<p>By month’s end, “The Ron Swansons” mustache-growing efforts raised upwards of $8,762 for the cause and the team was ranked among the top 185 nationally.</p>
 					
 					<p>Our Motor City Pride film highlights a few of the faces of Detroit's vibrant GLBT community. Enjoy.</p>
 					
-					<p>Plus they looked really, really good.</p>
+					<p>Plus, they looked really, really good.</p>
 					
 					<p>To donate, please visit:</p>
 					

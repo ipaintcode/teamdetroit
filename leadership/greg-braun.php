@@ -58,13 +58,13 @@
 
 				<div class="content-info">
 
-					<p>It’s not everyday you run into someone not afraid to wear a White Sox hat at Wrigley Field. Or someone who can speak as passionately about NASCAR as he can classic modernist furniture. Then again, it’s not everyday you get to meet someone like Greg Braun.</p>
+					<p>It’s not everyday you run into someone not afraid to wear a White Sox hat at Wrigley Field. Or someone who can speak as passionately about NASCAR<sup>&reg;</sup> as he can classic modernist furniture. Then again, it’s not everyday you get to meet someone like Greg Braun.</p>
 
 					<p>Greg comes to Team Detroit after satisfying a wanderlust that saw him find award-winning success at jobs in cities as far-reaching as Seattle, New York, Chicago, Los Angeles, Minneapolis and now here in Detroit. During those stints he has done everything from helping Hillary Clinton become Senator Hillary Clinton, redefining Altoids, launching Toyota’s Prius worldwide and the “Moving Forward” campaign, and even helping the White Sox rival the Cubs in ticket sales.</p>
 
-					<p>It’s the kind of work that is so successful it has been recognized by all the major advertising award shows including Cannes, The Clios, Communication Arts, and The One Show Gold Pencil. Some has even been included in the Museum of Modern Art’s permanent collection. Now that he’s here at Team Detroit, he has no plans to dig up the For Sale sign any time soon. He has found a home.</p>
+					<p>It’s the kind of work that is so successful it has been recognized by all the major advertising award shows including Cannes, The Clios, Communication Arts, and The One Show Gold Pencil. Some has even been included in the Museum of Modern Art’s permanent collection. Now that he’s here at Team Detroit, he has no plans to put up the For Sale sign any time soon. He has found a home.</p>
 
-					<p>And why not? Greg is the Executive Creative Director who oversees Sports Authority, Scotts Miracle Gro, Carhartt, Bosch, Warrior, Compuware, Bell Helicopters, Johnson Controls and Ohio Art. The kinds of clients he travelled the country for are now coming to him at Team Detroit.</p>
+					<p>And why not? Greg is the Executive Creative Director who oversees the Sports Authority, Scotts Miracle-Gro, Carhartt, Bosch, Warrior, Compuware, Bell Helicopters, Johnson Controls and Ohio Art. The kinds of clients he travelled the country for are now coming to him at Team Detroit.</p>
 
 					<p>Greg lives in Bingham Farms with his wife and six-year-old daughter. Tack that onto the fact that he loves it here in Detroit and it’s easy to see why he’s happy to let the grass grow under his feet.</p>
 				

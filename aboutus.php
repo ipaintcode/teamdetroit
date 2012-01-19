@@ -159,7 +159,7 @@
 	    			<li>Relationship Marketing</li>
 	    		</ul>
 	    		<ul>
-	    			<li>E-Commerce</li>
+	    			<li>E-commerce</li>
 	    			<li>Brand Development</li>
 	    			<li>Mobile Design</li>
 	    		</ul>
@@ -170,7 +170,7 @@
 	    		</ul>
 	    		<p>And if all of this isn't enough</p>
 	    		<p>&darr;</p>
-	    		<a class="take-a-look" href="#">We have friends. Take a look</a>
+	    		<a class="take-a-look" href="#">we have friends. TAKE A LOOK.</a>
 	    	</div>
 
 	   	</div>
