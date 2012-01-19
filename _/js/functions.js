@@ -38,7 +38,7 @@ jQuery.cookie = function(key, value, options) {
 $(document).ready(function (){
 	
 	function updateTime() {
-		$.get('time.php', function(data) {
+		$.get('../time.php', function(data) {
 			$('.est-time').html(data)
 		});
 		setTimeout(updateTime, 5000);
