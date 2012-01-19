@@ -28,11 +28,8 @@ $(document).ready(function() {
 		var map = new google.maps.Map(document.getElementById('map'), options);
 
 		var image = new google.maps.MarkerImage(img,
-			// This marker is 129 pixels wide by 42 pixels tall.
 			new google.maps.Size(355, 92),
-			// The origin for this image is 0,0.
 			new google.maps.Point(0,0),
-			// The anchor for this image is the base of the flagpole at 18,42.
 			new google.maps.Point(18, 88)
 		);
 		
@@ -43,8 +40,7 @@ $(document).ready(function() {
 			map: map,
 			url: "http://maps.google.com/maps/place?cid=1602833711551361867",
 			clickable: true,
-			icon: image,
-			animation: google.maps.Animation.DROP
+			icon: image
 		});
 		
 		google.maps.event.addListener(marker, 'click', function() {
