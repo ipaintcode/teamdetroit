@@ -337,16 +337,12 @@ $(document).ready(function() {
 		$(this).find('.view-project').stop().delay(330).animate({
 			right: 30
 		}, 300);
-		$(this).find('.color-swatch, .color-swatch-leader').stop().animate({
+		$(this).find('.color-swatch-leader').stop().animate({
 			height: "100%",
 			opacity: ".9"
 		}, 200, function() {
 			$(this).css('height', '100%')
 		});
-		$(this).find('.color-swatch-leader').css({
-		  height: '100%',
-		  width: '100%'
-		})
 		$(this).find('.copy').stop().delay(200).animate({
 			opacity: 1,
 			top: 40
@@ -354,9 +350,6 @@ $(document).ready(function() {
 		$(this).find('h3').stop().animate({
 			opacity: 1,
 			top: 18
-		}, 300).addClass('addShadow');
-		$(this).find('.arrow').stop().animate({
-			right: -60
 		}, 300);
 	}, function() {
 		$(this).find('.view-project').stop().animate({
