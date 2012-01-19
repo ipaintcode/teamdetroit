@@ -26,7 +26,7 @@
 	
 	<!--[if IE]>
 	  <style>
-	    section#map img{
+	    div#map img{
 	      margin-top: -1px;
 	      margin-left: -1px;
 	    }
