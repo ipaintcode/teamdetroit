@@ -40,9 +40,9 @@ $(document).ready(function() {
 			window.open(marker.url, '_blank');
 		});
 
-		$(window).resize(function(event) {
-			map.setCenter(latlng, 15);
-		});
+		// $(window).resize(function(event) {
+		// 	map.setCenter(latlng, 15);
+		// });
 	}
 	
 	var img = ($('#map').attr('data') === "small") ? "_/img/tdi-map-icon-small.png" : "_/img/tdi-map-icon.png";
