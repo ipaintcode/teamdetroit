@@ -333,42 +333,26 @@ $(document).ready(function() {
 	}
 
 	$('ol.grid-ext-leader li').hover(function() {
-		$(this).find('.view-project').stop().delay(330).animate({
-			right: 30
-		}, 300);
+		$(this).find('img').stop().animate({opacity: .2}, 300)	
 		$(this).find('.color-swatch-leader').stop().animate({
 			height: "100%",
 			opacity: ".9"
 		}, 200, function() {
 			$(this).css('height', '100%')
 		});
-		$(this).find('.copy').stop().delay(200).animate({
-			opacity: 1,
-			top: 40
-		}, 300);
 		$(this).find('h3').stop().animate({
 			opacity: 1,
 			top: 18
 		}, 300);
 	}, function() {
-		$(this).find('.view-project').stop().animate({
-			"right": -100
-		}, 300);
 		$(this).find('.color-swatch-leader').stop().animate({
 			opacity: 0
 		}, 300, function() {
 			$(this).css('height', 0);
 		});
-		$(this).find('.copy').stop().animate({
-			opacity: 0,
-			marginTop: "80%"
-		}, 300);
 		$(this).find('h3').stop().animate({
 			opacity: 0,
 			top: 60
-		}, 300).removeClass('addShadow');
-		$(this).find('.arrow').stop().delay(200).animate({
-			right: 15
 		}, 300);
 	});
 
