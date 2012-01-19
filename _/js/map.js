@@ -27,13 +27,24 @@ $(document).ready(function() {
 		// Calling the constructor, thereby initializing the map
 		var map = new google.maps.Map(document.getElementById('map'), options);
 
+		var image = new google.maps.MarkerImage(img,
+			// This marker is 129 pixels wide by 42 pixels tall.
+			new google.maps.Size(355, 92),
+			// The origin for this image is 0,0.
+			new google.maps.Point(0,0),
+			// The anchor for this image is the base of the flagpole at 18,42.
+			new google.maps.Point(18, 88)
+		);
+		
+		
 		var marker = new google.maps.Marker({
+			draggable: false,
 			position: new google.maps.LatLng(lat, lng),
 			map: map,
-			title: 'Team Detroit',
 			url: "http://maps.google.com/maps/place?cid=1602833711551361867",
 			clickable: true,
-			icon: img
+			icon: image,
+			animation: google.maps.Animation.DROP
 		});
 		
 		google.maps.event.addListener(marker, 'click', function() {
@@ -45,8 +56,8 @@ $(document).ready(function() {
 		});
 	}
 	
-	var img = ($('#map').attr('data') !== "small") ? "_/img/tdi-map-icon-small.png" : "_/img/tdi-map-icon.png";
-	var nLng = ($('#map').attr('data') !== "small") ? "-83.216801" : "-83.212001";
+	var img = ($('#map').attr('data') === "small") ? "_/img/tdi-map-icon-small.png" : "_/img/tdi-map-icon.png";
+	var nLng = ($('#map').attr('data') === "small") ? "-83.216801" : "-83.218401";
 	var delayed = $('#map').attr('delay');
 	if(delayed === "true") {
 		setTimeout(callMap,1500);
