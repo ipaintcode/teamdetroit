@@ -108,7 +108,7 @@
 		</div>
 	</div> -->
 	
-	<section id="map" class="gmap gmap-extra"></section>
+	<div id="map" class="gmap gmap-extra"></div>
 
 	<?php include 'footer.php'; ?>
 
