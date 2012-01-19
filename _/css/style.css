@@ -1050,7 +1050,8 @@ footer .facts-next {
 	top: 55px;
 }
 
-.wdet .player-holder {
+.wdet .player-holder,
+.wdet .player-holder-htmlfive {
 	position: absolute;
 	top: -10000px; left: -100000px;
 }
