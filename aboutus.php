@@ -312,7 +312,9 @@
 				<p class="policy-title">Team Detroit Privacy Policy</p>
 				<p class="policy-body">As a communications agency, our most important message is that we value your privacy. View our policy here.</p>
 				<p class="policy-arrow">&darr;</p>
-				<p><a href="_/doc/Safe_Harbor_PII_Policy.zip">Download Privacy Policy (.zip 27k)</a></p>
+				<p class="policy-links"><a href="_/doc/TDI Website Internet Privacy Policy.pdf">Download Privacy Policy</a></p>
+				<p class="policy-links"><a href="_/doc/Safe Harbor PII Policy.pdf">Download Safe Harbor Policy</a></p>
+				<p class="policy-links"><a href="_/doc/TDI Website Terms and Conditions of Use.pdf">Download Terms and Conditions</a></p>
 			</div>
 
 		</div>

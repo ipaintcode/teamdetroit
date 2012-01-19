@@ -899,6 +899,7 @@ footer .facts-next {
 	height: auto;
 	width: 60%;
 	float: left;
+	padding-top: 23px;
 }
 
 .policy .policy-verbage {
@@ -927,7 +928,7 @@ footer .facts-next {
 	color: #9e0120;
 	font-size: 20px;
 	font-family: Arial, sans-serif;
-	margin: 5px 100px;
+	margin: 5px 65px;
 }
 
 .policy a {
@@ -938,6 +939,11 @@ footer .facts-next {
 
 .policy a:hover {
 	color: black;
+}
+
+.policy-links {
+	margin-top: 10px;
+	margin-bottom: 5px;
 }
 
 .twentyfive {
