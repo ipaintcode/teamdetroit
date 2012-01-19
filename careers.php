@@ -108,7 +108,7 @@
     						<h5>Assistant Account Executive<span>Location: Dearborn</span></h5>
     						<h6>November 11th, 2011<a href="#">Read More</a></h6>
     						<div class="job-content">
-    							<p>The Assistant Account Executive (AAE) works with agency Account Executive and/or Sr. Acct Executive in directing and coordinating assigned projects. In this role, the AAE, initiates all jobs – advertising, direct marketing and other related materials – sets schedules and follows up constantly to keep jobs moving toward timely completion.  There are several positions open at this level.</p><p>?	Bachelor’s Degree or equivalent experience</p><p>?	Minimum 1 year agency experience, preferably as an Account or Traffic Coordinator</p><p>?	Emerging knowledge of Agency production processes</p><p>?	Demonstrates entrepreneurial spirit</p><p>Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a></p>
+    							<p>The Assistant Account Executive (AAE) works with agency Account Executive and/or Sr. Acct Executive in directing and coordinating assigned projects. In this role, the AAE, initiates all jobs – advertising, direct marketing and other related materials &ndash; sets schedules and follows up constantly to keep jobs moving toward timely completion.  There are several positions open at this level.</p><p>&bull; Bachelor’s Degree or equivalent experience</p><p>&bull; Minimum 1 year agency experience, preferably as an Account or Traffic Coordinator</p><p>&bull; Emerging knowledge of Agency production processes</p><p>&bull; Demonstrates entrepreneurial spirit</p><p>Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a></p>
     						</div>
     					</div>
     				</li>
@@ -121,7 +121,7 @@
     								The Account Executive is responsible for moving production of elements of marketing programs through the system internally and externally. They monitor day-to-day production schedules and costs for marketing programs to ensure on-time and on-budget programs. Account Executives are a key resource for information for the project team. There are several positions open at this level.
     							</p>
     							<p>
-    							&bull; Bachelor’s degree or equivalent experience
+    							&bull; Bachelor&rsquo;s degree or equivalent experience
     							</p>
     							<p>
     							&bull; Minimum 1 year agency experience

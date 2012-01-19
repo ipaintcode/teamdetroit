@@ -137,7 +137,7 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-XXXXXX-XX']);
-  _gaq.push(['_trackPageview', 'teamdetroit:work:Scotts Independent Retailer Print']);
+  _gaq.push(['_trackPageview', 'teamdetroit:work:Scotts-Independent-Retailer-Print']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;

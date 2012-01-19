@@ -216,16 +216,22 @@ $(document).ready(function (){
 			} else if (url === "#social-link") {
 				var social = ($(this).parent().attr('class'));
 				if (social === "facebook") {
-				window.open("http://www.facebook.com/sharer/sharer.php?u="+location.href, '_blank');
+					_gaq.push(['_trackEvent','teamdetroit','onclick','fshare']);
+					window.open("http://www.facebook.com/sharer/sharer.php?u="+location.href, '_blank');
 				} else if (social === "twitter") {
 					window.open("https://twitter.com/intent/tweet?original_referer=http://www.teamdetroit.com/&text="+$("title").text().replace("|", "-")+"+&url="+location.href+"/&hashtags=teamdetroit", '_blank');	
 				} else if (social === "googleplus") {
+					_gaq.push(['_trackEvent','teamdetroit','onclick','googleplus']);
 					window.open("https://plusone.google.com/_/+1/confirm?hl=en&url="+location.href, '_blank');
 				} else if (social === "emailit") {
 					window.location.href = "mailto:?subject=Check it out: "+$("title").text().replace("|", "-")+"&body="+location.href;
 				}
 			} else if(url.indexOf("mailto") === 0) {
-				window.location.href = url;
+				if($(this).parent().parent().hasClass('job-content')) {
+					var str = ($(this).parent().parent().parent().find('h5').text().replace("Location: Dearborn", ""));
+					_gaq.push(['_trackEvent', 'teamdetroit', 'career', str]);
+				}
+				window.location.href = url;				
 			} else if(url.indexOf("#") < 0) {
 				_gaq.push(['_trackEvent','teamdetroit','exits', window.location]);
 				window.open(url, '_blank');

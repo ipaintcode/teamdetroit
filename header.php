@@ -1,7 +1,7 @@
 <?php
 # create and load the HTML
 include('simple_html_dom.php');
-$html = file_get_html('http://wdetfm.org/listenlive/');
+$html = file_get_html('http://wdetfm.org/listenlive/') or die;
 
 ?>
 <?php
