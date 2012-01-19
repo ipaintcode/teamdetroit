@@ -40,13 +40,13 @@ $(document).ready(function() {
 			window.open(marker.url, '_blank');
 		});
 
-		// $(window).resize(function(event) {
-		// 	map.setCenter(latlng, 15);
-		// });
+		$(window).resize(function(event) {
+			map.setCenter(latlng, 15);
+		});
 	}
 	
-	var img = ($('#map').attr('data') === "small") ? "_/img/tdi-map-icon-small.png" : "_/img/tdi-map-icon.png";
-	var nLng = ($('#map').attr('data') === "small") ? "-83.216801" : "-83.212001";
+	var img = ($('#map').attr('data') !== "small") ? "_/img/tdi-map-icon-small.png" : "_/img/tdi-map-icon.png";
+	var nLng = ($('#map').attr('data') !== "small") ? "-83.216801" : "-83.212001";
 	var delayed = $('#map').attr('delay');
 	if(delayed === "true") {
 		setTimeout(callMap,1500);
