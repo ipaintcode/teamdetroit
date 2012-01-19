@@ -23,15 +23,18 @@
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="_/css/style_.css">
-	
-	<!--[if IE]>
+
 	  <style>
 	    div#map img{
 	      margin-top: -1px;
 	      margin-left: -1px;
+	width: 100%;
+			opacity: 0.5;
+			-moz-opacity: 0.5;
+			filter:alpha(opacity=50);
 	    }
 	  </style>
-	<![endif]-->
+
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="_/js/modernizr-2.0.6.min.js"></script>
