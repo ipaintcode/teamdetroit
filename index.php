@@ -28,10 +28,8 @@
 	    div#map img{
 	      margin-top: -1px;
 	      margin-left: -1px;
-	width: 100%;
-			opacity: 0.5;
-			-moz-opacity: 0.5;
-			filter:alpha(opacity=50);
+	width: 355px;
+			
 	    }
 	  </style>
 
