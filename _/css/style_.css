@@ -362,6 +362,11 @@ ol.grid-ext-leader img {
 	position: absolute;
 	top: 0;
 	left: 0;
+	z-index: 105;
+}
+
+ol.grid-ext-leader li .color-swatch-leader {
+	height: 100%;
 }
 
 ol.grid-ext-leader li h3 {
@@ -508,7 +513,7 @@ ol.grid-ext-leader li h3 {
 }
 
 .grid-ext-leader {
-	width:10%;
+	width: 50%;
 	background: #be0738;
 	float: left;
 }
@@ -521,7 +526,7 @@ ol.grid-ext-leader li h3 {
 .grid-ext-leader li h3 {
 	color: white;
 	font-size: 12px;
-	z-index: 200;
+	z-index: 201;
 }
 
 /* section headlines
