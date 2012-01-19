@@ -344,7 +344,9 @@ header {
 ol.color-swatch-leader {
 	background: #d31e4e;
 /*	box-shadow: inset 0 0 0 rgb(144,20,53);*/
-			z-index: 101;
+	z-index: 2000;
+	height: 100%;
+	width: 100%;
 }
 
 .grid-ext-leader .color-swatch-leader:nth-child(even) {
@@ -481,7 +483,7 @@ ol.grid-ext-leader li h3 {
 	overflow: hidden;
 }
 .grid li .color-swatch {
-	height: 0;
+	height: 100%;
 	width: 100%;
 	z-index: 1;
 	position: absolute;
