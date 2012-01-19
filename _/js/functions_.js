@@ -496,7 +496,7 @@ $(document).ready(function() {
 		$.cookie("wdet", 0);
 	}
 
-	$('.wdet').click(function(event) {
+	$('.wdet-inner').click(function(event) {
 		var val = $.cookie("wdet") === "0" ? 1 : 0;
 		$.cookie("wdet", val);
 		wdetPlayer();
@@ -509,11 +509,20 @@ $(document).ready(function() {
 		);
 	}
 	
+	var audioTag = document.getElementsByTagName("audio")[0];	
+	audioTag.src = "undefined";
+	
 	function wdetPlayer() {
-		var audio = '<audio controls autoplay="autoplay" src="http://141.217.119.35:8000/;&amp;topspeed=on"></audio>';
+		var stream = 'http://141.217.119.35:8000/;&amp;topspeed=on';
 		var flash = "<embed src='http://www.shoutcast.com/media/popupPlayer_V19.swf?stationid=http://yp.shoutcast.com/sbin/tunein-station.pls?id=307298&play_status=1' quality='high' bgcolor='#ffffff' width='398' height='104' name='popupPlayer_V19' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http://www.adobe.com/go/getflashplayer' ></embed>"
 		if ($.cookie("wdet") === "0") {
-			$('.player-holder').html("");
+			audioTag.src = "undefined";
+			
+			if ($.browser.msie === true || $.browser.mozilla === true) {
+				$('.player-holder').html("");
+			} else {
+				audioTag.src = "undefined";
+			}
 			$('.add-stream').css('opacity', 0).text('Start Listening').stop().animate({
 				opacity: 1
 			}, 500);
@@ -521,9 +530,8 @@ $(document).ready(function() {
 			if ($.browser.msie === true || $.browser.mozilla === true) {
 				$('.player-holder').html(flash);
 			} else {
-				$('.player-holder').html(audio);
-				var video = document.getElementsByTagName("audio")[0];
-				video.play();
+				audioTag.src = stream;
+				audioTag.play();
 			}
 
 			$('.add-stream').css('opacity', 0).text('Stop Listening').stop().animate({

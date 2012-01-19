@@ -48,6 +48,9 @@ $subfinal = $parts[count($parts) - 2];
 
 			<div class="player">
 				<div class="player-holder"></div>
+				<div class="player-holder-htmlfive">
+					<audio controls autoplay="autoplay" src="http://141.217.119.35:8000/;&amp;topspeed=on"></audio>
+				</div>
 			</div>
 
 		</div>
