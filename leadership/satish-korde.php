@@ -67,10 +67,10 @@
 
 					<p>Mixing different parts of agencies together? Finding the right formula? Delivering the best results? Being the catalyst of it all? Maybe that chemical engineering degree will come in handy.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/pub/satish-korde/28/78a/843" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				

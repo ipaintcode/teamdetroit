@@ -68,10 +68,10 @@
 
 					<p>Aside from spending time with his wife and four kids, Andy serves on several nonprofit boards – focused on education and overall community welfare – throughout the community.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/pub/andy-weil/5/338/9a9" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				

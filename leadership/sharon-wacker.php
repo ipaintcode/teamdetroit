@@ -67,10 +67,10 @@
 
 					<p>Sharon lives in Grosse Pointe (as if there was any doubt) with her 17-year-old daughter and 10-year-old son. When not working, she can often be found recruiting one of her neighbors’ kids to get into the auto business.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/pub/sharon-wacker/15/ab1/493" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				

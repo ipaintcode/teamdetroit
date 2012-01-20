@@ -64,10 +64,10 @@
 					<p>He didn’t just walk into this role. Brad used to run the Mullen Detroit office servicing several General Motors businesses. He also helped open Frankel’s Detroit office to provide brand activation support for General Motors. But it all started at Ross Roy, where he worked on Kmart, Builders Square, OfficeMax and AT&amp;T.</p>
 				<p>Outside of work, Brad spends his time with his wife, Jen, and their two girls, Ella and Carolyn.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/pub/brad-audet/5/400/106" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				

@@ -67,10 +67,10 @@
 
 					<p>In the past two years, Toby has been nominated for a Webby, been included in Communication Arts’ interactive annual, their design annual and their advertising annual. He has also won three One Show Pencils and a Cannes Lion. His favorite piece of advertising was the one that got him written up in the <em>National Enquirer</em>. But that’s a long story.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/pub/toby-barlow/0/266/a60" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				

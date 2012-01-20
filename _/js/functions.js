@@ -39,7 +39,7 @@ $(document).ready(function (){
 	
 	function updateTime() {
 		$.get('../time.php', function(data) {
-			$('.est-time').html(data)
+			$('.est-time').html(data);
 		});
 		setTimeout(updateTime, 5000);
 	}

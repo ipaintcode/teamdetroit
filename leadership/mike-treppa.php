@@ -67,10 +67,10 @@
 					
 					<p>Mike shares his love of the outdoors, hockey, music, food and design with his wife and two children. Rumor has it that his kids still have a hard time believing that their dad actually works in a place called The Park.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/pub/michael-treppa/11/78b/540" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				

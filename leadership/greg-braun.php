@@ -68,10 +68,10 @@
 
 					<p>Greg lives in Bingham Farms with his wife and six-year-old daughter. Tack that onto the fact that he loves it here in Detroit and it’s easy to see why he’s happy to let the grass grow under his feet.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/pub/greg-braun/7/972/7b6" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				

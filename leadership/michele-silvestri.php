@@ -67,10 +67,10 @@
 
 					<p>On a personal note, Michele loves eating, drinking great wine,  earned a black belt (which reserves her the right to claim to ninja when necessary) and her serious shoe obsession is genetic. Her proudest accomplishment? Motherhood to the coolest little boy on the planet.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/pub/michele-silvestri/3/8b9/762" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				

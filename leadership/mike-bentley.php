@@ -67,10 +67,10 @@
 					
 					<p>Enacting the intellectual rigor to understand the exact nature of a client&rsquo;s problem and developing a bespoke solution keeps him deeply engaged in the work.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/pub/mike-bentley/5/3b3/872" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				

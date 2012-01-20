@@ -65,10 +65,10 @@
 
 					<p>Scott has been recognized by the Cannes International Advertising Festival, the International Automotive Advertising Awards, New York Festivals, The One Show, and the Favourite Website Awards, to name a few. He lives in Birmingham, Michigan, with his wife, Nancy, and two children.</p>
 				
-					<!-- <ul class="content-info-social">
+					<ul class="content-info-social">
 						<li>Network &rarr;</li>
-						<li class="linkedin"><a href="#social-link">LinkedIn</a></li>
-					</ul> -->
+						<li class="linkedin"><a href="http://www.linkedin.com/in/slange70" target="_blank">LinkedIn</a></li>
+					</ul>
 
 				</div>
 				
