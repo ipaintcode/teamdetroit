@@ -1,4 +1,4 @@
-<footer class="footer fade-second">
+<footer class="footer fade-second clearfix">
 	<div class="center min-max">
 
 		<aside class="teamdetroit-facts-box single">

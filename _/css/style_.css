@@ -276,6 +276,7 @@ mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: b
 	opacity: 0;
 	-moz-opacity: 0;
 	filter:alpha(opacity=0);
+	min-width: 960px;
 }
 
 .min-max {
@@ -619,7 +620,7 @@ div.headline-wrapper > h2 > span {
 }
 
 .home-work {
-	overflow: hidden;
+/*	overflow: hidden;*/
 }
 
 .leadership {

@@ -67,7 +67,7 @@
 
 		<div class="center min-max">
 
-			<ol class="grid">
+			<ol class="grid clearfix">
 				<li class="double grid-over">
 					<a class="anchor-tdi" href="projects/press-conference.php">
 						<div class="grid-copy">
