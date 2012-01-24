@@ -75,9 +75,9 @@
 					
 					<h3>The Nanoblocks &ldquo;Anthem.&rdquo;</h3>
 					
-					<p>Say hello to Nanoblocks, the newest technology in time travel. These tiny blocks aren’t designed for little kids. But they can somehow turn adults back into little kids.</p>
+					<p>They&#x27;re called Nanoblocks. Tiny little building blocks that instantly cause grown adults to crumble into excited little kids. Stick &#x27;em together with a little imagination and you&#x27;d be surprised at what you can build.</p>
 					
-					<p>It&rsquo;s all about that magical feeling you get when you make your own creations. So we didn&rsquo;t just build a TV commercial, we built our dreams with Nanoblocks and filmed the whole dang thing. It could well be the most awesome product demo we&rsquo;ve ever done. Blah blah blah!</p>
+					<p>We want to show how much fun is crammed into those itty-bitty blocks. And this video caputures it pretty well. A whimsical music track. Playful graphics. Lighthearted copy. It all added up to be far more than our Ohio Art clients were looking for. And exactly what they needed.</p>
 					
 					<ul class="content-links">Related Links
 						<li><a href="http://www.mynanoblock.com/site/">Check out the Nanoblock site</a></li>

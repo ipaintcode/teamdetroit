@@ -15,7 +15,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 	<!-- Culture meta - description : content -->
-	<meta name="description" content="Our GLBT community is truly changing landscape of the city." />
+	<meta name="description" content="Our LGBT community is truly changing landscape of the city." />
 
 	<title>Motorcity Pride | Team Detroit</title>
 
@@ -69,12 +69,12 @@
 
 				<article class="content-info">
 
-					<p>Motor City Pride is the state's largest event celebrating the lives of Michigan's Gay, Lesbian, Bisexual and Transgender. The weekend-long event is packed with activities including a family picnic, golf outing and commitment ceremony.</p>
+					<p>Motor City Pride is the state's largest event celebrating the lives of Michigan's lesbian, gay, bisexual and transgender. The weekend-long event is packed with activities including a family picnic, golf outing and commitment ceremony.</p>
 
-					<p>In 2011 the event was moved out of a Detroit suburb and into Downtown. Team Detroit wanted to celebrate the move and show our appreciation for all that the LGBT community contributes to Detroit. Whether through activism, business ownership, historic preservation, or as cultural curators, members of GLBT community are truly changing the landscape of the city.</p>
+					<p>In 2011 the event was moved out of a Detroit suburb and into Downtown. Team Detroit wanted to celebrate the move and show our appreciation for all that the LGBT community contributes to Detroit. Whether through activism, business ownership, historic preservation, or as cultural curators, members of LGBT community are truly changing the landscape of the city.</p>
 					<p class="content-italic">"Detroit is a city that truly appreciates your contributions and having you here."</p>
 					
-					<p>Our Motor City Pride film highlights a few of the faces of Detroit's vibrant GLBT community. Enjoy.</p>
+					<p>Our Motor City Pride film highlights a few of the faces of Detroit's vibrant LGBT community. Enjoy.</p>
 					
 					<ul class="content-info-social">
 						<li>Share &rarr;</li>
@@ -93,7 +93,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>Our GLBT community is truly changing landscape of the city.</p>
+					 	<p>Our LGBT community is truly changing landscape of the city.</p>
 					 	<!-- <p class="content-quote-author">&ndash; Matt Van Dyke <span>(Ford U.S. Marketing Director)</span></p> -->
 					 </blockquote>
 				

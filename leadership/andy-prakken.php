@@ -61,7 +61,7 @@
 
 					<p>Some of his colleagues like to joke that Andy has been with the organization for so long that he used to kick it with ol’ Mr. Thompson (of J. Walter Thompson fame). The gentle ribbing only masks one salient point: in the transient nature of advertising, Andy has become a rock. He is one of the foundations of Team Detroit. This is why it’s so fitting that he heads up the media team with his good nature and innovative thinking.</p>
 
-					<p>Prior to his current role, Andy was EVP, Executive Director of Communication Services for JWT. In addition to experience that spans 20 diverse industries, Andy also led the Media/Communications discipline for JWT N.A., contributing to work on Ford, Kellogg’s, Merrill Lynch, the US Marines, Kraft and Sprint<sup>&reg;</sup> as well as high-profile new business wins, such as HSBC.</p>
+					<p>Prior to his current role, Andy was EVP, Executive Director of Communication Services for JWT. In addition to experience that spans 20 diverse industries, Andy also led the Media/Communications discipline for JWT N.A., contributing to work on Ford, Kellogg’s, Merrill Lynch, the U.S. Marines, Kraft and Sprint<sup>&reg;</sup> as well as high-profile new business wins, such as HSBC.</p>
 
 					<p>Even with all these responsibilities, he still finds time to spend with his wife and three kids and of course, plug into his amp to rip some solos. Except nowadays, when he plays his six-string, all Team Detroiters who watch him perform enjoy the guilty pleasure of saying, &ldquo;We&rsquo;re with the band.&rdquo; After all, who hasn&rsquo;t wanted to say that?</p>
 				

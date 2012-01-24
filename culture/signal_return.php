@@ -70,7 +70,7 @@
 
 				<article class="content-info">
 
-					<p>Signal-Return seeks to connect the community to traditional and+ emergent forms of printing as well as offer a resource for entrepreneurial artists and+ designers to produce for retail clients.</p>
+					<p>Signal-Return seeks to connect the community to traditional and emergent forms of printing as well as offer a resource for entrepreneurial artists and designers to produce for retail clients.</p>
 
 					<p>Signal-Return is a creative enterprise at the intersection of art and commerce that combines the back-end production process with a front-end retail store and gallery. Intermingling academics, curation and preservation with apprenticeship, the venue will stand as a multi-use center for fine art, design, craft and literary arts.</p>
 					

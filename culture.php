@@ -117,7 +117,7 @@
 					<a class="anchor-tdi" href="culture/signal_return.php">
 						<div class="grid-copy">
 							<h3 class="culture-title">Signal<br />Return</h3>
-							<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
+							<p class="copy">A collaboration of local artists brings the process of print production to the heart of Detroit.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #CC1A69;"></div>

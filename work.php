@@ -108,7 +108,7 @@
 					<a class="anchor-tdi" href="projects/f150-torture-test.php">
 						<div class="grid-copy">
 							<h3>F-150<br />Torture Test</h3>
-							<p class="copy">We took one F-150 EcoBoost engine and subjected it to a slasher movie-style world of pain to prove it’s Built Ford Tough.</p>
+							<p class="copy">We took one F-150 EcoBoost engine and subjected it to a slasher movie-style world of pain to prove it’s Built Ford Tough<sup>&reg;</sup>.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
 						<div class="color-swatch" style="background: #08BC94;"></div>
