@@ -17,7 +17,7 @@
 	<!-- Leadership meta - description : content -->
 	<meta name="description" content="Andy is responsible for the financial management of Team Detroit and was instrumental in the establishment of Team Detroit as a single business unit." />
 
-	<title>Andrew J. Weil | Chief Financial Officer | Team Detroit</title>
+	<title>Andrew J. Weil | EVP, Chief Financial Officer | Team Detroit</title>
 
 	<link rel="shortcut icon" href="../_/img/favicon.ico">
 
@@ -47,7 +47,7 @@
 
 	<div class="segment-headline-wrapper clear below-carousel">
 		
-		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Culture"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Andrew J. Weil</span><span class="segment-leader-title">(Chief Financial Officer)</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Culture"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Andrew J. Weil</span><span class="segment-leader-title">(EVP, Chief Financial Officer)</span></h2>
 	</div>
 
 	<div class="content-wrapper">

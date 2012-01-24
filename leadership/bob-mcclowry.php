@@ -17,7 +17,7 @@
 	<!-- Leadership meta - description : content -->
 	<meta name="description" content="Bob's been working with Ford and Lincoln Mercury dealers his entire professional life so he’s able to bring a level of dedication and experience that few can." />
 
-	<title>Bob McClowry | Managing Director, Retail First | Team Detroit</title>
+	<title>Bob McClowry | EVP, Managing Director, Retail First | Team Detroit</title>
 
 	<link rel="shortcut icon" href="../_/img/favicon.ico">
 
@@ -46,7 +46,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Bob McClowry</span><span class="segment-leader-title">(Managing Director, Retail First)</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Bob McClowry</span><span class="segment-leader-title">(EVP, Managing Director, Retail First)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -61,7 +61,7 @@
 
 					<p>That’s because Bob doesn’t treat this as just a job. This is genuinely his career. He’s been working with Ford and Lincoln Mercury Dealers his entire professional life, so he’s able to bring a level of dedication and experience that few can. That, combined with everything else, makes Bob among the most valued members of Team Detroit.</p>
 
-					<p>One of the advantages to seeing the country on Ford’s dime is that Bob has been able to indulge his love of golf by playing some of the country’s finest courses. He maintains that every round was strictly for business purposes.</p>
+					<p>One of the advantages to working with Ford Dealers across the country is that Bob has been able to indulge his love of golf by playing some of the country's finest courses. He maintains that every round was strictly for business purposes.</p>
 
 					<p>At home, Bob is the proud father of two grown children &mdash; one a special education teacher and the other a pre-med student.</p>
 				

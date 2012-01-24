@@ -17,7 +17,7 @@
 	<!-- Leadership meta - description : content -->
 	<meta name="description" content="Monik is charged with leading the agency's digital marketing services as well as its continual evolution as an industry-leading, fully integrated marketing communications firm." />
 
-	<title>Monik Sanghvi | Chief Digital and Integration Officer | Team Detroit</title>
+	<title>Monik Sanghvi | EVP, Chief Digital and Integration Officer | Team Detroit</title>
 
 	<link rel="shortcut icon" href="../_/img/favicon.ico">
 
@@ -46,7 +46,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Monik Sanghvi</span><span class="segment-leader-title">(Chief Digital and Integration Officer)</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Monik Sanghvi</span><span class="segment-leader-title">(EVP, Chief Digital and Integration Officer)</span></h2>
 	</div>
 
 	<div class="content-wrapper">

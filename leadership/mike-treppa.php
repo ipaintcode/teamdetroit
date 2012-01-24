@@ -17,7 +17,7 @@
 	<!-- Leadership meta - description : content -->
 	<meta name="description" content="Mike is responsible for the overall management and direction of The Park, Team Detroit's on-site design and production studio." />
 
-	<title>Mike Treppa | EVP, Managing Director | Team Detroit</title>
+	<title>Mike Treppa | SVP, Managing Director | Team Detroit</title>
 
 	<link rel="shortcut icon" href="../_/img/favicon.ico">
 
@@ -46,7 +46,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Mike Treppa</span><span class="segment-leader-title">(EVP, Managing Director)</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Mike Treppa</span><span class="segment-leader-title">(SVP, Managing Director)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
@@ -57,15 +57,12 @@
 
 				<div class="content-info">
 
-					<p>Mike is responsible for the overall management and direction of The Park, Team Detroit’s on-site design and production studio.</p>
+					<p>Mike is responsible for the overall management and direction of The Park, Team Detroit's design broadcast and production studio. 
+					He began his journey in the advertising biz armed with a Bachelor of Fine Arts degree from Michigan State University and a strong desire to integrate design in to the traditional agency environment. In 2001 Mike joined JWT to transform their in-house desktop studio into The Park, a full-service, design, retouching and production studio. Mission: accomplished. And then some. With the inception of Team Detroit, The Park has more than doubled in size and Mike continues to add relevant capabilities that make his team indispensable.</p>
 
-					<p>Mike has 22 years of experience in the design/advertising biz, with a Bachelor of Fine Arts degree from Michigan State University. During those 22 years, Mike has worked with clients such as DuPont, Chrysler, Jeep and Ford Motor Company while enjoying some diverse work on smaller accounts like the Royal Oak Children’s Choir, Don Thomas Sporthaus and Astrion Partners.</p>
+					<p>After serving several years on the Executive Board of AIGA Detroit, the Professional Association for Design, Mike remains an active member working on building and nurturing a community of creative talent within thegreater metro-Detroit area.</p>
 
-					<p>In 2001 he joined JWT to transform The Park into a full-service, design and production studio. Mission: accomplished. And then some. With the inception of Team Detroit, The Park has more than doubled in size and Mike continues to add relevant capabilities that make his team indispensable.</p>
-
-					<p>Currently on the Executive Board of AIGA Detroit, the professional association for Design, Mike works on building and nurturing a community of creative talent within the greater metro-Detroit area.</p>
-					
-					<p>Mike shares his love of the outdoors, hockey, music, food and design with his wife and two children. Rumor has it that his kids still have a hard time believing that their dad actually works in a place called The Park.</p>
+					<p>Mike shares a love of hockey, music, food and the outdoors with his wife and two children. Rumor has it that his kids still have a hard time believing that their Dad actually works in a place called The Park.</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>
@@ -81,7 +78,7 @@
 				<div class="content-quote">
 
 					 <blockquote>
-					 	<p>The Park delivers strategically sound design solutions and keen attention to detail through execution.</p>
+					 	<p>The Park fosters a culture with creativity, collaboration and a can-do attitude at its core.</p>
 					 	<p class="content-quote-author">&ndash; Mike Trepp</p>
 					 </blockquote>
 				
