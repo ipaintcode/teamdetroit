@@ -315,8 +315,8 @@
 				<a class="safe-link-temp-fix-alt" href="http://safeharbor.export.gov/list.aspx">http://safeharbor.export.gov/list.aspx</a>
 				<a class="safe-link-temp-fix" href="http://www.export.gov/safeharbor">http://export.gov/safeharbor/</a>
 				<p class="policy-links"><a href="_/doc/Safe_Harbor_PII_Policy.pdf" target="_blank">Download Safe Harbor Policy</a></p>
-				<p class="policy-links"><a href="_/doc/TDI_Website_Internet_Privacy_Policy.pdf" target="_blank">Download Agency Privacy Policy</a></p>
-				<p class="policy-links"><a href="_/doc/TDI_Website_Terms_and_Conditions_of_Use.pdf" target="_blank">Download Internet Terms &amp; Conditions </a></p>
+				<p class="policy-links"><a href="_/doc/TDI_Website_Internet_Privacy_Policy.pdf" target="_blank">Download Internet Privacy Policy</a></p>
+				<p class="policy-links"><a href="_/doc/TDI_Website_Terms_and_Conditions_of_Use.pdf" target="_blank">Download Website Terms &amp; Conditions </a></p>
 			</div>
 
 		</div>
