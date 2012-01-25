@@ -240,7 +240,11 @@ $(document).ready(function() {
 			$('body').stop().animate({
 				'backgroundColor': '#C80535'
 			}, 300, function() {
-				$('.friends-list').html('<img src="_/img/aboutus/friends-list.png" alt="Friends List">');
+				if (isiPhone()) {
+					$('.friends-list').html('<img src="/_/img/aboutus/friends-list-alt.png" alt="Friends List">');
+				} else {
+					$('.friends-list').html('<img src="/_/img/aboutus/friends-list.png" alt="Friends List">');
+				}
 				$('.friends-list').stop().animate({
 					opacity: 1
 				}, 500);
@@ -459,6 +463,11 @@ $(document).ready(function() {
 		$('.wdet, .wdet-icon img').bind('mouseout', rollOut);
 		// checkImgSize();
 	});
+	
+	function openMap(url) {
+		alert("wwed")
+		window.open(url, '_blank');
+	}
 
 	$('a').click(function(ele) {
 		if($(this).attr('href').indexOf("#billboard_") !== 0) {
@@ -505,12 +514,15 @@ $(document).ready(function() {
 		var val = $.cookie("wdet") === "0" ? 1 : 0;
 		$.cookie("wdet", val);
 		wdetPlayer();
+		if(isiPhone()) {
+			rollOut();
+		}
 	});
 
 	function isiPhone(){
 		return (
 			(navigator.platform.indexOf("iPhone") != -1) ||
-			(navigator.platform.indexOf("iPod") != -1)
+			(navigator.platform.indexOf("iPad") != -1)
 		);
 	}
 	

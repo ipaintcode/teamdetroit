@@ -925,13 +925,42 @@ footer .facts-next {
 	font-family: "ProximaNovaRegular", Arial, sans-serif;
 }
 
-.policy .safe-link-temp-fix {
+.policy .safe-link-temp-fix-alt {
 	position: absolute;
-	top: 60px;
+	top: 68px;
 	left: 109px;
-	height: 100px;
+	height: 20px;
 	width: 170px;
 	text-indent: -9999px;
+	background: white;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+}
+
+.policy .safe-link-temp-fix {
+	position: absolute;
+	top: 90px;
+	left: 109px;
+	height: 55px;
+	width: 170px;
+	text-indent: -9999px;
+	background: white;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+}
+
+.policy .safe-link-temp-fix-alt:hover {
+	opacity: .3;
+	-moz-opacity: .3;
+	filter:alpha(opacity=3.3);
+}
+
+.policy .safe-link-temp-fix:hover {
+	opacity: .3;
+	-moz-opacity: .3;
+	filter:alpha(opacity=3.3);
 }
 
 .policy .policy-arrow {

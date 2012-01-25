@@ -42,14 +42,19 @@ $(document).ready(function() {
 			clickable: true,
 			icon: image
 		});
-		
-		google.maps.event.addListener(marker, 'click', function() {
-			window.open(marker.url, '_blank');
-		});
 
+		
 		$(window).resize(function(event) {
 			map.setCenter(latlng, 15);
 		});
+		
+		$(window).scroll(function(event) {
+			if($('.gmnoprint img').length === 1) {
+				$(window).unbind("scroll")
+				$('.gmnoprint img').wrap("<a href='"+marker.url+"' target='_blank'/>");
+			}
+		});
+
 	}
 	
 	var img = ($('#map').attr('data') === "small") ? "_/img/tdi-map-icon-small.png" : "_/img/tdi-map-icon.png";
@@ -62,6 +67,10 @@ $(document).ready(function() {
 	}
 	function callMap() {
 		buildMap(img, nLng);
+	}
+	
+	function openMap(url) {
+		window.open(url, '_blank');
 	}
 
 });

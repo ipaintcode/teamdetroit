@@ -151,6 +151,9 @@ $(document).ready(function (){
 		var val = $.cookie("wdet") === "0" ? 1 : 0;
 		$.cookie("wdet", val);
 		wdetPlayer();
+		if(isiPhone()) {
+			rollOut();
+		}
 	});
 
 	function isiPhone(){
