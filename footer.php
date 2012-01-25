@@ -51,7 +51,7 @@ $forecast_list = $xml->xpath("/xml_api_reply/weather/forecast_conditions");
 				<ul class="large">
 					<li><a class="anchor-tdi" href="/teamdetroit/aboutus/who-we-are.php">Who We Are</a></li>
 					<li><a class="anchor-tdi" href="/teamdetroit/aboutus/what-we-do.php">What We Do</a></li>
-					<li><a class="anchor-tdi" href="/teamdetroit/aboutus/what-else-we-do.php">How We Do It</a></li>
+					<li><a class="anchor-tdi" href="/teamdetroit/aboutus/what-else-we-do.php">What Else We Do</a></li>
 					<li><a class="anchor-tdi" href="/teamdetroit/aboutus.php?p=leaders">Leadership</a></li>
 					<li><a class="anchor-tdi" href="/teamdetroit/aboutus.php?p=leaders">Privacy Policy</a></li>
 				</ul>
