@@ -48,9 +48,11 @@ $(document).ready(function() {
 			map.setCenter(latlng, 15);
 		});
 		
+		var setAnchor = true;
+		
 		$(window).scroll(function(event) {
-			if($('.gmnoprint img').length === 1) {
-				$(window).unbind("scroll")
+			if($('.gmnoprint img').length === 1 && setAnchor) {
+				setAnchor = false;
 				$('.gmnoprint img').wrap("<a href='"+marker.url+"' target='_blank'/>");
 			}
 		});
