@@ -38,7 +38,7 @@ $(document).ready(function() {
 			draggable: false,
 			position: new google.maps.LatLng(lat, lng),
 			map: map,
-			url: "http://maps.google.com/maps/place?cid=1602833711551361867",
+			url: "http://g.co/maps/yv7u3",
 			clickable: true,
 			icon: image
 		});
