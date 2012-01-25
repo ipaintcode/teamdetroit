@@ -110,7 +110,7 @@
 					 	<p class="content-quote-author"></span></p>
 					 </blockquote>-->
 					
-					<a class="anchor-tdi" href="../careers.php?p=weloveit" ><img src="../_/img/aboutus/why_we_love_it.png" alt="Why We Love It"></a>
+					<a class="anchor-tdi" href="/culture.php" ><img src="../_/img/aboutus/why_we_love_it.png" alt="Why We Love It"></a>
 				
 				</div>
 

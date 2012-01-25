@@ -58,48 +58,41 @@ $subfinal = $parts[count($parts) - 2];
 
 	<div class="wdet-icon">
 		<div class="center min-max">
-			<img class="stream" src="/teamdetroit/_/img/wdet-stream.png" alt="Wdet Stream">
+			<img class="stream" src="/_/img/wdet-stream.png" alt="Wdet Stream">
 		</div>
 	</div>
 
 	<div class="main-nav min-max center">
-		<h1 class="teamdetroit"><a class="anchor-tdi" href="/teamdetroit">Team Detroit</a></h1>
+		<h1 class="teamdetroit"><a class="anchor-tdi" href="/">Team Detroit</a></h1>
 
 		<nav>
 
-			<!-- <ul>
-				<li><a href="/teamdetroit/work.php">Work</a></li>
-				<li><a href="/teamdetroit/aboutus.php">About Us</a></li>
-				<li><a href="/teamdetroit/culture.php">Culture</a></li>
-				<li><a href="/teamdetroit/careers.php">Careers</a></li>
-				<li><a href="/teamdetroit/contact.php">Contact</a></li> -->
-				<?php
-				echo '<ul>';
+			<?php
+			echo '<ul>';
 
-				echo ($final == 'work.php' || $subfinal == 'projects') ? 
-				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/work.php">Work</a></li>' :
-				'<li><a class="none anchor-tdi" href="/teamdetroit/work.php">Work</a></li>';
+			echo ($final == 'work.php' || $subfinal == 'projects') ? 
+			'<li><a class="active-nav anchor-tdi" href="/work.php">Work</a></li>' :
+			'<li><a class="none anchor-tdi" href="/work.php">Work</a></li>';
 
-				echo ($final == 'aboutus.php' || $subfinal == 'aboutus' || $subfinal == 'leadership') ? 
-				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/aboutus.php">About Us</a></li>' :
-				'<li><a class="none anchor-tdi" href="/teamdetroit/aboutus.php">About Us</a></li>';
+			echo ($final == 'aboutus.php' || $subfinal == 'aboutus' || $subfinal == 'leadership') ? 
+			'<li><a class="active-nav anchor-tdi" href="/aboutus.php">About Us</a></li>' :
+			'<li><a class="none anchor-tdi" href="/aboutus.php">About Us</a></li>';
 
-				echo ($final == 'culture.php' || $subfinal == 'culture') ? 
-				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/culture.php">Culture</a></li>' :
-				'<li><a class="none anchor-tdi" href="/teamdetroit/culture.php">Culture</a></li>';
+			echo ($final == 'culture.php' || $subfinal == 'culture') ? 
+			'<li><a class="active-nav anchor-tdi" href="/culture.php">Culture</a></li>' :
+			'<li><a class="none anchor-tdi" href="/culture.php">Culture</a></li>';
 
-				echo ($final == 'careers.php') ? 
-				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/careers.php">Careers</a></li>' :
-				'<li><a class="none anchor-tdi" href="/teamdetroit/careers.php">Careers</a></li>';
+			echo ($final == 'careers.php') ? 
+			'<li><a class="active-nav anchor-tdi" href="/careers.php">Careers</a></li>' :
+			'<li><a class="none anchor-tdi" href="/careers.php">Careers</a></li>';
 
-				echo ($final == 'contact.php') ? 
-				'<li><a class="active-nav anchor-tdi" href="/teamdetroit/contact.php">Contact</a></li>' :
-				'<li><a class="none anchor-tdi" href="/teamdetroit/contact.php">Contact</a></li>';
+			echo ($final == 'contact.php') ? 
+			'<li><a class="active-nav anchor-tdi" href="/contact.php">Contact</a></li>' :
+			'<li><a class="none anchor-tdi" href="/contact.php">Contact</a></li>';
 
-				echo '</ul>';
-				?>
-			<!-- </ul> -->
-
+			echo '</ul>';
+			?>
+				
 		</nav>
 	</div>
 </header>

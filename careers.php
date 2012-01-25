@@ -19,7 +19,7 @@
 
 	<title>Team Detroit Careers | Current Jobs &amp; Career Opportunities | TeamDetroit.com</title>
 
-	<link rel="shortcut icon" href="/teamdetroit/_/img/favicon.ico">
+	<link rel="shortcut icon" href="_/img/favicon.ico">
 
 	<!-- CSS: screen, mobile & print are all in the same file -->	
 	<link rel="stylesheet" href="_/css/style_.css">

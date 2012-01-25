@@ -47,7 +47,7 @@ jQuery.cookie = function(key, value, options) {
 $(document).ready(function() {
 	
 	function updateTime() {
-		$.post('/teamdetroit/time.php?ts='+new Date().getMilliseconds(), function(data) {
+		$.post('/time.php?ts='+new Date().getMilliseconds(), function(data) {
 			$('.est-time').html(data)
 		});
 		setTimeout(updateTime, 5000);
@@ -136,7 +136,7 @@ $(document).ready(function() {
 	
 	$('body').prepend('<div id="go-back-up"></div>');
 	$('#go-back-up').css({
-		'background-image': 'url(/teamdetroit/_/img/up-arrow.png)',
+		'background-image': 'url(/_/img/up-arrow.png)',
 		'position': 'fixed',
 		'top': '50%',
 		'marginTop': -40,

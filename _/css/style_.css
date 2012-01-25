@@ -329,7 +329,7 @@ header {
 	height: 44px;
 	width: 148px;
 	text-indent: -9999px;
-	background: url('/teamdetroit/_/img/teamdetroit.png') no-repeat top left;
+	background: url('/_/img/teamdetroit.png') no-repeat top left;
 }
 
 .main-nav ul {
@@ -817,7 +817,7 @@ footer .facts-inner {
 }
 
 footer .facts-inner h6 {
-	background: url("/teamdetroit/_/img/teamdetroit_alt.png") no-repeat center left;
+	background: url("/_/img/teamdetroit_alt.png") no-repeat center left;
 	padding: 25px 0;
 	text-indent: -9999px;
 }
