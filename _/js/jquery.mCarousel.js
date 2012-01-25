@@ -43,7 +43,6 @@
 				var w = ($(window).width()-carousel.width())/2;
 				
 				function resetCarousel() {
-					console.log(carousel.find('.activeCarousel'))
 					var windowWidth = ($(window).width() > 960) ? $(window).width() : 960,
 						one = (windowWidth-carousel.find('.activeCarousel').width())/2,
 						two = carousel.find('.activeCarousel').offset().left-carousel.offset().left;
