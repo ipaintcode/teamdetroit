@@ -165,6 +165,15 @@ $(document).ready(function() {
 		goToByScroll(0, 500);
 	});
 	
+	$('.fluidCarousel-happenings').mCarousel({
+		controller: $('.carousel-controller-happenings'),
+		keyControl: false
+	});
+	
+	$('.fluidCarousel-reasons').mCarousel({
+		controller: $('.carousel-controller-reasons'),
+		keyControl: false
+	});
 	
 	function checkImgSize() {
 

@@ -5,23 +5,25 @@ $(document).ready(function (){
 	}, function() {
 		$(this).stop().animate({opacity: 1}, 300);
 	});
-
-	
-	var width = 0;
-	var which = 3;
 	
 	$(window).load(function() {
+		
+		var width = 0,
+			deletedCount = 0,
+			tracker = 1,
+			animating = false,
+			videoActive = false,
+			len = $('.fluidCarousel li').length-1;
+			
 		$('.fluidCarousel li img').each(function(index) {
 			width +=$(this).width();
 		});
 		$('.fluidCarousel').width(width);			
 		var w = ($(window).width()-$('.fluidCarousel').width())/2;
-
-		// ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
 		
 		function resetCarousel(way) {
-			var windownWidth = ($(window).width() > 960) ? $(window).width() : 960,
-				one = (windownWidth-$('.activeCarousel').width())/2,
+			var windowWidth = ($(window).width() > 960) ? $(window).width() : 960,
+				one = (windowWidth-$('.activeCarousel').width())/2,
 				two = $('.activeCarousel').offset().left-$('.fluidCarousel').offset().left;
 		
 			$('.fluidCarousel').stop().animate({
@@ -32,16 +34,9 @@ $(document).ready(function (){
 				
 		}
 		
-		var deletedCount = 0;
-		var tracker = 1;
-		var animating = false,
-			videoActive = false;
-		
 		$(window).resize(function(event) {
 			resetCarousel();
 		});
-		
-		var len = $('.fluidCarousel li').length-1;
 		
 		$('.page-nate span').text(len+1);
 		$('.page-nate .page-of').text(tracker);

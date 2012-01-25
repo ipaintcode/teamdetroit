@@ -299,7 +299,7 @@
 
 	</section>
 	
-	<div class="headline-wrapper">
+	<!-- <div class="headline-wrapper">
  	    <h2 class="center min-max">The Reasons</h2>
  	</div>
  	
@@ -323,9 +323,7 @@
 			<li class=""><img src="_/img/careers/reason_we_love_it/11_bands_01.jpg" alt="Billboard Bands"></li>
 			<li class=""><img src="_/img/careers/reason_we_love_it/12_bands_02.jpg" alt="Billboard Bands"></li>											
 			<li class=""><img src="_/img/careers/reason_we_love_it/13_draw.jpg" alt="Billboard Bands"></li>
-			<li class=""><img src="_/img/careers/reason_we_love_it/14_summer.jpg" alt="Billboard Bands"></li>
-			<!-- <li class=""><img src="_/img/careers/reason_we_love_it/15_foursquare.jpg" alt="Billboard Bands"></li> -->
-		</ul>
+			<li class=""><img src="_/img/careers/reason_we_love_it/14_summer.jpg" alt="Billboard Bands"></li>		</ul>
 	</div>
 
 	<div class="segment-headline-wrapper clear below-carousel below-carousel-careers">
@@ -337,7 +335,14 @@
 				<li class="next-button next-button-reasons"><a href="#next">Next &rarr;</a></li>
 			</ul>
 		</div>
-	</div>
+	</div> -->
+	
+	
+	
+	
+	
+	
+	
 	<!-- <div class="billboard-wrapper billboard-ext-carousel">
 		<ul class="fluidCarousel">
 			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/01_23_game_win.jpg" alt="Billboard Bands"></li>

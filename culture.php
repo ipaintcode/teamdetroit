@@ -48,9 +48,42 @@
 
 		</div>
 	</section>
-
+	
+	
 	<div class="headline-wrapper">
-	    <h2 class="center min-max"><span>Happenings</span></h2>
+ 	    <h2 class="center min-max"><span></span>Hear it From Us</h2>
+ 	</div>
+
+	<div class="billboard-wrapper billboard-ext-carousel">
+		<ul class="fluidCarousel fluidCarousel-reasons">
+			<li class="activeCarousel"><img src="_/img/careers/reason_we_love_it/why_we_love_it.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/01_23_game_win.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/02_yelp.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/03_change.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/04_better.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/05_play_field.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/06_Luchadors.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/07_truck.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/08_free_mags.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/09_chairs.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/10_plates.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/11_bands_01.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/12_bands_02.jpg" alt="Billboard Bands"></li>											
+			<li class=""><img src="_/img/careers/reason_we_love_it/13_draw.jpg" alt="Billboard Bands"></li>
+			<li class=""><img src="_/img/careers/reason_we_love_it/14_summer.jpg" alt="Billboard Bands"></li>
+			<!-- <li class=""><img src="_/img/careers/reason_we_love_it/15_foursquare.jpg" alt="Billboard Bands"></li> -->
+		</ul>
+	</div>
+
+	<div class="segment-headline-wrapper clear below-carousel below-carousel">
+		<h2 class="center min-max"><span class="segment-header-spacer"></span>Happenings</h2>
+		<div class="carousel-navigation center min-max">
+			<ul class="carousel-controller carousel-controller carousel-controller-reasons">
+				<li class="prev-button prev-button"><a href="#prev">&larr; Previous</a></li>
+				<li class="page-nate page-nate"><span class="page-of">1</span> of <span>12</span></li>
+				<li class="next-button next-button"><a href="#next">Next &rarr;</a></li>
+			</ul>
+		</div>
 	</div>
 
 	<section class="home-culture home-work">
@@ -140,7 +173,7 @@
 	</section>
 
 	<div class="billboard-wrapper billboard-ext-carousel">
-		<ul class="fluidCarousel">
+		<ul class="fluidCarousel fluidCarousel-happenings">
 			<li class="activeCarousel"><img src="_/img/culture/carousel/01_Minus_The_Bear_October12_2011.jpg" alt=""></li>
 			<li class=""><img src="_/img/culture/carousel/02_JT_Hodges_-September20_2011.jpg" alt=""></li>
 			<li class=""><img src="_/img/culture/carousel/03_Hot_Chelle_Rae_September7_2011.jpg" alt=""></li>
@@ -162,7 +195,7 @@
 	<div class="segment-headline-wrapper clear below-carousel below-carousel-culture">
 		<h2 class="center min-max"><span class="segment-header-spacer"></span></h2>
 		<div class="carousel-navigation center min-max">
-			<ul class="carousel-controller carousel-controller-culture">
+			<ul class="carousel-controller carousel-controller-culture carousel-controller-happenings">
 				<li class="prev-button prev-button-stereo"><a href="#prev">&larr; Previous</a></li>
 				<li class="page-nate page-nate-stereo"><span class="page-of">1</span> of <span>12</span></li>
 				<li class="next-button next-button-stereo"><a href="#next">Next &rarr;</a></li>
@@ -183,8 +216,8 @@
 
 <!-- this is where we put our custom functions -->
 <script src="_/js/jquery.easing.1.3.js"></script>
+<script src="_/js/jquery.mCarousel.js"></script>
 <script src="_/js/functions_.js"></script>
-<script src="_/js/jquery.fluidCarousel.0.1.js"></script>
 
 <script>
 

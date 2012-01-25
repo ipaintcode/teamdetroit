@@ -548,7 +548,7 @@ ol.grid-ext-leader li h3 {
 .headline-wrapper h2 {
 	padding: 18px 0;
 	color: #484848;
-	font-size: 24px;
+	font-size: 20px;
 	font-weight: 800;
 	font-style: italic;
 	font-family: Georgia, "Times New Roman", Times, serif;
@@ -923,6 +923,15 @@ footer .facts-next {
 	font-weight: 400;
 	margin-top: 8px;
 	font-family: "ProximaNovaRegular", Arial, sans-serif;
+}
+
+.policy .safe-link-temp-fix {
+	position: absolute;
+	top: 60px;
+	left: 109px;
+	height: 100px;
+	width: 170px;
+	text-indent: -9999px;
 }
 
 .policy .policy-arrow {
