@@ -18,7 +18,7 @@
 	<!-- Leadership meta - description : content -->
 	<meta name="description" content="Greg comes to Team Detroit after satisfying a wanderlust that saw him find award-winning success at jobs in Seattle, New York, Chicago, Los Angeles, Minneapolis and now here in Detroit. " />
 
-	<title>Greg Braun | EVP, Executive Creative Director | Team Detroit</title>
+	<title>Greg Braun | Co-President, Executive Creative Director | Team Detroit</title>
 
 	<link rel="shortcut icon" href="../_/img/favicon.ico">
 
@@ -47,7 +47,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Greg Braun</span><span class="segment-leader-title">(EVP, Executive Creative Director)</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Greg Braun</span><span class="segment-leader-title">(Co-President, Executive Creative Director)</span></h2>
 	</div>
 
 	<div class="content-wrapper">

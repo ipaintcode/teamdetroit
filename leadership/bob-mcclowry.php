@@ -63,7 +63,7 @@
 
 					<p>One of the advantages to working with Ford Dealers across the country is that Bob has been able to indulge his love of golf by playing some of the country's finest courses. He maintains that every round was strictly for business purposes.</p>
 
-					<p>At home, Bob is the proud father of two grown children &mdash; one a special education teacher and the other a pre-med student.</p>
+					<p>At home, Bob is the proud father of two grown children one a special education teacher and the other a medical school student.</p>
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>

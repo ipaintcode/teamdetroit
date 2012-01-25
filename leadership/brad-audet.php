@@ -17,7 +17,7 @@
 	<!-- Leadership meta - description : content -->
 	<meta name="description" content="Brad leads new-business development and is the brand steward for Team Detroit." />
 	
-	<title>Brad Audet | Managing Director, Business Development | Team Detroit</title>
+	<title>Brad Audet | Co-President, Managing Director and Business Development | Team Detroit</title>
 
 	<link rel="shortcut icon" href="../_/img/favicon.ico">
 
@@ -46,7 +46,7 @@
 	</div>
 
 	<div class="segment-headline-wrapper clear">
-		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Brad Audet</span><span class="segment-leader-title">(Managing Director, Business Development)</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../aboutus.php?p=leaders" alt="Back to Leadership"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Brad Audet</span><span class="segment-leader-title">(Co-President, Managing Director and Business Development)</span></h2>
 	</div>
 
 	<div class="content-wrapper">
