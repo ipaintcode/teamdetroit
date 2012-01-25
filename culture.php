@@ -218,7 +218,19 @@
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/jquery.mCarousel.js"></script>
 <script src="_/js/functions_.js"></script>
-
+<script>
+	
+	$('.fluidCarousel-happenings').mCarousel({
+		controller: $('.carousel-controller-happenings'),
+		keyControl: false
+	});
+	
+	$('.fluidCarousel-reasons').mCarousel({
+		controller: $('.carousel-controller-reasons'),
+		keyControl: false
+	});
+	
+</script>
 <script>
 
   var _gaq = _gaq || [];
