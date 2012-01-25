@@ -74,9 +74,6 @@ $forecast_list = $xml->xpath("/xml_api_reply/weather/forecast_conditions");
 					<li><a href="mailto:andrea.scott@teamdetroit.com">Public Relations</a></li>
 					<li><a href="mailto:brad.audet@teamdetroit.com">Business Opportunity</a></li>
 					<li><a href="mailto:human.resources@teamdetroit.com">Career Information</a></li>
-					<li><a href="http://www.facebook.com/?sk=fl_1768452991467">Facebook</a></li>
-					<li><a href="#">Twitter</a></li>
-					<li><a href="#">Google+</a></li>
 				</ul>
 			</li>
 		</ul>
