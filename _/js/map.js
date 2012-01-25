@@ -38,7 +38,7 @@ $(document).ready(function() {
 			draggable: false,
 			position: new google.maps.LatLng(lat, lng),
 			map: map,
-			url: "http://g.co/maps/yv7u3",
+			url: "http://g.co/maps/e7eu4",
 			clickable: true,
 			icon: image
 		});
