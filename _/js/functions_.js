@@ -518,6 +518,8 @@ $(document).ready(function() {
 			rollOut();
 		}
 	});
+	
+	$('.rows-jobs > li:even').css('background', '#E9E9E9');
 
 	function isiPhone(){
 		return (

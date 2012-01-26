@@ -1077,7 +1077,7 @@ span.condition {
 	overflow: hidden;
 }
 
-.rows-jobs li:nth-child(odd) {
+.rows-jobs > li:nth-child(odd) {
 	background: #E9E9E9;
 }
 
@@ -1134,6 +1134,28 @@ span.condition {
 .rows-jobs p {
 	margin-bottom: 20px;
 	font-family: "ProximaNovaRegular", Arial, sans-serif;
+}
+
+.job-content .requirements {
+	margin-bottom: 20px;
+}
+
+ul.requirements-list {
+	margin-top: 10px;
+}
+
+ul.requirements-list li {
+	padding: 0;
+	margin: 0;
+	margin-top: -5px;
+	margin-bottom: -10px;
+	list-style: disc;
+	line-height: 16px;
+	margin-left: 20px;
+	font-size: 14px;
+	font-family: "ProximaNovaRegular", Arial, sans-serif;
+	color: #383838;
+	overflow: visible;
 }
 
 .project {
