@@ -41,17 +41,46 @@
 			<li class=""><img src="../_/img/projects/ccs/billboard_2.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/ccs/billboard_3.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/ccs/billboard_4.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard_5.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard_6.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard_7.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard_8.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard_9.jpg" alt=""></li>
-			<li class=""><img src="../_/img/projects/ccs/billboard_10.jpg" alt=""></li>
+			<li class="">
+        		<div class="close-video">x</div>
+        		<h4></h4>
+        		<img src="../_/img/projects/ccs/billboard_5.jpg" alt="">
+        		<div class="youtube-video-holder" data="M1-5W14owpE"></div>
+        	</li>
+        	<li class="">
+        		<div class="close-video">x</div>
+        		<h4></h4>
+        		<img src="../_/img/projects/ccs/billboard_6.jpg" alt="">
+        		<div class="youtube-video-holder" data="KjN-WRCq8MI"></div>
+        	</li>
+        	<li class="">
+        		<div class="close-video">x</div>
+        		<h4></h4>
+        		<img src="../_/img/projects/ccs/billboard_7.jpg" alt="">
+        		<div class="youtube-video-holder" data="ErWkYKObVRY"></div>
+        	</li>
+        	<li class="">
+        		<div class="close-video">x</div>
+        		<h4></h4>
+        		<img src="../_/img/projects/ccs/billboard_8.jpg" alt="">
+        		<div class="youtube-video-holder" data="0EDNocHXfEo"></div>
+        	</li>
+        	<li class="">
+        		<div class="close-video">x</div>
+        		<h4></h4>
+        		<img src="../_/img/projects/ccs/billboard_9.jpg" alt="">
+        		<div class="youtube-video-holder" data="Zx3nDZWjDnI"></div>
+        	</li>
+        	<li class="">
+        		<div class="close-video">x</div>
+        		<h4></h4>
+        		<img src="../_/img/projects/ccs/billboard_10.jpg" alt="">
+        		<div class="youtube-video-holder" data="SW79xJAyQ_s"></div>
+        	</li>
 			<li class=""><img src="../_/img/projects/ccs/billboard_11.jpg" alt=""></li>
 			<li class=""><img src="../_/img/projects/ccs/billboard_12.jpg" alt=""></li>														
 		</ul>
 	</div>
-	
 
 
 	<div class="segment-headline-wrapper clear below-carousel">
