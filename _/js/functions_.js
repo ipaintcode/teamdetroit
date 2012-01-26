@@ -536,7 +536,7 @@ $(document).ready(function() {
 		var flash = "<embed src='http://www.shoutcast.com/media/popupPlayer_V19.swf?stationid=http://yp.shoutcast.com/sbin/tunein-station.pls?id=817960&play_status=1' quality='high' bgcolor='#ffffff' width='398' height='104' name='popupPlayer_V19' align='middle' allowScriptAccess='always' allowFullScreen='true' type='application/x-shockwave-flash' pluginspage='http://www.adobe.com/go/getflashplayer' ></embed>"
 		if ($.cookie("wdet") === "0") {
 			audioTag.src = "undefined";
-			
+
 			if ($.browser.msie === true || $.browser.mozilla === true) {
 				$('.player-holder').html("");
 			} else {

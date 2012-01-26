@@ -245,8 +245,15 @@ $(document).ready(function (){
 	var width = 0;
 	var which = 3;
 	
+	function getParameterByName(name) {
+	    var match = RegExp('[?&]' + name + '=([^&]*)')
+	                    .exec(window.location.search);
+	    return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+	}
+	
 	$(window).load(function() {
-
+	
+		var getSlide = getParameterByName('slide');
 		var deletedCount = 0;
 		var tracker = 1;
 		var animating = false,
@@ -259,21 +266,18 @@ $(document).ready(function (){
 		var w = ($(window).width()-$('.fluidCarousel').width())/2;
 
 		// ((windownWidth-$('.activeCarousel').width())/2)-($('.activeCarousel').offset().left-$('.fluidCarousel').offset().left)
-		
-		function resetCarousel(way) {
+	
+		function resetCarousel() {
 			var windownWidth = ($(window).width() > 960) ? $(window).width() : 960,
 				one = (windownWidth-$('.activeCarousel').width())/2,
 				two = $('.activeCarousel').offset().left-$('.fluidCarousel').offset().left;
-		
+	
 			$('.fluidCarousel').stop().animate({
 				left: (one-two)
 			}, 500, function() {
 				animating = false;
 			});
-				
 		}
-		
-
 		
 		$(window).resize(function(event) {
 			resetCarousel();
@@ -440,9 +444,34 @@ $(document).ready(function (){
 				}
 			}
 		}
-
-		resetCarousel("nexdt");
-		$('.billboard-ext-carousel ul').stop().animate({opacity: 1}, 500);
+		
+		function automate() {
+			tracker+=1;
+			if (tracker === len+2) {
+				tracker = 1;
+			}
+			$('.page-nate .page-of').css('opacity', 0).text(tracker).stop().animate({opacity: 1}, 300);
+		
+			$('.fluidCarousel li:last').after($('.fluidCarousel li:first'));
+			var x = parseInt($('.fluidCarousel').css('left'), 10);
+			$('.fluidCarousel').css({
+				left: x+$('.fluidCarousel li:last').width()
+			});
+			$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
+		
+			resetCarousel(0);
+		}
+		$('.billboard-ext-carousel ul').stop().animate({opacity: 1}, 500, function() {
+			if(getSlide !== null) {
+				if(!isNaN(getSlide) && parseInt(getSlide) <= len+1) {
+					for (var i=0; i < getSlide-1; i++) {
+						automate();
+					};
+				}
+			} else {
+				resetCarousel("nexdt");
+			}
+		});
 
 	});
 
