@@ -459,7 +459,7 @@ $(document).ready(function (){
 			});
 			$('.activeCarousel').removeClass('activeCarousel').next().addClass('activeCarousel');
 		
-			resetCarousel(0);
+			resetCarousel();
 		}
 		$('.billboard-ext-carousel ul').stop().animate({opacity: 1}, 500, function() {
 			if(getSlide !== null) {
@@ -468,11 +468,9 @@ $(document).ready(function (){
 						automate();
 					};
 				}
-			} else {
-				resetCarousel("nexdt");
 			}
 		});
-
+		resetCarousel();
 	});
 
 	var factsAt = 0;

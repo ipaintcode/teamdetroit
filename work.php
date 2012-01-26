@@ -59,7 +59,7 @@
 				<li class="single">
 					<a class="anchor-tdi" href="projects/sports-authority.php">
 						<div class="grid-copy">
-							<h3>The Sports Authority</h3>
+							<h3>The Sports<br>Authority</h3>
 							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who needed them.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
