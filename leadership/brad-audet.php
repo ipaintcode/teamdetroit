@@ -57,12 +57,12 @@
 
 				<div class="content-info">
 
-					<p>One of the first things you hear when entering the advertising industry to make a living is that you better have a thick skin and be willing to fight for what you believe in. Brad Audet was obviously taking notes on the first day. His competitive nature, stemming from a background in collegiate athletics, has helped him take on any new challenge, turn it into a win and come back looking for more. That’s part of why he is the Group Managing Director of Team Detroit.</p>
+					<p>One of the first things you hear when entering the advertising industry to make a living is that you better have a thick skin and be willing to fight for what you believe in. Brad Audet was obviously taking notes on the first day. His competitive nature, stemming from a background in collegiate athletics, has helped him take on any new challenge, turn it into a win and come back looking for more. That’s part of why he is a Co-President, Managing Director.</p>
 
-					<p>In that role, Brad leads new-business development and is the brand steward for Team Detroit. He oversees a number of accounts including Scotts Miracle Gro, Bosch, Johnson Controls and Warrior Sports. Prior to his current responsibilities, he led the successful launch of the Ford &ldquo;Drive one&rdquo; campaign and seven nameplate launches.</p>
+					<p>In that role, Brad leads new business development and oversees a group dedicated to serving a broad array of clients including Scotts Miracle Gro, Sports Authority, Bosch, Johnson Controls, Carhartt, Compuware, Bell Helicopter, Shell, Jiffy Lube, White Castle, Warrior Sports, Ohio Art and many more. Prior to his current responsibilities, he led the successful launch of the Ford &ldquo;Drive one&rdquo; campaign and seven Ford nameplate launches.</p>
 
-					<p>He didn’t just walk into this role. Brad used to run the Mullen Detroit office servicing several General Motors businesses. He also helped open Frankel’s Detroit office to provide brand activation support for General Motors. But it all started at Ross Roy, where he worked on Kmart, Builders Square, OfficeMax and AT&amp;T.</p>
-				<p>Outside of work, Brad spends his time with his wife, Jen, and their two girls, Ella and Carolyn.</p>
+					<p>He didn’t just walk into this role. Brad used to run the Mullen Detroit office servicing several General Motors businesses. He also helped open Frankel&rsquo;s Detroit office to provide brand activation support for General Motors. But it all started at Ross Roy, where he worked on Kmart, Builders Square, OfficeMax and AT&amp;T.</p>
+			    <!-- <p>Outside of work, Brad spends his time with his wife, Jen, and their two girls, Ella and Carolyn.</p> -->
 				
 					<ul class="content-info-social">
 						<li>Network &rarr;</li>
