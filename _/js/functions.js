@@ -520,35 +520,33 @@ $(document).ready(function (){
 	
 	$('body').prepend('<div id="go-back-up"></div>');
 	$('#go-back-up').css({
-		'background-image': 'url(/_/img/up-arrow.png) no-repeat',
+		'background-image': 'url(/_/img/up-arrow.png)',
 		'position': 'fixed',
 		'top': '50%',
 		'marginTop': -40,
-		'right': -44,
-		'width': 44,
+		'right': -40,
+		'width': 39,
 		'height': 39,
 		'zIndex': 10000,
 		'cursor': 'pointer'
 	});
-
 	$(window).scroll(function(event) {
 
 		if ($(window).scrollTop() > 0) {
 			$('#go-back-up').stop().animate({right: 0}, 300);
 		} else {
-			$('#go-back-up').stop().animate({right: "-50"}, 0);
+			$('#go-back-up').stop().animate({right: -40}, 300);
 		}
 	});
 	
-	$('#go-back-up').click(function(event) {
-		
-		goToByScroll(0, 500);
+	$('#go-back-up').hover(function() {
+		$(this).stop().animate({opacity: ".8"}, 300);
+	}, function() {
+		$(this).stop().animate({opacity: 1}, 0);
 	});
 	
-	$('#go-back-up').hover(function() {
-		$(this).stop().animate({opacity: ".7", right: 0}, 100);
-	}, function() {
-		$(this).stop().animate({opacity: 1, right: 0}, 100);
+	$('#go-back-up').click(function(event) {
+		goToByScroll(0, 500);
 	});
 });
 
