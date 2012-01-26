@@ -420,7 +420,6 @@ $(document).ready(function (){
 		}
 
 		function goPrevious() {
-	
 			if(!animating) {
 				if (videoActive) {
 					return closeVideo('prev');
@@ -470,6 +469,7 @@ $(document).ready(function (){
 				}
 			}
 		});
+
 	});
 
 	var factsAt = 0;

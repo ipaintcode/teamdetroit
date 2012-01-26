@@ -2,7 +2,7 @@
 $(document).ready(function() {
 	
 	function buildMap(img, nLng) {
-		var lat = 42.315118;
+		var lat = 42.315853;
 		var lng = nLng;
 		var latlng = new google.maps.LatLng(lat, lng);
 		// Creating an object literal containing the properties we want to pass to the map
@@ -30,7 +30,7 @@ $(document).ready(function() {
 		var image = new google.maps.MarkerImage(img,
 			new google.maps.Size(355, 92),
 			new google.maps.Point(0,0),
-			new google.maps.Point(18, 88)
+			new google.maps.Point(40, 60)
 		);
 		
 		
@@ -60,7 +60,7 @@ $(document).ready(function() {
 	}
 	
 	var img = ($('#map').attr('data') === "small") ? "_/img/tdi-map-icon-small.png" : "_/img/tdi-map-icon.png";
-	var nLng = ($('#map').attr('data') === "small") ? "-83.216801" : "-83.218401";
+	var nLng = ($('#map').attr('data') === "small") ? "-83.216801" : "-83.217169";
 	var delayed = $('#map').attr('delay');
 	if(delayed === "true") {
 		setTimeout(callMap,1500);
