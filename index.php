@@ -196,7 +196,7 @@
 
 			<ul class="grid">  
 				<li class="single grid-over">
-					<a href="culture/movember.php">
+					<a href="culture/movember.php" class="anchor-tdi">
 						<div class="grid-copy">
 							<h3 class="culture-title">Our Epic<br />Movember</h3>
 							<p class="copy">United for the cause of men’s health, the men of Team Detroit sported a little upper crust during the month of November.</p>
@@ -207,7 +207,7 @@
 					</a>
 				</li>
 				<li class="double grid-over">
-					<a href="culture/signal_return.php">
+					<a href="culture/signal_return.php" class="anchor-tdi">
 						<div class="grid-copy">
 							<h3 class="culture-title">Signal Return</h3>
 							<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
@@ -218,7 +218,7 @@
 					</a>
 				</li>
 				<li class="single grid-over">
-					<a href="culture/people_mover.php">
+					<a href="culture/people_mover.php" class="anchor-tdi">
 						<div class="grid-copy">
 							<h3 class="culture-title">People Mover</h3>
 							<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
@@ -229,7 +229,7 @@
 					</a>
 				</li>
 				<li class="single grid-over">
-					<a href="culture/love_detroit.php">
+					<a href="culture/love_detroit.php" class="anchor-tdi">
 						<div class="grid-copy">
 							<h3 class="culture-title">Love,<br />Detroit</h3>
 							<p class="copy">Celebrate the season with free, streaming and downloadable holiday tunes from Detroit artists.</p>
@@ -240,7 +240,7 @@
 					</a>
 				</li>
 				<li class="single grid-over">
-					<a href="culture/greening_of_detroit.php">
+					<a href="culture/greening_of_detroit.php" class="anchor-tdi">
 						<div class="grid-copy">
 							<h3 class="culture-title">Greening of<br />Detroit</h3>
 							<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
