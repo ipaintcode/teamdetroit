@@ -192,72 +192,72 @@
     						</div>
     					</div>
     				</li>
-    				<li id="job4">
-    					<div class="center min-max">
-    						<h5>Global Digital Engagement Manager<span>Location: Dearborn</span></h5>
-    						<h6>November 11th, 2011<a href="#">Read More</a></h6>
-    						<div class="job-content">
-    							<p>The Global Digital Engagement Manager is responsible for the successful delivery of Global Marketing digital launch campaigns and interactive marketing projects for Global Team Detroit. This individual is expected to lead specific Global Digital initiatives and is responsible for the coordination of all facets of a given engagement across Regions. The Global Digital Engagement Manager will have direct accountability to the Global Digital Lead.</p>
-    							<h3 class="requirements">
-									Requirements:
-								</h3>
-								<ul class="requirements-list">
-									<li>Bachelor’s degree or equivalent experience</li>
-									<li>Minimum 5 years agency experience</li>
-									<li>Automotive experience in the digital category required</li>
-									<li>Experience in partnering with regional digital organizations to deliver marketing efficiency commitments and exploring all digital efficiency opportunities</li>
-									<li>Developing and managing project/program schedules, scope and budgets</li>
-									<li>Demonstrates entrepreneurial spirit; leads and encourages new break-through ideas</li>
-								</ul>
-    							<p>
-    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
-    							</p>
-    						</div>
-    					</div>
-    				</li>
-    				<li id="job5">
-    					<div class="center min-max">
-    						<h5>Platform Account Manager<span>Location: Dearborn</span></h5>
-    						<h6>November 11th, 2011<a href="#">Read More</a></h6>
-    						<div class="job-content">
-    							<p>The Participant Platform Account Manager is responsible for the coordination of all platform optimization and brand support projects in the participant social media space (Facebook, social tools integrated into Ford properties, TFS and Ford.com). They assist the SVP, Group Account Director in client relations, managing the review process, budgeting, coordination across departments for participant projects, oversee development process and ensure on-time and on-budget programs. The manager will work with the business management office to assign resources assures client fee approvals and other critical financial checkpoints and also work with delivery services to maintain schedules and ensuring timely completion of projects.</p>
-    							<h3 class="requirements">
-									Requirements:
-								</h3>
-								<ul class="requirements-list">
-									<li>Bachelor’s degree or equivalent experience minimum.</li>
-									<li>Proven track record of 3-5 years in Digital or CRM Account, effective communication skills and leadership.</li>
-								</ul>
-    							<p>
-    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
-    							</p>
-    						</div>
-    					</div>
-    				</li>
-    				<li id="job6">
-    					<div class="center min-max">
-    						<h5>Online Advertising Group Account Director<span>Location: Dearborn</span></h5>
-    						<h6>November 11th, 2011<a href="#">Read More</a></h6>
-    						<div class="job-content">
-    							<p>The Group Account Director is responsible for the successful delivery of online marketing campaigns and interactive marketing projects. This position will work with media, analytics, strategy and account to broaden the custom solutions capabilities within the online advertising space. The Group Account Director needs to be an energetic, creative leader with strong organizational skills who thrives when juggling multiple priorities in a fast paced, high performing environment.</p>
-    							<h3 class="requirements">
-									Requirements:
-								</h3>
-								<ul class="requirements-list">
-									<li>Bachelor’s degree required</li>
-									<li>Minimum 8 years of experience in advertising, creative production, or related field.</li>
-									<li>Vertical industry experience in automotive marketing services preferred</li>
-									<li>Able to work effectively with online partners to deliver an overall solution to the client</li>
-									<li>In-depth knowledge of Rich Media; including vendor familiarity</li>
-									<li>Strong understanding of metrics, analytics and optimization; Ability to lend analysis and campaign insights.</li>
-									<li>Understanding of online media and accompanying creative process required</li>
-								</ul>
-    							<p>
-    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
-    							</p>
-    						</div>
-    					</div>
-    				</li>
+    				<!-- <li id="job4">
+    				                        <div class="center min-max">
+    				                            <h5>Global Digital Engagement Manager<span>Location: Dearborn</span></h5>
+    				                            <h6>November 11th, 2011<a href="#">Read More</a></h6>
+    				                            <div class="job-content">
+    				                                <p>The Global Digital Engagement Manager is responsible for the successful delivery of Global Marketing digital launch campaigns and interactive marketing projects for Global Team Detroit. This individual is expected to lead specific Global Digital initiatives and is responsible for the coordination of all facets of a given engagement across Regions. The Global Digital Engagement Manager will have direct accountability to the Global Digital Lead.</p>
+    				                                <h3 class="requirements">
+    				                                    Requirements:
+    				                                </h3>
+    				                                <ul class="requirements-list">
+    				                                    <li>Bachelor’s degree or equivalent experience</li>
+    				                                    <li>Minimum 5 years agency experience</li>
+    				                                    <li>Automotive experience in the digital category required</li>
+    				                                    <li>Experience in partnering with regional digital organizations to deliver marketing efficiency commitments and exploring all digital efficiency opportunities</li>
+    				                                    <li>Developing and managing project/program schedules, scope and budgets</li>
+    				                                    <li>Demonstrates entrepreneurial spirit; leads and encourages new break-through ideas</li>
+    				                                </ul>
+    				                                <p>
+    				                                    Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
+    				                                </p>
+    				                            </div>
+    				                        </div>
+    				                    </li> -->
+    				<!-- <li id="job5">
+    				                        <div class="center min-max">
+    				                            <h5>Platform Account Manager<span>Location: Dearborn</span></h5>
+    				                            <h6>November 11th, 2011<a href="#">Read More</a></h6>
+    				                            <div class="job-content">
+    				                                <p>The Participant Platform Account Manager is responsible for the coordination of all platform optimization and brand support projects in the participant social media space (Facebook, social tools integrated into Ford properties, TFS and Ford.com). They assist the SVP, Group Account Director in client relations, managing the review process, budgeting, coordination across departments for participant projects, oversee development process and ensure on-time and on-budget programs. The manager will work with the business management office to assign resources assures client fee approvals and other critical financial checkpoints and also work with delivery services to maintain schedules and ensuring timely completion of projects.</p>
+    				                                <h3 class="requirements">
+    				                                    Requirements:
+    				                                </h3>
+    				                                <ul class="requirements-list">
+    				                                    <li>Bachelor’s degree or equivalent experience minimum.</li>
+    				                                    <li>Proven track record of 3-5 years in Digital or CRM Account, effective communication skills and leadership.</li>
+    				                                </ul>
+    				                                <p>
+    				                                    Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
+    				                                </p>
+    				                            </div>
+    				                        </div>
+    				                    </li> -->
+    				<!-- <li id="job6">
+    				                        <div class="center min-max">
+    				                            <h5>Online Advertising Group Account Director<span>Location: Dearborn</span></h5>
+    				                            <h6>November 11th, 2011<a href="#">Read More</a></h6>
+    				                            <div class="job-content">
+    				                                <p>The Group Account Director is responsible for the successful delivery of online marketing campaigns and interactive marketing projects. This position will work with media, analytics, strategy and account to broaden the custom solutions capabilities within the online advertising space. The Group Account Director needs to be an energetic, creative leader with strong organizational skills who thrives when juggling multiple priorities in a fast paced, high performing environment.</p>
+    				                                <h3 class="requirements">
+    				                                    Requirements:
+    				                                </h3>
+    				                                <ul class="requirements-list">
+    				                                    <li>Bachelor’s degree required</li>
+    				                                    <li>Minimum 8 years of experience in advertising, creative production, or related field.</li>
+    				                                    <li>Vertical industry experience in automotive marketing services preferred</li>
+    				                                    <li>Able to work effectively with online partners to deliver an overall solution to the client</li>
+    				                                    <li>In-depth knowledge of Rich Media; including vendor familiarity</li>
+    				                                    <li>Strong understanding of metrics, analytics and optimization; Ability to lend analysis and campaign insights.</li>
+    				                                    <li>Understanding of online media and accompanying creative process required</li>
+    				                                </ul>
+    				                                <p>
+    				                                    Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
+    				                                </p>
+    				                            </div>
+    				                        </div>
+    				                    </li> -->
 					<li id="job-56">
     					<div class="center min-max">
     						<h5>Ford/Lincoln TRAIN (Talent Resource and Insight Network)<span>Location: Dearborn</span></h5>
@@ -342,49 +342,49 @@
     						</div>
     					</div>
     				</li>
-					<li id="job-84">
-    					<div class="center min-max">
-    						<h5>Senior Experience Strategist<span>Location: Dearborn</span></h5>
-    						<h6>November 11th, 2011<a href="#">Read More</a></h6>
-    						<div class="job-content">
-    							<p>The Senior Digital Brand Strategist is responsible for developing strategies through business insight, consumer analysis and modeling under the guidance of a lead strategist. Helps to define the business goals and customer needs and works with Experience Architects to develop digital experiences that meet those goals. Accountable for the following deliverables: digital strategy POVs and briefs; prioritizing key customer segments within a target audience, mapping customer journeys and interaction points.</p>
-    							<h3 class="requirements">
-									Requirements:
-								</h3>
-								<ul class="requirements-list">
-									<li>Bachelor’s degree or equivalent experience; MBA preferred</li>
-									<li>Minimum of 2 years within the digital environment and 5+ years in marketing/advertising</li>
-									<li>Understanding of market research, consumer insights, direct metrics, and digital metrics</li>
-								</ul>
-    							<p>
-    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
-    							</p>
-    						</div>
-    					</div>
-    				</li>
-					<li id="job-90">
-    					<div class="center min-max">
-    						<h5>Digital Research Director<span>Location: Dearborn</span></h5>
-    						<h6>November 11th, 2011<a href="#">Read More</a></h6>
-    						<div class="job-content">
-    							<p>The Digital Research Director’s primary responsibility is to work with the digital team to identify and develop research plans for projects in an effort to provide target audience or user feedback and insights into the digital development process. Their responsibilities include primary research plan development, vendor management, and analysis as well as secondary data analysis. Support the digital team in the user-centric design process through research analysis planning and development. Design research plans – both primary and secondary research integrating internal team members, clients, and outside vendors in the process. Under the guidance of the Director of Digital Strategy and with Digital Brand Strategist, lead usability testing on-site coordinating requirements and vendor facilitation.</p>
-    							<h3 class="requirements">
-									Requirements:
-								</h3>
-								<ul class="requirements-list">
-									<li>Minimum 10 years of qualifying experience</li>
-									<li>Bachelor’s degree or equivalent experience minimum</li>
-									<li>Minimum 5 years of research experience (digital preferred)</li>
-									<li>Strong understanding of market research, consumer insights, and digital metrics</li>
-									<li>Understanding of Information Architecture/Human Computer Interaction</li>
-									<li>Ability to combine strong research methodology principles with tactical execution</li>
-								</ul>
-    							<p>
-    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
-    							</p>
-    						</div>
-    					</div>
-    				</li>
+					<!-- <li id="job-84">
+					                       <div class="center min-max">
+					                           <h5>Senior Experience Strategist<span>Location: Dearborn</span></h5>
+					                           <h6>November 11th, 2011<a href="#">Read More</a></h6>
+					                           <div class="job-content">
+					                               <p>The Senior Digital Brand Strategist is responsible for developing strategies through business insight, consumer analysis and modeling under the guidance of a lead strategist. Helps to define the business goals and customer needs and works with Experience Architects to develop digital experiences that meet those goals. Accountable for the following deliverables: digital strategy POVs and briefs; prioritizing key customer segments within a target audience, mapping customer journeys and interaction points.</p>
+					                               <h3 class="requirements">
+					                                   Requirements:
+					                               </h3>
+					                               <ul class="requirements-list">
+					                                   <li>Bachelor’s degree or equivalent experience; MBA preferred</li>
+					                                   <li>Minimum of 2 years within the digital environment and 5+ years in marketing/advertising</li>
+					                                   <li>Understanding of market research, consumer insights, direct metrics, and digital metrics</li>
+					                               </ul>
+					                               <p>
+					                                   Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
+					                               </p>
+					                           </div>
+					                       </div>
+					                   </li> -->
+					<!-- <li id="job-90">
+					                       <div class="center min-max">
+					                           <h5>Digital Research Director<span>Location: Dearborn</span></h5>
+					                           <h6>November 11th, 2011<a href="#">Read More</a></h6>
+					                           <div class="job-content">
+					                               <p>The Digital Research Director’s primary responsibility is to work with the digital team to identify and develop research plans for projects in an effort to provide target audience or user feedback and insights into the digital development process. Their responsibilities include primary research plan development, vendor management, and analysis as well as secondary data analysis. Support the digital team in the user-centric design process through research analysis planning and development. Design research plans – both primary and secondary research integrating internal team members, clients, and outside vendors in the process. Under the guidance of the Director of Digital Strategy and with Digital Brand Strategist, lead usability testing on-site coordinating requirements and vendor facilitation.</p>
+					                               <h3 class="requirements">
+					                                   Requirements:
+					                               </h3>
+					                               <ul class="requirements-list">
+					                                   <li>Minimum 10 years of qualifying experience</li>
+					                                   <li>Bachelor’s degree or equivalent experience minimum</li>
+					                                   <li>Minimum 5 years of research experience (digital preferred)</li>
+					                                   <li>Strong understanding of market research, consumer insights, and digital metrics</li>
+					                                   <li>Understanding of Information Architecture/Human Computer Interaction</li>
+					                                   <li>Ability to combine strong research methodology principles with tactical execution</li>
+					                               </ul>
+					                               <p>
+					                                   Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
+					                               </p>
+					                           </div>
+					                       </div>
+					                   </li> -->
 					<li id="job-99">
     					<div class="center min-max">
     						<h5>Online Media Analyst<span>Location: Dearborn</span></h5>
@@ -471,51 +471,51 @@
     						</div>
     					</div>
     				</li>
-					<li id="job-129">
-    					<div class="center min-max">
-    						<h5>Senior Digital Media Planner<span>Location: Dearborn</span></h5>
-    						<h6>November 11th, 2011<a href="#">Read More</a></h6>
-    						<div class="job-content">
-    							<p>The Senior Digital Media Planner develops interactive media plans for assigned brands as a part of an integrated, total communications process. This position works as a liaison between digital and communications planning teams to ensure digital plans are fully integrated. This person will analyze and monitor media marketplace, marketing and other related media data to aid Media Supervisor or Associate Media Director. Senior Digital Media Planners strategically participate in client meetings, maintain regular contact with junior level clients and account management and assist in writing POV’s as well as training Assistant Media Planners.</p>
-    							<h3 class="requirements">
-									Requirements:
-								</h3>
-								<ul class="requirements-list">
-									<li>Bachelor’s degree or equivalent experience</li>
-									<li>Minimum 6 years of experience; minimum 3 years experience at the planner level, with experience in the digital category</li>
-									<li>Strategic and analytical ability to develop comprehensive media strategies</li>
-									<li>Previous experience at the assistant digital planner or planner level required</li>
-									<li>Strong knowledge of Microsoft Office suite, particularly Excel is required</li>
-								</ul>
-    							<p>
-    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
-    							</p>
-    						</div>
-    					</div>
-    				</li>
-					<li id="job-137">
-    					<div class="center min-max">
-    						<h5>Finance Analyst<span>Location: Dearborn</span></h5>
-    						<h6>November 11th, 2011<a href="#">Read More</a></h6>
-    						<div class="job-content">
-    							<p>The Finance Analyst will be responsible for working within the client Finance Team as a core participant in the financial negotiations and scoping. This position will work with each of the Discipline Leads to develop pricing and staffing strategies. This position will help prepare negotiations with clients and in some cases co-leading the discussion. This role is a partner to the operations group and requires strategic thinking and acute financial analysis skills. Additional responsibilities include preparing revenue forecast and monthly actuals, managing the Pulse Scope Model, Freelance Costs, Overtime cost, Vendor Costs Analysis, Organizational modeling.</p>
-    							<h3 class="requirements">
-									Requirements:
-								</h3>
-								<ul class="requirements-list">
-									<li>Bachelor’s degree in Accounting or Finance highly preferred</li>
-									<li>Minimum five years of experience in a similar financial role</li>
-									<li>Work with department heads to determine scope of work and corresponding staffing allocations.</li>
-									<li>Generate annual fee proposal for presentation to client.</li>
-									<li>Prepare adhoc pricing for new and existing client as requested by account</li>
-									<li>Support Finance Director and Group Account Director in contract negotiations with each client</li>
-								</ul>
-    							<p>
-    								Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
-    							</p>
-    						</div>
-    					</div>
-    				</li>
+					<!-- <li id="job-129">
+					                       <div class="center min-max">
+					                           <h5>Senior Digital Media Planner<span>Location: Dearborn</span></h5>
+					                           <h6>November 11th, 2011<a href="#">Read More</a></h6>
+					                           <div class="job-content">
+					                               <p>The Senior Digital Media Planner develops interactive media plans for assigned brands as a part of an integrated, total communications process. This position works as a liaison between digital and communications planning teams to ensure digital plans are fully integrated. This person will analyze and monitor media marketplace, marketing and other related media data to aid Media Supervisor or Associate Media Director. Senior Digital Media Planners strategically participate in client meetings, maintain regular contact with junior level clients and account management and assist in writing POV’s as well as training Assistant Media Planners.</p>
+					                               <h3 class="requirements">
+					                                   Requirements:
+					                               </h3>
+					                               <ul class="requirements-list">
+					                                   <li>Bachelor’s degree or equivalent experience</li>
+					                                   <li>Minimum 6 years of experience; minimum 3 years experience at the planner level, with experience in the digital category</li>
+					                                   <li>Strategic and analytical ability to develop comprehensive media strategies</li>
+					                                   <li>Previous experience at the assistant digital planner or planner level required</li>
+					                                   <li>Strong knowledge of Microsoft Office suite, particularly Excel is required</li>
+					                               </ul>
+					                               <p>
+					                                   Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
+					                               </p>
+					                           </div>
+					                       </div>
+					                   </li> -->
+					<!-- <li id="job-137">
+					                       <div class="center min-max">
+					                           <h5>Finance Analyst<span>Location: Dearborn</span></h5>
+					                           <h6>November 11th, 2011<a href="#">Read More</a></h6>
+					                           <div class="job-content">
+					                               <p>The Finance Analyst will be responsible for working within the client Finance Team as a core participant in the financial negotiations and scoping. This position will work with each of the Discipline Leads to develop pricing and staffing strategies. This position will help prepare negotiations with clients and in some cases co-leading the discussion. This role is a partner to the operations group and requires strategic thinking and acute financial analysis skills. Additional responsibilities include preparing revenue forecast and monthly actuals, managing the Pulse Scope Model, Freelance Costs, Overtime cost, Vendor Costs Analysis, Organizational modeling.</p>
+					                               <h3 class="requirements">
+					                                   Requirements:
+					                               </h3>
+					                               <ul class="requirements-list">
+					                                   <li>Bachelor’s degree in Accounting or Finance highly preferred</li>
+					                                   <li>Minimum five years of experience in a similar financial role</li>
+					                                   <li>Work with department heads to determine scope of work and corresponding staffing allocations.</li>
+					                                   <li>Generate annual fee proposal for presentation to client.</li>
+					                                   <li>Prepare adhoc pricing for new and existing client as requested by account</li>
+					                                   <li>Support Finance Director and Group Account Director in contract negotiations with each client</li>
+					                               </ul>
+					                               <p>
+					                                   Please submit your resume to: <a href="mailto:human.resources@teamdetroit.com">human.resources@teamdetroit.com</a>
+					                               </p>
+					                           </div>
+					                       </div>
+					                   </li> -->
     			</ul>
 
 	</section>

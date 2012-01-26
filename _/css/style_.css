@@ -1097,11 +1097,13 @@ span.condition {
 .rows-jobs h6 {
 	float: right;
 	margin-right: 18px;
+	text-indent: -9999px;
 }
 
 .rows-jobs h6 a {
 	color: #A40021;
 	text-decoration: none;
+	margin-top: -16px;
 	display: block;
 	font-size: 12px;
 	font-style: italic;
