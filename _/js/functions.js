@@ -470,7 +470,6 @@ $(document).ready(function (){
 				}
 			}
 		});
-		resetCarousel();
 	});
 
 	var factsAt = 0;
