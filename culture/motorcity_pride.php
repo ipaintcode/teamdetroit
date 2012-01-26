@@ -17,7 +17,7 @@
 	<!-- Culture meta - description : content -->
 	<meta name="description" content="Our LGBT community is truly changing landscape of the city." />
 
-	<title>Motorcity Pride | Team Detroit</title>
+	<title>Motor City Pride | Team Detroit</title>
 
 	<!-- CSS: screen, mobile & print are all in the same file -->
 	<link rel="stylesheet" href="../_/css/style.css">
@@ -51,7 +51,7 @@
 
 	<div class="segment-headline-wrapper clear below-carousel">
 		
-		<h2 class="center min-max"><a class="anchor-tdi" href="../culture.php" alt="Back to Culture"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Motorcity Pride</span></h2>
+		<h2 class="center min-max"><a class="anchor-tdi" href="../culture.php" alt="Back to Culture"><div class="gridbox">GRID</div></a><span class="segment-header-spacer-ext">Motor City Pride</span></h2>
 		<div class="carousel-navigation center min-max">
 			<ul class="carousel-controller">
 				<li class="prev-button"><a href="#prev">&larr; Previous</a></li>
