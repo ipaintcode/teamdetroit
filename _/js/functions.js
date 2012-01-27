@@ -200,10 +200,6 @@ $(document).ready(function (){
 	}, function() {
 		$(this).stop().animate({opacity: 1}, 300);
 	});
-	
-	$('.wrapper').stop().delay(500).animate({
-		opacity: 1
-	}, 500);
 
 	$('a').click(function(ele) {
 		if($(this).attr('href').indexOf("#billboard_") !== 0) {
