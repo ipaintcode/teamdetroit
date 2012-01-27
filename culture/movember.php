@@ -87,8 +87,6 @@
 					
 					<p>By month’s end, “The Ron Swansons” mustache-growing efforts raised upwards of $8,762 for the cause and the team was ranked among the top 185 nationally.</p>
 					
-					<p>Our Motor City Pride film highlights a few of the faces of Detroit's vibrant GLBT community. Enjoy.</p>
-					
 					<p>Plus, they looked really, really good.</p>
 					
 					<p>To donate, please visit:</p>
