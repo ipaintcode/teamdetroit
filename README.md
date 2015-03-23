@@ -2,6 +2,8 @@
 [www.teamdetroit.ipaintcode.com](http://teamdetroit.ipaintcode.com/ "Title").
 ---
 
+Changed the steam to the wdet | alpha channel (it total rocks and has that old school house electro Detroit sound)
+
 #### TODO (2015):
 
 A list of some very outstanding bugs from back in the day, promised one day I would fix. As usual it was GO-GO-GO get'r done, OMG LAUNCH NOW, so the hack-tast-ic madness happened.
