@@ -161,7 +161,8 @@
 <script>
 
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-5217415-1']);
+  _gaq.push(['_setAccount', 'UA-26718210-1']);
+  _gaq.push(['_setDomainName', 'teamdetroit.ipaintcode.com']);
   _gaq.push(['_trackPageview', 'teamdetroit:work:Focus_Rally']);
 
   (function() {
