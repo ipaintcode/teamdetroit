@@ -1,3 +1,9 @@
+<?php
+	$page = $_SERVER["REQUEST_URI"];
+	$parts = Explode('/', $page);
+	$final = $parts[count($parts) - 1];
+	$subfinal = $parts[count($parts) - 2];
+?>
 <header>
 	
 	<div class="wdet">
