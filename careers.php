@@ -23,7 +23,7 @@
 
 	<!-- CSS: screen, mobile & print are all in the same file -->	
 	<link rel="stylesheet" href="_/css/style_.css">
-	<link rel="stylesheet" href="_/css/style.css">
+
 		
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
 	<script src="/_/js/modernizr-2.8.3.min.js"></script>
@@ -74,9 +74,7 @@
 
     		</div>
     	</section>  -->
-    	
-	
-    	
+    		
     	<div class="headline-wrapper">
     	    <h2 class="center min-max"><span>Open Positions</span></h2>
     	</div>
@@ -583,9 +581,9 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://code.jquery.com/jquery-2.1.3.js"></script>
-<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='/_/js/jquery.min.js'>\x3C/script>")</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write("<script src='_/js/jquery.1.8.3.min.js'>\x3C/script>")</script>
 
 
 <!-- this is where we put our custom functions -->

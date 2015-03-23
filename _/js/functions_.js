@@ -271,16 +271,6 @@ $(document).ready(function() {
 		});
 	});
 
-
-	var wasFired = false;
-
-	function firstTime() {
-	
-		$('.rows-jobs li').each(function(index) {
-			$(this).attr('val', $(this).offset().top - 98);
-		});
-	}
-
 	function goToByScroll(val, speed) {
 		$('html,body').animate({
 			scrollTop: val
@@ -299,10 +289,18 @@ $(document).ready(function() {
 			scrollTop: 1031
 		}, 0);
 	}
-	
-	var clickedJob = "undefined";
 
-	$('.rows-jobs h6 a').toggle(function(e) {
+	var wasFired = false;
+
+	function firstTime() {
+	
+		$('.rows-jobs li').each(function(index) {
+			$(this).attr('val', $(this).offset().top - 98);
+		});
+	}
+
+	$('.rows-jobs a').toggle(function(e) {
+
 		if (wasFired === false) {
 			firstTime();
 			wasFired = true;
@@ -631,7 +629,6 @@ $(document).ready(function() {
 		});
 	});
 	
-
 });
 
 $(window).load(function() {
