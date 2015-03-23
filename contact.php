@@ -22,7 +22,7 @@
 	<link rel="stylesheet" href="_/css/style_.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="/_/js/modernizr-2.8.3.min.js"></script>
 
 </head>
 
@@ -118,9 +118,9 @@
 <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write("<script src='/_/js/jquery.min.js'>\x3C/script>")</script>
 <!-- this is where we put our custom functions -->
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions_.js"></script>
@@ -130,7 +130,7 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5217415-1']);
-  _gaq.push(['_trackPageview', 'teamdetroit:contact'])
+  _gaq.push(['_trackPageview', 'teamdetroit:contact']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;

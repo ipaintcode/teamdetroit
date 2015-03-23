@@ -196,7 +196,7 @@ jQuery.fn.heroCarousel = function(options){
 				options.onComplete(carousel, carousel.prev('.hero-carousel-nav'), elements.eq(currentItem), options);
 			}
 
-			if(jQuery.browser.msie){
+			if(!$('html').hasClass('audio')){
 				carouselNav.find('a').attr("hideFocus", "true");
 			}
 

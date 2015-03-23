@@ -793,11 +793,12 @@ footer .facts-holder ul {
 
 footer .facts-inner ul li {
 	position: absolute;
-	top: 0; left: 0;height: 230px;
+	top: 0; left: 0;height: 230px; width: 264px;
 }
 
 footer .facts-inner ul li img {
 	height: 230px;
+	width: 264px;
 }
 
 
@@ -1070,7 +1071,7 @@ footer .facts-next {
 .on-now {
 	color: white;
 	position: absolute;
-	top: 43px; left: 533px;
+	top: 36px; left: 533px;
 	width: 240px; height: 80px;
 }
 
@@ -1082,9 +1083,13 @@ footer .facts-next {
 
 .on-now-title {
 	margin-top: 5px;
-	font-size: 11px;
-	font-weight: bold;
-	font-family: Helvetica, Arial, "MS Trebuchet", sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	font-family: 'ProximaNovaSemibold', Arial, sans-serif;
+}
+
+.on-now-title .red {
+	color: #a00322;
 }
 
 /* Print styles!

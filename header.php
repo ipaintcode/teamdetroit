@@ -1,55 +1,21 @@
-<?php
-# create and load the HTML
-include('simple_html_dom.php');
-$html = file_get_html('http://wdetfm.org/listenlive/') or die;
-
-?>
-<?php
-$page = $_SERVER["REQUEST_URI"];
-$parts = Explode('/', $page);
-$final = $parts[count($parts) - 1];
-$subfinal = $parts[count($parts) - 2];
-?>
-
 <header>
-	<script type="text/javascript" charset="utf-8">
-		var whatever = "<?= $final ?>";
-		var sub = "<?= $subfinal ?>";
-	</script>
+	
 	<div class="wdet">
 		<div class="min-max center wdet-inner">
 			<p class="add-stream">Start Listening</p>
 			<div class="on-now">
 				<p class="on-now-show">
-				<?php
-
-				// Print it!
-				$items = $html->find('span');
-								
-				foreach($items as $post) {
-					echo $post->innertext;
-				}
-
-				?>
+					Alpha 
 				</p>
 				<p class="on-now-title">
-					<?php
-
-					// Print it!
-					$items = $html->find('p');
-										
-					foreach($items as $post) {
-						echo $post->innertext;
-					}
-
-					?>
+					Electronic Music + Progressive Soul from Detroit. ALPHA is a collection of highly distinctive, auteur-driven original mixes from <span class="red"> WDET</span>, Ghostly International, Paxahau and StudioFeed.
 				</p>
 			</div>
 
 			<div class="player">
 				<div class="player-holder"></div>
 				<div class="player-holder-htmlfive">
-					<audio controls autoplay="autoplay" src="http://141.217.119.35:8000/;&amp;topspeed=on"></audio>
+					<audio controls autoplay="autoplay" src="http://141.217.119.14:8000/AlphaMain"></audio>
 				</div>
 			</div>
 

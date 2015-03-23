@@ -25,7 +25,7 @@
 	<link rel="stylesheet" href="../_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="../_/js/modernizr-2.0.6.min.js"></script>
+	<script src="/_/js/modernizr-2.8.3.min.js"></script>
 
 </head>
 
@@ -105,8 +105,8 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
-<script>window.jQuery || document.write("<script src='../_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+<script>window.jQuery || document.write("<script src='/_/js/jquery.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
 <script src="../_/js/jquery.shadow-animation.min.js"></script>

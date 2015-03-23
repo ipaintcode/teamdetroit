@@ -25,7 +25,7 @@
 	<link rel="stylesheet" href="_/css/style_.css">
 	
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="/_/js/modernizr-2.8.3.min.js"></script>
 
 </head>
 
@@ -63,7 +63,7 @@
 							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who needed them.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #8204A1;"></div>
+						<div class="color-swatch" style="background: #5A7915;"></div>
 						<img src="_/img/projects/sports_authority/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -75,7 +75,7 @@
 							<p class="copy">If Ford was reinventing the SUV, it was only appropriate that we reinvent the SUV launch.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #F3A214;"></div>
+						<div class="color-swatch" style="background: #2B7DB8;"></div>
 						<img src="_/img/projects/explorer_live/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -87,7 +87,7 @@
 							<p class="copy">The stats were in. Ford Super Duty<sup>&reg;</sup> trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #04D9DB;"></div>
+						<div class="color-swatch" style="background: #575752;"></div>
 						<img src="_/img/projects/we_own_work/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -99,7 +99,7 @@
 							<p class="copy">Most Mustang fans have dreamed of what their dream pony car would look like. We created a tool—and a battleground—for them to see it come to life.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						 <div class="color-swatch" style="background: #E13255;"></div>
+						 <div class="color-swatch" style="background: #2F2F29;"></div>
 						<img src="_/img/projects/mustang_customizer/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -111,7 +111,7 @@
 							<p class="copy">We took one F-150 EcoBoost engine and subjected it to a slasher movie-style world of pain to prove it’s Built Ford Tough<sup>&reg;</sup>.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #08BC94;"></div>
+						<div class="color-swatch" style="background: #4A4B21;"></div>
 						<img src="_/img/projects/torture_test/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -123,7 +123,7 @@
 							<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						 <div class="color-swatch" style="background: #9E0120;"></div>
+						 <div class="color-swatch" style="background: #917051;"></div>
 						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -135,7 +135,7 @@
 							<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #07A5D2;"></div>
+						<div class="color-swatch" style="background: #992600;"></div>
 						<img src="_/img/projects/focus_doug/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -147,7 +147,7 @@
 							<p class="copy">Go ahead. Give the Ford Mustang better miles-per-gallon and even smarter technology. It’ll still make your heart race.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #E14332;"></div>
+						<div class="color-swatch" style="background: #2F547D;"></div>
 						<img src="_/img/projects/mustang/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -159,7 +159,7 @@
 							<p class="copy">Our work for Detroit’s College for Creative Studies proved you can still reach today’s teenagers using low-tech communication.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #8204A1;"></div>
+						<div class="color-swatch" style="background: #8b9f9b;"></div>
 						<img src="_/img/projects/ccs/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -171,7 +171,7 @@
 							<p class="copy">When an iconic American brand does its first TV commercial in more that 10 years, it'd better be good. It better grab you. And we definitely made sure it would grab you.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #8204A1;"></div>
+						<div class="color-swatch" style="background: #2E3F31;"></div>
 						<img src="_/img/projects/carhartt/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -183,7 +183,7 @@
 							<p class="copy">The Ford Fiesta may look small. But between its smart technology and high mpg, it’s actually a pretty big deal.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #04D9DB;"></div>
+						<div class="color-swatch" style="background: #B2111E;"></div>
 						<img src="_/img/projects/fiesta/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -195,7 +195,7 @@
 							<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #CC1A69;"></div>
+						<div class="color-swatch" style="background: #B27C1F;"></div>
 						<img src="_/img/projects/lincoln_innovators/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -207,7 +207,7 @@
 							<p class="copy">Real talk. It’s what you get when Ford owners suddenly find themselves in the midst of a press conference—answering questions on the fly.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #F3A214;"></div>
+						<div class="color-swatch" style="background: #255587;"></div>
 						<img src="_/img/projects/press_conference/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -219,7 +219,7 @@
 							<p class="copy">Independent retailers helped put Scotts on the map. So to return the love, Scotts released an entire line of products exclusively for them.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #07A5D2;"></div>
+						<div class="color-swatch" style="background: #55903C;"></div>
 						<img src="_/img/projects/scotts/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -231,7 +231,7 @@
 							<p class="copy">To prove Bosch Icon&trade; Wiper Blades can endure obscene weather, we teamed up with the fearless crew from Discovery Channel’s Storm Chasers.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #9E0120;"></div>
+						<div class="color-swatch" style="background: #002722;"></div>
 						<img src="_/img/projects/bosch/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -243,7 +243,7 @@
 							<p class="copy">We say the bigger you get, the smaller your blocks should be. Micro-sized Nanoblocks have the magic to return you to childhood.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #08BC94;"></div>
+						<div class="color-swatch" style="background: #6A4B2B;"></div>
 						<img src="_/img/projects/ohio_art/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -255,7 +255,7 @@
 							<p class="copy">We tapped into a group of people who had good vibes about Ford. The more they talked, the more we wanted to listen. To engage. And socialize.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #E14332;"></div>
+						<div class="color-swatch" style="background: #1AA1D0;"></div>
 						<img src="_/img/projects/ford_social/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -267,7 +267,7 @@
 							<p class="copy">What makes a Manchine? A downright clinical obsession with hockey and lacrosse that goes DNA-deep. Or at least down to your Nutt Hutt<sup>&reg;</sup>.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #8204A1;"></div>
+						<div class="color-swatch" style="background: #5c4121;"></div>
 						<img src="_/img/projects/warrior/thumb.jpg" alt="">	
 					</a>
 				</li>
@@ -318,9 +318,9 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write("<script src='/_/js/jquery.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
 <script src="_/js/jquery.easing.1.3.js"></script>
@@ -330,7 +330,7 @@
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5217415-1']);
-  _gaq.push(['_trackPageview', 'teamdetroit:work'])
+  _gaq.push(['_trackPageview', 'teamdetroit:work']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;

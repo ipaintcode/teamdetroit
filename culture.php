@@ -26,7 +26,7 @@
 	<link rel="stylesheet" href="_/css/style.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="/_/js/modernizr-2.8.3.min.js"></script>
 
 </head>
 
@@ -98,7 +98,7 @@
 							<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #07A5D2;"></div>
+						<div class="color-swatch" style="background: #A71F4E;"></div>
 						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
 					</a>
 				</li>
@@ -109,7 +109,7 @@
 							<p class="copy">Celebrate the season with free, streaming and downloadable holiday tunes from Detroit artists.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #711677;"></div>
+						<div class="color-swatch" style="background: #BD563B;"></div>
 						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
 					</a>
 				</li>
@@ -120,7 +120,7 @@
 							<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #08BC94;"></div>
+						<div class="color-swatch" style="background: #386A2B;"></div>
 						<img src="_/img/culture/greening_of_detroit/button-greening.jpg" alt="">
 					</a>
 				</li>
@@ -131,7 +131,7 @@
 							<p class="copy">United for the cause of men’s health, the men of Team Detroit sported a little upper crust during the month of November.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #843853;"></div>
+						<div class="color-swatch" style="background: #24293C;"></div>
 						<img src="_/img/culture/movember/button-Movember.jpg" alt="Bassplayer">						
 					</a>
 				</li>
@@ -142,7 +142,7 @@
 							<p class="copy">Our Motor City Pride film highlights a few faces of Detroit's vibrant LGBT community.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #3F74D2;"></div>
+						<div class="color-swatch" style="background: #613452;"></div>
 						<img src="_/img/culture/motorcity_pride/button-Pride.jpg" alt="Pink">
 					</a>
 				</li>
@@ -153,7 +153,7 @@
 							<p class="copy">A collaboration of local artists brings the process of print production to the heart of Detroit.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #CC1A69;"></div>
+						<div class="color-swatch" style="background: #e2862e;"></div>
 						<img src="_/img/culture/signal_return/button-SignalReturn.jpg" alt="Pink">
 					</a>
 				</li>
@@ -210,9 +210,9 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write("<script src='/_/js/jquery.min.js'>\x3C/script>")</script>
 
 <!-- this is where we put our custom functions -->
 <script src="_/js/jquery.easing.1.3.js"></script>
@@ -233,9 +233,9 @@
 </script>
 <script>
 
-  var _gaq = _gaq || [];
+    var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5217415-1']);
-  _gaq.push(['_trackPageview', 'teamdetroit:culture'])
+  _gaq.push(['_trackPageview', 'teamdetroit:culture']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;

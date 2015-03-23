@@ -26,7 +26,7 @@
 	<link rel="stylesheet" href="_/css/style.css">
 		
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="/_/js/modernizr-2.8.3.min.js"></script>
 
 </head>
 
@@ -47,7 +47,7 @@
  		</div>
  	</section>
     	
-<!--	<div class="headline-wrapper">
+<!-- 	<div class="headline-wrapper">
     		
     		<hgroup class="hgroup-wrapper center min-max">
     			<h2 class="single"><span class="space-h2-fix"></span>Things to Know</h2>
@@ -55,46 +55,27 @@
     			<h2 class="single vdash-fix"><span class="space-h2-fix"></span>Check Out the Space</h2>
     		</hgroup>
     	   
-    	</div> -->
+    	</div> 
     	
-<!--	<section class="">
+	<section class="">
     		<div class="center min-max">
     			
     			<ul class="grid">
     				<li class="single">
-    					<img src="img/career/1.png" alt="">
+    					<img src="_/img/career/1.png" alt="">
     				</li>
     				<li class="single">
-    					<img src="img/career/2.jpg" alt="">
+    					<img src="_/img/career/2.jpg" alt="">
     			</li>
     				<li class="single">
-    					<img src="img/career/3.jpg" alt="">
+    					<img src="_/img/career/3.jpg" alt="">
     				</li>
     			</ul>
 
     		</div>
-    	</section> -->
+    	</section>  -->
     	
-<!--	<section class="team-detroit-facts">
-    		<div class="center min-max">
-    			
-    			<ul>
-    				<li>
-    					<h3>Team Detroit's Most and Least Common Surnames</h3>
-    					<div class="video-holder"><video src="" alt=""></video></div>
-    				</li>
-    				<li>
-    					<h3>Team Detroiters' favorite advertising movie ever</h3>
-    					<div class="video-holder"><video src="" alt=""></video></div>
-    				</li>
-    				<li>
-    					<h3>Alternative Names for Team Detroit</h3>
-    					<div class="video-holder"><video src="" alt=""></video></div>
-    				</li>
-    			</ul>
-    		
-    		</div>
-    	</section> -->
+	
     	
     	<div class="headline-wrapper">
     	    <h2 class="center min-max"><span>Open Positions</span></h2>
@@ -602,21 +583,20 @@
 <!-- here comes the javascript -->
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write("<script src='/_/js/jquery.min.js'>\x3C/script>")</script>
 
 
 <!-- this is where we put our custom functions -->
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/functions_.js"></script>
-<script src="_/js/jquery.fluidCarousel.0.1.js"></script>
 
 <script>
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-5217415-1']);
-  _gaq.push(['_trackPageview', 'teamdetroit:careers'])
+  _gaq.push(['_trackPageview', 'teamdetroit:careers']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;

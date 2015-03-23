@@ -25,7 +25,7 @@
 	<link rel="stylesheet" href="_/css/style_.css">
 
 	<!-- all our JS is at the bottom of the page, except for Modernizr. -->
-	<script src="_/js/modernizr-2.0.6.min.js"></script>
+	<script src="/_/js/modernizr-2.8.3.min.js"></script>
 <link rel="stylesheet" href="_/css/flexslider.css">
 
 </head>
@@ -75,7 +75,7 @@
 							<p class="copy">Real talk. It&rsquo;s what you get when Ford owners suddenly find themselves in the midst of a press conference&mdash;answering questions on the fly.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #8204A1;"></div>
+						<div class="color-swatch" style="background: #255587;"></div>
 						<img src="_/img/projects/press_conference/thumb_large.jpg" alt="">
 					</a>
 				</li>
@@ -86,7 +86,7 @@
 							<p class="copy">Who could convince the world that the new Ford Focus was worth a look? A quick-witted, R-rated hand puppet.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #F3A214;"></div>
+						<div class="color-swatch" style="background: #992600;"></div>
 						<img src="_/img/projects/focus_doug/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -97,7 +97,7 @@
 							<p class="copy">Lincoln chooses its friends wisely: People at the top of the design and innovation business who truly embody the Lincoln aesthetic.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #9E0120;"></div>
+						<div class="color-swatch" style="background: #B27C1F;"></div>
 						<img src="_/img/projects/lincoln_innovators/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -108,7 +108,7 @@
 							<p class="copy">When an iconic American brand does its first TV commercial in over ten years, it better be good. It better grab you. And we definitely made sure it would grab you.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #08BC94;"></div>
+						<div class="color-swatch" style="background: #2E3F31;"></div>
 						<img src="_/img/projects/carhartt/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -119,7 +119,7 @@
 							<p class="copy">We rallied around the all-new Focus and launched the ultimate interactive, cross-country road race.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #04D9DB;"></div>
+						<div class="color-swatch" style="background: #917051;"></div>
 						<img src="_/img/projects/focus_rally/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -130,7 +130,7 @@
 							<p class="copy">The stats were in. Ford Super Duty trucks were kicking butt on job sites all across the nation. It was time for a declaration.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #E12355;"></div>
+						<div class="color-swatch" style="background: #575752;"></div>
 						<img src="_/img/projects/we_own_work/thumb.jpg" alt="">
 					</a>
 				</li>
@@ -141,7 +141,7 @@
 							<p class="copy">We teamed up The Sports Authority with the NFL to pass along quality sporting goods from kids who outgrew them to kids who need them.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #07A5D2;"></div>
+						<div class="color-swatch" style="background: #5A7915;"></div>
 						<img src="_/img/projects/sports_authority/thumb_large.jpg" alt="">
 					</a>
 				</li>
@@ -202,7 +202,7 @@
 							<p class="copy">United for the cause of men’s health, the men of Team Detroit sported a little upper crust during the month of November.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #843853;"></div>
+						<div class="color-swatch" style="background: #24293C;"></div>
 						<img src="_/img/culture/movember/button-Movember.jpg" alt="Bassplayer">						
 					</a>
 				</li>
@@ -213,7 +213,7 @@
 							<p class="copy">A collaboration of local artistes brings the process of print production to the heart of Detroit.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #CC1A69;"></div>
+						<div class="color-swatch" style="background: #e2862e;"></div>
 						<img src="_/img/culture/signal_return/Button5_large.jpg" alt="Pink">
 					</a>
 				</li>
@@ -224,7 +224,7 @@
 							<p class="copy">Musicians, dancers and cooks took over Detroit’s monorail for a day. Result? News crew-worthy entertainment and a nice smoked turkey.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #07A5D2;"></div>
+						<div class="color-swatch" style="background: #A71F4E;"></div>
 						<img src="_/img/culture/people_mover/button-peoplemover.jpg" alt="Bus">
 					</a>
 				</li>
@@ -235,7 +235,7 @@
 							<p class="copy">Celebrate the season with free, streaming and downloadable holiday tunes from Detroit artists.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #711677;"></div>
+						<div class="color-swatch" style="background: #BD563B;"></div>
 						<img src="_/img/culture/love_detroit/button-LoveDetroit.jpg" alt="">
 					</a>
 				</li>
@@ -246,7 +246,7 @@
 							<p class="copy">Building a greener city started with a few trees, but today it’s having a real impact in Detroit communities.</p>
 						</div>
 						<p class="view-project"><span class="arrow">&rarr;</span><span class="view-project-text">View&nbsp;Project</span></p>
-						<div class="color-swatch" style="background: #08BC94;"></div>
+						<div class="color-swatch" style="background: #386A2B;"></div>
 						<img src="_/img/culture/greening_of_detroit/button-greening.jpg" alt="">
 					</a>
 				</li>			
@@ -270,20 +270,22 @@
 <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
 
 <!-- Grab Google CDN's jQuery. fall back to local if necessary -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.min.js"></script>
-<script>window.jQuery || document.write("<script src='_/js/jquery-1.7.1.min.js'>\x3C/script>")</script>
+<script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+<script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script>window.jQuery || document.write("<script src='/_/js/jquery.min.js'>\x3C/script>")</script>
 <!-- this is where we put our custom functions -->
 <script src="_/js/jquery.easing.1.3.js"></script>
 <script src="_/js/jquery.flexslider-min.js"></script>
 <script src="_/js/functions_.js"></script>
 <script src="_/js/map.js"></script>
 <script type="text/javascript">
-	$(window).load(function() {
+	$(window).ready(function() {
 		$('.flexslider').flexslider({
 			animation: "slide",
 			controlsContainer: ".flex-container",
 			directionNav: false
+		}, function() {
+			console.log(true)
 		});
 	});
 </script>
