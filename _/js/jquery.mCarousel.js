@@ -1,3 +1,9 @@
+/*
+ mCarousel jQuery-plugin 2.x.x
+ http://www.ipaintcode.com/
+ Copyright 2015 Mark Learst <learst@me.com>
+ Released under the MIT and GPL licenses.
+*/
 (function( $ ){
 	
 	$.fn.mCarousel = function(options){
