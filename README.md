@@ -1,23 +1,10 @@
-#  HTML5 Reset (http://html5reset.org)
+# Team Detroit 2012
+[www.teamdetroit.ipaintcode.com](http://teamdetroit.ipaintcode.com/ "Title").
+---
 
-## Summary:
+#### TODO (2015):
 
-HTML5 Reset is a simple set of best practices to get web projects off on the right foot.
-
-1. A style sheet designed to strip initial files from browsers, meaning you start off with a blank slate.
-2. Easy to customize -- remove whatever you don't need, keep what you do.
-3. Analytics and jQuery snippets in place
-4. Meta tags ready for population
-5. Empty mobile and print style sheets, including blocks for device orientation
-6. Modernizr.js [http://www.modernizr.com/](http://www.modernizr.com/) enables HTML5 compatibility with IE (and a dozen other great features)
-7. IE-specific classes for simple CSS-targeting
-8. iPhone/iPad/iTouch icon snippets
-9. Lots of other keen stuff...
-10. 
-
-#  TODO:
-
-A list of some outstanding bugs from back in the day, promised one day I would fix.
+A list of some very outstanding bugs from back in the day, promised one day I would fix. As usual it was GO-GO-GO get'r done, OMG LAUNCH NOW, so the hack-tast-ic madness happened.
 
 1. Fix the nasty function.js/function_.js hackery double trouble...
 2. Fix the nasty css files like the function dynamic duo.
