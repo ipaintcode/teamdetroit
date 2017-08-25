@@ -21,7 +21,7 @@
 			<div class="player">
 				<div class="player-holder"></div>
 				<div class="player-holder-htmlfive">
-					<audio controls autoplay="autoplay" src="http://141.217.119.14:8000/AlphaMain"></audio>
+					<audio controls autoplay="autoplay" src="http://wdet.streamguys1.com/live-aac"></audio>
 				</div>
 			</div>
 
