@@ -530,7 +530,7 @@ $(document).ready(function() {
 	audioTag.src = "undefined";
 	
 	function wdetPlayer() {
-		var stream = 'http://141.217.119.14:8000/AlphaMain';
+		var stream = 'http://wdet.streamguys1.com/live-aac';
 		
 		if ($('html').hasClass('audio')) {
 			if ($.cookie("wdet") === "0") {
